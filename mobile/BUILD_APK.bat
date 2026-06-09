@@ -89,7 +89,7 @@ if errorlevel 1 (
 cd ..
 
 if not exist dist mkdir dist
-copy /Y "%APK_SRC%" "%APK_DEST%" >nul
+copy /Y "android\%APK_SRC%" "%APK_DEST%" >nul
 
 echo.
 echo  ============================================

@@ -5,11 +5,12 @@
       "nome": "Offerte di lavoro",
       "descrizione": "Annunci di lavoro di aziende, studi professionali e agenzie per il lavoro.",
       "portali": [
-        { "nome": "InfoJobs", "url": "https://www.infojobs.it/offerte-lavoro/contabile" },
-        { "nome": "Indeed", "url": "https://it.indeed.com/lavoro?q=contabile&l=Messina" },
+        { "nome": "Indeed Italia", "url": "https://it.indeed.com/jobs?q=contabile&l=Messina", "nota": "Usa /jobs/ (non /lavoro/). Se la pagina non si apre, prova dalla home it.indeed.com" },
         { "nome": "LinkedIn Lavoro", "url": "https://www.linkedin.com/jobs/search/?keywords=contabile&location=Messina" },
         { "nome": "Subito Lavoro", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/?q=contabile" },
-        { "nome": "Cliclavoro (ANPAL)", "url": "https://www.cliclavoro.gov.it/" }
+        { "nome": "Jooble (contabile Messina)", "url": "https://it.jooble.org/SearchResult?ukw=contabile&loc=Messina" },
+        { "nome": "Cliclavoro (ANPAL)", "url": "https://www.cliclavoro.gov.it/" },
+        { "nome": "InfoJobs (CHIUSO)", "url": "https://www.infojobs.it/", "nota": "Piattaforma chiusa in Italia dal 31/12/2025. Non usare." }
       ]
     },
     {
@@ -19,8 +20,8 @@
       "portali": [
         { "nome": "inPA - Portale Reclutamento", "url": "https://www.inpa.gov.it/" },
         { "nome": "Gazzetta Ufficiale - Concorsi", "url": "https://www.gazzettaufficiale.it/30giorni/concorsi" },
-        { "nome": "Concorsi Regione Siciliana", "url": "https://www.regione.sicilia.it/la-regione-informa/concorsi" },
-        { "nome": "Concorsi Pubblici (aggregatore)", "url": "https://www.concorsipubblici.com/" }
+        { "nome": "Regione Siciliana - Bandi concorso", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-autonomie-locali-funzione-pubblica/dipartimento-funzione-pubblica-personale/bandi-concorso", "nota": "Il vecchio link /la-regione-informa/concorsi non esiste più (404)" },
+        { "nome": "Concorsi Sicilia (filtro)", "url": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia" }
       ]
     },
     {
@@ -30,8 +31,8 @@
       "portali": [
         { "nome": "inPA - Concorsi riservati", "url": "https://www.inpa.gov.it/" },
         { "nome": "Collocamento mirato Città Metropolitana Messina", "url": "https://www.cittametropolitana.me.it/" },
-        { "nome": "Jobmetoo (categorie protette)", "url": "https://www.jobmetoo.com/it/offerte-lavoro" },
-        { "nome": "Indeed categorie protette", "url": "https://it.indeed.com/lavoro?q=categorie+protette&l=Sicilia" }
+        { "nome": "Jobmetoo (categorie protette)", "url": "https://www.jobmetoo.com/", "nota": "Homepage attiva. Il vecchio /it/offerte-lavoro dà errore 404" },
+        { "nome": "Indeed - categorie protette Sicilia", "url": "https://it.indeed.com/jobs?q=categorie+protette&l=Sicilia" }
       ]
     }
   ],
@@ -40,9 +41,9 @@
     "descrizione": "Offerte di lavoro e concorsi con sede in Sicilia, in particolare nella zona di Messina, più le posizioni in smart working.",
     "portali": [
       { "nome": "Centro per l'Impiego Messina", "url": "https://www.cittametropolitana.me.it/" },
-      { "nome": "Regione Siciliana - Concorsi", "url": "https://www.regione.sicilia.it/la-regione-informa/concorsi" },
+      { "nome": "Regione Siciliana - Bandi concorso", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-autonomie-locali-funzione-pubblica/dipartimento-funzione-pubblica-personale/bandi-concorso" },
       { "nome": "Subito Lavoro Sicilia", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/" },
-      { "nome": "Indeed Messina", "url": "https://it.indeed.com/lavoro?l=Messina" }
+      { "nome": "Indeed Messina", "url": "https://it.indeed.com/jobs?l=Messina" }
     ]
   },
   "aree": [
