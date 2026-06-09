@@ -1,0 +1,6 @@
+{
+  "abilitato": true,
+  "offerte_url": "https://raw.githubusercontent.com/mauriziotavilla-source/offerte-lavoro-per-me/main/data/offerte.json",
+  "timeout_secondi": 12,
+  "nota": "Aggiornamento online attivo: l'app scarica offerte.json da GitHub all'avvio e con 'Controlla aggiornamenti online'."
+}

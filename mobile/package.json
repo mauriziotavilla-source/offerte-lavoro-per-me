@@ -1,0 +1,24 @@
+{
+  "name": "lavoro-concorsi-mobile",
+  "version": "1.0.0",
+  "description": "Lavoro & Concorsi per Me - App Android",
+  "author": "Maurizio Tavilla",
+  "copyright": "Copyright © 2026 Maurizio Tavilla. Tutti i diritti riservati.",
+  "private": true,
+  "scripts": {
+    "copy": "node copy-www.js",
+    "sync": "npm run copy && npx cap sync android",
+    "open:android": "npx cap open android",
+    "build:apk": "npm run sync && cd android && gradlew.bat assembleDebug",
+    "build:apk:release": "npm run sync && cd android && gradlew.bat assembleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/push-notifications": "^6.0.5",
+    "@capacitor/share": "^6.0.4"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}

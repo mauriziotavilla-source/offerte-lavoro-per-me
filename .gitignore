@@ -1,0 +1,29 @@
+# Dipendenze
+node_modules/
+scripts/node_modules/
+mobile/node_modules/
+
+# App Android (Capacitor): file generati e cache di build
+mobile/www/
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/capacitor-cordova-android-plugins/build/
+mobile/android/local.properties
+mobile/dist/
+
+# Chiavi e segreti (NON caricare mai su GitHub)
+firebase-service-account.json
+*-firebase-adminsdk-*.json
+google-services.json
+mobile/android/app/google-services.json
+*.jks
+*.keystore
+mobile/android/key.properties
+.env
+
+# File di sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

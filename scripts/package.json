@@ -1,0 +1,15 @@
+{
+  "name": "lavoro-concorsi-scraper",
+  "private": true,
+  "scripts": {
+    "scraper:run": "node scraper/run.js --write",
+    "scraper:dry": "node scraper/run.js",
+    "scraper:push": "node scraper/send-push.js",
+    "scraper:push:test": "node scraper/send-push.js --test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.5.0",
+    "firebase-admin": "^13.0.0"
+  }
+}

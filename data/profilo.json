@@ -1,0 +1,88 @@
+{
+  "versione": 1,
+  "ultimo_aggiornamento": "2026-06-09",
+  "candidato": {
+    "nome": "Serafino Maurizio Tavilla",
+    "citta": "Messina",
+    "regione": "sicilia",
+    "email": "mauriziotavilla@gmail.com",
+    "telefono": "+39 347 3341453",
+    "patenti": ["A", "B"],
+    "categoria_protetta": true,
+    "nota_categoria_protetta": "Orfano di guerra equiparato (L. 365/1958 e L. 585/1971) e iscritto art. 8 L. 68/1999 (collocamento mirato categorie protette) dal 09/10/2009 al n. 7792 dell'elenco provinciale orfani di guerra ed equiparati."
+  },
+  "titoli": [
+    "Diploma di Ragioniere e Perito Commerciale",
+    "Abilitazione alla professione di Ragioniere Commercialista",
+    "Revisore ufficiale dei conti (MEF, G.U. n. 87 del 02/11/1999)",
+    "Corso di perfezionamento per Mediatori civili",
+    "Corso di programmatore tecnico per cooperative d'informatica"
+  ],
+  "profili_target": [
+    "Contabile / Addetto contabilità",
+    "Ragioniere",
+    "Commercialista / Consulente fiscale",
+    "Impiegato amministrativo",
+    "Addetto elaborazione dati contabili",
+    "Revisore dei conti",
+    "Controllo di gestione",
+    "Consulente / Assistenza software gestionale",
+    "Analista di sistemi informatici",
+    "Mediatore civile"
+  ],
+  "lingue": [
+    { "lingua": "Italiano", "livello": "madrelingua" },
+    { "lingua": "Inglese", "livello": "A2/B1" },
+    { "lingua": "Francese", "livello": "A2/B1" }
+  ],
+  "parole_chiave_match": [
+    "contabile",
+    "contabilita",
+    "ragioniere",
+    "commercialista",
+    "fiscale",
+    "tributario",
+    "bilancio",
+    "iva",
+    "dichiarazione dei redditi",
+    "dichiarazioni",
+    "f24",
+    "amministrativo",
+    "amministrazione",
+    "elaborazione dati",
+    "paghe",
+    "buste paga",
+    "revisore",
+    "revisione",
+    "controllo di gestione",
+    "economico finanziario",
+    "ragioneria",
+    "istruttore contabile",
+    "funzionario contabile",
+    "software gestionale",
+    "assistenza software",
+    "analista",
+    "data entry",
+    "mediatore civile",
+    "categorie protette",
+    "legge 68",
+    "collocamento mirato",
+    "orfani di guerra"
+  ],
+  "parole_chiave_escludi": [
+    "stage non retribuito",
+    "vendita porta a porta",
+    "call center outbound",
+    "solo provvigione"
+  ],
+  "aree_interesse": [
+    "contabilita",
+    "fiscale",
+    "amministrazione",
+    "revisione",
+    "controllo-gestione",
+    "paghe",
+    "consulenza-informatica"
+  ],
+  "sedi_preferite": ["Messina", "Sicilia", "Remoto", "Italia (smart working)"]
+}

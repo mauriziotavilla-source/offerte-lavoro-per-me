@@ -1,0 +1,279 @@
+{
+  "ultimo_aggiornamento": "2026-06-09",
+  "versione": 2,
+  "regione_focus": "sicilia",
+  "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
+  "catalog_hash": "a25186911735f112b7bd644f66a4874a2dc9c874",
+  "generated_at": "2026-06-09T22:01:50.002Z",
+  "generated_by": "scripts/scraper/run.js",
+  "offerte": [
+    {
+      "id": "seed-categoria-protetta-concorso-riservato",
+      "nome": "Concorso pubblico con quota riservata categorie protette",
+      "ente": "Pubblica Amministrazione",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "in_arrivo",
+      "sede": "Italia / Sicilia",
+      "modalita": "presenza",
+      "contratto": "Pubblico impiego, posti riservati L. 68/99",
+      "retribuzione": "Tabellare CCNL del comparto",
+      "descrizione_breve": "Concorsi pubblici che prevedono una quota di posti riservata alle categorie protette (art. 1 e art. 18 L. 68/99), inclusi orfani ed equiparati.",
+      "partecipazione": "Iscrizione alle categorie protette e requisiti generali per il pubblico impiego; verificare la riserva nel singolo bando.",
+      "scadenze": [
+        {
+          "fase": "Pubblicazione bandi",
+          "data": "",
+          "note": "Filtrare su inPA i concorsi con riserva categorie protette"
+        }
+      ],
+      "requisiti": [
+        "Iscrizione categorie protette",
+        "Requisiti del bando",
+        "Domanda su inPA con SPID"
+      ],
+      "documenti": [
+        "SPID",
+        "Certificazione categoria protetta",
+        "Curriculum",
+        "Titoli"
+      ],
+      "profili": [
+        "Categorie protette",
+        "Orfani di guerra ed equiparati"
+      ],
+      "link_ufficiale": "https://www.inpa.gov.it/",
+      "checklist": [
+        "Tenere aggiornata la documentazione della categoria protetta",
+        "Impostare avvisi su inPA",
+        "Verificare la riserva in ogni bando"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-05-30",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.inpa.gov.it/"
+    },
+    {
+      "id": "seed-consulente-software-gestionale",
+      "nome": "Consulente / Assistenza software gestionale contabile",
+      "ente": "Software house / Rivenditore gestionali",
+      "tipo": "lavoro",
+      "aree": [
+        "consulenza-informatica",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia / Remoto",
+      "modalita": "ibrido",
+      "contratto": "Tempo indeterminato o collaborazione",
+      "retribuzione": "Da concordare",
+      "descrizione_breve": "Figura tecnico-funzionale per assistenza e formazione su software gestionali contabili e fiscali, con il tuo doppio profilo contabile + informatico.",
+      "partecipazione": "Conoscenza dei processi contabili e dimestichezza con i software gestionali; capacità di assistere e formare gli utenti.",
+      "scadenze": [
+        {
+          "fase": "Candidatura",
+          "data": "",
+          "note": "Profilo ibrido contabile/IT molto richiesto"
+        }
+      ],
+      "requisiti": [
+        "Esperienza contabile",
+        "Competenze informatiche e di assistenza software",
+        "Buone capacità comunicative"
+      ],
+      "documenti": [
+        "Curriculum con focus su contabilità + IT"
+      ],
+      "profili": [
+        "Consulente applicativo",
+        "Analista",
+        "Assistenza software"
+      ],
+      "link_ufficiale": "https://it.indeed.com/lavoro?q=assistenza+software+gestionale&l=Sicilia",
+      "checklist": [
+        "Mettere in risalto la doppia competenza contabile e informatica",
+        "Elencare i gestionali conosciuti",
+        "Candidarsi presso software house del settore"
+      ],
+      "regioni_ammesse": [
+        "sicilia",
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-06-02",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://it.indeed.com/lavoro?q=assistenza+software+gestionale&l=Sicilia"
+    },
+    {
+      "id": "seed-contabile-studio-messina",
+      "nome": "Contabile per studio commercialista",
+      "ente": "Studio commercialista (Messina)",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "presenza",
+      "contratto": "Tempo determinato/indeterminato, full time",
+      "retribuzione": "Da concordare in base all'esperienza",
+      "descrizione_breve": "Studio professionale cerca contabile esperto per gestione contabilità ordinaria e semplificata, registrazioni, liquidazioni IVA e adempimenti fiscali.",
+      "partecipazione": "Diploma di ragioneria o titoli equivalenti; esperienza in studio; conoscenza dei principali gestionali contabili.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "",
+          "note": "Sportello sempre aperto: invia il CV appena possibile"
+        }
+      ],
+      "requisiti": [
+        "Esperienza nella tenuta della contabilità d'impresa",
+        "Conoscenza adempimenti IVA e dichiarazioni dei redditi",
+        "Buon uso di Excel e software gestionali"
+      ],
+      "documenti": [
+        "Curriculum aggiornato",
+        "Lettera di presentazione"
+      ],
+      "profili": [
+        "Contabile",
+        "Ragioniere",
+        "Addetto contabilità"
+      ],
+      "link_ufficiale": "https://www.infojobs.it/offerte-lavoro/contabile",
+      "checklist": [
+        "Aggiornare il CV con le esperienze in contabilità",
+        "Personalizzare la lettera di presentazione",
+        "Inviare la candidatura dal portale"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2026-06-05",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.infojobs.it/offerte-lavoro/contabile"
+    },
+    {
+      "id": "seed-categoria-protetta-amministrativo",
+      "nome": "Impiegato amministrativo - riservato categorie protette (L. 68/99)",
+      "ente": "Azienda / Ente con obbligo di assunzione L. 68/99",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "ibrido",
+      "contratto": "Assunzione tramite collocamento mirato",
+      "retribuzione": "Secondo CCNL applicato",
+      "descrizione_breve": "Posizione amministrativo-contabile riservata agli iscritti alle categorie protette / collocamento mirato ai sensi della Legge 68/1999.",
+      "partecipazione": "Iscrizione agli elenchi del collocamento mirato (L. 68/99). Profilo amministrativo-contabile preferenziale.",
+      "scadenze": [
+        {
+          "fase": "Candidatura / segnalazione",
+          "data": "",
+          "note": "Anche tramite Centro per l'Impiego - collocamento mirato"
+        }
+      ],
+      "requisiti": [
+        "Iscrizione agli elenchi delle categorie protette (L. 68/99)",
+        "Esperienza amministrativa o contabile",
+        "Disponibilità immediata"
+      ],
+      "documenti": [
+        "Certificazione di iscrizione al collocamento mirato",
+        "Curriculum"
+      ],
+      "profili": [
+        "Impiegato amministrativo",
+        "Contabile",
+        "Addetto data entry"
+      ],
+      "link_ufficiale": "https://www.jobmetoo.com/it/offerte-lavoro",
+      "checklist": [
+        "Aggiornare l'iscrizione al collocamento mirato in Provincia",
+        "Segnalare la disponibilità al Centro per l'Impiego",
+        "Candidarsi sui portali dedicati alle categorie protette"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2026-06-04",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.jobmetoo.com/it/offerte-lavoro"
+    },
+    {
+      "id": "seed-impiegato-amministrativo-remoto",
+      "nome": "Impiegato amministrativo-contabile (smart working)",
+      "ente": "Azienda nazionale",
+      "tipo": "lavoro",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Italia (remoto)",
+      "modalita": "remoto",
+      "contratto": "Tempo indeterminato, full time, smart working",
+      "retribuzione": "RAL indicativa 24.000–30.000 €",
+      "descrizione_breve": "Impiegato amministrativo-contabile in smart working per registrazioni contabili, fatturazione, riconciliazioni bancarie e reportistica.",
+      "partecipazione": "Esperienza pregressa in amministrazione/contabilità; autonomia operativa; connessione stabile per lo smart working.",
+      "scadenze": [
+        {
+          "fase": "Candidatura online",
+          "data": "",
+          "note": "Selezione a finestre"
+        }
+      ],
+      "requisiti": [
+        "Esperienza in contabilità generale",
+        "Buona conoscenza di Excel",
+        "Capacità di lavorare in autonomia da remoto"
+      ],
+      "documenti": [
+        "Curriculum",
+        "Profilo LinkedIn aggiornato"
+      ],
+      "profili": [
+        "Impiegato amministrativo",
+        "Contabile",
+        "Addetto amministrazione"
+      ],
+      "link_ufficiale": "https://www.linkedin.com/jobs/search/?keywords=contabile%20smart%20working",
+      "checklist": [
+        "Aggiornare il profilo LinkedIn",
+        "Filtrare le offerte 'da remoto'",
+        "Candidarsi con CV in PDF"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-06-06",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "fonte_scraper": "manual_seed",
+      "url_origine": "https://www.linkedin.com/jobs/search/?keywords=contabile%20smart%20working"
+    }
+  ],
+  "changed": true,
+  "source_errors": []
+}

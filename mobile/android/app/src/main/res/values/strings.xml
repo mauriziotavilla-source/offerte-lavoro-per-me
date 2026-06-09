@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lavoro e Concorsi</string>
+    <string name="title_activity_main">Lavoro e Concorsi</string>
+    <string name="package_name">it.mauriziotavilla.offertelavoro</string>
+    <string name="custom_url_scheme">it.mauriziotavilla.offertelavoro</string>
+</resources>

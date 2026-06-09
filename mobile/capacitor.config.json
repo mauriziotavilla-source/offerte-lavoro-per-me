@@ -1,0 +1,13 @@
+{
+  "appId": "it.mauriziotavilla.offertelavoro",
+  "appName": "Lavoro e Concorsi",
+  "webDir": "www",
+  "backgroundColor": "#0f1419",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0f1419"
+  }
+}

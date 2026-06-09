@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#0f1419" />
+  <link rel="icon" type="image/png" href="assets/icon.png" />
+  <title>Lavoro & Concorsi per Me – Offerte mirate sul mio profilo</title>
+  <meta name="author" content="Maurizio Tavilla" />
+  <meta name="copyright" content="Copyright © 2026 Maurizio Tavilla. Tutti i diritti riservati." />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/mobile.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">💼</span>
+        <div>
+          <h1>Lavoro &amp; Concorsi per Me</h1>
+          <p class="tagline">Offerte di lavoro e concorsi mirati sul tuo profilo</p>
+        </div>
+      </div>
+      <button type="button" id="btn-menu-mobile" class="btn btn-ghost btn-menu-mobile" aria-label="Apri filtri e menu">☰</button>
+      <nav class="header-actions" aria-label="Azioni principali">
+        <button type="button" id="btn-scopri-portali" class="btn btn-ghost" title="Portali dove cercare nuove offerte">🔍 Trova offerte</button>
+        <button type="button" id="btn-nuovo-bando" class="btn btn-ghost" title="Aggiungi un'offerta che hai trovato">➕ Aggiungi offerta</button>
+        <button type="button" id="btn-lista" class="btn btn-ghost" hidden>📋 Lista</button>
+        <button type="button" id="btn-calendario" class="btn btn-ghost" title="Calendario scadenze">📅 Scadenze</button>
+        <button type="button" id="btn-preferiti" class="btn btn-ghost" title="Offerte salvate">⭐ <span id="count-preferiti" class="badge">0</span></button>
+        <button type="button" id="btn-export" class="btn btn-primary" title="Esporta CSV">Esporta</button>
+      </nav>
+    </div>
+  </header>
+
+  <div id="sidebar-overlay" class="sidebar-overlay" aria-hidden="true"></div>
+
+  <main class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Filtri di ricerca">
+      <section class="panel panel-profilo" id="panel-profilo">
+        <h2>Il mio profilo</h2>
+        <p class="profilo-nome" id="profilo-nome">—</p>
+        <p class="profilo-dett" id="profilo-dett">—</p>
+        <div class="profilo-tags bando-meta" id="profilo-tags"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Cerca offerte</h2>
+        <label class="field">
+          <span>Testo libero</span>
+          <input type="search" id="filtro-testo" placeholder="Es. contabile, ragioniere, revisore..." autocomplete="off" />
+        </label>
+
+        <div class="panel-sicilia">
+          <label class="field checkbox-row checkbox-sicilia">
+            <input type="checkbox" id="filtro-sicilia" checked />
+            <span><strong>🏝️ Solo offerte utili in Sicilia</strong><br /><small>Sicilia/Messina + posizioni in smart working</small></span>
+          </label>
+        </div>
+
+        <fieldset class="field">
+          <legend>Tipo</legend>
+          <div class="chip-group" id="filtro-tipo"></div>
+        </fieldset>
+
+        <fieldset class="field">
+          <legend>Area professionale</legend>
+          <div class="chip-group" id="filtro-area"></div>
+        </fieldset>
+
+        <fieldset class="field">
+          <legend>Stato</legend>
+          <div class="chip-group" id="filtro-stato">
+            <label class="chip"><input type="checkbox" value="aperto" checked /> Aperto</label>
+            <label class="chip"><input type="checkbox" value="in_arrivo" checked /> In arrivo</label>
+            <label class="chip"><input type="checkbox" value="chiuso" /> Chiuso</label>
+          </div>
+        </fieldset>
+
+        <label class="field checkbox-row">
+          <input type="checkbox" id="filtro-solo-scadenze" />
+          <span>Solo con scadenza futura</span>
+        </label>
+
+        <label class="field checkbox-row">
+          <input type="checkbox" id="vista-raggruppata" checked />
+          <span>Raggruppa per tipo (Lavoro / Concorsi / Categorie protette)</span>
+        </label>
+
+        <label class="field">
+          <span>Ordina per</span>
+          <select id="filtro-ordinamento" class="select-ordina">
+            <option value="urgente" selected>Più urgenti (scadenza vicina)</option>
+            <option value="scadenza">Data scadenza</option>
+            <option value="nome">Titolo (A → Z)</option>
+            <option value="recente">Più recenti</option>
+          </select>
+        </label>
+
+        <button type="button" id="btn-reset" class="btn btn-ghost btn-block">Reimposta filtri</button>
+        <button type="button" id="btn-aggiorna-online" class="btn btn-primary btn-block btn-aggiorna-online">🔄 Controlla aggiornamenti online</button>
+        <p class="panel-hint" id="hint-aggiornamento">All'avvio l'app scarica nuove offerte se hai configurato l'URL in <code>data/aggiornamento.json</code>.</p>
+      </section>
+
+      <section class="panel panel-notifiche">
+        <h2>Notifiche Android</h2>
+        <p class="panel-hint">Ricevi notifiche push quando arrivano nuove offerte nelle categorie che scegli.</p>
+        <label class="field checkbox-row">
+          <input type="checkbox" id="push-cat-lavoro" checked />
+          <span>Offerte di lavoro</span>
+        </label>
+        <label class="field checkbox-row">
+          <input type="checkbox" id="push-cat-concorso" checked />
+          <span>Concorsi pubblici</span>
+        </label>
+        <label class="field checkbox-row">
+          <input type="checkbox" id="push-cat-protetta" checked />
+          <span>Categorie protette (L. 68/99)</span>
+        </label>
+        <button type="button" id="btn-attiva-push" class="btn btn-ghost btn-block">Attiva notifiche Android</button>
+        <button type="button" id="btn-disattiva-push" class="btn btn-ghost btn-block">Disattiva notifiche Android</button>
+        <p class="panel-hint" id="push-status">Disponibili solo nell'app Android compilata con Firebase configurato.</p>
+      </section>
+
+      <section class="panel panel-scopri" id="panel-scopri">
+        <h2>🔍 Trova nuove offerte</h2>
+        <p class="panel-scopri-text">Cerca sui portali ufficiali. Quando trovi un'offerta interessante, clicca <strong>➕ Aggiungi offerta</strong> e classificala nell'app.</p>
+        <button type="button" id="btn-nuovo-bando-side" class="btn btn-primary btn-block">➕ Aggiungi offerta trovata</button>
+      </section>
+
+      <section class="panel panel-info" id="panel-portali-sicilia">
+        <h2>Portali Sicilia / Messina</h2>
+        <ul id="lista-portali-sicilia" class="link-list"></ul>
+      </section>
+
+      <section class="panel panel-info">
+        <h2>Altri portali</h2>
+        <ul id="lista-portali" class="link-list"></ul>
+      </section>
+    </aside>
+
+    <div class="content">
+      <nav class="nav-categorie" id="nav-categorie" aria-label="Categorie offerte"></nav>
+
+      <div class="stats-bar" id="stats-bar" role="status"></div>
+
+      <div id="vista-lista">
+        <div id="lista-offerte" class="bandi-per-categoria" role="list"></div>
+        <p id="nessun-risultato" class="empty-state" hidden>Nessuna offerta corrisponde ai filtri selezionati.</p>
+      </div>
+
+      <div id="vista-calendario" class="vista-calendario" hidden>
+        <h2>Scadenze in calendario</h2>
+        <div id="calendario-scadenze"></div>
+      </div>
+
+      <div id="vista-preferiti" hidden>
+        <h2>Le tue offerte preferite</h2>
+        <div id="lista-preferiti" class="bandi-grid"></div>
+        <p id="preferiti-vuoti" class="empty-state" hidden>Non hai ancora salvato offerte. Clicca ⭐ su una scheda.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modale: aggiungi nuova offerta -->
+  <dialog id="modal-form" class="modal modal-form">
+    <article class="modal-content">
+      <header class="modal-header">
+        <div>
+          <h2>Aggiungi un'offerta</h2>
+          <p class="modal-sub">Classifica e salva un'offerta o un concorso che hai trovato online</p>
+        </div>
+        <button type="button" class="btn-close" id="form-chiudi" aria-label="Chiudi">×</button>
+      </header>
+      <form id="form-nuovo-bando" class="modal-body form-bando">
+        <label class="field">
+          <span>Titolo dell'offerta *</span>
+          <input type="text" name="nome" required placeholder="Es. Contabile per studio commercialista – Messina" />
+        </label>
+        <label class="field">
+          <span>Descrizione breve (di cosa si tratta) *</span>
+          <textarea name="descrizione_breve" rows="3" required placeholder="In 2-3 frasi: mansione, requisiti, sede..."></textarea>
+        </label>
+        <label class="field">
+          <span>Requisiti di partecipazione *</span>
+          <textarea name="partecipazione" rows="2" required placeholder="Es. Diploma di ragioneria, esperienza in studio, uso gestionali..."></textarea>
+        </label>
+        <div class="form-row">
+          <label class="field">
+            <span>Tipo *</span>
+            <select name="tipo" required>
+              <option value="lavoro" selected>Offerta di lavoro</option>
+              <option value="concorso">Concorso pubblico</option>
+              <option value="categoria_protetta">Categoria protetta (L. 68/99)</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Stato</span>
+            <select name="stato">
+              <option value="aperto">Aperto</option>
+              <option value="in_arrivo">In arrivo</option>
+              <option value="chiuso">Chiuso</option>
+            </select>
+          </label>
+        </div>
+        <fieldset class="field">
+          <legend>Aree professionali *</legend>
+          <div class="chip-group" id="form-aree"></div>
+        </fieldset>
+        <label class="field">
+          <span>Azienda / Ente</span>
+          <input type="text" name="ente" placeholder="Es. Studio Rossi, Comune di Messina..." />
+        </label>
+        <div class="form-row">
+          <label class="field">
+            <span>Scadenza</span>
+            <input type="date" name="scadenza_data" />
+          </label>
+          <label class="field">
+            <span>Fase scadenza</span>
+            <input type="text" name="scadenza_fase" value="Invio candidatura" />
+          </label>
+        </div>
+        <label class="field">
+          <span>Data pubblicazione (opzionale)</span>
+          <input type="date" name="data_pubblicazione" />
+        </label>
+        <label class="field">
+          <span>Link ufficiale (cliccabile) *</span>
+          <input type="url" name="link_ufficiale" required placeholder="https://..." />
+        </label>
+        <label class="field">
+          <span>Contratto / Inquadramento</span>
+          <input type="text" name="contratto" placeholder="Es. Tempo indeterminato, full time" />
+        </label>
+        <label class="field">
+          <span>Retribuzione / RAL</span>
+          <input type="text" name="retribuzione" placeholder="Es. RAL 24.000–30.000 €" />
+        </label>
+        <label class="field">
+          <span>Sede</span>
+          <input type="text" name="sede" value="Messina" />
+        </label>
+        <label class="field">
+          <span>Requisiti (uno per riga)</span>
+          <textarea name="requisiti" rows="3" placeholder="Requisito 1&#10;Requisito 2"></textarea>
+        </label>
+        <footer class="modal-footer">
+          <button type="submit" class="btn btn-primary">Salva e classifica offerta</button>
+        </footer>
+      </form>
+    </article>
+  </dialog>
+
+  <!-- Modale dettaglio offerta -->
+  <dialog id="modal-bando" class="modal">
+    <article class="modal-content">
+      <header class="modal-header">
+        <div>
+          <span id="modal-livello" class="pill"></span>
+          <h2 id="modal-titolo"></h2>
+          <p id="modal-programma" class="modal-sub"></p>
+        </div>
+        <button type="button" class="btn-close" id="modal-chiudi" aria-label="Chiudi">×</button>
+      </header>
+      <div class="modal-body" id="modal-body"></div>
+      <footer class="modal-footer">
+        <button type="button" id="modal-preferito" class="btn btn-ghost">⭐ Salva nei preferiti</button>
+        <button type="button" id="modal-stampa" class="btn btn-ghost">🖨️ Stampa / PDF</button>
+        <button type="button" id="modal-condivide" class="btn btn-share">🔗 Condividi</button>
+        <a id="modal-link" href="#" target="_blank" rel="noopener" class="btn btn-primary">Candidati / Sito ufficiale →</a>
+      </footer>
+    </article>
+  </dialog>
+
+  <nav class="bottom-nav" id="bottom-nav" aria-label="Navigazione principale">
+    <button type="button" class="bottom-nav-btn is-active" data-mobile-view="lista">
+      <span class="nav-icon">📋</span>
+      <span>Offerte</span>
+    </button>
+    <button type="button" class="bottom-nav-btn" data-mobile-view="filtri">
+      <span class="nav-icon">🔍</span>
+      <span>Filtri</span>
+    </button>
+    <button type="button" class="bottom-nav-btn bottom-nav-btn--primary" id="btn-mobile-add">
+      <span class="nav-icon">➕</span>
+      <span>Aggiungi</span>
+    </button>
+    <button type="button" class="bottom-nav-btn" data-mobile-view="preferiti">
+      <span class="nav-icon">⭐</span>
+      <span>Preferiti</span>
+    </button>
+    <button type="button" class="bottom-nav-btn" data-mobile-view="calendario">
+      <span class="nav-icon">📅</span>
+      <span>Scadenze</span>
+    </button>
+  </nav>
+
+  <footer class="footer">
+    <p>Dati aggiornati al <strong id="data-aggiornamento">—</strong>. <span id="stato-aggiornamento" class="stato-aggiornamento"></span></p>
+    <p class="footer-note">Verifica sempre le fonti ufficiali prima di candidarti.</p>
+    <p class="footer-copyright">© 2026 <strong>Maurizio Tavilla</strong>. Tutti i diritti riservati.</p>
+  </footer>
+
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

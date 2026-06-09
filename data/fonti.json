@@ -1,0 +1,58 @@
+{
+  "tipi": [
+    {
+      "id": "lavoro",
+      "nome": "Offerte di lavoro",
+      "descrizione": "Annunci di lavoro di aziende, studi professionali e agenzie per il lavoro.",
+      "portali": [
+        { "nome": "InfoJobs", "url": "https://www.infojobs.it/offerte-lavoro/contabile" },
+        { "nome": "Indeed", "url": "https://it.indeed.com/lavoro?q=contabile&l=Messina" },
+        { "nome": "LinkedIn Lavoro", "url": "https://www.linkedin.com/jobs/search/?keywords=contabile&location=Messina" },
+        { "nome": "Subito Lavoro", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/?q=contabile" },
+        { "nome": "Cliclavoro (ANPAL)", "url": "https://www.cliclavoro.gov.it/" }
+      ]
+    },
+    {
+      "id": "concorso",
+      "nome": "Concorsi pubblici",
+      "descrizione": "Bandi di concorso di enti pubblici, Comuni, Regione, Agenzie. Profili contabili, amministrativi, economico-finanziari.",
+      "portali": [
+        { "nome": "inPA - Portale Reclutamento", "url": "https://www.inpa.gov.it/" },
+        { "nome": "Gazzetta Ufficiale - Concorsi", "url": "https://www.gazzettaufficiale.it/30giorni/concorsi" },
+        { "nome": "Concorsi Regione Siciliana", "url": "https://www.regione.sicilia.it/la-regione-informa/concorsi" },
+        { "nome": "Concorsi Pubblici (aggregatore)", "url": "https://www.concorsipubblici.com/" }
+      ]
+    },
+    {
+      "id": "categoria_protetta",
+      "nome": "Categorie protette (L. 68/99)",
+      "descrizione": "Offerte e concorsi riservati alle categorie protette e agli iscritti al collocamento mirato (L. 68/1999), inclusi orfani di guerra ed equiparati.",
+      "portali": [
+        { "nome": "inPA - Concorsi riservati", "url": "https://www.inpa.gov.it/" },
+        { "nome": "Collocamento mirato Città Metropolitana Messina", "url": "https://www.cittametropolitana.me.it/" },
+        { "nome": "Jobmetoo (categorie protette)", "url": "https://www.jobmetoo.com/it/offerte-lavoro" },
+        { "nome": "Indeed categorie protette", "url": "https://it.indeed.com/lavoro?q=categorie+protette&l=Sicilia" }
+      ]
+    }
+  ],
+  "sicilia": {
+    "nome": "Sicilia / Messina",
+    "descrizione": "Offerte di lavoro e concorsi con sede in Sicilia, in particolare nella zona di Messina, più le posizioni in smart working.",
+    "portali": [
+      { "nome": "Centro per l'Impiego Messina", "url": "https://www.cittametropolitana.me.it/" },
+      { "nome": "Regione Siciliana - Concorsi", "url": "https://www.regione.sicilia.it/la-regione-informa/concorsi" },
+      { "nome": "Subito Lavoro Sicilia", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/" },
+      { "nome": "Indeed Messina", "url": "https://it.indeed.com/lavoro?l=Messina" }
+    ]
+  },
+  "aree": [
+    { "id": "contabilita", "nome": "Contabilità / Ragioneria", "icona": "📒" },
+    { "id": "fiscale", "nome": "Fiscale / Tributario", "icona": "🧾" },
+    { "id": "amministrazione", "nome": "Amministrazione / Segreteria", "icona": "🗂️" },
+    { "id": "revisione", "nome": "Revisione / Controllo conti", "icona": "🔍" },
+    { "id": "controllo-gestione", "nome": "Controllo di gestione", "icona": "📊" },
+    { "id": "paghe", "nome": "Paghe e contributi", "icona": "💶" },
+    { "id": "consulenza-informatica", "nome": "Consulenza informatica / Software", "icona": "💻" },
+    { "id": "mediazione", "nome": "Mediazione civile", "icona": "⚖️" }
+  ]
+}

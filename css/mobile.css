@@ -1,0 +1,455 @@
+/**
+ * Layout mobile / APK Android
+ * Copyright © 2026 Maurizio Tavilla
+ */
+
+/* Su desktop grande: nascondi controlli solo per telefono */
+@media (min-width: 769px) {
+  html:not(.mobile-app) .btn-menu-mobile,
+  html:not(.mobile-app) .bottom-nav,
+  html:not(.mobile-app) .sidebar-overlay {
+    display: none !important;
+  }
+}
+
+/* Telefono nel browser o class mobile-app (APK Capacitor) */
+@media (max-width: 768px) {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  body {
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    min-height: 100dvh;
+    padding-bottom: calc(6.5rem + env(safe-area-inset-bottom, 0px));
+    padding-top: env(safe-area-inset-top, 0px);
+    scroll-padding-bottom: calc(6.5rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  .brand h1 {
+    font-family: inherit !important;
+    font-size: 1.15rem !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .gruppo-titolo {
+    font-family: inherit !important;
+    font-size: 1.1rem !important;
+  }
+
+  .header-inner {
+    padding: 0.65rem 0.75rem;
+    gap: 0.5rem;
+    flex-wrap: nowrap;
+  }
+
+  .brand-icon {
+    width: 40px;
+    height: 40px;
+    font-size: 1.2rem;
+  }
+
+  .brand {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .tagline {
+    display: none;
+  }
+
+  .header-actions {
+    display: none;
+  }
+
+  .btn-menu-mobile {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    font-size: 1.35rem;
+    padding: 0;
+    flex-shrink: 0;
+  }
+
+  .layout {
+    display: block;
+    padding: 0.75rem;
+    padding-bottom: 0;
+    max-width: 100%;
+  }
+
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: min(92vw, 320px);
+    z-index: 300;
+    background: var(--bg);
+    padding: 0.75rem;
+    padding-top: calc(3.5rem + env(safe-area-inset-top, 0px));
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    transform: translateX(-105%);
+    transition: transform 0.25s ease;
+    box-shadow: 8px 0 32px rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+    visibility: hidden;
+  }
+
+  .sidebar.is-open {
+    transform: translateX(0);
+    pointer-events: auto;
+    visibility: visible;
+  }
+
+  .sidebar-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 250;
+    pointer-events: none;
+  }
+
+  .sidebar-overlay.is-visible {
+    display: block;
+    pointer-events: auto;
+  }
+
+  .content {
+    width: 100%;
+    min-width: 0;
+    padding-bottom: calc(1.5rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  #vista-lista,
+  #vista-calendario,
+  #vista-preferiti {
+    padding-bottom: calc(5rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  .nav-categorie {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    gap: 0.35rem;
+    scrollbar-width: none;
+  }
+
+  .nav-categorie::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tab-cat {
+    flex-shrink: 0;
+    font-size: 0.8rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  .bandi-grid,
+  .bandi-per-categoria .bandi-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .bando-card {
+    margin: 0;
+  }
+
+  .card-descrizione {
+    -webkit-line-clamp: 5;
+  }
+
+  .card-footer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .card-footer-actions {
+    margin-left: 0;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .card-footer .btn,
+  .card-footer-actions .btn,
+  .card-footer-actions a.btn {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    min-height: 44px;
+  }
+
+  .modal {
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    margin: 0;
+  }
+
+  .modal-content {
+    max-height: 100dvh;
+    height: 100%;
+    min-height: 0;
+    border-radius: 0;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .modal-header {
+    padding: 1rem;
+    padding-top: calc(1rem + env(safe-area-inset-top, 0px));
+  }
+
+  .modal-header h2 {
+    font-size: 1.05rem;
+  }
+
+  .modal-body {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+    padding: 1rem;
+    padding-bottom: calc(1.5rem + env(safe-area-inset-bottom, 0px));
+    color: var(--text);
+  }
+
+  .modal-header,
+  .modal-footer {
+    flex-shrink: 0;
+  }
+
+  .modal-footer {
+    flex-direction: column;
+    padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--bg-card);
+  }
+
+  .modal-footer .btn,
+  .modal-footer a.btn {
+    width: 100%;
+    min-height: 48px;
+    justify-content: center;
+  }
+
+  .info-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+
+  .bottom-nav {
+    display: flex !important;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 400;
+    background: var(--bg-card);
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    padding: 0.35rem 0.25rem;
+    padding-bottom: calc(0.35rem + env(safe-area-inset-bottom, 0px));
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 0.15rem;
+  }
+
+  .bottom-nav-btn {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.15rem;
+    padding: 0.4rem 0.2rem;
+    min-height: 52px;
+    border: none;
+    background: transparent;
+    color: var(--text-muted);
+    font: inherit;
+    font-size: 0.65rem;
+    cursor: pointer;
+    border-radius: 8px;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .bottom-nav-btn .nav-icon {
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+
+  .bottom-nav-btn.is-active {
+    color: var(--accent);
+    background: var(--accent-soft);
+  }
+
+  .bottom-nav-btn--primary {
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  .footer {
+    padding-bottom: calc(5rem + env(safe-area-inset-bottom, 0px));
+    font-size: 0.75rem;
+  }
+
+  .stats-bar {
+    font-size: 0.85rem;
+  }
+
+  .vista-calendario h2,
+  #vista-preferiti h2 {
+    font-size: 1.15rem;
+    margin-bottom: 0.75rem;
+  }
+}
+
+/*
+ * APK: area centrale scrollabile (affidabile nel WebView Android).
+ * Header e barra in basso fissi; solo .content scorre.
+ */
+html.mobile-app {
+  height: 100%;
+  overflow: hidden;
+}
+
+html.mobile-app body {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+html.mobile-app .header {
+  position: relative;
+  top: auto;
+  flex-shrink: 0;
+  z-index: 100;
+}
+
+html.mobile-app .layout {
+  flex: 1;
+  min-height: 0;
+  display: block;
+  padding: 0;
+  max-width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+html.mobile-app .sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: min(92vw, 320px);
+  z-index: 300;
+  background: var(--bg);
+  transform: translateX(-105%);
+  transition: transform 0.25s ease;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+html.mobile-app .sidebar.is-open {
+  transform: translateX(0);
+  pointer-events: auto;
+  visibility: visible;
+}
+
+html.mobile-app .content {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
+  padding: 0.75rem;
+  padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px));
+}
+
+html.mobile-app .footer {
+  flex-shrink: 0;
+  padding: 0.5rem 0.75rem;
+  padding-bottom: calc(4.5rem + env(safe-area-inset-bottom, 0px));
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+html.mobile-app #lista-bandi,
+html.mobile-app #lista-preferiti,
+html.mobile-app #calendario-scadenze {
+  position: relative;
+  z-index: 1;
+}
+
+html.mobile-app #vista-lista,
+html.mobile-app #vista-calendario,
+html.mobile-app #vista-preferiti {
+  padding-bottom: 0.5rem;
+}
+
+html.mobile-app .modal-content {
+  max-height: 100dvh;
+  height: 100%;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+html.mobile-app .modal-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+}
+
+html.mobile-app .modal-header,
+html.mobile-app .modal-footer {
+  flex-shrink: 0;
+}
+
+html.mobile-app .btn-menu-mobile {
+  display: flex !important;
+}
+
+html.mobile-app .header-actions {
+  display: none;
+}
+
+html.mobile-app .bottom-nav {
+  display: flex !important;
+}
+
+html.mobile-app .bandi-grid,
+html.mobile-app .bandi-per-categoria .bandi-grid {
+  grid-template-columns: 1fr;
+}
