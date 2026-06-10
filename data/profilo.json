@@ -11,6 +11,11 @@
     "categoria_protetta": true,
     "nota_categoria_protetta": "Orfano di guerra equiparato (L. 365/1958 e L. 585/1971) e iscritto art. 8 L. 68/1999 (collocamento mirato categorie protette) dal 09/10/2009 al n. 7792 dell'elenco provinciale orfani di guerra ed equiparati."
   },
+  "titolo_studio": {
+    "livello": "diploma",
+    "descrizione": "Diploma di Ragioniere e Perito Commerciale — non laureato",
+    "equivalente_laurea": false
+  },
   "titoli": [
     "Diploma di Ragioniere e Perito Commerciale",
     "Abilitazione alla professione di Ragioniere Commercialista",
@@ -58,7 +63,11 @@
     "economico finanziario",
     "ragioneria",
     "istruttore contabile",
-    "funzionario contabile",
+    "istruttore amministrativo",
+    "istruttore direttivo",
+    "operatore amministrativo",
+    "agente amministrativo",
+    "addetto contabilit",
     "software gestionale",
     "assistenza software",
     "analista",
@@ -74,6 +83,23 @@
     "vendita porta a porta",
     "call center outbound",
     "solo provvigione"
+  ],
+  "parole_chiave_escludi_concorsi": [
+    "laurea",
+    "laureato",
+    "magistrale",
+    "specialistica",
+    "dottorato",
+    "ingegner",
+    "medico",
+    "infermier",
+    "veterinar",
+    "avvocat",
+    "architet",
+    "farmacia",
+    "psicolog",
+    "dirigente",
+    "notaio"
   ],
   "aree_interesse": [
     "contabilita",

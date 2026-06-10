@@ -28,10 +28,19 @@ import {
   setPushDeepLinkHandler,
   syncNewBadgeFromNovitaOnline,
 } from './push-notifications.js';
+import { passaFiltroProfilo } from './profile-filter.js';
 
 const STORAGE_PREFERITI = 'lavoro_preferiti';
 const STORAGE_CHECKLIST = 'lavoro_checklist';
 const STORAGE_ORDINAMENTO = 'lavoro_ordinamento';
+const STORAGE_FILTRO_SICILIA = 'lavoro_filtro_sicilia';
+
+/** Città/province/comuni siciliani riconosciuti nel testo del bando */
+const SEGNALI_SICILIA = [
+  'sicil', 'messina', 'catania', 'palermo', 'siracusa', 'ragusa', 'trapani',
+  'agrigento', 'enna', 'caltanissetta', 'santa venerina', 'taormina', 'milazzo',
+  'barcellona pozzo', 'giarre', 'acireale', 'paternò', 'modica', 'gela',
+];
 
 const TIPI_ORDINE = ['lavoro', 'concorso', 'categoria_protetta'];
 const ORDINI = ['urgente', 'scadenza', 'nome', 'recente'];
@@ -174,8 +183,16 @@ function setupProfilo() {
   if (!profilo?.candidato) return;
   const c = profilo.candidato;
   $('#profilo-nome').textContent = c.nome || '—';
-  const dett = [c.citta, ...(profilo.titoli || []).slice(0, 1)].filter(Boolean).join(' · ');
+  const ts = profilo.titolo_studio?.descrizione || (profilo.titoli || [])[0] || '';
+  const dett = [c.citta, ts].filter(Boolean).join(' · ');
   $('#profilo-dett').textContent = dett;
+  const notaFiltro = profilo.titolo_studio?.equivalente_laurea === false
+    ? 'Mostriamo solo concorsi adatti al diploma (niente laurea, medici, ingegneri, ecc.).'
+    : '';
+  if (notaFiltro) {
+    const el = $('#profilo-dett');
+    el.innerHTML = `${escapeHtml(dett)}<br /><small class="muted">${escapeHtml(notaFiltro)}</small>`;
+  }
   const tags = (profilo.profili_target || []).slice(0, 4);
   $('#profilo-tags').innerHTML = tags
     .map((t) => `<span class="settore-tag">${escapeHtml(t)}</span>`)
@@ -283,7 +300,18 @@ function setupFiltri() {
     areaEl.appendChild(label);
   });
 
-  ['filtro-testo', 'filtro-solo-scadenze', 'filtro-sicilia', 'vista-raggruppata'].forEach((id) => {
+  const filtroSiciliaEl = $('#filtro-sicilia');
+  if (filtroSiciliaEl) {
+    const salvato = localStorage.getItem(STORAGE_FILTRO_SICILIA);
+    filtroSiciliaEl.checked = salvato === null ? true : salvato === '1';
+    filtroSiciliaEl.addEventListener('change', () => {
+      localStorage.setItem(STORAGE_FILTRO_SICILIA, filtroSiciliaEl.checked ? '1' : '0');
+      syncCategoriaDaFiltri();
+      renderOfferte();
+    });
+  }
+
+  ['filtro-testo', 'filtro-solo-scadenze', 'vista-raggruppata'].forEach((id) => {
     $(`#${id}`)?.addEventListener('input', () => {
       syncCategoriaDaFiltri();
       renderOfferte();
@@ -332,6 +360,7 @@ function resetFiltri() {
   $('#filtro-testo').value = '';
   $('#filtro-solo-scadenze').checked = false;
   $('#filtro-sicilia').checked = true;
+  localStorage.setItem(STORAGE_FILTRO_SICILIA, '1');
   $$('#filtro-tipo input, #filtro-area input').forEach((i) => (i.checked = true));
   $$('#filtro-stato input').forEach((i) => {
     i.checked = i.value !== 'chiuso';
@@ -541,12 +570,22 @@ function mostraVista(vista) {
 
 /* ----------------------------- Filtri/dati ----------------------------- */
 function isPerSicilia(o) {
+  const sede = (o.sede || '').toLowerCase();
+  const modalita = (o.modalita || '').toLowerCase();
+  const testo = [
+    o.nome,
+    o.ente,
+    o.descrizione_breve,
+    o.sede,
+    o.partecipazione,
+  ]
+    .join(' ')
+    .toLowerCase();
+
   if (o.regioni_ammesse?.includes('sicilia')) return true;
-  if (o.regioni_ammesse?.includes('tutta_italia')) return true;
-  if ((o.sede || '').toLowerCase().includes('sicil')) return true;
-  if ((o.sede || '').toLowerCase().includes('messina')) return true;
-  if ((o.modalita || '').toLowerCase().includes('remoto')) return true;
-  if ((o.sede || '').toLowerCase().includes('remoto')) return true;
+  if (sede.includes('sicil') || sede.includes('messina')) return true;
+  if (SEGNALI_SICILIA.some((s) => testo.includes(s))) return true;
+  if (modalita.includes('remoto') || sede.includes('remoto') || sede.includes('smart working')) return true;
   return false;
 }
 
@@ -559,6 +598,7 @@ function getFiltrate(lista = offerte) {
   const soloSicilia = $('#filtro-sicilia')?.checked;
 
   return lista.filter((o) => {
+    if (!passaFiltroProfilo(o, profilo)) return false;
     if (isScaduta(o) && !isPreferito(o.id)) return false;
     if (soloSicilia && !isPerSicilia(o)) return false;
     if (!tipi.includes(o.tipo)) return false;

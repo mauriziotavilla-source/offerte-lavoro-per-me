@@ -16,6 +16,7 @@ const { readJson, writeJson } = require('./lib/io');
 const { collectFromSource } = require('./lib/parsers');
 const { normalizeSourceItems } = require('./lib/normalize');
 const { buildDiff, nextTopLevelData } = require('./lib/diff');
+const { filterForProfile, filterStats } = require('./lib/profile-filter');
 
 const ROOT = path.join(__dirname, '..', '..');
 
@@ -71,8 +72,12 @@ async function collectAll() {
     try {
       const raw = await collectFromSource(source);
       const normalized = normalizeSourceItems(source, raw);
-      console.log(`Fonte ${source.id}: ${normalized.length} elementi`);
-      collected.push(...normalized);
+      const filtrati = filterForProfile(normalized);
+      const stats = filterStats(normalized);
+      console.log(
+        `Fonte ${source.id}: ${normalized.length} elementi → ${filtrati.length} adatti al profilo (scartati ${stats.scartati})`
+      );
+      collected.push(...filtrati);
     } catch (err) {
       const detail = { source: source.id, message: err.message || String(err) };
       console.warn(`Fonte ${source.id} fallita: ${detail.message}`);

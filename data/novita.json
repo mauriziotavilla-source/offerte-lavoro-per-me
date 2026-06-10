@@ -1,7 +1,7 @@
 {
-  "generated_at": "",
-  "source_run": "manuale",
-  "catalog_hash": "",
+  "generated_at": "2026-06-10T00:26:39.742Z",
+  "source_run": "github-actions-scraper",
+  "catalog_hash": "414a54b5540b885b1f8bd4699c8b46fc73acde15",
   "counts": {
     "nuovi": 0,
     "aggiornati": 0
