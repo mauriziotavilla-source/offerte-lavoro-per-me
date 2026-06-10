@@ -1,182 +1,25 @@
 {
-  "generated_at": "2026-06-10T15:43:18.861Z",
+  "generated_at": "2026-06-10T20:35:12.378Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "bf59b9daf1758e8c8816a971fab83a39638808c9",
   "counts": {
-    "nuovi": 13,
+    "nuovi": 0,
     "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-regionale-emergenza-urgenza-di-milano-1-collaboratore-amministrativo-pro",
-      "nome": "Azienda Regionale Emergenza Urgenza di Milano, 1 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-regionale-emergenza-urgenza-di-milano-concorso-collaboratore-amministrativo-professionale",
-      "data_pubblicazione": "2026-07-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "63d02d6367dd22013d262d0accaf672e40dd0e2b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-citta-metropolitana-di-napoli-9-posti-per-esperto-amministrativo-contabile-esper",
-      "nome": "Città Metropolitana di Napoli, 9 posti per esperto amministrativo contabile esperto giuridico",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/citta-metropolitana-di-napoli-avviso-di-mobilita-esperto-amministrativo-contabile-esperto-giuridico",
-      "data_pubblicazione": "2026-07-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "819b5f7c16c8479e65f3604d5bb8646879bdcbeb",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-professionale",
-      "nome": "collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-amministrativo-professionale-314",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cervignano-del-friuli-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Cervignano del Friuli , 1 Istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cervignano-del-friuli-concorso-istruttore-amministrativo-contabile-udine-2026",
-      "data_pubblicazione": "2026-07-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f11ee300165e0cf01e6b86932015367eec500568",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-meduna-di-livenza-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Meduna di Livenza , 1 istruttore amministrativo – contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-meduna-di-livenza-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-07-08",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "97ec36be707f0be53d58d8b84deda017aae8fa46",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-amministrativo",
-      "nome": "Comune di Santa Venerina, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-venerina-concorso-riservato-istruttore-amministrativo-catania-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "32355083038152d122cb93a9f41b89ba42dfee4e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-contabile",
-      "nome": "Comune di Santa Venerina, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-venerina-concorso-riservato-istruttore-contabile-catania-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "15b20d0bf722dddc54999ea27610e3605d3f1b5d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sedriano-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Sedriano , 2 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sedriano-concorso-istruttore-amministrativo-contabile-milano-2026",
-      "data_pubblicazione": "2026-07-08",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "758903c220baf7a654a851a1106c77dfee30c272",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-verano-brianza-1-istruttore-amministrativo",
-      "nome": "Comune di Verano Brianza , 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-verano-brianza-concorso-istruttore-amministrativo-monza-e-brianza-2026",
-      "data_pubblicazione": "2026-07-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6ae8b889d691733dc43e13064d72bf13c7539319",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-zanica-1-istruttore-amministrativo",
-      "nome": "Comune di Zanica , 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-zanica-concorso-istruttore-amministrativo-bergamo-2026",
-      "data_pubblicazione": "2026-07-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "923a2abce53259b5dca3bc33f807619ad7ce8426",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-esperto-amministrativo-contabile",
-      "nome": "esperto amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/esperto-amministrativo-contabile-323",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3b4db976ecc38d7d94e71f2faace2c8717ff70c6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istruttore-amministrativo-contabile",
-      "nome": "istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-amministrativo-contabile-334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "83a35ddf8263c941cc47a4e9b68e8e646f12fc1b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-stazione-consorziale-sperimentale-di-granicoltura-per-la-sicilia-1-segretario-am",
-      "nome": "Stazione Consorziale Sperimentale di Granicoltura per La Sicilia, 1 segretario amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/stazione-consorziale-sperimentale-di-granicoltura-la-sicilia-concorso-segretario-amministrativo",
-      "data_pubblicazione": "2026-06-20",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "023cffd6ca153596f5f916f875f1f649ec18084c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
+    }
+  ]
 }
