@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T06:37:36.157Z",
+  "generated_at": "2026-06-10T10:08:32.511Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "a25186911735f112b7bd644f66a4874a2dc9c874",
   "counts": {
@@ -16,6 +16,10 @@
     {
       "source": "concorsipubblici-sicilia",
       "message": "HTTP 403"
+    },
+    {
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
     }
   ]
 }
