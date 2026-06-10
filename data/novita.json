@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-10T00:26:39.742Z",
+  "generated_at": "2026-06-10T04:02:39.710Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "414a54b5540b885b1f8bd4699c8b46fc73acde15",
+  "catalog_hash": "a25186911735f112b7bd644f66a4874a2dc9c874",
   "counts": {
     "nuovi": 0,
     "aggiornati": 0
   },
   "nuovi": [],
   "aggiornati": [],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
+    }
+  ]
 }
