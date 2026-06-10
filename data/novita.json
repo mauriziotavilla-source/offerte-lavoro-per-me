@@ -1,66 +1,11 @@
 {
-  "generated_at": "2026-06-10T22:15:17.619Z",
-  "source_run": "github-actions-scraper",
-  "catalog_hash": "0a3608aac3802e06ce2351baadac43d934665230",
+  "generated_at": "2026-06-10T23:05:00.000Z",
+  "source_run": "local-scraper-import-categorie-protette",
+  "catalog_hash": "656b428832c51616265ff2c595162c905cca64fe",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 1
+    "nuovi": 0,
+    "aggiornati": 0
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
-      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4414886774",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-messina-zenith-services-group-spa",
-      "nome": "Addetto/a paghe e contributi - Messina — Zenith Services Group SpA",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-messina-at-zenith-services-group-spa-4414494022",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "1cdcacc2ac8f2313b91687aa702d4541d99a00c4",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-di-magazzino-gruppo-orsero",
-      "nome": "Responsabile Amministrativo di Magazzino — Gruppo Orsero",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-di-magazzino-at-gruppo-orsero-4411872188",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d485ecde770c933e012a2d6a2fc3f6f90916c114",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
-  "aggiornati": [
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-rif-99370-wehunt",
-      "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d97724d2ab5993830034923c84de420fa7fcd46c",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
-  "errori_fonti": []
+  "nuovi": [],
+  "aggiornati": []
 }

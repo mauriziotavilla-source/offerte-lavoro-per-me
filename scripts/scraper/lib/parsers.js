@@ -35,6 +35,41 @@ function dedupeItems(items) {
   });
 }
 
+async function parseHtmlSectionLinks(source) {
+  const html = await fetchText(source.url);
+  const $ = cheerio.load(html);
+  const sectionNeedle = compactText(source.sectionHeading || '').toLowerCase();
+  const headingSelector = source.headingSelector || 'h5';
+  const items = [];
+
+  $(headingSelector).each((_, headingEl) => {
+    const heading = compactText($(headingEl).text()).toLowerCase();
+    if (!sectionNeedle || !heading.includes(sectionNeedle)) return;
+
+    $(headingEl)
+      .parent()
+      .find('a')
+      .each((_, el) => {
+        const title = compactText($(el).text());
+        const href = makeAbsoluteUrl(source.url, $(el).attr('href'));
+        const context = compactText($(el).closest('article, li, div, tr').text());
+        const text = `${title} ${context} ${heading}`;
+        if (!title || !href) return;
+        if (!keywordMatch(text, source.includeKeywords)) return;
+        if (keywordExcluded(text, source.excludeKeywords)) return;
+        items.push({
+          title: title.includes('messina') ? title : `${title} (CPI Messina)`,
+          url: href,
+          summary: `Avviso L.68/99 — CPI Messina e Villafranca Tirrena. ${context}`.slice(0, 280),
+          publishedAt: parseDateLoose(text),
+          rawText: text,
+        });
+      });
+  });
+
+  return dedupeItems(items);
+}
+
 async function parseHtmlLinks(source) {
   const html = await fetchText(source.url);
   const $ = cheerio.load(html);
@@ -124,6 +159,7 @@ async function parseRss(source) {
 async function collectFromSource(source) {
   if (source.parser === 'rss') return parseRss(source);
   if (source.parser === 'linkedinJobs') return parseLinkedInJobs(source);
+  if (source.parser === 'htmlSectionLinks') return parseHtmlSectionLinks(source);
   return parseHtmlLinks(source);
 }
 

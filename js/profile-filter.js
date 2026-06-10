@@ -22,6 +22,14 @@ const MATCH_FORTE_CONCORSO = [
   'collocamento mirato', 'legge 68', 'categorie protette', 'orfani di guerra', 'mediatore civile',
 ];
 
+const MATCH_FORTE_CATEGORIA_PROTETTA = [
+  'categorie protette', 'categoria protetta', 'legge 68', 'l. 68', 'l.68', 'l. 68/99', 'l.68/99',
+  'collocamento mirato', 'orfani di guerra', 'orfano di guerra', 'equiparat', 'art. 8', 'art.8',
+  'art. 18', 'art.18', 'riserva', 'riservat', 'avviament', 'handicap', 'disabilit',
+  'inserimento lavorativo', 'appartenente categorie', 'graduator', 'avviso l.', 'avviso a chiamata',
+  'cpi messina', 'centro per l\'impiego di messina',
+];
+
 const ESCLUDI_SE_NON_LAUREATO = [
   'laurea', 'laureato', 'laureati', 'magistrale', 'specialistica', 'master universit',
   'dottorato', 'dottore di ricerca', 'categoria d', 'cat. d', 'categoria b', 'cat. b',
@@ -44,7 +52,7 @@ function isManuale(offerta) {
 function titoloTroppoCorto(offerta) {
   const nome = compact(offerta.nome || '');
   const tipo = String(offerta.tipo || '').toLowerCase();
-  const minLen = tipo === 'lavoro' ? 12 : 28;
+  const minLen = tipo === 'lavoro' || tipo === 'categoria_protetta' ? 12 : 28;
   if (nome.length < minLen) return true;
   const junk = [
     'concorsi', 'amministrativo', 'funzionario', 'concorso', 'tipologia concorso',
@@ -56,6 +64,10 @@ function titoloTroppoCorto(offerta) {
 
 function matchForteConcorso(text) {
   return MATCH_FORTE_CONCORSO.some((w) => text.includes(w));
+}
+
+function matchForteCategoriaProtetta(text) {
+  return MATCH_FORTE_CATEGORIA_PROTETTA.some((w) => text.includes(w));
 }
 
 function contestoNonCompatibile(text, tipo) {
@@ -103,9 +115,18 @@ export function passaFiltroProfilo(offerta, profilo) {
   const text = testoOfferta(offerta);
   const tipo = String(offerta.tipo || 'lavoro').toLowerCase();
   if (titoloTroppoCorto(offerta)) return false;
-  if (!matchParoleProfilo(text, profilo)) return false;
   if (esclusoDaLista(text, profilo)) return false;
-  if (tipo === 'concorso' || tipo === 'categoria_protetta') {
+
+  if (tipo === 'categoria_protetta') {
+    const segnaleCat = matchForteCategoriaProtetta(text) || matchForteConcorso(text);
+    if (!segnaleCat && !matchParoleProfilo(text, profilo)) return false;
+    if (richiedeLaurea(text, profilo)) return false;
+    return true;
+  }
+
+  if (!matchParoleProfilo(text, profilo)) return false;
+
+  if (tipo === 'concorso') {
     if (!matchForteConcorso(text)) return false;
     if (contestoNonCompatibile(text, tipo)) return false;
     if (professioneNonCompatibile(text)) return false;

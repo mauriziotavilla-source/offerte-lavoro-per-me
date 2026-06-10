@@ -81,6 +81,37 @@ const MATCH_FORTE_CONCORSO = [
   'mediatore civile',
 ];
 
+/** Segnali tipici di bandi/annunci per categorie protette (L.68, orfani equiparati, art. 8/18) */
+const MATCH_FORTE_CATEGORIA_PROTETTA = [
+  'categorie protette',
+  'categoria protetta',
+  'legge 68',
+  'l. 68',
+  'l.68',
+  'l. 68/99',
+  'l.68/99',
+  'collocamento mirato',
+  'orfani di guerra',
+  'orfano di guerra',
+  'equiparat',
+  'art. 8',
+  'art.8',
+  'art. 18',
+  'art.18',
+  'riserva',
+  'riservat',
+  'avviament',
+  'handicap',
+  'disabilit',
+  'inserimento lavorativo',
+  'appartenente categorie',
+  'graduator',
+  'avviso l.',
+  'avviso a chiamata',
+  'cpi messina',
+  'centro per l\'impiego di messina',
+];
+
 /** Richiedono laurea: da escludere se titolo_studio.livello = diploma */
 const ESCLUDI_SE_NON_LAUREATO = [
   'laurea',
@@ -121,7 +152,7 @@ function isManuale(offerta) {
 function titoloTroppoCorto(offerta) {
   const nome = compactText(offerta.nome || '');
   const tipo = String(offerta.tipo || '').toLowerCase();
-  const minLen = tipo === 'lavoro' ? 12 : 28;
+  const minLen = tipo === 'lavoro' || tipo === 'categoria_protetta' ? 12 : 28;
   if (nome.length < minLen) return true;
   const junk = [
     'concorsi', 'amministrativo', 'funzionario', 'concorso', 'tipologia concorso',
@@ -134,6 +165,10 @@ function titoloTroppoCorto(offerta) {
 
 function matchForteConcorso(text) {
   return MATCH_FORTE_CONCORSO.some((w) => text.includes(w));
+}
+
+function matchForteCategoriaProtetta(text) {
+  return MATCH_FORTE_CATEGORIA_PROTETTA.some((w) => text.includes(w));
 }
 
 function contestoNonCompatibile(text, tipo) {
@@ -191,10 +226,20 @@ function valutaProfilo(offerta, profilo = null) {
   const tipo = String(offerta.tipo || 'lavoro').toLowerCase();
 
   if (titoloTroppoCorto(offerta)) return { ok: false, motivo: 'titolo_generico' };
-  if (!matchParoleProfilo(text, p)) return { ok: false, motivo: 'nessuna_parola_profilo' };
   if (esclusoDaLista(text, p)) return { ok: false, motivo: 'parola_esclusa' };
 
-  if (tipo === 'concorso' || tipo === 'categoria_protetta') {
+  if (tipo === 'categoria_protetta') {
+    const segnaleCat = matchForteCategoriaProtetta(text) || matchForteConcorso(text);
+    if (!segnaleCat && !matchParoleProfilo(text, p)) {
+      return { ok: false, motivo: 'non_categoria_protetta' };
+    }
+    if (richiedeLaurea(text, p)) return { ok: false, motivo: 'richiede_laurea' };
+    return { ok: true };
+  }
+
+  if (!matchParoleProfilo(text, p)) return { ok: false, motivo: 'nessuna_parola_profilo' };
+
+  if (tipo === 'concorso') {
     if (!matchForteConcorso(text)) return { ok: false, motivo: 'profilo_concorso_non_specifico' };
     if (contestoNonCompatibile(text, tipo)) return { ok: false, motivo: 'contesto_non_compatibile' };
     if (professioneNonCompatibile(text)) return { ok: false, motivo: 'professione_non_compatibile' };

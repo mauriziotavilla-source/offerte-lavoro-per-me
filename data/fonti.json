@@ -29,8 +29,11 @@
       "nome": "Categorie protette (L. 68/99)",
       "descrizione": "Offerte e concorsi riservati alle categorie protette e agli iscritti al collocamento mirato (L. 68/1999), inclusi orfani di guerra ed equiparati.",
       "portali": [
+        { "nome": "LinkedIn — categorie protette Messina", "url": "https://www.linkedin.com/jobs/search/?keywords=categorie%20protette&location=Messina%2C%20Sicilia", "nota": "Fonte usata anche dallo scraper automatico" },
+        { "nome": "Regione Siciliana — L.68 CPI Messina (enti pubblici 2026)", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999", "nota": "Avvisi e graduatorie CPI Messina e Villafranca Tirrena" },
+        { "nome": "Regione Siciliana — L.68 aziende private Sicilia", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n" },
         { "nome": "inPA - Concorsi riservati", "url": "https://www.inpa.gov.it/" },
-        { "nome": "Collocamento mirato Città Metropolitana Messina", "url": "https://www.cittametropolitana.me.it/" },
+        { "nome": "Centro per l'Impiego Messina (Città Metropolitana)", "url": "https://www.cittametropolitana.me.it/" },
         { "nome": "Jobmetoo (categorie protette)", "url": "https://www.jobmetoo.com/", "nota": "Homepage attiva. Il vecchio /it/offerte-lavoro dà errore 404" },
         { "nome": "Indeed - categorie protette Sicilia", "url": "https://it.indeed.com/jobs?q=categorie+protette&l=Sicilia" }
       ]
