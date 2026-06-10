@@ -36,7 +36,59 @@ const PAROLE_PROFILO = [
   'software gestionale',
 ];
 
+const ESCLUDI_LAVORO = [
+  'privacy', 'cookie', 'concorso pubblico', 'funzionario', 'dirigente',
+  'dottore commercialista', 'tirocinio universit', 'stage curriculare',
+  'laurea triennale', 'ingegner', 'medico', 'infermier',
+];
+
 module.exports = [
+  {
+    id: 'linkedin-lavoro-messina',
+    enabled: true,
+    parser: 'linkedinJobs',
+    tipo: 'lavoro',
+    ente: 'LinkedIn',
+    sede: 'Messina',
+    searches: [
+      { keywords: 'contabile', location: 'Messina' },
+      { keywords: 'contabile', location: 'Messina, Sicilia' },
+      { keywords: 'amministrativo contabile', location: 'Messina' },
+      { keywords: 'ragioniere', location: 'Messina' },
+      { keywords: 'impiegato amministrativo', location: 'Messina' },
+      { keywords: 'commercialista', location: 'Messina' },
+      { keywords: 'paghe contributi', location: 'Messina' },
+      { keywords: 'data entry', location: 'Messina' },
+      { keywords: 'software gestionale', location: 'Messina' },
+    ],
+    includeKeywords: PAROLE_PROFILO,
+    excludeKeywords: ESCLUDI_LAVORO,
+    defaultAree: ['contabilita', 'amministrazione'],
+    profili: ['Contabile / Amministrativo'],
+    regioni_ammesse: ['sicilia'],
+    nota: 'API pubblica LinkedIn (jobs-guest): funziona dove Indeed/Subito bloccano lo scraper.',
+  },
+  {
+    id: 'linkedin-lavoro-sicilia',
+    enabled: true,
+    parser: 'linkedinJobs',
+    tipo: 'lavoro',
+    ente: 'LinkedIn',
+    sede: 'Sicilia',
+    searches: [
+      { keywords: 'contabile', location: 'Sicilia' },
+      { keywords: 'commercialista', location: 'Sicilia' },
+      { keywords: 'amministrativo', location: 'Sicilia' },
+      { keywords: 'software gestionale contabile', location: 'Sicilia' },
+      { keywords: 'data entry contabile', location: 'Sicilia' },
+      { keywords: 'categorie protette contabile', location: 'Sicilia' },
+    ],
+    includeKeywords: PAROLE_PROFILO,
+    excludeKeywords: ESCLUDI_LAVORO,
+    defaultAree: ['contabilita', 'amministrazione', 'fiscale'],
+    profili: ['Contabile / Amministrativo'],
+    regioni_ammesse: ['sicilia'],
+  },
   {
     id: 'gazzetta-via-concorsipubblici',
     enabled: true,

@@ -5,8 +5,8 @@
       "nome": "Offerte di lavoro",
       "descrizione": "Annunci di lavoro di aziende, studi professionali e agenzie per il lavoro.",
       "portali": [
-        { "nome": "Indeed Italia", "url": "https://it.indeed.com/jobs?q=contabile&l=Messina", "nota": "Usa /jobs/ (non /lavoro/). Se la pagina non si apre, prova dalla home it.indeed.com" },
-        { "nome": "LinkedIn Lavoro", "url": "https://www.linkedin.com/jobs/search/?keywords=contabile&location=Messina" },
+        { "nome": "LinkedIn Lavoro (Messina)", "url": "https://www.linkedin.com/jobs/search/?keywords=contabile&location=Messina%2C%20Sicilia", "nota": "Fonte usata anche dallo scraper automatico" },
+        { "nome": "Indeed Italia", "url": "https://it.indeed.com/jobs?q=contabile&l=Messina", "nota": "Usa /jobs/ (non /lavoro/). Lo scraper non riesce ad aggiornarlo automaticamente (blocco 403)" },
         { "nome": "Subito Lavoro", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/?q=contabile" },
         { "nome": "Jooble (contabile Messina)", "url": "https://it.jooble.org/SearchResult?ukw=contabile&loc=Messina" },
         { "nome": "Cliclavoro (ANPAL)", "url": "https://www.cliclavoro.gov.it/" },

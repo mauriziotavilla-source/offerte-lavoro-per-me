@@ -59,10 +59,19 @@ function makeFingerprint(payload) {
   );
 }
 
+function inferSede(source, item, descrizione) {
+  const testo = compactText(`${item.summary || ''} ${item.rawText || ''} ${descrizione}`).toLowerCase();
+  if (testo.includes('messina')) return 'Messina';
+  if (testo.includes('sicil')) return 'Sicilia';
+  if ((item.summary || '').toLowerCase().includes('remote') || testo.includes('remoto')) return 'Remoto';
+  return source.sede || 'Da definire';
+}
+
 function normalizeItem(source, item) {
   const nome = compactText(item.title);
   const descrizione = compactText(item.summary || item.rawText || nome).slice(0, 260);
   const tipo = source.tipo || 'lavoro';
+  const sede = inferSede(source, item, descrizione);
   const payload = {
     id: `${source.id}-${slugify(nome)}`,
     nome,
@@ -70,7 +79,7 @@ function normalizeItem(source, item) {
     tipo,
     aree: inferAree(`${nome} ${descrizione}`, source),
     stato: inferStato(item),
-    sede: source.sede || 'Da definire',
+    sede,
     modalita: '',
     contratto: '',
     retribuzione: '',

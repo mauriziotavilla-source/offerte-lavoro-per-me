@@ -61,6 +61,46 @@ async function parseHtmlLinks(source) {
   return dedupeItems(items);
 }
 
+async function parseLinkedInJobs(source) {
+  const searches = source.searches?.length
+    ? source.searches
+    : [{ keywords: 'contabile', location: source.location || 'Messina' }];
+  const items = [];
+
+  for (const query of searches) {
+    const url = `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${encodeURIComponent(query.keywords)}&location=${encodeURIComponent(query.location)}`;
+    const html = await fetchText(url);
+    const $ = cheerio.load(html);
+
+    $('li, .base-card').each((_, el) => {
+      const card = $(el);
+      const linkEl = card.find('a.base-card__full-link, a[href*="/jobs/view/"]').first();
+      const title = compactText(card.find('h3').first().text() || linkEl.text());
+      const company = compactText(card.find('h4').first().text());
+      const location = compactText(
+        card.find('.job-search-card__location, .artdeco-entity-lockup__caption, .job-search-card__location').first().text()
+      );
+      const href = makeAbsoluteUrl('https://www.linkedin.com', linkEl.attr('href'));
+      if (!title || !href || !href.includes('/jobs/view/')) return;
+
+      const nome = company ? `${title} — ${company}` : title;
+      const text = `${nome} ${location}`;
+      if (!keywordMatch(text, source.includeKeywords)) return;
+      if (keywordExcluded(text, source.excludeKeywords)) return;
+
+      items.push({
+        title: nome,
+        url: href.split('?')[0],
+        summary: location ? `Sede: ${location}` : '',
+        publishedAt: '',
+        rawText: text,
+      });
+    });
+  }
+
+  return dedupeItems(items);
+}
+
 async function parseRss(source) {
   const xml = await fetchText(source.url);
   const parser = new XMLParser({ ignoreAttributes: false });
@@ -83,6 +123,7 @@ async function parseRss(source) {
 
 async function collectFromSource(source) {
   if (source.parser === 'rss') return parseRss(source);
+  if (source.parser === 'linkedinJobs') return parseLinkedInJobs(source);
   return parseHtmlLinks(source);
 }
 

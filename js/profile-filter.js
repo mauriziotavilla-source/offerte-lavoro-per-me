@@ -43,7 +43,9 @@ function isManuale(offerta) {
 
 function titoloTroppoCorto(offerta) {
   const nome = compact(offerta.nome || '');
-  if (nome.length < 28) return true;
+  const tipo = String(offerta.tipo || '').toLowerCase();
+  const minLen = tipo === 'lavoro' ? 12 : 28;
+  if (nome.length < minLen) return true;
   const junk = [
     'concorsi', 'amministrativo', 'funzionario', 'concorso', 'tipologia concorso',
     'istruttore amministrativo', 'istruttore contabile', 'collaboratore amministrativo',
