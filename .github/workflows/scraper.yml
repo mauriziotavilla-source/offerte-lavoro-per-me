@@ -2,6 +2,21 @@ name: Scraper Offerte e Concorsi
 
 on:
   workflow_dispatch:
+    inputs:
+      invia_test_push:
+        description: "Invia notifica di test Firebase (senza aspettare nuove offerte)"
+        required: false
+        default: false
+        type: boolean
+      topic_test:
+        description: "Topic test (offerte_lavoro, concorsi_pubblici, categorie_protette)"
+        required: false
+        default: "concorsi_pubblici"
+        type: choice
+        options:
+          - offerte_lavoro
+          - concorsi_pubblici
+          - categorie_protette
   schedule:
     - cron: "0 */6 * * *"
 
@@ -47,4 +62,10 @@ jobs:
         working-directory: scripts
         env:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
-        run: npm run scraper:push
+        run: |
+          if [ "${{ github.event.inputs.invia_test_push }}" = "true" ]; then
+            echo "Modalità test push → topic ${{ github.event.inputs.topic_test }}"
+            node scraper/send-push.js --test --topic=${{ github.event.inputs.topic_test }}
+          else
+            npm run scraper:push
+          fi

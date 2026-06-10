@@ -17,6 +17,7 @@ const { collectFromSource } = require('./lib/parsers');
 const { normalizeSourceItems } = require('./lib/normalize');
 const { buildDiff, nextTopLevelData } = require('./lib/diff');
 const { filterForProfile, filterStats } = require('./lib/profile-filter');
+const { shouldRetainPrevious } = require('./lib/retention');
 
 const ROOT = path.join(__dirname, '..', '..');
 
@@ -55,14 +56,17 @@ function dedupe(list) {
   return [...byKey.values()];
 }
 
-function splitSeedAndScraped(previousData) {
+function splitPrevious(previousData) {
   const seed = [];
+  const retained = [];
   (previousData.offerte || []).forEach((o) => {
     if (!o.fonte_scraper || o.fonte_scraper === 'manual_seed') {
       seed.push({ ...o, fonte_scraper: 'manual_seed', url_origine: o.url_origine || o.link_ufficiale || '' });
+      return;
     }
+    if (shouldRetainPrevious(o)) retained.push(o);
   });
-  return { seed };
+  return { seed, retained };
 }
 
 async function collectAll() {
@@ -93,10 +97,13 @@ function sortByName(list) {
 
 async function main() {
   const previousData = readJson(OFFERTE_FILE, { offerte: [], versione: 1 });
-  const { seed } = splitSeedAndScraped(previousData);
+  const { seed, retained } = splitPrevious(previousData);
   const { collected, errors } = await collectAll();
 
-  const merged = sortByName(dedupe([...seed, ...collected]));
+  const merged = sortByName(dedupe([...seed, ...retained, ...collected]));
+  if (retained.length) {
+    console.log(`Conservati ${retained.length} bandi precedenti ancora entro scadenza`);
+  }
   const nextData = nextTopLevelData(previousData, merged, { sourceErrors: errors });
   const novita = buildDiff(previousData, nextData, errors);
 

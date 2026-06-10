@@ -3,6 +3,8 @@
  * Copyright © 2026 Maurizio Tavilla
  */
 
+import { mergeRetainingOpen } from './offerta-retention.js';
+
 const STORAGE_CUSTOM = 'lavoro_offerte_custom_v1';
 const STORAGE_CACHE = 'lavoro_offerte_cache_v1';
 const STORAGE_CACHE_META = 'lavoro_offerte_cache_meta_v1';
@@ -274,6 +276,10 @@ export async function loadAllOfferte(opts = {}) {
       remote = await fetchRemote(url, cfg.timeout_secondi || 12);
       const changed = isNewerOrDifferent(remote, cached);
       if (opts.forceRemote || changed || !cached) {
+        const mergedOfferte = cached
+          ? mergeRetainingOpen(remote.offerte || [], cached.offerte || [])
+          : remote.offerte || [];
+        remote = { ...remote, offerte: mergedOfferte };
         writeCache(remote, 'online');
         fonte = 'online';
         if (opts.forceRemote && !changed && cached) {
@@ -301,7 +307,11 @@ export async function loadAllOfferte(opts = {}) {
     if (fonte !== 'online') fonte = 'locale';
   }
 
-  const base = applyAutomaticNewMarkers((data.offerte || []).map(enrichOfferta));
+  let baseOfferte = (data.offerte || []).map(enrichOfferta);
+  if (fonte === 'locale' && cached?.offerte?.length) {
+    baseOfferte = mergeRetainingOpen(baseOfferte, cached.offerte.map(enrichOfferta)).map(enrichOfferta);
+  }
+  const base = applyAutomaticNewMarkers(baseOfferte);
   const custom = getCustomOfferte().map(enrichOfferta);
   const ids = new Set(base.map((o) => o.id));
   const merged = [...base, ...custom.filter((c) => !ids.has(c.id))];

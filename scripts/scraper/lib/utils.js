@@ -40,6 +40,12 @@ function parseDateLoose(value) {
   if (!raw) return '';
   const iso = raw.match(/\b(20\d{2})-(\d{2})-(\d{2})\b/);
   if (iso) return `${iso[1]}-${iso[2]}-${iso[3]}`;
+  const scadenza = raw.match(/scadenza\s+(\d{1,2})[\/.-](\d{1,2})[\/.-](20\d{2})/i);
+  if (scadenza) {
+    const dd = scadenza[1].padStart(2, '0');
+    const mm = scadenza[2].padStart(2, '0');
+    return `${scadenza[3]}-${mm}-${dd}`;
+  }
   const slash = raw.match(/\b(\d{1,2})[\/.-](\d{1,2})[\/.-](20\d{2})\b/);
   if (slash) {
     const dd = slash[1].padStart(2, '0');

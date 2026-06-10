@@ -20,7 +20,9 @@ function inferAree(text, source) {
 
 function inferStato(item) {
   const hay = compactText(`${item.title} ${item.summary}`).toLowerCase();
-  if (hay.includes('chius') || hay.includes('scadut') || hay.includes('graduatoria')) return 'chiuso';
+  if (/\bscadut[oaie]\b/.test(hay) || /\bchius[oa]\b/.test(hay) || hay.includes('graduatoria definitiva')) {
+    return 'chiuso';
+  }
   if (hay.includes('apert') || hay.includes('attivo') || hay.includes('candidat')) return 'aperto';
   if (hay.includes('in arrivo') || hay.includes('prossim') || hay.includes('in pubblicazione')) return 'in_arrivo';
   return 'aperto';
@@ -76,7 +78,7 @@ function normalizeItem(source, item) {
     partecipazione:
       source.partecipazione ||
       `Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: ${source.sede || 'da definire'}.`,
-    scadenze: item.publishedAt ? [{ fase: 'Pubblicato', data: item.publishedAt, note: '' }] : [],
+    scadenze: item.publishedAt ? [{ fase: 'Invio candidatura', data: item.publishedAt, note: '' }] : [],
     requisiti: ['Verificare requisiti sull\'annuncio ufficiale'],
     documenti: ['Curriculum aggiornato'],
     profili: source.profili || [],

@@ -4,6 +4,8 @@
  * Copyright © 2026 Maurizio Tavilla
  */
 
+import { getOfferteNotificationsPlugin } from './offerte-notifications-native.js';
+
 const STORAGE_PUSH_PREFS = 'lavoro_push_prefs_v1';
 const STORAGE_PUSH_TOKEN = 'lavoro_push_token_v1';
 const STORAGE_PUSH_NEW = 'lavoro_push_new_v1';
@@ -235,11 +237,9 @@ export async function ensurePushRegistration(onMessage) {
 }
 
 export async function syncPushTopics(prefs, onMessage) {
-  if (!window.Capacitor?.nativePromise) {
-    throw new Error('Sincronizzazione topic non disponibile.');
-  }
+  const plugin = getOfferteNotificationsPlugin();
   const topics = prefs.enabled ? selectedPushTopics(prefs) : [];
-  const result = await window.Capacitor.nativePromise('OfferteNotifications', 'syncTopics', {
+  const result = await plugin.syncTopics({
     topics,
     unsubscribeMissing: true,
   });

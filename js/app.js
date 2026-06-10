@@ -29,6 +29,11 @@ import {
   syncNewBadgeFromNovitaOnline,
 } from './push-notifications.js';
 import { passaFiltroProfilo } from './profile-filter.js';
+import {
+  isNascostaPerScadenza,
+  isScadutaPerData,
+  statoEffettivo,
+} from './offerta-retention.js';
 
 const STORAGE_PREFERITI = 'lavoro_preferiti';
 const STORAGE_CHECKLIST = 'lavoro_checklist';
@@ -599,10 +604,10 @@ function getFiltrate(lista = offerte) {
 
   return lista.filter((o) => {
     if (!passaFiltroProfilo(o, profilo)) return false;
-    if (isScaduta(o) && !isPreferito(o.id)) return false;
+    if (isNascostaPerScadenza(o, isPreferito(o.id))) return false;
     if (soloSicilia && !isPerSicilia(o)) return false;
     if (!tipi.includes(o.tipo)) return false;
-    if (!stati.includes(o.stato)) return false;
+    if (!stati.includes(statoEffettivo(o))) return false;
     if (!(o.aree || []).some((a) => aree.includes(a))) return false;
     if (testo) {
       const hay = [
@@ -694,10 +699,13 @@ function getProssimaScadenza(o) {
   return date.sort((a, b) => a - b)[0];
 }
 function isScaduta(o) {
-  if (o.stato === 'chiuso') return true;
+  return isScadutaPerData(o) || (o.stato === 'chiuso' && !ultimaScadenzaConcorso(o));
+}
+
+function ultimaScadenzaConcorso(o) {
   const date = (o.scadenze || []).map((s) => parseData(s.data)).filter(Boolean);
-  if (!date.length) return false;
-  return date.sort((a, b) => b - a)[0] < oggi();
+  if (!date.length) return null;
+  return date.sort((a, b) => b - a)[0];
 }
 function formatData(d) {
   if (!d) return '—';
