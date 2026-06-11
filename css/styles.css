@@ -26,6 +26,12 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-x: clip;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   margin: 0;
   font-family: var(--font);
@@ -33,6 +39,8 @@ body {
   color: var(--text);
   line-height: 1.55;
   min-height: 100vh;
+  max-width: 100%;
+  overflow-x: hidden;
   background-image:
     radial-gradient(ellipse 80% 50% at 50% -20%, rgba(61, 158, 255, 0.12), transparent),
     radial-gradient(ellipse 60% 40% at 100% 100%, rgba(192, 132, 252, 0.08), transparent);
@@ -49,6 +57,7 @@ body {
 
 .header-inner {
   max-width: 1400px;
+  width: 100%;
   margin: 0 auto;
   padding: 1rem 1.5rem;
   display: flex;
@@ -56,6 +65,7 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
+  min-width: 0;
 }
 
 .brand {
@@ -99,17 +109,25 @@ body {
 
 .layout {
   max-width: 1400px;
+  width: 100%;
   margin: 0 auto;
   padding: 1.5rem;
   display: grid;
-  grid-template-columns: 280px 1fr;
+  grid-template-columns: minmax(0, 280px) minmax(0, 1fr);
   gap: 1.5rem;
   align-items: start;
+}
+
+.content {
+  min-width: 0;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 @media (max-width: 900px) {
   .layout {
     grid-template-columns: 1fr;
+    padding: 1rem;
   }
 }
 
@@ -307,6 +325,7 @@ body {
   margin-bottom: 1rem;
   font-size: 0.9rem;
   color: var(--text-muted);
+  overflow-wrap: anywhere;
 }
 
 .stats-custom {
@@ -387,8 +406,9 @@ body {
 
 .bandi-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
   gap: 1rem;
+  width: 100%;
 }
 
 .bando-card {
@@ -415,6 +435,12 @@ body {
   align-items: flex-start;
   gap: 0.5rem;
   padding: 1rem 1.25rem 0;
+  min-width: 0;
+}
+
+.bando-card-header > .pills-row {
+  min-width: 0;
+  flex: 1;
 }
 
 .pills-row {
@@ -441,6 +467,8 @@ body {
   margin: 0 0 0.25rem;
   font-size: 1.05rem;
   line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .card-titolo-link {
@@ -502,6 +530,8 @@ body {
   color: var(--text);
   font-weight: 500;
   line-height: 1.4;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .card-partecipazione {
@@ -867,8 +897,9 @@ dialog {
   padding: 0;
   background: transparent;
   color: var(--text);
-  max-width: min(720px, 95vw);
-  width: 100%;
+  max-width: min(720px, calc(100vw - 2rem));
+  width: calc(100% - 2rem);
+  margin: auto;
 }
 
 .modal::backdrop {
@@ -892,9 +923,16 @@ dialog {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  gap: 0.75rem;
   padding: 1.25rem 1.5rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   background: var(--bg-elevated);
+  min-width: 0;
+}
+
+.modal-header > div:first-child {
+  min-width: 0;
+  flex: 1;
 }
 
 .modal-header h2 {
@@ -902,6 +940,8 @@ dialog {
   font-size: 1.25rem;
   color: var(--text);
   line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .modal-sub {

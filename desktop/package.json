@@ -1,0 +1,41 @@
+{
+  "name": "lavoro-concorsi-desktop",
+  "version": "1.0.0",
+  "description": "Lavoro & Concorsi per Me - Offerte e concorsi mirati sul profilo",
+  "author": "Maurizio Tavilla",
+  "copyright": "Copyright © 2026 Maurizio Tavilla. Tutti i diritti riservati.",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "prebuild": "node ensure-icons.js && node copy-app.js",
+    "build:exe": "npm run prebuild && node build-exe.js",
+    "start": "npm run prebuild && electron ."
+  },
+  "build": {
+    "appId": "it.mauriziotavilla.offertelavoro",
+    "productName": "Lavoro e Concorsi",
+    "icon": "build/icon.png",
+    "afterPack": "./after-pack.js",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": ["main.js", "copy-app.js", "package.json"],
+    "extraResources": [{ "from": "app", "to": "app", "filter": ["**/*"] }],
+    "win": {
+      "icon": "build/icon.png",
+      "target": [{ "target": "portable", "arch": ["x64"] }],
+      "signAndEditExecutable": false,
+      "verifyUpdateCodeSignature": false
+    },
+    "forceCodeSigning": false,
+    "portable": {
+      "artifactName": "LavoroConcorsi-${version}-Portable.exe"
+    }
+  },
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "rcedit": "^4.0.1"
+  }
+}

@@ -175,7 +175,8 @@ async function init() {
 function isMobileApp() {
   return (
     document.documentElement.classList.contains('mobile-app') ||
-    window.Capacitor?.isNativePlatform?.() === true
+    window.Capacitor?.isNativePlatform?.() === true ||
+    window.matchMedia('(max-width: 768px)').matches
   );
 }
 
@@ -207,8 +208,8 @@ function setupProfilo() {
 /* ----------------------------- Mobile ----------------------------- */
 function setupMobile() {
   const native = window.Capacitor?.isNativePlatform?.() === true;
-  const narrow = window.matchMedia('(max-width: 768px)').matches;
-  if (native || narrow) document.documentElement.classList.add('mobile-app');
+  // mobile-app = solo APK/Capacitor (layout flex fisso). Il browser stretto usa @media in mobile.css.
+  if (native) document.documentElement.classList.add('mobile-app');
 
   const sidebar = $('#sidebar');
   const overlay = $('#sidebar-overlay');

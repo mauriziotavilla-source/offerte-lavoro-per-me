@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-06-11",
-  "versione": 12,
+  "versione": 14,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "a0836c6538fd9baf63ca78d678b09eddd8c0080b",
-  "generated_at": "2026-06-11T22:04:05.369Z",
+  "catalog_hash": "67ca434c3b056fafb79615bef2af2dd97865e934",
+  "generated_at": "2026-06-11T22:20:31.809Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -229,13 +229,13 @@
       "hash_contenuto": "bd3313995051d29db6682038631206c7c7cdd0e8"
     },
     {
-      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
+        "contabilita",
         "paghe"
       ],
       "stato": "aperto",
@@ -245,7 +245,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Reggio di Calabria, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -253,24 +259,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "ba3344da72490afb2a8bb16966fcc175a67e3546"
+      "hash_contenuto": "31fac8a1eef8d7a603f69f4de26634d06a44f810"
     },
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -362,21 +369,28 @@
       "hash_contenuto": "1cdcacc2ac8f2313b91687aa702d4541d99a00c4"
     },
     {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-l-68-mese-di-luglio-2025-enti-pubblici-signed-pdf-cpi-messina",
-      "nome": "AVVISI L.68 mese di LUGLIO 2025_Enti Pubblici_signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
+      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
       "aree": [
-        "amministrazione"
+        "amministrazione",
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Messina",
       "modalita": "",
       "contratto": "",
       "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. AVVISI L.68 mese di LUGLIO 2025_Enti Pubblici_signed.pdf 07-LUG-2025 Avvisi a chiamata",
+      "descrizione_breve": "Sede: San Lorenzo, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -384,9 +398,9 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/AVVISI%20L.68%20mese%20di%20LUGLIO%202025_Enti%20Pubblici_signed.pdf",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379188933",
       "checklist": [
         "Aprire il bando ufficiale e leggere requisiti e riserve",
         "Verificare titolo di studio e requisiti generali",
@@ -397,30 +411,36 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
-      "hash_contenuto": "a69ce94dc544cee926f0a070b2e1d1bd4be314c8"
+      "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5"
     },
     {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-l-68-mese-di-novembre-2025-enti-pubblici-pdf-cpi-messina",
-      "nome": "AVVISI L.68 MESE DI NOVEMBRE 2025 ENTI PUBBLICI.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
+      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
       "aree": [
-        "amministrazione"
+        "amministrazione",
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Messina",
       "modalita": "",
       "contratto": "",
       "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. AVVISI L.68 MESE DI NOVEMBRE 2025 ENTI PUBBLICI.pdf 31-OTT-2025 Avvisi a chiamata",
+      "descrizione_breve": "Sede: Messina, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -428,9 +448,9 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/AVVISI%20L.68%20MESE%20DI%20NOVEMBRE%202025%20ENTI%20PUBBLICI.pdf",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379197479",
       "checklist": [
         "Aprire il bando ufficiale e leggere requisiti e riserve",
         "Verificare titolo di studio e requisiti generali",
@@ -441,101 +461,12 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
-      "hash_contenuto": "8db6a678a2ede877740081cc92a57569072ed0cc"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-l-68-mese-di-ottobre-2025-enti-pubblici-art-8-signed-1-pdf-cpi-messina",
-      "nome": "AVVISI L.68 mese di Ottobre 2025_Enti Pubblici art.8_signed (1).pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. AVVISI L.68 mese di Ottobre 2025_Enti Pubblici art.8_signed (1).pdf 03-OTT-2025 Avvisi a chiamata",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/AVVISI%20L.68%20mese%20di%20Ottobre%202025_Enti%20Pubblici%20art.8_signed%20%281%29.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "fe49c5e65ef3030b83feaf96d471ed62df76fd78"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-mese-di-maggio-2025-enti-pubblici-signed-pdf-cpi-messina",
-      "nome": "AVVISI mese di MAGGIO 2025 ENTI PUBBLICI _signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. AVVISI mese di MAGGIO 2025 ENTI PUBBLICI _signed.pdf 3O-APR-2025 Avvisi a chiamata",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/AVVISI%20mese%20di%20MAGGIO%202025%20ENTI%20PUBBLICI%20_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "ce8ecdbe0fb3a363359f3f5bd3de7bbe627c1175"
+      "hash_contenuto": "557372373582fe07c62f82f2a5f3488f6fc66058"
     },
     {
       "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-aprile-2026-enti-pubblici-signed-pdf-cpi-messina",
@@ -552,7 +483,13 @@
       "retribuzione": "",
       "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. avvisi_l.68_mese_di_aprile_2026_enti_pubblici_signed.pdf 10-APR-2026 Avvisi a chiamata",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-06-14",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -582,50 +519,6 @@
       "hash_contenuto": "2b39f594da9ee893421254010d389641e97478dd"
     },
     {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-febbraio-2026-enti-pubblici-signed-pdf-cpi-messina",
-      "nome": "avvisi_l.68_mese_di_febbraio_2026_enti_pubblici_signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. avvisi_l.68_mese_di_febbraio_2026_enti_pubblici_signed.pdf 30-GEN-2026 Avvisi a chiamata",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-01/avvisi_l.68_mese_di_febbraio_2026_enti_pubblici_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "67c6719d5905449026fb6f3b0099490bcac31887"
-    },
-    {
       "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-maggio-2026-enti-pubblici-signed-pdf-cpi-messina",
       "nome": "avvisi_l.68_mese_di_maggio_2026_enti_pubblici_signed.pdf (CPI Messina)",
       "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
@@ -640,7 +533,13 @@
       "retribuzione": "",
       "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. avvisi_l.68_mese_di_maggio_2026_enti_pubblici_signed.pdf 04-MAG-2026 Avvisi a chiamata",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-15",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -668,50 +567,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "f7fb3c55648a9994170e37b1da530722f5d6d1df"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-marzo-2026-enti-pubblici-pdf-cpi-messina",
-      "nome": "avvisi_l.68_mese_di_marzo_2026_enti_pubblici.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. avvisi_l.68_mese_di_marzo_2026_enti_pubblici.pdf 27-FEB-2026 Avvisi a chiamata",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-02/avvisi_l.68_mese_di_marzo_2026_enti_pubblici.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "67c91b01535e9f6f29dbe76a88bd66bae349d08e"
     },
     {
       "id": "gazzetta-via-concorsipubblici-azienda-regionale-emergenza-urgenza-di-milano-1-collaboratore-amministrativo-pro",
@@ -780,7 +635,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Mascali, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -824,7 +685,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Villa Italia, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -1035,6 +902,106 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-commerciale-messina-deliveroo",
+      "nome": "Commerciale - Messina — Deliveroo",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Messina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-messina-at-deliveroo-4426602988",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "0f5c1c0e4f4fbe21623a5260091a8b613872e6ed"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-commerciale-reggio-calabria-m-f-vitalaire",
+      "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: San Lorenzo, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4418951383",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "78e7c2e35194b983cfb1923ed3a75c31b093e9d1"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-garfagnana-1-istruttore-amministrativo-contabile",
@@ -1754,51 +1721,6 @@
       "url_origine": "https://www.inpa.gov.it/"
     },
     {
-      "id": "regione-sicilia-l68-aziende-private-sicilia-consorzio-triscelio-graduatoria-provvisoria-art-8-avvisi-a-chiamata-mese-di-apri",
-      "nome": "Consorzio Triscelio Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Aprile 2025 (ID 2508) Fattorino.pdf_signed_signed.pdf",
-      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Consorzio Triscelio Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Aprile 2025 (ID 2508) Fattorino.pdf_signed_signed.pdf 13-GIU-2025 Graduatoria provvisoria",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Categorie protette — collocamento mirato"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/Consorzio%20Triscelio%20Graduatoria%20Provvisoria%20Art.%208%20avvisi%20a%20chiamata%20mese%20di%20Aprile%202025%20%28ID%202508%29%20Fattorino.pdf_signed_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "e7b4ccd6bee96c02cc69866710d0b11b6d55b8f5"
-    },
-    {
       "id": "seed-consulente-software-gestionale",
       "nome": "Consulente / Assistenza software gestionale contabile",
       "ente": "Software house / Rivenditore gestionali",
@@ -1984,13 +1906,13 @@
       "hash_contenuto": "a1656c2450b0890249b6eec15f8136dbd588197c"
     },
     {
-      "id": "linkedin-lavoro-messina-contabile-amministrativo-luxury-private-properties-sicily",
+      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-luxury-private-properties-sicily",
       "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
+        "contabilita",
         "fiscale"
       ],
       "stato": "aperto",
@@ -2000,7 +1922,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -2008,24 +1936,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "2124810b15abd68a51775c666e8861d2e1ac9e06"
+      "hash_contenuto": "f8ab76ac7a1f49f035976ba8755c73ebffc0d8de"
     },
     {
       "id": "linkedin-lavoro-messina-contabile-di-cantier-jr-assistente-di-cantiere-messina-nonstop-consulting",
@@ -2256,184 +2185,6 @@
       "hash_contenuto": "56f59a45556a8688a40299c3224a6eb839cc3221"
     },
     {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-826-e-d-r-s-828-graduatorie-definitive-enti-pubblici-zip-cpi-messina",
-      "nome": "d.r.s._826_e_d.r.s._828_graduatorie_definitive_enti_pubblici.zip (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. d.r.s._826_e_d.r.s._828_graduatorie_definitive_enti_pubblici.zip 27-FEB-2026 Graduatorie definitive",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-02/d.r.s._826_e_d.r.s._828_graduatorie_definitive_enti_pubblici_0.zip",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "ce22cda34b6bb36bea273b94e53b8115134a8e86"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-n-1750-decreto-di-annullamento-della-graduatoria-definitiva-pubblicata-con",
-      "nome": "d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "chiuso",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf 05-MAG-2026 Graduatoria definitiva rettificata pubblica",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "9cd0ab83b69339c603f6f135aff7597188b31cf2"
-    },
-    {
-      "id": "regione-sicilia-l68-aziende-private-sicilia-drive-eat-srl-graduatoria-provvisoria-art-8-avvisi-a-chiamata-mese-di-novembre-2",
-      "nome": "Drive Eat srl Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Novembre 2024 (ID 2194) Cameriere di Bar_signed.pdf",
-      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Drive Eat srl Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Novembre 2024 (ID 2194) Cameriere di Bar_signed.pdf 22-GEN-2025 Graduatoria provvisoria",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Categorie protette — collocamento mirato"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-01/Drive%20Eat%20srl%20Graduatoria%20Provvisoria%20Art.%208%20avvisi%20a%20chiamata%20mese%20di%20Novembre%202024%20%28ID%202194%29%20Cameriere%20di%20Bar_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "204659fe9f528ea66ed9db5e60a0223829815fcf"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-drs-3059-3060-3061-decreti-graduatorie-definitive-az-ospedaliera-papardo-messina",
-      "nome": "DRS 3059-3060-3061 Decreti Graduatorie Definitive Az. Ospedaliera Papardo Messina.zip (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. DRS 3059-3060-3061 Decreti Graduatorie Definitive Az. Ospedaliera Papardo Messina.zip 29-LUG-2025 Graduatorie definitive",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/DRS%203059-3060-3061%20Decreti%20Graduatorie%20Definitive%20Az.%20Ospedaliera%20Papardo%20Messina.zip",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "85fd54e804756fd4a4fd33531d8b222bcf44d885"
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-educational-aid-technician-full-time-u-s-navy-fleet-and-family-readiness-ffr",
       "nome": "Educational Aid/Technician (Full Time) — U.S. Navy Fleet and Family Readiness (FFR)",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -2566,183 +2317,6 @@
       "hash_contenuto": "caf708bc2c32a946fab230625b2a465762c2adbb"
     },
     {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-definitivo-amam-signed-pdf-cpi-messina",
-      "nome": "ELENCO DEFINITIVO AMAM_signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "chiuso",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. ELENCO DEFINITIVO AMAM_signed.pdf 09-SET-2025 Graduatoria definitiva",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/ELENCO%20DEFINITIVO%20AMAM_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "10b037ff8c4a15006e1212064a92c2bf97ff94b8"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-provvisorio-amam-pdf-cpi-messina",
-      "nome": "elenco provvisorio AMAM.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. elenco provvisorio AMAM.pdf 22-AGO-2025 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/elenco%20provvisorio%20AMAM.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "3d5127fde5ee84e12794332b9cbdce6521f57a7d"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-provvisorio-azienda-ospedaliera-universitaria-g-martino-messina-signed-pd",
-      "nome": "elenco_provvisorio_azienda_ospedaliera_universitaria_g._martino_messina_signed.pdf",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. elenco_provvisorio_azienda_ospedaliera_universitaria_g._martino_messina_signed.pdf 19-DIC-2025 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/elenco_provvisorio_azienda_ospedaliera_universitaria_g._martino_messina_signed_0.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "3cd12e7e9241bbeaf439e9086d592120d1d0a2fe"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-elenco-provvisorio-centro-neurolesi-bonino-pulejo-messina-signed-pdf",
-      "nome": "elenco_provvisorio_centro_neurolesi_bonino_pulejo_messina_signed.pdf",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. elenco_provvisorio_centro_neurolesi_bonino_pulejo_messina_signed.pdf 24-MAR-2026 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-03/elenco_provvisorio_centro_neurolesi_bonino_pulejo_messina_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "45e12a9ec21991a5cdfadd57e1f7b0acb259c289"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-esperto-amministrativo-contabile",
       "nome": "esperto amministrativo contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -2788,67 +2362,28 @@
       "hash_contenuto": "3b4db976ecc38d7d94e71f2faace2c8717ff70c6"
     },
     {
-      "id": "regione-sicilia-l68-aziende-private-sicilia-f-lli-alessi-srl-graduatoria-provvisoria-art-8-avvisi-a-chiamata-mese-di-aprile-",
-      "nome": "F.lli Alessi srl Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Aprile 2025 (ID 209) Installatore di Infissi_signed.pdf",
-      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "id": "linkedin-orfani-guerra-messina-global-is-project-manager-abb",
+      "nome": "Global IS Project Manager — ABB",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
       "aree": [
         "amministrazione",
         "contabilita"
       ],
       "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "F.lli Alessi srl Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Aprile 2025 (ID 209) Installatore di Infissi_signed.pdf 27-GIU-2025 Graduatoria provvisoria",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Categorie protette — collocamento mirato"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/F.lli%20Alessi%20srl%20%20Graduatoria%20Provvisoria%20Art.%208%20avvisi%20a%20chiamata%20mese%20di%20Aprile%202025%20%28ID%20209%29%20Installatore%20di%20Infissi_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "d5cc24490ad2dd241361303fb5733f5578e3efd2"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-definitiva-asp-messina-signed-3-pdf-cpi-messina",
-      "nome": "GRADUATORIA DEFINITIVA ASP Messina_signed (3).pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "chiuso",
       "sede": "Messina",
       "modalita": "",
       "contratto": "",
       "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. GRADUATORIA DEFINITIVA ASP Messina_signed (3).pdf 14-MAR-2025 Graduatorie definitive",
+      "descrizione_breve": "Sede: Vibo Valentia, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -2856,9 +2391,9 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/GRADUATORIA%20DEFINITIVA%20ASP%20Messina_signed%20%283%29.pdf",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/global-is-project-manager-at-abb-4425859214",
       "checklist": [
         "Aprire il bando ufficiale e leggere requisiti e riserve",
         "Verificare titolo di studio e requisiti generali",
@@ -2869,453 +2404,12 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
-      "hash_contenuto": "5d30a4458b9159b0df61ffe88ec9cd91da3c11fb"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-provvisoria-asm-taormina-art-18-signed-pdf-cpi-messina",
-      "nome": "GRADUATORIA PROVVISORIA ASM TAORMINA ART. 18_signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. GRADUATORIA PROVVISORIA ASM TAORMINA ART. 18_signed.pdf 28-NOV-2025 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-11/GRADUATORIA%20PROVVISORIA%20ASM%20TAORMINA%20ART.%2018_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "465966d7fc172f576ffb0c1466fff60e8d885da1"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-provvisoria-ente-pubblico-l-68-99-signed-pdf-cpi-messina",
-      "nome": "graduatoria provvisoria ente pubblico L.68_99_signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatoria provvisoria ente pubblico L.68_99_signed.pdf 14-MAR-2025 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/graduatoria%20provvisoria%20ente%20pubblico%20L.68_99_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "70b8b7f40d119e5a9566c9d0824aff092e0c4966"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatoria-provvisoria-ente-pubblico-asm-art-18-l-68-99-pdf-cpi-messina",
-      "nome": "graduatoria_provvisoria_ente_pubblico_asm_art.18_l.68_99.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatoria_provvisoria_ente_pubblico_asm_art.18_l.68_99.pdf 17-APR-2026 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-04/graduatoria_provvisoria_ente_pubblico_asm_art.18_l.68_99.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "e1f368a2c004d511307adfa7807b7310c3850e93"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatoria-provvisoria-enti-pubblici-asp-messina-signed-pdf",
-      "nome": "graduatoria_provvisoria_enti_pubblici_asp_messina_signed.pdf",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatoria_provvisoria_enti_pubblici_asp_messina_signed.pdf 26-MAR-2026 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-03/graduatoria_provvisoria_enti_pubblici_asp_messina_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "d2a35fe5f8222628ab36349648e016f686286cab"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-definitive-asp-messina-zip-cpi-messina",
-      "nome": "GRADUATORIE DEFINITIVE ASP Messina.zip (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. GRADUATORIE DEFINITIVE ASP Messina.zip 15-APR-2025 Graduatorie definitive",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/GRADUATORIE%20DEFINITIVE%20ASP%20Messina.zip",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "9d102b65cc582e551ad1825920a32c2c6c793950"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-definitive-zip-cpi-messina",
-      "nome": "GRADUATORIE DEFINITIVE.zip (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. GRADUATORIE DEFINITIVE.zip 21-FEB-2025 Graduatorie definitive",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-02/GRADUATORIE%20DEFINITIVE.zip",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "c42c3121eea9832141bcf3fe094cccdd96bbd0b0"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-provvisorie-azienda-ospedaliera-papardo-maggio-2025-signed-1-pdf-cpi",
-      "nome": "Graduatorie provvisorie Azienda Ospedaliera Papardo Maggio 2025_signed (1).pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. Graduatorie provvisorie Azienda Ospedaliera Papardo Maggio 2025_signed (1).pdf 09-LUG-2025 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/Graduatorie%20provvisorie%20Azienda%20Ospedaliera%20Papardo%20Maggio%202025_signed%20%281%29.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "d43aeb865cf894a874c913af740bedd9759b5f8f"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-provvisorie-messina-social-city-art-8-signed-pdf-cpi-messina",
-      "nome": "graduatorie provvisorie Messina Social City art. 8_signed.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatorie provvisorie Messina Social City art. 8_signed.pdf 14-GEN-2025 Graduatorie Provvisorie",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-01/graduatorie%20provvisorie%20Messina%20Social%20City%20art.%208_signed.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "be87c89ca1f1ba0a62028a263d6d05b39f25f5d5"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-definitive-asm-taormina-art-18-zip-cpi-messina",
-      "nome": "graduatorie_definitive_asm_taormina_art._18.zip (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatorie_definitive_asm_taormina_art._18.zip 19-DIC-2025 Graduatorie definitive",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/graduatorie_definitive_asm_taormina_art._18_0.zip",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "3257f12f01db598273573af449b5722c7dabfc0e"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-definitive-zip-cpi-messina",
-      "nome": "graduatorie_definitive.zip (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatorie_definitive.zip 04-MAG-2026 Graduatorie definitive",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/graduatorie_definitive.zip",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "537236fee9d123d71d28872f1f620932c09234db"
+      "hash_contenuto": "51fcaa0cccf7642773e80b8c4b4967a3fd921666"
     },
     {
       "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-provvisorie-enti-pubblici-zip-cpi-messina",
@@ -3332,7 +2426,13 @@
       "retribuzione": "",
       "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. graduatorie_provvisorie_enti_pubblici.zip 10-GIU-2026 Graduatorie Provvisorie",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-25",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -3360,6 +2460,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "d8f0e46d0d7c3aeaaf65c105091d748639d947a9"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
+      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4"
     },
     {
       "id": "seed-categoria-protetta-amministrativo",
@@ -3415,14 +2565,13 @@
       "url_origine": "https://www.jobmetoo.com/it/offerte-lavoro"
     },
     {
-      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-rif-99370-wehunt",
+      "id": "linkedin-orfani-guerra-messina-impiegato-amministrativo-rif-99370-wehunt",
       "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
-        "fiscale"
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Messina",
@@ -3430,8 +2579,14 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [],
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -3439,24 +2594,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "d97724d2ab5993830034923c84de420fa7fcd46c"
+      "hash_contenuto": "1ba4d8b8a8707b517de867ede2b9cea61aefdd13"
     },
     {
       "id": "seed-impiegato-amministrativo-remoto",
@@ -3527,7 +2683,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Patti, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -3535,7 +2697,7 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Orfani di guerra equiparati — art. 8 L.68/99"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
       "checklist": [
@@ -3571,7 +2733,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -3579,7 +2747,7 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Orfani di guerra equiparati — art. 8 L.68/99"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-ufficio-tecnico-at-caporem-srl-4423341154",
       "checklist": [
@@ -3836,7 +3004,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -3954,6 +3128,56 @@
       "hash_contenuto": "83a35ddf8263c941cc47a4e9b68e8e646f12fc1b"
     },
     {
+      "id": "linkedin-orfani-guerra-messina-lavora-con-noi-posizione-aperte-per-maggio-2026-primaria-spa",
+      "nome": "Lavora con noi: posizione aperte per Maggio 2026 — Primaria SpA",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Siderno, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-con-noi-posizione-aperte-per-maggio-2026-at-primaria-spa-4405387027",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "62b3c4b0b97f0f16b8906f029aedcf068f62c47d"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-musketeer-sales-marketing-specialist-reggio-calabria-red-bull",
       "nome": "MUSKETEER - SALES & MARKETING SPECIALIST - Reggio Calabria — Red Bull",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -3969,7 +3193,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: San Lorenzo, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4057,7 +3287,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Reggio di Calabria, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4145,7 +3381,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4153,7 +3395,7 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Orfani di guerra equiparati — art. 8 L.68/99"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/receptionist-4421927613",
       "checklist": [
@@ -4189,7 +3431,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Reggio di Calabria, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4262,13 +3510,13 @@
       "hash_contenuto": "a33a8b91b0b0da1f63ec7958cbfc945548d3f2b4"
     },
     {
-      "id": "linkedin-lavoro-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
+      "id": "linkedin-orfani-guerra-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
       "nome": "Responsabile amministrativo — SC Distribuzione S.r.l.",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
-        "amministrazione"
+        "amministrazione",
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Messina",
@@ -4277,7 +3525,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Maierato, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4285,24 +3539,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-sc-distribuzione-s-r-l-4423136212",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "6a36a85887f2c82810eb1bf239fb13055243b9cc"
+      "hash_contenuto": "80ffb82f6cec96ffc0df70f08a5563a1ea61479d"
     },
     {
       "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-contabile-randstad-italia",
@@ -4539,7 +3794,13 @@
       "retribuzione": "",
       "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. rettifica_data_protocollo_avvisi_mese_di_maggio_enti_pubblici.pdf 04-MAG-2026 Avvisi a chiamata - Rettifica",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-06-18",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4567,51 +3828,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "788c206c849593dbac6f48085cfb8cb6fb13f7b8"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-rettifica-e-riformulazione-graduatoria-definitiva-l-68-ente-pubblico-per-portant",
-      "nome": "rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "chiuso",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate.pdf 04 -DIC-2025 Approvazione rettifica e riformulazione graduatoria definitiva Avviso pubblico L.6",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate_0.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "0a37b1a5b7a4de8433b35554f1658894d78d89df"
     },
     {
       "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-per-logistica-ad-maio-solutions",
@@ -4717,7 +3933,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Acireale, Sicily, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-07-26",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -4744,50 +3966,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "cce733d4908753f633a08336f3c7ca7b2e9cbd89"
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-sospensione-avviso-l-68-inps-pdf-cpi-messina",
-      "nome": "Sospensione Avviso L. 68 INPS.pdf (CPI Messina)",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. Sospensione Avviso L. 68 INPS.pdf 03-NOV-2025 SOSPENSIONE Avviso a chiamata",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — CPI Messina art. 18"
-      ],
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-11/Sospensione%20Avviso%20L.%2068%20INPS.pdf",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-11",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "be73afdf3ba2d24dcf0b913ac4f74df726c9b81f"
     },
     {
       "id": "linkedin-lavoro-sicilia-stage-ufficio-amministrativo-catania-eurospin",

@@ -3,6 +3,8 @@
  * Copyright © 2026 Maurizio Tavilla
  */
 
+import { isCategoriaProtettaScaduta } from './scadenze-categoria.js';
+
 const ESCLUDI_PROFESSIONI_CONCORSO = [
   'veterinar', 'medico', 'infermier', 'ostetric', 'ingegner', 'ingegneria', 'architet',
   'avvocat', 'notaio', 'farmacia', 'farmacist', 'biologo', 'psicolog', 'agronom',
@@ -32,7 +34,7 @@ const MATCH_ORFANI_EQUIPARATI = [
 const ESCLUDI_CAT_PROTETTA_NON_ORFANI = [
   'art. 1', 'art.1', 'art 1', 'cat. prot. art.1', 'categorie protette art. 1',
   'appartenente categorie protette art.1', 'appartenente alle cat. prot. art.1',
-  'invalidità 46', 'invalidita 46', 'invalidità 46', 'riservato disabil',
+  'invalidità 46', 'invalidita 46', 'riservato disabil',
 ];
 
 const ESCLUDI_SE_NON_LAUREATO = [
@@ -155,6 +157,7 @@ export function passaFiltroProfilo(offerta, profilo) {
   if (esclusoDaLista(text, profilo)) return false;
 
   if (tipo === 'categoria_protetta') {
+    if (isCategoriaProtettaScaduta(offerta)) return false;
     if (esclusoCategoriaNonOrfani(offerta, text, profilo)) return false;
     if (!matchOrfaniEquiparati(text) && !isAvvisoCpiMessinaOrfani(offerta, text) && !isFonteOrfaniLinkedIn(offerta, text)) return false;
     if (richiedeLaurea(text, profilo)) return false;

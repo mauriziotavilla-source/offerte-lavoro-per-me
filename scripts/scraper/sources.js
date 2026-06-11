@@ -243,7 +243,7 @@ module.exports = [
   },
   {
     id: 'regione-sicilia-l68-enti-pubblici-messina-2025',
-    enabled: true,
+    enabled: false,
     parser: 'htmlSectionLinks',
     tipo: 'categoria_protetta',
     ente: 'Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)',

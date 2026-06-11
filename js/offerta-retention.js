@@ -1,7 +1,10 @@
 /**
  * Logica scadenze: i concorsi restano visibili fino al giorno della scadenza incluso.
+ * Le offerte orfani equiparati (categoria_protetta) spariscono se scadute (es. avvisi 2025 nel 2026).
  * Copyright © 2026 Maurizio Tavilla
  */
+
+import { isCategoriaProtettaScaduta, statoCategoriaProtetta } from './scadenze-categoria.js';
 
 export function oggi() {
   const d = new Date();
@@ -34,17 +37,22 @@ export function isScadutaPerData(offerta) {
  */
 export function statoEffettivo(offerta) {
   const tipo = String(offerta.tipo || '').toLowerCase();
-  const isConcorso = tipo === 'concorso' || tipo === 'categoria_protetta';
+  if (tipo === 'categoria_protetta') {
+    return statoCategoriaProtetta(offerta);
+  }
+  const isConcorso = tipo === 'concorso';
   if (isConcorso && !isScadutaPerData(offerta)) return 'aperto';
   return offerta.stato || 'aperto';
 }
 
 export function isNascostaPerScadenza(offerta, isPreferito = false) {
   if (isPreferito) return false;
-  if (isScadutaPerData(offerta)) return true;
   const tipo = String(offerta.tipo || '').toLowerCase();
-  const isConcorso = tipo === 'concorso' || tipo === 'categoria_protetta';
-  if (isConcorso) return false;
+  if (tipo === 'categoria_protetta') {
+    return isCategoriaProtettaScaduta(offerta);
+  }
+  if (isScadutaPerData(offerta)) return true;
+  if (tipo === 'concorso') return false;
   if (offerta.stato === 'chiuso') return true;
   return false;
 }

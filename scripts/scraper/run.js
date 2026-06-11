@@ -18,6 +18,7 @@ const { normalizeSourceItems } = require('./lib/normalize');
 const { buildDiff, nextTopLevelData } = require('./lib/diff');
 const { filterForProfile, filterStats, valutaProfilo, loadProfilo } = require('./lib/profile-filter');
 const { shouldRetainPrevious } = require('./lib/retention');
+const { isCategoriaProtettaScaduta } = require('./lib/scadenze-categoria');
 
 const ROOT = path.join(__dirname, '..', '..');
 
@@ -108,7 +109,9 @@ async function main() {
     );
   }
 
-  const merged = sortByName(dedupe([...seed, ...retainedFiltered, ...collected]));
+  const merged = sortByName(
+    dedupe([...seed, ...retainedFiltered, ...collected]).filter((o) => !isCategoriaProtettaScaduta(o))
+  );
   if (retainedFiltered.length) {
     console.log(`Conservati ${retainedFiltered.length} bandi precedenti ancora entro scadenza`);
   }

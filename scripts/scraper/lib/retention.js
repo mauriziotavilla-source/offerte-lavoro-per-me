@@ -2,6 +2,7 @@
  * Mantiene le offerte/concorsi fino alla scadenza (incluso il giorno della scadenza).
  */
 const { compactText } = require('./utils');
+const { isCategoriaProtettaScaduta } = require('./scadenze-categoria');
 
 function oggi() {
   const d = new Date();
@@ -22,6 +23,9 @@ function ultimaScadenza(offerta) {
 }
 
 function isScaduta(offerta) {
+  if (String(offerta.tipo || '').toLowerCase() === 'categoria_protetta') {
+    return isCategoriaProtettaScaduta(offerta);
+  }
   const ultima = ultimaScadenza(offerta);
   if (ultima) return ultima < oggi();
   return String(offerta.stato || '').toLowerCase() === 'chiuso';

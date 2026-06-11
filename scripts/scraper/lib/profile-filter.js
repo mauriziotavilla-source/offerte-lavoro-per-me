@@ -120,6 +120,10 @@ const ESCLUDI_CAT_PROTETTA_NON_ORFANI = [
   'riservato disabil',
 ];
 
+const {
+  isCategoriaProtettaScaduta,
+} = require('./scadenze-categoria');
+
 /** Richiedono laurea: da escludere se titolo_studio.livello = diploma */
 const ESCLUDI_SE_NON_LAUREATO = [
   'laurea',
@@ -270,6 +274,9 @@ function valutaProfilo(offerta, profilo = null) {
   if (esclusoDaLista(text, p)) return { ok: false, motivo: 'parola_esclusa' };
 
   if (tipo === 'categoria_protetta') {
+    if (isCategoriaProtettaScaduta(offerta)) {
+      return { ok: false, motivo: 'categoria_protetta_scaduta' };
+    }
     if (esclusoCategoriaNonOrfani(offerta, text, p)) {
       return { ok: false, motivo: 'non_orfano_equiparato' };
     }

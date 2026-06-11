@@ -1,4 +1,9 @@
 const { compactText, sha1, slugify, todayIso, topicPerTipo, unique } = require('./utils');
+const {
+  inferScadenzeCategoriaProtetta,
+  isCategoriaProtettaScaduta,
+  statoCategoriaProtetta,
+} = require('./scadenze-categoria');
 
 /** Parole chiave -> area professionale */
 const KEYWORD_TO_AREA = [
@@ -101,6 +106,10 @@ function normalizeItem(source, item) {
     notifica_topics: [topicPerTipo(tipo)],
   };
   payload.hash_contenuto = makeFingerprint(payload);
+  if (tipo === 'categoria_protetta') {
+    payload.scadenze = inferScadenzeCategoriaProtetta(payload);
+    payload.stato = statoCategoriaProtetta(payload);
+  }
   return payload;
 }
 

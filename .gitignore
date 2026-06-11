@@ -2,6 +2,11 @@
 node_modules/
 scripts/node_modules/
 mobile/node_modules/
+desktop/node_modules/
+
+# Desktop Electron: cartella app generata e output build
+desktop/app/
+desktop/dist/
 
 # App Android (Capacitor): file generati e cache di build
 mobile/www/
@@ -27,3 +32,4 @@ mobile/android/key.properties
 Thumbs.db
 __pycache__/
 *.pyc
+.vscode/
