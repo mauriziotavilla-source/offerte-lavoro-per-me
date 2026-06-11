@@ -1,152 +1,474 @@
 {
-  "generated_at": "2026-06-11T21:29:11.459Z",
+  "generated_at": "2026-06-11T22:04:05.370Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6693885a4e429fc3a786229869a633eedea67e40",
+  "catalog_hash": "a0836c6538fd9baf63ca78d678b09eddd8c0080b",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 0
+    "nuovi": 11,
+    "aggiornati": 24
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "31fac8a1eef8d7a603f69f4de26634d06a44f810",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "ba3344da72490afb2a8bb16966fcc175a67e3546",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-candidatura-spontanea-bnp-paribas-real-estate-bnp-paribas-real-estate",
-      "nome": "CANDIDATURA SPONTANEA - BNP PARIBAS REAL ESTATE — BNP Paribas Real Estate",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-bnp-paribas-real-estate-at-bnp-paribas-real-estate-4399051106",
+      "id": "linkedin-lavoro-sicilia-contabile-amministrativo-giovanni-furnari",
+      "nome": "contabile amministrativo — GIOVANNI FURNARI",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-4418772600",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "76a8280180f5f8a8194fe4a96088435fa67a44c5",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "a1656c2450b0890249b6eec15f8136dbd588197c",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-luxury-private-properties-sicily",
-      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
+      "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-n-1750-decreto-di-annullamento-della-graduatoria-definitiva-pubblicata-con",
+      "nome": "d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf (CPI Messina)",
       "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f8ab76ac7a1f49f035976ba8755c73ebffc0d8de",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "9cd0ab83b69339c603f6f135aff7597188b31cf2",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-impiegato-amministrativo-rif-99370-wehunt",
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-definitivo-amam-signed-pdf-cpi-messina",
+      "nome": "ELENCO DEFINITIVO AMAM_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/ELENCO%20DEFINITIVO%20AMAM_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "10b037ff8c4a15006e1212064a92c2bf97ff94b8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-definitiva-asp-messina-signed-3-pdf-cpi-messina",
+      "nome": "GRADUATORIA DEFINITIVA ASP Messina_signed (3).pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/GRADUATORIA%20DEFINITIVA%20ASP%20Messina_signed%20%283%29.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "5d30a4458b9159b0df61ffe88ec9cd91da3c11fb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-provvisoria-asm-taormina-art-18-signed-pdf-cpi-messina",
+      "nome": "GRADUATORIA PROVVISORIA ASM TAORMINA ART. 18_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-11/GRADUATORIA%20PROVVISORIA%20ASM%20TAORMINA%20ART.%2018_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "465966d7fc172f576ffb0c1466fff60e8d885da1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatoria-provvisoria-ente-pubblico-asm-art-18-l-68-99-pdf-cpi-messina",
+      "nome": "graduatoria_provvisoria_ente_pubblico_asm_art.18_l.68_99.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-04/graduatoria_provvisoria_ente_pubblico_asm_art.18_l.68_99.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "e1f368a2c004d511307adfa7807b7310c3850e93",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-rif-99370-wehunt",
       "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "1ba4d8b8a8707b517de867ede2b9cea61aefdd13",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d97724d2ab5993830034923c84de420fa7fcd46c",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-impiegato-contabilita-gipys",
-      "nome": "Impiegato contabilità — Gipys",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-di-magazzino-gruppo-orsero",
+      "nome": "Responsabile Amministrativo di Magazzino — Gruppo Orsero",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-di-magazzino-at-gruppo-orsero-4411872188",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "66df7c35d83f62deedf10b374ef72a7ad1696e84",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d485ecde770c933e012a2d6a2fc3f6f90916c114",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-impiegato-ufficio-tecnico-caporem-srl",
-      "nome": "Impiegato Ufficio Tecnico — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-ufficio-tecnico-at-caporem-srl-4423341154",
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-e-finanziario-rallo-s-p-a-soc-agr",
+      "nome": "Responsabile amministrativo e finanziario — Rallo S.p.A. soc. agr.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-e-finanziario-4351001997",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4525881f4c584e69bdd1edccdb6a19888067b753",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "15f660c4fca524efeb07bf878bb056e4c3597f7a",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-payroll-specialist-full-remote-jet-hr",
-      "nome": "Payroll Specialist - Full Remote — Jet HR",
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-rettifica-e-riformulazione-graduatoria-definitiva-l-68-ente-pubblico-per-portant",
+      "nome": "rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate.pdf (CPI Messina)",
       "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-full-remote-at-jet-hr-4415201282",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate_0.pdf",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8c723671fa823ab020efad5f4826b3c92eeeb3ce",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-receptionist-bluehm-it",
-      "nome": "Receptionist — Bluehm.it",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/receptionist-4421927613",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "315d98a64d4a7e6bc8a15bfcccb653077f2676aa",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
-      "nome": "Responsabile amministrativo — SC Distribuzione S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-sc-distribuzione-s-r-l-4423136212",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "80ffb82f6cec96ffc0df70f08a5563a1ea61479d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-sistemisti-junior-aubay-italia",
-      "nome": "Sistemisti Junior — Aubay Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sistemisti-junior-at-aubay-italia-4411138980",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "cce733d4908753f633a08336f3c7ca7b2e9cbd89",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "0a37b1a5b7a4de8433b35554f1658894d78d89df",
       "notifica_topics": [
         "categorie_protette"
       ]
     }
   ],
-  "aggiornati": [],
-  "errori_fonti": [
+  "aggiornati": [
     {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 500"
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-l-68-mese-di-luglio-2025-enti-pubblici-signed-pdf-cpi-messina",
+      "nome": "AVVISI L.68 mese di LUGLIO 2025_Enti Pubblici_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/AVVISI%20L.68%20mese%20di%20LUGLIO%202025_Enti%20Pubblici_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "a69ce94dc544cee926f0a070b2e1d1bd4be314c8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
     },
     {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-l-68-mese-di-novembre-2025-enti-pubblici-pdf-cpi-messina",
+      "nome": "AVVISI L.68 MESE DI NOVEMBRE 2025 ENTI PUBBLICI.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/AVVISI%20L.68%20MESE%20DI%20NOVEMBRE%202025%20ENTI%20PUBBLICI.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "8db6a678a2ede877740081cc92a57569072ed0cc",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-l-68-mese-di-ottobre-2025-enti-pubblici-art-8-signed-1-pdf-cpi-messina",
+      "nome": "AVVISI L.68 mese di Ottobre 2025_Enti Pubblici art.8_signed (1).pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/AVVISI%20L.68%20mese%20di%20Ottobre%202025_Enti%20Pubblici%20art.8_signed%20%281%29.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "fe49c5e65ef3030b83feaf96d471ed62df76fd78",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-avvisi-mese-di-maggio-2025-enti-pubblici-signed-pdf-cpi-messina",
+      "nome": "AVVISI mese di MAGGIO 2025 ENTI PUBBLICI _signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/AVVISI%20mese%20di%20MAGGIO%202025%20ENTI%20PUBBLICI%20_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "ce8ecdbe0fb3a363359f3f5bd3de7bbe627c1175",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-aprile-2026-enti-pubblici-signed-pdf-cpi-messina",
+      "nome": "avvisi_l.68_mese_di_aprile_2026_enti_pubblici_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-04/avvisi_l.68_mese_di_aprile_2026_enti_pubblici_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "2b39f594da9ee893421254010d389641e97478dd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-febbraio-2026-enti-pubblici-signed-pdf-cpi-messina",
+      "nome": "avvisi_l.68_mese_di_febbraio_2026_enti_pubblici_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-01/avvisi_l.68_mese_di_febbraio_2026_enti_pubblici_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "67c6719d5905449026fb6f3b0099490bcac31887",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-maggio-2026-enti-pubblici-signed-pdf-cpi-messina",
+      "nome": "avvisi_l.68_mese_di_maggio_2026_enti_pubblici_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/avvisi_l.68_mese_di_maggio_2026_enti_pubblici_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "f7fb3c55648a9994170e37b1da530722f5d6d1df",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-marzo-2026-enti-pubblici-pdf-cpi-messina",
+      "nome": "avvisi_l.68_mese_di_marzo_2026_enti_pubblici.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-02/avvisi_l.68_mese_di_marzo_2026_enti_pubblici.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "67c91b01535e9f6f29dbe76a88bd66bae349d08e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-826-e-d-r-s-828-graduatorie-definitive-enti-pubblici-zip-cpi-messina",
+      "nome": "d.r.s._826_e_d.r.s._828_graduatorie_definitive_enti_pubblici.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-02/d.r.s._826_e_d.r.s._828_graduatorie_definitive_enti_pubblici_0.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "ce22cda34b6bb36bea273b94e53b8115134a8e86",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-drs-3059-3060-3061-decreti-graduatorie-definitive-az-ospedaliera-papardo-messina",
+      "nome": "DRS 3059-3060-3061 Decreti Graduatorie Definitive Az. Ospedaliera Papardo Messina.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/DRS%203059-3060-3061%20Decreti%20Graduatorie%20Definitive%20Az.%20Ospedaliera%20Papardo%20Messina.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "85fd54e804756fd4a4fd33531d8b222bcf44d885",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-provvisorio-amam-pdf-cpi-messina",
+      "nome": "elenco provvisorio AMAM.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/elenco%20provvisorio%20AMAM.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "3d5127fde5ee84e12794332b9cbdce6521f57a7d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-provvisorio-azienda-ospedaliera-universitaria-g-martino-messina-signed-pd",
+      "nome": "elenco_provvisorio_azienda_ospedaliera_universitaria_g._martino_messina_signed.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/elenco_provvisorio_azienda_ospedaliera_universitaria_g._martino_messina_signed_0.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "3cd12e7e9241bbeaf439e9086d592120d1d0a2fe",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-elenco-provvisorio-centro-neurolesi-bonino-pulejo-messina-signed-pdf",
+      "nome": "elenco_provvisorio_centro_neurolesi_bonino_pulejo_messina_signed.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-03/elenco_provvisorio_centro_neurolesi_bonino_pulejo_messina_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "45e12a9ec21991a5cdfadd57e1f7b0acb259c289",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-provvisoria-ente-pubblico-l-68-99-signed-pdf-cpi-messina",
+      "nome": "graduatoria provvisoria ente pubblico L.68_99_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/graduatoria%20provvisoria%20ente%20pubblico%20L.68_99_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "70b8b7f40d119e5a9566c9d0824aff092e0c4966",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatoria-provvisoria-enti-pubblici-asp-messina-signed-pdf",
+      "nome": "graduatoria_provvisoria_enti_pubblici_asp_messina_signed.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-03/graduatoria_provvisoria_enti_pubblici_asp_messina_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "d2a35fe5f8222628ab36349648e016f686286cab",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-definitive-asp-messina-zip-cpi-messina",
+      "nome": "GRADUATORIE DEFINITIVE ASP Messina.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/GRADUATORIE%20DEFINITIVE%20ASP%20Messina.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "9d102b65cc582e551ad1825920a32c2c6c793950",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-definitive-zip-cpi-messina",
+      "nome": "GRADUATORIE DEFINITIVE.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-02/GRADUATORIE%20DEFINITIVE.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "c42c3121eea9832141bcf3fe094cccdd96bbd0b0",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-provvisorie-azienda-ospedaliera-papardo-maggio-2025-signed-1-pdf-cpi",
+      "nome": "Graduatorie provvisorie Azienda Ospedaliera Papardo Maggio 2025_signed (1).pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/Graduatorie%20provvisorie%20Azienda%20Ospedaliera%20Papardo%20Maggio%202025_signed%20%281%29.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "d43aeb865cf894a874c913af740bedd9759b5f8f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-provvisorie-messina-social-city-art-8-signed-pdf-cpi-messina",
+      "nome": "graduatorie provvisorie Messina Social City art. 8_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-01/graduatorie%20provvisorie%20Messina%20Social%20City%20art.%208_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "be87c89ca1f1ba0a62028a263d6d05b39f25f5d5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatorie-definitive-asm-taormina-art-18-zip-cpi-messina",
+      "nome": "graduatorie_definitive_asm_taormina_art._18.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/graduatorie_definitive_asm_taormina_art._18_0.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "3257f12f01db598273573af449b5722c7dabfc0e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-definitive-zip-cpi-messina",
+      "nome": "graduatorie_definitive.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/graduatorie_definitive.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "537236fee9d123d71d28872f1f620932c09234db",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-provvisorie-enti-pubblici-zip-cpi-messina",
+      "nome": "graduatorie_provvisorie_enti_pubblici.zip (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-06/graduatorie_provvisorie_enti_pubblici.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "d8f0e46d0d7c3aeaaf65c105091d748639d947a9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-rettifica-data-protocollo-avvisi-mese-di-maggio-enti-pubblici-pdf-cpi-messina",
+      "nome": "rettifica_data_protocollo_avvisi_mese_di_maggio_enti_pubblici.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/rettifica_data_protocollo_avvisi_mese_di_maggio_enti_pubblici.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "788c206c849593dbac6f48085cfb8cb6fb13f7b8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-sospensione-avviso-l-68-inps-pdf-cpi-messina",
+      "nome": "Sospensione Avviso L. 68 INPS.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-11/Sospensione%20Avviso%20L.%2068%20INPS.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "be73afdf3ba2d24dcf0b913ac4f74df726c9b81f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
+  "errori_fonti": [
+    {
       "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 500"
+      "message": "HTTP 429"
     }
   ]
 }

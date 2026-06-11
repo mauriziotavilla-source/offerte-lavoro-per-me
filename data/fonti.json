@@ -26,11 +26,11 @@
     },
     {
       "id": "categoria_protetta",
-      "nome": "Orfani di guerra equiparati (L. 68/99 art. 8)",
-      "descrizione": "Solo avvisi e offerte per orfani di guerra ed equiparati iscritti al collocamento mirato art. 8. Esclusi bandi art. 1 (invalidità) e art. 18 (disabilità generica).",
+      "nome": "Orfani di guerra equiparati (art. 18 L.68/99)",
+      "descrizione": "Orfani di guerra ed equiparati ai sensi dell'art. 18 L. 68/1999 e dell'art. 7 L. 585/1971. Esclusi bandi riservati solo ad art. 1 (invalidità). Iscrizione CPI negli elenchi art. 8.",
       "portali": [
         { "nome": "LinkedIn — orfani di guerra Messina", "url": "https://www.linkedin.com/jobs/search/?keywords=orfani%20di%20guerra&location=Messina%2C%20Sicilia", "nota": "Fonte usata anche dallo scraper automatico" },
-        { "nome": "Regione Siciliana — L.68 art. 8 CPI Messina (enti pubblici 2026)", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999", "nota": "Avvisi e graduatorie CPI Messina — sezione orfani equiparati art. 8" },
+        { "nome": "Regione Siciliana — L.68 art. 18 CPI Messina (enti pubblici 2026)", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999", "nota": "Avvisi CPI Messina — orfani ed equiparati (art. 18 L.68/99)" },
         { "nome": "Centro per l'Impiego Messina (Città Metropolitana)", "url": "https://www.cittametropolitana.me.it/" },
         { "nome": "inPA - Concorsi riservati", "url": "https://www.inpa.gov.it/" }
       ]

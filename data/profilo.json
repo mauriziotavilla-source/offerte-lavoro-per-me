@@ -3,8 +3,9 @@
   "ultimo_aggiornamento": "2026-06-11",
   "categoria_protetta_spec": {
     "tipo": "orfano_guerra_equiparato",
-    "legge": "L. 68/1999 art. 8",
-    "descrizione": "Solo orfani di guerra ed equiparati iscritti al collocamento mirato art. 8 — esclusi art. 1 (invalidità) e art. 18 (disabilità generica)."
+    "legge_status": "art. 7 L. 585/1971 (equiparazione) e art. 18 L. 68/1999 (altre categorie protette)",
+    "legge_elenco_cpi": "art. 8 L. 68/1999 (elenchi e graduatorie collocamento mirato)",
+    "descrizione": "Orfani di guerra ed equiparati ai sensi dell'art. 18 L. 68/99 e dell'art. 7 L. 585/1971. Esclusi bandi riservati solo ad art. 1 (invalidità/disabilità)."
   },
   "candidato": {
     "nome": "Serafino Maurizio Tavilla",
@@ -14,7 +15,7 @@
     "telefono": "+39 347 3341453",
     "patenti": ["A", "B"],
     "categoria_protetta": true,
-    "nota_categoria_protetta": "Orfano di guerra equiparato (L. 365/1958 e L. 585/1971) e iscritto art. 8 L. 68/1999 (collocamento mirato categorie protette) dal 09/10/2009 al n. 7792 dell'elenco provinciale orfani di guerra ed equiparati."
+    "nota_categoria_protetta": "Orfano di guerra equiparato (L. 365/1958 e art. 7 L. 585/1971). Iscritto al collocamento mirato art. 18 L. 68/1999, elenco provinciale art. 8 (n. 7792 orfani di guerra ed equiparati) dal 09/10/2009."
   },
   "titolo_studio": {
     "livello": "diploma",
@@ -81,21 +82,20 @@
     "orfani di guerra",
     "orfano di guerra",
     "equiparat",
-    "art. 8",
+    "art. 18",
+    "art. 7",
+    "585/1971",
     "elenco provinciale orfani",
     "cpi messina"
   ],
   "parole_chiave_escludi_categoria_protetta": [
     "art. 1",
     "art.1",
-    "art. 18",
-    "art.18",
-    "invalidit",
-    "disabilit",
-    "handicap",
-    "categorie protette art. 1",
     "cat. prot. art.1",
+    "categorie protette art. 1",
     "appartenente alle cat. prot. art.1",
+    "invalidit",
+    "invalidità 46",
     "candidatura spontanea categorie protette"
   ],
   "parole_chiave_escludi": [
