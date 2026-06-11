@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-06-11",
-  "versione": 10,
+  "versione": 11,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "9ca6f781fcd3fe7f7cb928ef4136af39c36c597c",
-  "generated_at": "2026-06-11T10:43:21.272Z",
+  "catalog_hash": "81477498cb90b44b23e402d0bd592665cd3c1381",
+  "generated_at": "2026-06-11T16:08:46.863Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -90,7 +90,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -134,7 +134,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -229,6 +229,50 @@
       "hash_contenuto": "c8635d8c9387e26632442cb62cb0aeaae7af0f65"
     },
     {
+      "id": "linkedin-lavoro-sicilia-addetto-a-front-office-studio-amministrativo-c-s-s-group",
+      "nome": "Addetto/a front office – Studio amministrativo — C.S.S. Group",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-front-office-%E2%80%93-studio-amministrativo-at-c-s-s-group-4425248458",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "8f847a48e7b46993dea72f5062edd5b17d683931"
+    },
+    {
       "id": "linkedin-lavoro-sicilia-addetto-a-gestione-del-personale-area-amministrativa-works-talent",
       "nome": "Addetto/a Gestione del Personale - Area Amministrativa — Works Talent",
       "ente": "LinkedIn",
@@ -266,20 +310,20 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
       "hash_contenuto": "bd3313995051d29db6682038631206c7c7cdd0e8"
     },
     {
-      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "id": "linkedin-categorie-protette-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
+        "contabilita",
         "paghe"
       ],
       "stato": "aperto",
@@ -297,24 +341,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Categorie protette L.68/99 — orfani di guerra equiparati"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "ba3344da72490afb2a8bb16966fcc175a67e3546"
+      "hash_contenuto": "d92194c3c90c90dee149ec3d51472041ec5a128e"
     },
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -621,7 +666,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -667,7 +712,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -713,7 +758,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -937,7 +982,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -983,7 +1028,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1029,7 +1074,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1075,7 +1120,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1121,7 +1166,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1167,7 +1212,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1213,7 +1258,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1259,7 +1304,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1303,7 +1348,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1347,7 +1392,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1391,7 +1436,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1437,7 +1482,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1483,7 +1528,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1527,7 +1572,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1573,7 +1618,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1617,7 +1662,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1661,7 +1706,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1705,7 +1750,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1749,7 +1794,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1795,7 +1840,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1841,7 +1886,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1887,7 +1932,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1933,7 +1978,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1978,7 +2023,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2068,7 +2113,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2114,7 +2159,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2160,7 +2205,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2206,7 +2251,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2252,7 +2297,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2298,7 +2343,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2344,7 +2389,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2390,7 +2435,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2436,7 +2481,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2482,7 +2527,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2528,7 +2573,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2574,7 +2619,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2619,7 +2664,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2665,7 +2710,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2711,7 +2756,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2801,7 +2846,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2846,7 +2891,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2941,14 +2986,14 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-messina",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "aeae1bc4adb9764452e6d58fd99391a33d4cf932"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "id": "linkedin-categorie-protette-messina-candidatura-spontanea-categorie-protette-kpmg-italy",
       "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
       "ente": "LinkedIn — Categorie protette",
       "tipo": "categoria_protetta",
@@ -2962,7 +3007,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
@@ -2971,7 +3016,7 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Categorie protette L.68/99 — orfani di guerra equiparati"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325450286",
       "checklist": [
@@ -2984,7 +3029,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
@@ -3250,7 +3295,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3301,7 +3346,7 @@
       "data_pubblicazione": "2026-07-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3353,6 +3398,261 @@
       "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-garfagnana-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Castelnuovo di Garfagnana, 1 istruttore amministrativo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Castelnuovo di Garfagnana, 1 istruttore amministrativo contabile Ente Comune di Castelnuovo di Garfagnana Scadenza 09/07/2026 Dettagli Località Lucca Occupazione istruttore amministrativo contabile Posti 1 Avviso esplorativo di mobilita’ volontaria p",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-09",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castelnuovo-di-garfagnana-avviso-di-mobilita-istruttore-amministrativo-contabile-lucca",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "9496bf981ffa56f0fd3dc4334d5183cc87297028"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-chiari-2-istruttore-amministrativo-contabile",
+      "nome": "Comune di Chiari, 2 Istruttore amministrativo-contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Chiari, 2 Istruttore amministrativo-contabile Ente Comune di Chiari Scadenza 10/07/2026 Dettagli Località Brescia Occupazione istruttore amministrativo contabile Posti 2 Comune di Chiari ha indetto un avviso di mobilità volontaria esterna per la cope",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-10",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-chiari-avviso-di-mobilita-istruttore-amministrativo-contabile-brescia-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "2215c5e1aa771bf46dde0d1d0fa20a60f4cf19c8"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-gioia-del-colle-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Gioia del Colle, 1 istruttore amministrativo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Gioia del Colle, 1 istruttore amministrativo contabile Ente Comune di Gioia del Colle Scadenza 10/07/2026 Dettagli Località Bari Occupazione istruttore amministrativo contabile Posti 1 Avviso di selezione pubblica per titoli e colloquio tramite mobil",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-10",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gioia-del-colle-avviso-di-mobilita-istruttore-amministrativo-contabile-bari-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "410e72e0d6ab3e64c0d1f4d9b18e09c26e9c6129"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-gonnosfanadiga-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Gonnosfanadiga, 1 istruttore amministrativo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Gonnosfanadiga, 1 istruttore amministrativo contabile Ente Comune di Gonnosfanadiga Scadenza 09/07/2026 Dettagli Località Sud Sardegna Occupazione istruttore amministrativo contabile Posti 1 Comune di Gonnosfanadiga avviso pubblico di mobilita’ volon",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-09",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gonnosfanadiga-avviso-di-mobilita-istruttore-amministrativo-contabile-sud-sardegna-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "25819bea8d5f31aaf0eb29a671fc676d0adccd03"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-iseo-1-istruttore-amministrativo",
+      "nome": "Comune di Iseo, 1 istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Iseo, 1 istruttore amministrativo Ente Comune di Iseo Scadenza 10/07/2026 Dettagli Località Brescia Occupazione istruttore amministrativo Posti 1 Bando di concorso pubblico per esami per la copertura di n. 1 (uno) posto a tempo pieno e indeterminato ",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-10",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-iseo-concorso-istruttore-amministrativo-brescia-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "f0cfa9afde38d3643d17cc69306ba4d93df8816a"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-meduna-di-livenza-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Meduna di Livenza , 1 istruttore amministrativo – contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -3397,11 +3697,62 @@
       "data_pubblicazione": "2026-07-08",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "97ec36be707f0be53d58d8b84deda017aae8fa46"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-biagio-di-callalta-1-istruttore-amministrativo",
+      "nome": "Comune di San Biagio di Callalta, 1 istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di San Biagio di Callalta, 1 istruttore amministrativo Ente Comune di San Biagio di Callalta Scadenza 10/06/2026 Scaduto Dettagli Località Treviso Occupazione istruttore amministrativo Posti 1 Concorso pubblico, per soli esami, per l'assunzione a tempo ",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-06-10",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-biagio-di-callalta-concorso-riservato-istruttore-amministrativo-treviso-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-06-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "523439f694d18d20f252179f913bdf7147ea7806"
     },
     {
       "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-amministrativo",
@@ -3448,7 +3799,7 @@
       "data_pubblicazione": "2026-06-28",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3499,11 +3850,62 @@
       "data_pubblicazione": "2026-06-28",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "15b20d0bf722dddc54999ea27610e3605d3f1b5d"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sarezzo-1-istruttore-contabile",
+      "nome": "Comune di Sarezzo , 1 Istruttore contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Sarezzo , 1 Istruttore contabile Ente Comune di Sarezzo Scadenza 10/06/2026 Scaduto Dettagli Località Brescia Occupazione istruttore contabile Posti 1 E’ indetto un concorso pubblico, per soli esami, per l’assunzione a tempo pieno e indeterminato di ",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-06-10",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarezzo-concorso-istruttore-contabile-brescia-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-06-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "717d044f705cf92088c1700528fd06a85dbc56e9"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-sedriano-2-istruttore-amministrativo-contabile",
@@ -3601,7 +4003,7 @@
       "data_pubblicazione": "2026-07-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3696,7 +4098,7 @@
       "data_pubblicazione": "2026-07-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3801,6 +4203,52 @@
       "hash_contenuto": "5428ba194e9eb0cb5d7b74b36e751d9d6e9ecff2"
     },
     {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-consorzio-triscelio-graduatoria-definitiva-avvisi-a-chiamata-mese-di-aprile-2025",
+      "nome": "Consorzio Triscelio Graduatoria Definitiva avvisi a chiamata mese di Aprile 2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Consorzio Triscelio Graduatoria Definitiva avvisi a chiamata mese di Aprile 2025.zip 27-GIU-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/Consorzio%20Triscelio%20Graduatoria%20Definitiva%20avvisi%20a%20chiamata%20mese%20di%20Aprile%202025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "454a463fe5ab0999473c1580136fd83ef1d1a3d6"
+    },
+    {
       "id": "regione-sicilia-l68-aziende-private-sicilia-consorzio-triscelio-graduatoria-provvisoria-art-8-avvisi-a-chiamata-mese-di-apri",
       "nome": "Consorzio Triscelio Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Aprile 2025 (ID 2508) Fattorino.pdf_signed_signed.pdf",
       "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
@@ -3839,7 +4287,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3897,6 +4345,50 @@
       ],
       "fonte_scraper": "manual_seed",
       "url_origine": "https://it.indeed.com/lavoro?q=assistenza+software+gestionale&l=Sicilia"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-consulente-contabile-studio-di-consulenza-chisari",
+      "nome": "Consulente contabile — STUDIO DI CONSULENZA CHISARI",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-contabile-4414338508",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "21cf29a889245b2438dd04d53249286a1e19c19f"
     },
     {
       "id": "linkedin-categorie-protette-sicilia-consultant-banking-financial-services-milano-roma-palermo-appartenenti-alle-cate",
@@ -3980,20 +4472,21 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
       "hash_contenuto": "708d9fc9badd1346df73d4a499fefea1ab9115f9"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-contabile-amministrativo-giovanni-furnari",
+      "id": "linkedin-lavoro-sicilia-contabile-amministrativo-giovanni-furnari",
       "nome": "contabile amministrativo — GIOVANNI FURNARI",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -4010,34 +4503,33 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-4418772600",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "bd2a95836fc2074d8a9e978a9a6ce9099b0d75c6"
+      "hash_contenuto": "a1656c2450b0890249b6eec15f8136dbd588197c"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-contabile-amministrativo-luxury-private-properties-sicily",
+      "id": "linkedin-lavoro-sicilia-contabile-amministrativo-luxury-private-properties-sicily",
       "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
-        "amministrazione",
         "contabilita",
+        "amministrazione",
         "fiscale"
       ],
       "stato": "aperto",
@@ -4055,34 +4547,76 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "83395fadc482a222098babc51b56996d8ecfe52c"
+      "hash_contenuto": "2124810b15abd68a51775c666e8861d2e1ac9e06"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-contabile-fiscale-senior-catania-petrarca-s-r-l",
-      "nome": "Contabile fiscale senior CATANIA — PETRARCA s.r.l.",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "id": "linkedin-lavoro-messina-contabile-di-cantier-jr-assistente-di-cantiere-messina-nonstop-consulting",
+      "nome": "Contabile di Cantier Jr-Assistente di cantiere Messina — NonStop Consulting",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
-        "amministrazione",
         "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Messina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-di-cantier-jr-assistente-di-cantiere-messina-at-nonstop-consulting-4427558450",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "6c4084a71a5a634fcc39a90bdbdd0a8df840e346"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-fiscale-senior-catania-petrarca-s-r-l",
+      "nome": "Contabile fiscale senior CATANIA — PETRARCA s.r.l.",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
         "fiscale"
       ],
       "stato": "aperto",
@@ -4100,25 +4634,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-fiscale-senior-catania-at-petrarca-s-r-l-4415223023",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "859983e2a6a1fbebe267834a63bae97440f0dcb4"
+      "hash_contenuto": "9f4734dff8703ef1386f485126053f0651449e7f"
     },
     {
       "id": "seed-contabile-studio-messina",
@@ -4174,13 +4707,14 @@
       "url_origine": "https://it.indeed.com/jobs?q=contabile&l=Messina"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-contabile-senior-manpower-italy",
+      "id": "linkedin-lavoro-sicilia-contabile-senior-manpower-italy",
       "nome": "Contabile senior — Manpower Italy",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -4197,9 +4731,53 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-manpower-italy-4421133955",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "0d7d22c718707e2d1c8156da70b385681d547310"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-3084-graduatoria-definitiva-avviso-pubblico-ditte-private-zip",
+      "nome": "D.D.S 3084 graduatoria definitiva avviso pubblico ditte private.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S 3084 graduatoria definitiva avviso pubblico ditte private.zip 30-LUG-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/D.D.S%20%203084%20graduatoria%20definitiva%20avviso%20pubblico%20ditte%20private.zip",
       "checklist": [
         "Aprire il bando ufficiale e leggere requisiti e riserve",
         "Verificare titolo di studio e requisiti generali",
@@ -4210,12 +4788,270 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
-      "hash_contenuto": "c2788cd8404eb5c28ef6e2021da31cb4957dadef"
+      "hash_contenuto": "0c2825160d8a9c249280557dffc9fbb28fcb74d0"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-1072-del-02-04-2025-firmato-zip",
+      "nome": "D.D.S. 1072 DEL 02.04.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. 1072 DEL 02.04.2025(firmato).zip 03-APR-2025 Graduatoria provvisoria",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-04-02",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/D.D.S.%201072%20DEL%2002.04.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-04-02",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "078b8d3db928beaff5b5bc9c999dabbbf6080280"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-1666-del-14-05-2025-firmato-zip",
+      "nome": "D.D.S. 1666 del 14.05.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. 1666 del 14.05.2025(firmato).zip 15-MAG-2025 Graduatoria provvisoria",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-05-14",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/D.D.S.%201666%20del%2014.05.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-05-14",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "0b78cf8e6c5dafd4d1e49908e304edeaca33337c"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-1833-del-20-05-2025-firmato-zip",
+      "nome": "d.d.s. 1833 del 20.05.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "d.d.s. 1833 del 20.05.2025(firmato).zip 21-MAG-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-05-20",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/d.d.s.%201833%20del%2020.05.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-05-20",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "3007a7ffdc3d43fa9c4a4bd58c5c5722753e84a6"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-2091-del-04-06-2025-firmato-zip",
+      "nome": "D.D.S. 2091 DEL 04.06.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. 2091 DEL 04.06.2025(firmato).zip 05-GIU-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-06-04",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/D.D.S.%202091%20DEL%2004.06.2025%28firmato%29.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-06-04",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "ec23f2a05e9bc893749b4d11386121dc0bcfda38"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-2792-del-16-7-2025-firmato-zip",
+      "nome": "d.d.s. 2792 del 16.7.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "d.d.s. 2792 del 16.7.2025(firmato).zip 17-LUG-2025 Graduatoria provvisoria",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-07-16",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/d.d.s.%202792%20del%2016.7.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-07-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "6ec9f649a8627347f6d45b1a41de535f4fa29acb"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-709-decreto-approvazione-graduatorie-aziende-private-avvisi-del-mese-di-fe",
@@ -4257,11 +5093,218 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "40ace04a43fb798b35033d5c0a6350de793aff12"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-2324-del-16-06-2025-firmato-zip",
+      "nome": "D.D.S. n. 2324 del 16.06.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. n. 2324 del 16.06.2025(firmato).zip 16-GIU-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-06-16",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/D.D.S.%20n.%202324%20del%2016.06.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-06-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "734bf5dc0f287be3f99cea49d7c87d9baa02e81b"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-4255-del-16-10-2025-zip",
+      "nome": "D.D.S. n. 4255 del 16.10.2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. n. 4255 del 16.10.2025.zip 16-OTT-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-10-16",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/D.D.S.%20n.%204255%20del%2016.10.2025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-10-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "2e120a2f611f5885644fa4189d0a279bd076deaa"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-4256-del-16-10-2025-firmato-zip",
+      "nome": "D.D.S. n. 4256 del 16.10.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. n. 4256 del 16.10.2025(firmato).zip 16-OTT-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-10-16",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/D.D.S.%20n.%204256%20del%2016.10.2025%28firmato%29.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-10-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "debe477fbc9a079792b67834c779e8b34688075b"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-4356-del-22-10-2025-firmato-zip",
+      "nome": "D.D.S. n. 4356 del 22.10.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S. n. 4356 del 22.10.2025(firmato).zip 22-OTT-2025 Graduatoria provvisoria",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-10-22",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/D.D.S.%20n.%204356%20del%2022.10.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-10-22",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "a7b50fec51716a5fff63ae5a2f2b182672a8b1d8"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-5234-zip",
@@ -4302,11 +5345,263 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "d8f6cab642904aa981d1b373d730356123b72de0"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-3374-del-02-9-25-firmato-zip",
+      "nome": "D.D.S.3374 DEL 02.9.25(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.D.S.3374 DEL 02.9.25(firmato).zip 03-SET-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/D.D.S.3374%20DEL%2002.9.25%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "f64f23d524ab1d73b440ede594a2ebbdbe7d43a4"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-1729-del-19-05-2025-firmato-2-pdf",
+      "nome": "D.R.S. n. 1729 del 19-05-2025(firmato) (2).pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.R.S. n. 1729 del 19-05-2025(firmato) (2).pdf 19-MAG-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-05-19",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/D.R.S.%20n.%201729%20del%2019-05-2025%28firmato%29%20%282%29_0.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-05-19",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "5be024fde1a25fa5c731df2cfc1fe3f1e24c2f7f"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-2570-del-02-07-2025-firmato-zip",
+      "nome": "D.R.S. n. 2570 del 02.07.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.R.S. n. 2570 del 02.07.2025(firmato).zip 02-LUG-2025 Graduatoria provvisoria",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-07-02",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/D.R.S.%20n.%202570%20del%2002.07.2025%28firmato%29_0.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-07-02",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "5fc3ca05d9f255b08249d75efb5f02e7b953b1fd"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-304-del-03-02-2025-firmato-zip",
+      "nome": "D.R.S. n. 304 del 03.02.2025(firmato).zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.R.S. n. 304 del 03.02.2025(firmato).zip 3-FEB-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-02-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-02/D.R.S.%20n.%20304%20del%2003.02.2025%28firmato%29.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-02-03",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "86d1fcabe0461425c959d225303cecc551485dcf"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-863-del-19-03-2025-pdf",
+      "nome": "D.R.S. n. 863 del 19.03.2025.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "D.R.S. n. 863 del 19.03.2025.pdf 19-MAR-2025 Graduatoria provvisoria",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-03-19",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/D.R.S.%20n.%20863%20del%2019.03.2025.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-03-19",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "ef1bb77acc4f734b51415775002e20870fa57edd"
     },
     {
       "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-826-e-d-r-s-828-graduatorie-definitive-enti-pubblici-zip-cpi-messina",
@@ -4346,11 +5641,102 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "133ba8a98268297aba03009a09c910de73d6bd36"
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-n-1750-decreto-di-annullamento-della-graduatoria-definitiva-pubblicata-con",
+      "nome": "d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf (CPI Messina)",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf 05-MAG-2026 Graduatoria definitiva rettificata pubblica",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — art. 8/18 L.68/99"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "dff678e89279fd955477fd2b83565aa840fed152"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-dds-5725-17-12-2025-zip",
+      "nome": "dds_5725_17_12_2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "dds_5725_17_12_2025.zip 17-DIC-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/dds_5725_17_12_2025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "93b5f73e0c4be13ef7304e194f2197ad8962e82a"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-decreti-graduatorie-definitive-avvisi-a-chiamata-gennaio-2025-zip",
@@ -4391,7 +5777,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4437,11 +5823,62 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "e0e2fbd7bc6fa8c3a47fd5c3554f73ec62a3eb7b"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreti-n-1135-e-n-1136-graduatorie-definitive-08-04-2025-zip",
+      "nome": "Decreti n° 1135 e n° 1136 Graduatorie definitive 08.04.2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Decreti n° 1135 e n° 1136 Graduatorie definitive 08.04.2025.zip 08-APR-2025 Graduatorie definitive",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-04-08",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/Decreti%20n%C2%B0%201135%20e%20n%C2%B0%201136%20Graduatorie%20definitive%2008.04.2025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-04-08",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "87f0486b474b4d89c4667b6a4f43d8c47235d448"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-approvazione-graduatorie-az-private-avvisi-mese-di-gen-2025-l-68-99-zip",
@@ -4483,11 +5920,63 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "0c37502854c164a99bb99066b47f8af85dce20f8"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-definitivo-03-03-2025-1-1-firmato-pdf",
+      "nome": "DECRETO DEFINITIVO 03-03-2025(1) (1)(firmato).pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "DECRETO DEFINITIVO 03-03-2025(1) (1)(firmato).pdf 25-Nov-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-03-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-11/DECRETO%20DEFINITIVO%2003-03-2025%281%29%20%281%29%28firmato%29.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-03-03",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "3bd26e29a2d1fae7cc658c68dbc8fc253ebca26f"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-di-approvazione-graduatorie-aziende-private-avvisi-a-chiamata-del-mese-d",
@@ -4529,7 +6018,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4575,7 +6064,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4620,11 +6109,164 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "17df66ed232ac53efe31e78f465bdd7a40fbf560"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-2022-del-28-05-2025-zip",
+      "nome": "Decreto n. 2022 del 28.05.2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Decreto n. 2022 del 28.05.2025.zip 28-MAG-2025 Graduatorie provvisorie",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-05-28",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/Decreto%20n.%202022%20del%2028.05.2025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-05-28",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "614cfa7451d0bc6f0c5b70e49e30286bf3736f08"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-3254-del-18-08-2025-zip",
+      "nome": "decreto n. 3254 del 18.08.2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "decreto n. 3254 del 18.08.2025.zip 18-AGO-2025 Graduatorie provvisorie",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-08-18",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/decreto%20n.%203254%20del%2018.08.2025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-08-18",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "46a4d4a42a3800e3c8270977c6e3d019ac0685f3"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-3255-del-18-08-2025-zip",
+      "nome": "decreto n. 3255 del 18.08.2025.zip",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "decreto n. 3255 del 18.08.2025.zip 18-AGO-2025 Graduatorie provvisorie",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-08-18",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/decreto%20n.%203255%20del%2018.08.2025.zip",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-08-18",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "c986c1f84b8b2642e76b96d260076b339052d46c"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-569-del-25-02-25-servizio-xii-grad-provv-aziende-private-docx-pdf",
@@ -4666,7 +6308,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4711,7 +6353,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4756,7 +6398,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4801,7 +6443,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4846,7 +6488,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4891,7 +6533,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4936,7 +6578,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5025,7 +6667,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5069,7 +6711,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5114,11 +6756,219 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "ce354345aed7876cac62c70120a8a6543ca9935f"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-2254-del-12-06-2025-pdf",
+      "nome": "DRS n. 2254 del 12-06-2025.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "DRS n. 2254 del 12-06-2025.pdf 12-GIU-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-06-12",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/DRS%20n.%202254%20del%2012-06-2025_1.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-06-12",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "2db98e232423c206a0dc0190197fbeb648d630e8"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-2739-del-11-07-2025-pdf",
+      "nome": "DRS n. 2739 del 11-07-2025.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "DRS n. 2739 del 11-07-2025.pdf 14-LUG-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-07-11",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/DRS%20n.%202739%20del%2011-07-2025_0.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-07-11",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "f6fc36bf4fa6aa79efb74cf4eff783450b850dde"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-3584-del-15-09-2025-pdf",
+      "nome": "DRS n. 3584 del 15-09-2025.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "DRS n. 3584 del 15-09-2025.pdf 15-SET-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-09-15",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/DRS%20n.%203584%20del%2015-09-2025.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-09-15",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "5d09799d222a3c80c217132f6d46f7573dc6fc5d"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-3972-del-03-10-2025-pdf",
+      "nome": "DRS n.3972 del 03-10-2025.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "DRS n.3972 del 03-10-2025.pdf 03-OTT-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2025-10-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/DRS%20n.3972%20del%2003-10-2025_0.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "2025-10-03",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "f5183660133fe801d52ca3ab3f01393d1d39fca3"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-5285-5286-5287-del-02-12-2025-graduatoria-definitiva-per-avviamento-art-18",
@@ -5160,7 +7010,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5211,6 +7061,51 @@
       "hash_contenuto": "a62310e14b675f1a469fad325d262454a6b8c87d"
     },
     {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-definitivo-amam-signed-pdf-cpi-messina",
+      "nome": "ELENCO DEFINITIVO AMAM_signed.pdf (CPI Messina)",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. ELENCO DEFINITIVO AMAM_signed.pdf 09-SET-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — art. 8/18 L.68/99"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/ELENCO%20DEFINITIVO%20AMAM_signed.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "5ab9292547e3852b4d5e7f6c6db3e8317267e6bf"
+    },
+    {
       "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-provvisorio-amam-pdf-cpi-messina",
       "nome": "elenco provvisorio AMAM.pdf (CPI Messina)",
       "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
@@ -5248,7 +7143,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5292,7 +7187,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5336,7 +7231,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5425,7 +7320,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5470,11 +7365,148 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "d5cc24490ad2dd241361303fb5733f5578e3efd2"
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-definitiva-asp-messina-signed-3-pdf-cpi-messina",
+      "nome": "GRADUATORIA DEFINITIVA ASP Messina_signed (3).pdf (CPI Messina)",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. GRADUATORIA DEFINITIVA ASP Messina_signed (3).pdf 14-MAR-2025 Graduatorie definitive",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — art. 8/18 L.68/99"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/GRADUATORIA%20DEFINITIVA%20ASP%20Messina_signed%20%283%29.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "2b8ed2916fe5dff3dcec233b9540678108e502d3"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-graduatoria-definitiva-nessuna-candidatura-pdf",
+      "nome": "GRADUATORIA DEFINITIVA NESSUNA CANDIDATURA.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "GRADUATORIA DEFINITIVA NESSUNA CANDIDATURA.pdf 26-AGO-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/GRADUATORIA%20DEFINITIVA%20NESSUNA%20CANDIDATURA_0.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "66f71e7fd66c98897beafb6509980cf6d3a8394d"
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-graduatoria-definitiva-sales-performance-srls-pdf",
+      "nome": "GRADUATORIA DEFINITIVA SALES Performance srls.pdf",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "GRADUATORIA DEFINITIVA SALES Performance srls.pdf 26-AGO-2025 Graduatoria definitiva",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — collocamento mirato"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/GRADUATORIA%20DEFINITIVA%20SALES%20Performance%20srls.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "b7d9e0151244984d27fb2fedbb62db18492e9f59"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-graduatoria-ergon-n-2953-pdf",
@@ -5516,7 +7548,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5560,7 +7592,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5605,7 +7637,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5650,7 +7682,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5695,7 +7727,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5741,7 +7773,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5787,7 +7819,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5831,7 +7863,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5876,7 +7908,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5922,7 +7954,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5966,7 +7998,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6010,7 +8042,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6055,7 +8087,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6100,7 +8132,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6146,7 +8178,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6192,7 +8224,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6236,7 +8268,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6282,7 +8314,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6328,7 +8360,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6372,7 +8404,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6416,7 +8448,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6462,7 +8494,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6508,7 +8540,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6554,7 +8586,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6600,7 +8632,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6644,7 +8676,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6690,7 +8722,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6736,7 +8768,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6782,7 +8814,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6828,7 +8860,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6874,7 +8906,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6920,7 +8952,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6964,7 +8996,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7008,7 +9040,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7054,7 +9086,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7100,7 +9132,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7144,7 +9176,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7190,7 +9222,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7236,7 +9268,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7281,7 +9313,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7608,7 +9640,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -7652,7 +9684,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -7696,7 +9728,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -7740,20 +9772,21 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
       "hash_contenuto": "8476e090817233ce8e237aa904c06ef4767f090e"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-impiegato-a-amministrativo-a-contabile-fulmine-group",
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-contabile-fulmine-group",
       "nome": "Impiegato/a amministrativo/a contabile — Fulmine Group",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -7770,25 +9803,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-contabile-at-fulmine-group-4421928441",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "54c9fa33e2b11fb8727a98362c06b37257551d15"
+      "hash_contenuto": "3511ffc28466e14af0dffde59188149904250298"
     },
     {
       "id": "linkedin-categorie-protette-sicilia-impiegato-a-categorie-protette-art-18-c-2-l-68-99-tecnotask-s-p-a",
@@ -7873,7 +9905,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7962,7 +9994,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8050,7 +10082,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-messina",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8138,11 +10170,55 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-messina",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "e6483624f4ec98f70bb686ad3a78da903d5a45d1"
+    },
+    {
+      "id": "linkedin-categorie-protette-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Acireale, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99 — orfani di guerra equiparati"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "45787e82575208bc5ade4306959b85574735052e"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-meic-services-spa-graduatoria-provvisoria-art-18-avvisi-a-chiamata-mese-di-ottob",
@@ -8183,11 +10259,55 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "b8603df45daeee82bd0a8d9ede3ee7d45ec860a8"
+    },
+    {
+      "id": "linkedin-categorie-protette-messina-musketeer-sales-marketing-specialist-reggio-calabria-red-bull",
+      "nome": "MUSKETEER - SALES & MARKETING SPECIALIST - Reggio Calabria — Red Bull",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: San Lorenzo, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99 — orfani di guerra equiparati"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/musketeer-sales-marketing-specialist-reggio-calabria-at-red-bull-4391112075",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "a8e58d2eb26b89baf2f6a471f1a964edb6332985"
     },
     {
       "id": "linkedin-categorie-protette-sicilia-new-opening-assistant-store-manager-victoria-s-secret-catania-c-c-centro-sicilia",
@@ -8359,7 +10479,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-messina",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8448,7 +10568,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8493,7 +10613,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8539,7 +10659,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8585,7 +10705,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8631,7 +10751,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8677,7 +10797,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8723,7 +10843,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8769,7 +10889,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8815,7 +10935,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8860,20 +10980,21 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "c6c7e225d79e39425cf2b67a609b6e5df938e2e9"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-ragioniere-a-studio-dott-brentino-francesco",
+      "id": "linkedin-lavoro-sicilia-ragioniere-a-studio-dott-brentino-francesco",
       "nome": "Ragioniere/a — Studio dott. Brentino Francesco",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -8890,25 +11011,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/ragioniere-a-4421180262",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "b3a99dd04980fe293315ff8e9c55ab4c722488aa"
+      "hash_contenuto": "7a1623a75fd18083989de59170dc66722a4322c3"
     },
     {
       "id": "linkedin-lavoro-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
@@ -9167,7 +11287,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -9256,7 +11376,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9300,11 +11420,56 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "9306be4afcedd546b18701c28ea2e5f42cd9d99c"
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-rettifica-e-riformulazione-graduatoria-definitiva-l-68-ente-pubblico-per-portant",
+      "nome": "rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate.pdf (CPI Messina)",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "chiuso",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Avviso L.68/99 — CPI Messina e Villafranca Tirrena. rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate.pdf 04 -DIC-2025 Approvazione rettifica e riformulazione graduatoria definitiva Avviso pubblico L.6",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette — art. 8/18 L.68/99"
+      ],
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate_0.pdf",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "bec181dec34e8bf62e2465593591e189c1de8002"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-rmli-srl-graduatoria-provvisoria-art-18-avvisi-a-chiamata-mese-di-luglio-2025-id",
@@ -9345,7 +11510,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-aziende-private-legge-n",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9660,13 +11825,58 @@
       "hash_contenuto": "4090acf07305aee55e4cb7991f6004a66109f241"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
-      "nome": "SENIOR SPECIALIST CONTABILITA’ E BILANCIO — Gifrab Italia S.p.A.",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-per-logistica-ad-maio-solutions",
+      "nome": "Segretario/a amministrativo/a per logistica — Ad Maio Solutions",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-per-logistica-at-ad-maio-solutions-4426129624",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "e5ae1dcbda3f4b5ea328f409821d3e647c53b3c6"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
+      "nome": "SENIOR SPECIALIST CONTABILITA’ E BILANCIO — Gifrab Italia S.p.A.",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -9683,25 +11893,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-specialist-contabilita%E2%80%99-e-bilancio-at-gifrab-italia-s-p-a-4415652973",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "0894dbc1e899cc8451dc1a6e6d35070511863a63"
+      "hash_contenuto": "85133103b0ea0c9cdcc712b2c201c78b310712d3"
     },
     {
       "id": "regione-sicilia-l68-enti-pubblici-messina-2025-sospensione-avviso-l-68-inps-pdf-cpi-messina",
@@ -9741,7 +11950,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2025-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9829,7 +12038,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -9880,7 +12089,7 @@
       "data_pubblicazione": "2026-06-20",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9929,33 +12138,57 @@
         "offerte_lavoro"
       ],
       "hash_contenuto": "738af1ad045a1a89e2cd878584821353044e7391"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-tecnico-contabile-edile-petrarca-s-r-l",
+      "nome": "Tecnico contabile edile — PETRARCA s.r.l.",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-contabile-edile-at-petrarca-s-r-l-4415216771",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "d3f7d56d8cb3555de9de936b9821cae3a446919a"
     }
   ],
   "changed": true,
   "source_errors": [
     {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-aziende-private-sicilia",
-      "message": "fetch failed"
+      "source": "linkedin-categorie-protette-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }

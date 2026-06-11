@@ -1,257 +1,725 @@
 {
-  "generated_at": "2026-06-11T10:43:21.272Z",
+  "generated_at": "2026-06-11T16:08:46.864Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9ca6f781fcd3fe7f7cb928ef4136af39c36c597c",
+  "catalog_hash": "81477498cb90b44b23e402d0bd592665cd3c1381",
   "counts": {
-    "nuovi": 19,
-    "aggiornati": 3
+    "nuovi": 55,
+    "aggiornati": 4
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
-      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
+      "id": "linkedin-lavoro-sicilia-addetto-a-front-office-studio-amministrativo-c-s-s-group",
+      "nome": "Addetto/a front office – Studio amministrativo — C.S.S. Group",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-front-office-%E2%80%93-studio-amministrativo-at-c-s-s-group-4425248458",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "ba3344da72490afb2a8bb16966fcc175a67e3546",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "8f847a48e7b46993dea72f5062edd5b17d683931",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-ai-engineer-categoria-protetta-l-68-99-bip",
-      "nome": "AI Engineer - Categoria Protetta L.68/99 — BIP",
+      "id": "linkedin-categorie-protette-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/ai-engineer-categoria-protetta-l-68-99-at-bip-4373105379",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "2e64485e8ce13204d180490f13acdc732b38df40",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "hash_contenuto": "d92194c3c90c90dee149ec3d51472041ec5a128e",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "id": "linkedin-categorie-protette-messina-candidatura-spontanea-categorie-protette-kpmg-italy",
       "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Categorie protette",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325450286",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
       "hash_contenuto": "b5297a2b3899845b7441622b9922c98e1d3ee3e3",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
-      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-garfagnana-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Castelnuovo di Garfagnana, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castelnuovo-di-garfagnana-avviso-di-mobilita-istruttore-amministrativo-contabile-lucca",
+      "data_pubblicazione": "2026-07-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9496bf981ffa56f0fd3dc4334d5183cc87297028",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-chiari-2-istruttore-amministrativo-contabile",
+      "nome": "Comune di Chiari, 2 Istruttore amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-chiari-avviso-di-mobilita-istruttore-amministrativo-contabile-brescia-2026",
+      "data_pubblicazione": "2026-07-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2215c5e1aa771bf46dde0d1d0fa20a60f4cf19c8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-gioia-del-colle-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Gioia del Colle, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gioia-del-colle-avviso-di-mobilita-istruttore-amministrativo-contabile-bari-2026",
+      "data_pubblicazione": "2026-07-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "410e72e0d6ab3e64c0d1f4d9b18e09c26e9c6129",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-gonnosfanadiga-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Gonnosfanadiga, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gonnosfanadiga-avviso-di-mobilita-istruttore-amministrativo-contabile-sud-sardegna-2026",
+      "data_pubblicazione": "2026-07-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "25819bea8d5f31aaf0eb29a671fc676d0adccd03",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-iseo-1-istruttore-amministrativo",
+      "nome": "Comune di Iseo, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-iseo-concorso-istruttore-amministrativo-brescia-2026",
+      "data_pubblicazione": "2026-07-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f0cfa9afde38d3643d17cc69306ba4d93df8816a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-biagio-di-callalta-1-istruttore-amministrativo",
+      "nome": "Comune di San Biagio di Callalta, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-biagio-di-callalta-concorso-riservato-istruttore-amministrativo-treviso-2026",
+      "data_pubblicazione": "2026-06-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "523439f694d18d20f252179f913bdf7147ea7806",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sarezzo-1-istruttore-contabile",
+      "nome": "Comune di Sarezzo , 1 Istruttore contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarezzo-concorso-istruttore-contabile-brescia-2026",
+      "data_pubblicazione": "2026-06-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "717d044f705cf92088c1700528fd06a85dbc56e9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-consorzio-triscelio-graduatoria-definitiva-avvisi-a-chiamata-mese-di-aprile-2025",
+      "nome": "Consorzio Triscelio Graduatoria Definitiva avvisi a chiamata mese di Aprile 2025.zip",
       "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325420184",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/Consorzio%20Triscelio%20Graduatoria%20Definitiva%20avvisi%20a%20chiamata%20mese%20di%20Aprile%202025.zip",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "1c82b189c9cb84405fa9c70389935c1bb810138c",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "454a463fe5ab0999473c1580136fd83ef1d1a3d6",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
-      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325370188",
+      "id": "linkedin-lavoro-sicilia-consulente-contabile-studio-di-consulenza-chisari",
+      "nome": "Consulente contabile — STUDIO DI CONSULENZA CHISARI",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-contabile-4414338508",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "aa0ff96fdc405eb1c0033e34ef7e09e228cbf63d",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "21cf29a889245b2438dd04d53249286a1e19c19f",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-categorie-protette-experienced-sustainability-deloitte",
-      "nome": "Categorie Protette - Experienced Sustainability — Deloitte",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/categorie-protette-experienced-sustainability-at-deloitte-4411637033",
+      "id": "linkedin-lavoro-sicilia-contabile-amministrativo-giovanni-furnari",
+      "nome": "contabile amministrativo — GIOVANNI FURNARI",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-4418772600",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "b57c976214acbce5296785dbb85b9590d7809206",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "a1656c2450b0890249b6eec15f8136dbd588197c",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-contabile-amministrativo-luxury-private-properties-sicily",
+      "id": "linkedin-lavoro-sicilia-contabile-amministrativo-luxury-private-properties-sicily",
       "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "83395fadc482a222098babc51b56996d8ecfe52c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-categorie-protette-sicilia-contabile-senior-manpower-italy",
-      "nome": "Contabile senior — Manpower Italy",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-manpower-italy-4421133955",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "c2788cd8404eb5c28ef6e2021da31cb4957dadef",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-categorie-protette-sicilia-dj-m-f-club-med-resort-italia-o-all-estero-club-med",
-      "nome": "Dj (M/F) Club Med Resort Italia o all'estero — Club Med",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/dj-m-f-club-med-resort-italia-o-all-estero-at-club-med-4425572610",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "b558b1b0e5020a9db7a513b7ec6681677d882871",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-categorie-protette-sicilia-educational-aid-technician-full-time-u-s-navy-fleet-and-family-readiness-ffr",
-      "nome": "Educational Aid/Technician (Full Time) — U.S. Navy Fleet and Family Readiness (FFR)",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/educational-aid-technician-full-time-at-u-s-navy-fleet-and-family-readiness-ffr-4365049046",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "a62310e14b675f1a469fad325d262454a6b8c87d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-rif-99370-wehunt",
-      "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
-      "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d97724d2ab5993830034923c84de420fa7fcd46c",
+      "hash_contenuto": "2124810b15abd68a51775c666e8861d2e1ac9e06",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-impiegato-contabilita-gipys",
-      "nome": "Impiegato contabilità — Gipys",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "952935619cb9257029ebd849def2079978d80930",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-categorie-protette-sicilia-italie-responsable-voile-vi-s310-club-med-resort-italia-o-all-estero-club-med",
-      "nome": "Italie_Responsable Voile / VI-S310 Club Med Resort Italia o all'estero — Club Med",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/italie-responsable-voile-vi-s310-club-med-resort-italia-o-all-estero-at-club-med-4425560695",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "c6ed5dad67c4cd9cba4e14a3441576d3961dd536",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-categorie-protette-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
-      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4418942292",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "16ed0c829406b66d6c63d171de71518521202623",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-categorie-protette-sicilia-ragioniere-a-studio-dott-brentino-francesco",
-      "nome": "Ragioniere/a — Studio dott. Brentino Francesco",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/ragioniere-a-4421180262",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "b3a99dd04980fe293315ff8e9c55ab4c722488aa",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
-      "nome": "Responsabile amministrativo — SC Distribuzione S.r.l.",
+      "id": "linkedin-lavoro-messina-contabile-di-cantier-jr-assistente-di-cantiere-messina-nonstop-consulting",
+      "nome": "Contabile di Cantier Jr-Assistente di cantiere Messina — NonStop Consulting",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-sc-distribuzione-s-r-l-4423136212",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-di-cantier-jr-assistente-di-cantiere-messina-at-nonstop-consulting-4427558450",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "6a36a85887f2c82810eb1bf239fb13055243b9cc",
+      "hash_contenuto": "6c4084a71a5a634fcc39a90bdbdd0a8df840e346",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-di-magazzino-gruppo-orsero",
-      "nome": "Responsabile Amministrativo di Magazzino — Gruppo Orsero",
+      "id": "linkedin-lavoro-sicilia-contabile-fiscale-senior-catania-petrarca-s-r-l",
+      "nome": "Contabile fiscale senior CATANIA — PETRARCA s.r.l.",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-di-magazzino-at-gruppo-orsero-4411872188",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-fiscale-senior-catania-at-petrarca-s-r-l-4415223023",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d485ecde770c933e012a2d6a2fc3f6f90916c114",
+      "hash_contenuto": "9f4734dff8703ef1386f485126053f0651449e7f",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-e-finanziario-rallo-s-p-a-soc-agr",
-      "nome": "Responsabile amministrativo e finanziario — Rallo S.p.A. soc. agr.",
+      "id": "linkedin-lavoro-sicilia-contabile-senior-manpower-italy",
+      "nome": "Contabile senior — Manpower Italy",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-e-finanziario-4351001997",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-manpower-italy-4421133955",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "15f660c4fca524efeb07bf878bb056e4c3597f7a",
+      "hash_contenuto": "0d7d22c718707e2d1c8156da70b385681d547310",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
-      "nome": "SENIOR SPECIALIST CONTABILITA’ E BILANCIO — Gifrab Italia S.p.A.",
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-3084-graduatoria-definitiva-avviso-pubblico-ditte-private-zip",
+      "nome": "D.D.S 3084 graduatoria definitiva avviso pubblico ditte private.zip",
       "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-specialist-contabilita%E2%80%99-e-bilancio-at-gifrab-italia-s-p-a-4415652973",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/D.D.S%20%203084%20graduatoria%20definitiva%20avviso%20pubblico%20ditte%20private.zip",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "hash_contenuto": "0894dbc1e899cc8451dc1a6e6d35070511863a63",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "0c2825160d8a9c249280557dffc9fbb28fcb74d0",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-1072-del-02-04-2025-firmato-zip",
+      "nome": "D.D.S. 1072 DEL 02.04.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/D.D.S.%201072%20DEL%2002.04.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-04-02",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "078b8d3db928beaff5b5bc9c999dabbbf6080280",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-1666-del-14-05-2025-firmato-zip",
+      "nome": "D.D.S. 1666 del 14.05.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/D.D.S.%201666%20del%2014.05.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-05-14",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "0b78cf8e6c5dafd4d1e49908e304edeaca33337c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-1833-del-20-05-2025-firmato-zip",
+      "nome": "d.d.s. 1833 del 20.05.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/d.d.s.%201833%20del%2020.05.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-05-20",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "3007a7ffdc3d43fa9c4a4bd58c5c5722753e84a6",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-2091-del-04-06-2025-firmato-zip",
+      "nome": "D.D.S. 2091 DEL 04.06.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/D.D.S.%202091%20DEL%2004.06.2025%28firmato%29.zip",
+      "data_pubblicazione": "2025-06-04",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "ec23f2a05e9bc893749b4d11386121dc0bcfda38",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-2792-del-16-7-2025-firmato-zip",
+      "nome": "d.d.s. 2792 del 16.7.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/d.d.s.%202792%20del%2016.7.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-07-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "6ec9f649a8627347f6d45b1a41de535f4fa29acb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-2324-del-16-06-2025-firmato-zip",
+      "nome": "D.D.S. n. 2324 del 16.06.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/D.D.S.%20n.%202324%20del%2016.06.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-06-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "734bf5dc0f287be3f99cea49d7c87d9baa02e81b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-4255-del-16-10-2025-zip",
+      "nome": "D.D.S. n. 4255 del 16.10.2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/D.D.S.%20n.%204255%20del%2016.10.2025.zip",
+      "data_pubblicazione": "2025-10-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "2e120a2f611f5885644fa4189d0a279bd076deaa",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-4256-del-16-10-2025-firmato-zip",
+      "nome": "D.D.S. n. 4256 del 16.10.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/D.D.S.%20n.%204256%20del%2016.10.2025%28firmato%29.zip",
+      "data_pubblicazione": "2025-10-16",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "debe477fbc9a079792b67834c779e8b34688075b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-n-4356-del-22-10-2025-firmato-zip",
+      "nome": "D.D.S. n. 4356 del 22.10.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/D.D.S.%20n.%204356%20del%2022.10.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-10-22",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "a7b50fec51716a5fff63ae5a2f2b182672a8b1d8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-3374-del-02-9-25-firmato-zip",
+      "nome": "D.D.S.3374 DEL 02.9.25(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/D.D.S.3374%20DEL%2002.9.25%28firmato%29_0.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "f64f23d524ab1d73b440ede594a2ebbdbe7d43a4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-1729-del-19-05-2025-firmato-2-pdf",
+      "nome": "D.R.S. n. 1729 del 19-05-2025(firmato) (2).pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/D.R.S.%20n.%201729%20del%2019-05-2025%28firmato%29%20%282%29_0.pdf",
+      "data_pubblicazione": "2025-05-19",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "5be024fde1a25fa5c731df2cfc1fe3f1e24c2f7f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-2570-del-02-07-2025-firmato-zip",
+      "nome": "D.R.S. n. 2570 del 02.07.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/D.R.S.%20n.%202570%20del%2002.07.2025%28firmato%29_0.zip",
+      "data_pubblicazione": "2025-07-02",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "5fc3ca05d9f255b08249d75efb5f02e7b953b1fd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-304-del-03-02-2025-firmato-zip",
+      "nome": "D.R.S. n. 304 del 03.02.2025(firmato).zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-02/D.R.S.%20n.%20304%20del%2003.02.2025%28firmato%29.zip",
+      "data_pubblicazione": "2025-02-03",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "86d1fcabe0461425c959d225303cecc551485dcf",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-d-r-s-n-863-del-19-03-2025-pdf",
+      "nome": "D.R.S. n. 863 del 19.03.2025.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/D.R.S.%20n.%20863%20del%2019.03.2025.pdf",
+      "data_pubblicazione": "2025-03-19",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "ef1bb77acc4f734b51415775002e20870fa57edd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-d-r-s-n-1750-decreto-di-annullamento-della-graduatoria-definitiva-pubblicata-con",
+      "nome": "d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-05/d.r.s._n.1750_decreto_di_annullamento_della_graduatoria_definitiva_pubblicata_con_drs_n._1702_e_approvazione_e_riformulazione_graduatoria_definitiva.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "dff678e89279fd955477fd2b83565aa840fed152",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-dds-5725-17-12-2025-zip",
+      "nome": "dds_5725_17_12_2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/dds_5725_17_12_2025.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "93b5f73e0c4be13ef7304e194f2197ad8962e82a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreti-n-1135-e-n-1136-graduatorie-definitive-08-04-2025-zip",
+      "nome": "Decreti n° 1135 e n° 1136 Graduatorie definitive 08.04.2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-04/Decreti%20n%C2%B0%201135%20e%20n%C2%B0%201136%20Graduatorie%20definitive%2008.04.2025.zip",
+      "data_pubblicazione": "2025-04-08",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "87f0486b474b4d89c4667b6a4f43d8c47235d448",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-definitivo-03-03-2025-1-1-firmato-pdf",
+      "nome": "DECRETO DEFINITIVO 03-03-2025(1) (1)(firmato).pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-11/DECRETO%20DEFINITIVO%2003-03-2025%281%29%20%281%29%28firmato%29.pdf",
+      "data_pubblicazione": "2025-03-03",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "3bd26e29a2d1fae7cc658c68dbc8fc253ebca26f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-2022-del-28-05-2025-zip",
+      "nome": "Decreto n. 2022 del 28.05.2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-05/Decreto%20n.%202022%20del%2028.05.2025.zip",
+      "data_pubblicazione": "2025-05-28",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "614cfa7451d0bc6f0c5b70e49e30286bf3736f08",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-3254-del-18-08-2025-zip",
+      "nome": "decreto n. 3254 del 18.08.2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/decreto%20n.%203254%20del%2018.08.2025.zip",
+      "data_pubblicazione": "2025-08-18",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "46a4d4a42a3800e3c8270977c6e3d019ac0685f3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-decreto-n-3255-del-18-08-2025-zip",
+      "nome": "decreto n. 3255 del 18.08.2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/decreto%20n.%203255%20del%2018.08.2025.zip",
+      "data_pubblicazione": "2025-08-18",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "c986c1f84b8b2642e76b96d260076b339052d46c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-2254-del-12-06-2025-pdf",
+      "nome": "DRS n. 2254 del 12-06-2025.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-06/DRS%20n.%202254%20del%2012-06-2025_1.pdf",
+      "data_pubblicazione": "2025-06-12",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "2db98e232423c206a0dc0190197fbeb648d630e8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-2739-del-11-07-2025-pdf",
+      "nome": "DRS n. 2739 del 11-07-2025.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/DRS%20n.%202739%20del%2011-07-2025_0.pdf",
+      "data_pubblicazione": "2025-07-11",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "f6fc36bf4fa6aa79efb74cf4eff783450b850dde",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-3584-del-15-09-2025-pdf",
+      "nome": "DRS n. 3584 del 15-09-2025.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/DRS%20n.%203584%20del%2015-09-2025.pdf",
+      "data_pubblicazione": "2025-09-15",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "5d09799d222a3c80c217132f6d46f7573dc6fc5d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-drs-n-3972-del-03-10-2025-pdf",
+      "nome": "DRS n.3972 del 03-10-2025.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-10/DRS%20n.3972%20del%2003-10-2025_0.pdf",
+      "data_pubblicazione": "2025-10-03",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "f5183660133fe801d52ca3ab3f01393d1d39fca3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-definitivo-amam-signed-pdf-cpi-messina",
+      "nome": "ELENCO DEFINITIVO AMAM_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-09/ELENCO%20DEFINITIVO%20AMAM_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "5ab9292547e3852b4d5e7f6c6db3e8317267e6bf",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-graduatoria-definitiva-asp-messina-signed-3-pdf-cpi-messina",
+      "nome": "GRADUATORIA DEFINITIVA ASP Messina_signed (3).pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-03/GRADUATORIA%20DEFINITIVA%20ASP%20Messina_signed%20%283%29.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "2b8ed2916fe5dff3dcec233b9540678108e502d3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-graduatoria-definitiva-nessuna-candidatura-pdf",
+      "nome": "GRADUATORIA DEFINITIVA NESSUNA CANDIDATURA.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/GRADUATORIA%20DEFINITIVA%20NESSUNA%20CANDIDATURA_0.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "66f71e7fd66c98897beafb6509980cf6d3a8394d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-graduatoria-definitiva-sales-performance-srls-pdf",
+      "nome": "GRADUATORIA DEFINITIVA SALES Performance srls.pdf",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/GRADUATORIA%20DEFINITIVA%20SALES%20Performance%20srls.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "b7d9e0151244984d27fb2fedbb62db18492e9f59",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-contabile-fulmine-group",
+      "nome": "Impiegato/a amministrativo/a contabile — Fulmine Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-contabile-at-fulmine-group-4421928441",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "3511ffc28466e14af0dffde59188149904250298",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "hash_contenuto": "45787e82575208bc5ade4306959b85574735052e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-messina-musketeer-sales-marketing-specialist-reggio-calabria-red-bull",
+      "nome": "MUSKETEER - SALES & MARKETING SPECIALIST - Reggio Calabria — Red Bull",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/musketeer-sales-marketing-specialist-reggio-calabria-at-red-bull-4391112075",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "hash_contenuto": "a8e58d2eb26b89baf2f6a471f1a964edb6332985",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-ragioniere-a-studio-dott-brentino-francesco",
+      "nome": "Ragioniere/a — Studio dott. Brentino Francesco",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ragioniere-a-4421180262",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "7a1623a75fd18083989de59170dc66722a4322c3",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-2025-rettifica-e-riformulazione-graduatoria-definitiva-l-68-ente-pubblico-per-portant",
+      "nome": "rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (CPI Messina 2025)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-12/rettifica_e_riformulazione_graduatoria_definitiva_l.68_ente_pubblico_per_portantini_e_professioni_assimilate_0.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "hash_contenuto": "bec181dec34e8bf62e2465593591e189c1de8002",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-per-logistica-ad-maio-solutions",
+      "nome": "Segretario/a amministrativo/a per logistica — Ad Maio Solutions",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-per-logistica-at-ad-maio-solutions-4426129624",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "e5ae1dcbda3f4b5ea328f409821d3e647c53b3c6",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
+      "nome": "SENIOR SPECIALIST CONTABILITA’ E BILANCIO — Gifrab Italia S.p.A.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-specialist-contabilita%E2%80%99-e-bilancio-at-gifrab-italia-s-p-a-4415652973",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "85133103b0ea0c9cdcc712b2c201c78b310712d3",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-tecnico-contabile-edile-petrarca-s-r-l",
+      "nome": "Tecnico contabile edile — PETRARCA s.r.l.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-contabile-edile-at-petrarca-s-r-l-4415216771",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d3f7d56d8cb3555de9de936b9821cae3a446919a",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     }
   ],
@@ -265,6 +733,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
       "hash_contenuto": "09c2d4be457385a3ec36bc8d0454661dbeb93e25",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325420184",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "1c82b189c9cb84405fa9c70389935c1bb810138c",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -298,28 +779,8 @@
   ],
   "errori_fonti": [
     {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina-2025",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-aziende-private-sicilia",
-      "message": "fetch failed"
+      "source": "linkedin-categorie-protette-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
