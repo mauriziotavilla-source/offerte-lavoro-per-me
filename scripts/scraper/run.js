@@ -16,7 +16,7 @@ const { readJson, writeJson } = require('./lib/io');
 const { collectFromSource } = require('./lib/parsers');
 const { normalizeSourceItems } = require('./lib/normalize');
 const { buildDiff, nextTopLevelData } = require('./lib/diff');
-const { filterForProfile, filterStats } = require('./lib/profile-filter');
+const { filterForProfile, filterStats, valutaProfilo, loadProfilo } = require('./lib/profile-filter');
 const { shouldRetainPrevious } = require('./lib/retention');
 
 const ROOT = path.join(__dirname, '..', '..');
@@ -100,9 +100,17 @@ async function main() {
   const { seed, retained } = splitPrevious(previousData);
   const { collected, errors } = await collectAll();
 
-  const merged = sortByName(dedupe([...seed, ...retained, ...collected]));
-  if (retained.length) {
-    console.log(`Conservati ${retained.length} bandi precedenti ancora entro scadenza`);
+  const profilo = loadProfilo();
+  const retainedFiltered = retained.filter((o) => valutaProfilo(o, profilo).ok);
+  if (retainedFiltered.length < retained.length) {
+    console.log(
+      `Rimossi ${retained.length - retainedFiltered.length} bandi conservati non più adatti al profilo`
+    );
+  }
+
+  const merged = sortByName(dedupe([...seed, ...retainedFiltered, ...collected]));
+  if (retainedFiltered.length) {
+    console.log(`Conservati ${retainedFiltered.length} bandi precedenti ancora entro scadenza`);
   }
   const nextData = nextTopLevelData(previousData, merged, { sourceErrors: errors });
   const novita = buildDiff(previousData, nextData, errors);

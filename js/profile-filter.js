@@ -22,12 +22,18 @@ const MATCH_FORTE_CONCORSO = [
   'collocamento mirato', 'legge 68', 'categorie protette', 'orfani di guerra', 'mediatore civile',
 ];
 
-const MATCH_FORTE_CATEGORIA_PROTETTA = [
-  'categorie protette', 'categoria protetta', 'legge 68', 'l. 68', 'l.68', 'l. 68/99', 'l.68/99',
-  'collocamento mirato', 'orfani di guerra', 'orfano di guerra', 'equiparat', 'art. 8', 'art.8',
-  'art. 18', 'art.18', 'riserva', 'riservat', 'avviament', 'handicap', 'disabilit',
-  'inserimento lavorativo', 'appartenente categorie', 'graduator', 'avviso l.', 'avviso a chiamata',
-  'cpi messina', 'centro per l\'impiego di messina',
+const MATCH_ORFANI_EQUIPARATI = [
+  'orfani di guerra', 'orfano di guerra', 'orfani ed equiparati', 'orfani e equiparati',
+  'orfani guerra', 'equiparat', 'art. 8', 'art.8', 'art 8',
+  'elenco provinciale orfani', 'collocamento mirato orfani',
+];
+
+const ESCLUDI_CAT_PROTETTA_NON_ORFANI = [
+  'art. 1', 'art.1', 'art 1', 'art. 18', 'art.18', 'art 18', 'art_18',
+  'invalidit', 'disabilit', 'handicap',
+  'categorie protette art. 1', 'cat. prot. art.1',
+  'appartenente categorie protette art.1', 'appartenente alle cat. prot. art.1',
+  'invalidità 46', 'invalidita 46', 'solo art. 18', 'riservato disabil',
 ];
 
 const ESCLUDI_SE_NON_LAUREATO = [
@@ -66,8 +72,28 @@ function matchForteConcorso(text) {
   return MATCH_FORTE_CONCORSO.some((w) => text.includes(w));
 }
 
-function matchForteCategoriaProtetta(text) {
-  return MATCH_FORTE_CATEGORIA_PROTETTA.some((w) => text.includes(w));
+function matchOrfaniEquiparati(text) {
+  return MATCH_ORFANI_EQUIPARATI.some((w) => text.includes(w));
+}
+
+function isAvvisoCpiMessinaOrfani(offerta, text) {
+  const fonte = String(offerta.fonte_scraper || offerta.fonte || '').toLowerCase();
+  if (!fonte.includes('l68-enti-pubblici-messina')) return false;
+  if (ESCLUDI_CAT_PROTETTA_NON_ORFANI.some((w) => text.includes(w))) return false;
+  return /avvis|graduator|l\.68|legge 68|enti pubblici/.test(text);
+}
+
+function isFonteOrfaniLinkedIn(offerta, text) {
+  const fonte = String(offerta.fonte_scraper || offerta.fonte || '').toLowerCase();
+  if (!fonte.includes('orfani-guerra')) return false;
+  if (ESCLUDI_CAT_PROTETTA_NON_ORFANI.some((w) => text.includes(w))) return false;
+  return true;
+}
+
+function esclusoCategoriaNonOrfani(offerta, text, profilo) {
+  const extra = (profilo?.parole_chiave_escludi_categoria_protetta || []).map((w) => String(w).toLowerCase());
+  const tutte = [...ESCLUDI_CAT_PROTETTA_NON_ORFANI, ...extra];
+  return tutte.some((w) => w && text.includes(w));
 }
 
 function contestoNonCompatibile(text, tipo) {
@@ -118,8 +144,8 @@ export function passaFiltroProfilo(offerta, profilo) {
   if (esclusoDaLista(text, profilo)) return false;
 
   if (tipo === 'categoria_protetta') {
-    const segnaleCat = matchForteCategoriaProtetta(text) || matchForteConcorso(text);
-    if (!segnaleCat && !matchParoleProfilo(text, profilo)) return false;
+    if (esclusoCategoriaNonOrfani(offerta, text, profilo)) return false;
+    if (!matchOrfaniEquiparati(text) && !isAvvisoCpiMessinaOrfani(offerta, text) && !isFonteOrfaniLinkedIn(offerta, text)) return false;
     if (richiedeLaurea(text, profilo)) return false;
     return true;
   }

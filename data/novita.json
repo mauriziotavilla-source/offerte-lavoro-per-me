@@ -1,11 +1,152 @@
 {
-  "generated_at": "2026-06-10T23:05:00.000Z",
-  "source_run": "local-scraper-import-categorie-protette",
-  "catalog_hash": "656b428832c51616265ff2c595162c905cca64fe",
+  "generated_at": "2026-06-11T21:29:11.459Z",
+  "source_run": "github-actions-scraper",
+  "catalog_hash": "6693885a4e429fc3a786229869a633eedea67e40",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 10,
     "aggiornati": 0
   },
-  "nuovi": [],
-  "aggiornati": []
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "31fac8a1eef8d7a603f69f4de26634d06a44f810",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-candidatura-spontanea-bnp-paribas-real-estate-bnp-paribas-real-estate",
+      "nome": "CANDIDATURA SPONTANEA - BNP PARIBAS REAL ESTATE — BNP Paribas Real Estate",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-bnp-paribas-real-estate-at-bnp-paribas-real-estate-4399051106",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "76a8280180f5f8a8194fe4a96088435fa67a44c5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-luxury-private-properties-sicily",
+      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f8ab76ac7a1f49f035976ba8755c73ebffc0d8de",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-impiegato-amministrativo-rif-99370-wehunt",
+      "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "1ba4d8b8a8707b517de867ede2b9cea61aefdd13",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-impiegato-contabilita-gipys",
+      "nome": "Impiegato contabilità — Gipys",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "66df7c35d83f62deedf10b374ef72a7ad1696e84",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-impiegato-ufficio-tecnico-caporem-srl",
+      "nome": "Impiegato Ufficio Tecnico — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-ufficio-tecnico-at-caporem-srl-4423341154",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4525881f4c584e69bdd1edccdb6a19888067b753",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-full-remote-jet-hr",
+      "nome": "Payroll Specialist - Full Remote — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-full-remote-at-jet-hr-4415201282",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8c723671fa823ab020efad5f4826b3c92eeeb3ce",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-receptionist-bluehm-it",
+      "nome": "Receptionist — Bluehm.it",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/receptionist-4421927613",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "315d98a64d4a7e6bc8a15bfcccb653077f2676aa",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
+      "nome": "Responsabile amministrativo — SC Distribuzione S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-sc-distribuzione-s-r-l-4423136212",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "80ffb82f6cec96ffc0df70f08a5563a1ea61479d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-sistemisti-junior-aubay-italia",
+      "nome": "Sistemisti Junior — Aubay Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sistemisti-junior-at-aubay-italia-4411138980",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cce733d4908753f633a08336f3c7ca7b2e9cbd89",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
+  "aggiornati": [],
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 500"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 500"
+    }
+  ]
 }
