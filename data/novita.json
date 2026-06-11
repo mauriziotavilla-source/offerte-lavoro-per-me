@@ -1,11 +1,125 @@
 {
-  "generated_at": "2026-06-10T23:05:00.000Z",
-  "source_run": "local-scraper-import-categorie-protette",
-  "catalog_hash": "656b428832c51616265ff2c595162c905cca64fe",
+  "generated_at": "2026-06-11T04:16:52.451Z",
+  "source_run": "github-actions-scraper",
+  "catalog_hash": "cb4c2c33fa9816f6890546e4a5a0b8ff8081880a",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 0
+    "nuovi": 3,
+    "aggiornati": 3
   },
-  "nuovi": [],
-  "aggiornati": []
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-messina-contabile-amministrativo-luxury-private-properties-sicily",
+      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "2124810b15abd68a51775c666e8861d2e1ac9e06",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-messina-impiegato-amministrativo-rif-99370-wehunt",
+      "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "hash_contenuto": "c814e7f1f233c08a722eb72c9ccd0ed6b69b096a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-messina-impiegato-contabilita-gipys",
+      "nome": "Impiegato contabilità — Gipys",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "hash_contenuto": "952935619cb9257029ebd849def2079978d80930",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-approvazione-graduatorie-aziende-private-avvisi-del-mese-di-luglio-2025-zip",
+      "nome": "approvazione graduatorie Aziende Private- avvisi del mese di LUGLIO 2025.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/approvazione%20graduatorie%20Aziende%20Private-%20avvisi%20del%20mese%20di%20LUGLIO%202025.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "09c2d4be457385a3ec36bc8d0454661dbeb93e25",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-graduatorie-zip",
+      "nome": "Graduatorie.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-07/Graduatorie_1.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "718daf6a3e9efb7714955db4ab1b7c20d4dc4a7c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-aziende-private-sicilia-graduatorie-zip",
+      "nome": "Graduatorie.zip",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2025-08/Graduatorie.zip",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-aziende-private-sicilia",
+      "hash_contenuto": "ebd64fbfe8f5874727d6b2588f7258bc01f35c11",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
+    },
+    {
+      "source": "linkedin-categorie-protette-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
+    },
+    {
+      "source": "regione-sicilia-l68-enti-pubblici-messina-2025",
+      "message": "fetch failed"
+    },
+    {
+      "source": "regione-sicilia-l68-aziende-private-sicilia",
+      "message": "fetch failed"
+    }
+  ]
 }
