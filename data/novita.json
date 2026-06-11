@@ -1,47 +1,255 @@
 {
-  "generated_at": "2026-06-11T04:16:52.451Z",
+  "generated_at": "2026-06-11T10:43:21.272Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "cb4c2c33fa9816f6890546e4a5a0b8ff8081880a",
+  "catalog_hash": "9ca6f781fcd3fe7f7cb928ef4136af39c36c597c",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 19,
     "aggiornati": 3
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-contabile-amministrativo-luxury-private-properties-sicily",
-      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
+      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "2124810b15abd68a51775c666e8861d2e1ac9e06",
+      "hash_contenuto": "ba3344da72490afb2a8bb16966fcc175a67e3546",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-messina-impiegato-amministrativo-rif-99370-wehunt",
-      "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
+      "id": "linkedin-categorie-protette-sicilia-ai-engineer-categoria-protetta-l-68-99-bip",
+      "nome": "AI Engineer - Categoria Protetta L.68/99 — BIP",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Categorie protette",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ai-engineer-categoria-protetta-l-68-99-at-bip-4373105379",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
-      "hash_contenuto": "c814e7f1f233c08a722eb72c9ccd0ed6b69b096a",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "2e64485e8ce13204d180490f13acdc732b38df40",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-categorie-protette-messina-impiegato-contabilita-gipys",
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325450286",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "b5297a2b3899845b7441622b9922c98e1d3ee3e3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325420184",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "1c82b189c9cb84405fa9c70389935c1bb810138c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325370188",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "aa0ff96fdc405eb1c0033e34ef7e09e228cbf63d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-categorie-protette-experienced-sustainability-deloitte",
+      "nome": "Categorie Protette - Experienced Sustainability — Deloitte",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/categorie-protette-experienced-sustainability-at-deloitte-4411637033",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "b57c976214acbce5296785dbb85b9590d7809206",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-contabile-amministrativo-luxury-private-properties-sicily",
+      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "83395fadc482a222098babc51b56996d8ecfe52c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-contabile-senior-manpower-italy",
+      "nome": "Contabile senior — Manpower Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-manpower-italy-4421133955",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "c2788cd8404eb5c28ef6e2021da31cb4957dadef",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-dj-m-f-club-med-resort-italia-o-all-estero-club-med",
+      "nome": "Dj (M/F) Club Med Resort Italia o all'estero — Club Med",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/dj-m-f-club-med-resort-italia-o-all-estero-at-club-med-4425572610",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "b558b1b0e5020a9db7a513b7ec6681677d882871",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-educational-aid-technician-full-time-u-s-navy-fleet-and-family-readiness-ffr",
+      "nome": "Educational Aid/Technician (Full Time) — U.S. Navy Fleet and Family Readiness (FFR)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/educational-aid-technician-full-time-at-u-s-navy-fleet-and-family-readiness-ffr-4365049046",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "a62310e14b675f1a469fad325d262454a6b8c87d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-rif-99370-wehunt",
+      "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d97724d2ab5993830034923c84de420fa7fcd46c",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-impiegato-contabilita-gipys",
       "nome": "Impiegato contabilità — Gipys",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Categorie protette",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
       "hash_contenuto": "952935619cb9257029ebd849def2079978d80930",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-italie-responsable-voile-vi-s310-club-med-resort-italia-o-all-estero-club-med",
+      "nome": "Italie_Responsable Voile / VI-S310 Club Med Resort Italia o all'estero — Club Med",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/italie-responsable-voile-vi-s310-club-med-resort-italia-o-all-estero-at-club-med-4425560695",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "c6ed5dad67c4cd9cba4e14a3441576d3961dd536",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
+      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4418942292",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "16ed0c829406b66d6c63d171de71518521202623",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-ragioniere-a-studio-dott-brentino-francesco",
+      "nome": "Ragioniere/a — Studio dott. Brentino Francesco",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ragioniere-a-4421180262",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "b3a99dd04980fe293315ff8e9c55ab4c722488aa",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
+      "nome": "Responsabile amministrativo — SC Distribuzione S.r.l.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-sc-distribuzione-s-r-l-4423136212",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "6a36a85887f2c82810eb1bf239fb13055243b9cc",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-di-magazzino-gruppo-orsero",
+      "nome": "Responsabile Amministrativo di Magazzino — Gruppo Orsero",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-di-magazzino-at-gruppo-orsero-4411872188",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d485ecde770c933e012a2d6a2fc3f6f90916c114",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-e-finanziario-rallo-s-p-a-soc-agr",
+      "nome": "Responsabile amministrativo e finanziario — Rallo S.p.A. soc. agr.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-e-finanziario-4351001997",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "15f660c4fca524efeb07bf878bb056e4c3597f7a",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
+      "nome": "SENIOR SPECIALIST CONTABILITA’ E BILANCIO — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Categorie protette",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-specialist-contabilita%E2%80%99-e-bilancio-at-gifrab-italia-s-p-a-4415652973",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "hash_contenuto": "0894dbc1e899cc8451dc1a6e6d35070511863a63",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -90,10 +298,6 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
       "source": "gazzetta-via-concorsipubblici",
       "message": "HTTP 403"
     },
@@ -104,10 +308,6 @@
     {
       "source": "regione-sicilia-concorsi",
       "message": "fetch failed"
-    },
-    {
-      "source": "linkedin-categorie-protette-sicilia",
-      "message": "HTTP 429"
     },
     {
       "source": "regione-sicilia-l68-enti-pubblici-messina",

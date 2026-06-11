@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-06-11",
-  "versione": 9,
+  "versione": 10,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "cb4c2c33fa9816f6890546e4a5a0b8ff8081880a",
-  "generated_at": "2026-06-11T04:16:52.450Z",
+  "catalog_hash": "9ca6f781fcd3fe7f7cb928ef4136af39c36c597c",
+  "generated_at": "2026-06-11T10:43:21.272Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -45,7 +45,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -178,7 +178,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -222,7 +222,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -273,13 +273,13 @@
       "hash_contenuto": "bd3313995051d29db6682038631206c7c7cdd0e8"
     },
     {
-      "id": "linkedin-categorie-protette-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
-        "amministrazione",
         "contabilita",
+        "amministrazione",
         "paghe"
       ],
       "stato": "aperto",
@@ -297,25 +297,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99 — orfani di guerra equiparati"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "fonte_scraper": "linkedin-lavoro-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "d92194c3c90c90dee149ec3d51472041ec5a128e"
+      "hash_contenuto": "ba3344da72490afb2a8bb16966fcc175a67e3546"
     },
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -356,7 +355,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -495,6 +494,50 @@
       "hash_contenuto": "1700767ccd13b292ffa0fd6f1736c174ede62faa"
     },
     {
+      "id": "linkedin-categorie-protette-sicilia-ai-engineer-categoria-protetta-l-68-99-bip",
+      "nome": "AI Engineer - Categoria Protetta L.68/99 — BIP",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ai-engineer-categoria-protetta-l-68-99-at-bip-4373105379",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "2e64485e8ce13204d180490f13acdc732b38df40"
+    },
+    {
       "id": "linkedin-categorie-protette-sicilia-amministratore-mam-l-assistenza-che-fa-la-differenza",
       "nome": "Amministratore — MAM L'assistenza che fa la differenza",
       "ente": "LinkedIn — Categorie protette",
@@ -532,7 +575,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -804,7 +847,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2905,7 +2948,7 @@
       "hash_contenuto": "aeae1bc4adb9764452e6d58fd99391a33d4cf932"
     },
     {
-      "id": "linkedin-categorie-protette-messina-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
       "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
       "ente": "LinkedIn — Categorie protette",
       "tipo": "categoria_protetta",
@@ -2919,7 +2962,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
@@ -2928,7 +2971,7 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99 — orfani di guerra equiparati"
+        "Categorie protette L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325450286",
       "checklist": [
@@ -2941,12 +2984,144 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "b5297a2b3899845b7441622b9922c98e1d3ee3e3"
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325420184",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "1c82b189c9cb84405fa9c70389935c1bb810138c"
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-candidatura-spontanea-categorie-protette-kpmg-italy",
+      "nome": "Candidatura spontanea | Categorie Protette — KPMG Italy",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/candidatura-spontanea-categorie-protette-at-kpmg-italy-4325370188",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "aa0ff96fdc405eb1c0033e34ef7e09e228cbf63d"
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-categorie-protette-experienced-sustainability-deloitte",
+      "nome": "Categorie Protette - Experienced Sustainability — Deloitte",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/categorie-protette-experienced-sustainability-at-deloitte-4411637033",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "b57c976214acbce5296785dbb85b9590d7809206"
     },
     {
       "id": "linkedin-categorie-protette-sicilia-cdshotels-delfino-beach-candidatura-generica-per-iscritti-alle-liste-del-colloca",
@@ -2986,7 +3161,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3030,7 +3205,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3849,20 +4024,20 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "bd2a95836fc2074d8a9e978a9a6ce9099b0d75c6"
     },
     {
-      "id": "linkedin-lavoro-messina-contabile-amministrativo-luxury-private-properties-sicily",
+      "id": "linkedin-categorie-protette-sicilia-contabile-amministrativo-luxury-private-properties-sicily",
       "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
+        "contabilita",
         "fiscale"
       ],
       "stato": "aperto",
@@ -3871,7 +4046,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
@@ -3880,24 +4055,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Categorie protette L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4384454970",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "2124810b15abd68a51775c666e8861d2e1ac9e06"
+      "hash_contenuto": "83395fadc482a222098babc51b56996d8ecfe52c"
     },
     {
       "id": "linkedin-categorie-protette-sicilia-contabile-fiscale-senior-catania-petrarca-s-r-l",
@@ -3938,7 +4114,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3998,14 +4174,13 @@
       "url_origine": "https://it.indeed.com/jobs?q=contabile&l=Messina"
     },
     {
-      "id": "linkedin-lavoro-sicilia-contabile-senior-manpower-italy",
+      "id": "linkedin-categorie-protette-sicilia-contabile-senior-manpower-italy",
       "nome": "Contabile senior — Manpower Italy",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
-        "fiscale"
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -4022,24 +4197,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Categorie protette L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-manpower-italy-4421133955",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "0d7d22c718707e2d1c8156da70b385681d547310"
+      "hash_contenuto": "c2788cd8404eb5c28ef6e2021da31cb4957dadef"
     },
     {
       "id": "regione-sicilia-l68-aziende-private-sicilia-d-d-s-709-decreto-approvazione-graduatorie-aziende-private-avvisi-del-mese-di-fe",
@@ -4767,6 +4943,50 @@
       "hash_contenuto": "a703c82925f68bf412df64946c57009640a31282"
     },
     {
+      "id": "linkedin-categorie-protette-sicilia-dj-m-f-club-med-resort-italia-o-all-estero-club-med",
+      "nome": "Dj (M/F) Club Med Resort Italia o all'estero — Club Med",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/dj-m-f-club-med-resort-italia-o-all-estero-at-club-med-4425572610",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "b558b1b0e5020a9db7a513b7ec6681677d882871"
+    },
+    {
       "id": "regione-sicilia-l68-aziende-private-sicilia-drive-eat-srl-graduatoria-provvisoria-art-8-avvisi-a-chiamata-mese-di-novembre-2",
       "nome": "Drive Eat srl Graduatoria Provvisoria Art. 8 avvisi a chiamata mese di Novembre 2024 (ID 2194) Cameriere di Bar_signed.pdf",
       "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
@@ -4945,6 +5165,50 @@
         "categorie_protette"
       ],
       "hash_contenuto": "d6899a0f75e7cb05c8ec02846150666031e0cb82"
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-educational-aid-technician-full-time-u-s-navy-fleet-and-family-readiness-ffr",
+      "nome": "Educational Aid/Technician (Full Time) — U.S. Navy Fleet and Family Readiness (FFR)",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Lentini, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/educational-aid-technician-full-time-at-u-s-navy-fleet-and-family-readiness-ffr-4365049046",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "a62310e14b675f1a469fad325d262454a6b8c87d"
     },
     {
       "id": "regione-sicilia-l68-enti-pubblici-messina-2025-elenco-provvisorio-amam-pdf-cpi-messina",
@@ -7121,13 +7385,14 @@
       "url_origine": "https://www.jobmetoo.com/it/offerte-lavoro"
     },
     {
-      "id": "linkedin-categorie-protette-messina-impiegato-amministrativo-rif-99370-wehunt",
+      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-rif-99370-wehunt",
       "nome": "Impiegato Amministrativo RIF 99370 — WeHunt",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Messina",
@@ -7135,7 +7400,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
@@ -7144,25 +7409,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99 — orfani di guerra equiparati"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-rif-99370-at-wehunt-4425249911",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "c814e7f1f233c08a722eb72c9ccd0ed6b69b096a"
+      "hash_contenuto": "d97724d2ab5993830034923c84de420fa7fcd46c"
     },
     {
       "id": "seed-impiegato-amministrativo-remoto",
@@ -7218,7 +7482,7 @@
       "url_origine": "https://www.linkedin.com/jobs/search/?keywords=contabile%20smart%20working"
     },
     {
-      "id": "linkedin-categorie-protette-messina-impiegato-contabilita-gipys",
+      "id": "linkedin-categorie-protette-sicilia-impiegato-contabilita-gipys",
       "nome": "Impiegato contabilità — Gipys",
       "ente": "LinkedIn — Categorie protette",
       "tipo": "categoria_protetta",
@@ -7232,7 +7496,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Patti, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
@@ -7241,7 +7505,7 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99 — orfani di guerra equiparati"
+        "Categorie protette L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-contabilit%C3%A0-at-gipys-4410385200",
       "checklist": [
@@ -7254,7 +7518,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
@@ -7520,7 +7784,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7616,6 +7880,50 @@
       "hash_contenuto": "83a35ddf8263c941cc47a4e9b68e8e646f12fc1b"
     },
     {
+      "id": "linkedin-categorie-protette-sicilia-italie-responsable-voile-vi-s310-club-med-resort-italia-o-all-estero-club-med",
+      "nome": "Italie_Responsable Voile / VI-S310 Club Med Resort Italia o all'estero — Club Med",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/italie-responsable-voile-vi-s310-club-med-resort-italia-o-all-estero-at-club-med-4425560695",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "c6ed5dad67c4cd9cba4e14a3441576d3961dd536"
+    },
+    {
       "id": "regione-sicilia-l68-aziende-private-sicilia-italy-group-srl-graduatoria-provvisoria-art-18-avvisi-a-chiamata-mese-di-ottobre",
       "nome": "Italy Group srl Graduatoria Provvisoria Art. 18 avvisi a chiamata mese di Ottobre 2025 (ID 2947) Addetto affari generali_signed.pdf",
       "ente": "Regione Siciliana — Avviamenti L.68/99 (aziende private)",
@@ -7659,6 +7967,50 @@
         "categorie_protette"
       ],
       "hash_contenuto": "306e9f6e901f4977410946ddbb61c96f20c283be"
+    },
+    {
+      "id": "linkedin-categorie-protette-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
+      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Categorie protette L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4418942292",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "16ed0c829406b66d6c63d171de71518521202623"
     },
     {
       "id": "linkedin-categorie-protette-messina-lavora-con-noi-posizione-aperte-per-maggio-2026-primaria-spa",
@@ -8515,14 +8867,13 @@
       "hash_contenuto": "c6c7e225d79e39425cf2b67a609b6e5df938e2e9"
     },
     {
-      "id": "linkedin-lavoro-sicilia-ragioniere-a-studio-dott-brentino-francesco",
+      "id": "linkedin-categorie-protette-sicilia-ragioniere-a-studio-dott-brentino-francesco",
       "nome": "Ragioniere/a — Studio dott. Brentino Francesco",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
-        "fiscale"
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -8539,33 +8890,34 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Categorie protette L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/ragioniere-a-4421180262",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "7a1623a75fd18083989de59170dc66722a4322c3"
+      "hash_contenuto": "b3a99dd04980fe293315ff8e9c55ab4c722488aa"
     },
     {
-      "id": "linkedin-categorie-protette-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
+      "id": "linkedin-lavoro-messina-responsabile-amministrativo-sc-distribuzione-s-r-l",
       "nome": "Responsabile amministrativo — SC Distribuzione S.r.l.",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
-        "amministrazione",
-        "contabilita"
+        "contabilita",
+        "amministrazione"
       ],
       "stato": "aperto",
       "sede": "Messina",
@@ -8582,25 +8934,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99 — orfani di guerra equiparati"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-sc-distribuzione-s-r-l-4423136212",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-messina",
+      "fonte_scraper": "linkedin-lavoro-messina",
       "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "3b1dd8f7608ce747fe58025fd64f1ee9d5435a94"
+      "hash_contenuto": "6a36a85887f2c82810eb1bf239fb13055243b9cc"
     },
     {
       "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-contabile-randstad-italia",
@@ -8647,13 +8998,14 @@
       "hash_contenuto": "bdade6e866bf669ce9d45f33b6dd42bf93a8b852"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-responsabile-amministrativo-di-magazzino-gruppo-orsero",
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-di-magazzino-gruppo-orsero",
       "nome": "Responsabile Amministrativo di Magazzino — Gruppo Orsero",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -8670,34 +9022,34 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-di-magazzino-at-gruppo-orsero-4411872188",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "42e1865211749f398b46636cc555e74694633d39"
+      "hash_contenuto": "d485ecde770c933e012a2d6a2fc3f6f90916c114"
     },
     {
-      "id": "linkedin-categorie-protette-sicilia-responsabile-amministrativo-e-finanziario-rallo-s-p-a-soc-agr",
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-e-finanziario-rallo-s-p-a-soc-agr",
       "nome": "Responsabile amministrativo e finanziario — Rallo S.p.A. soc. agr.",
-      "ente": "LinkedIn — Categorie protette",
-      "tipo": "categoria_protetta",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
       "aree": [
+        "contabilita",
         "amministrazione",
-        "contabilita"
+        "fiscale"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -8714,25 +9066,24 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Categorie protette L.68/99"
+        "Contabile / Amministrativo"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-e-finanziario-4351001997",
       "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ],
-      "hash_contenuto": "23b6fb7b15cc2d2d091e3b642ac3849863a4a061"
+      "hash_contenuto": "15f660c4fca524efeb07bf878bb056e4c3597f7a"
     },
     {
       "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-a-osm-value",
@@ -8772,7 +9123,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -9038,7 +9389,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9082,7 +9433,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9126,7 +9477,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9214,7 +9565,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9302,21 +9653,20 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-categorie-protette-sicilia",
-      "rilevato_il": "2026-06-10",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "4090acf07305aee55e4cb7991f6004a66109f241"
     },
     {
-      "id": "linkedin-lavoro-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
+      "id": "linkedin-categorie-protette-sicilia-senior-specialist-contabilita-e-bilancio-gifrab-italia-s-p-a",
       "nome": "SENIOR SPECIALIST CONTABILITA’ E BILANCIO — Gifrab Italia S.p.A.",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Categorie protette",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
         "amministrazione",
-        "fiscale"
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Sicilia",
@@ -9333,24 +9683,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Categorie protette L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-specialist-contabilita%E2%80%99-e-bilancio-at-gifrab-italia-s-p-a-4415652973",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-10",
+      "fonte_scraper": "linkedin-categorie-protette-sicilia",
+      "rilevato_il": "2026-06-11",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "85133103b0ea0c9cdcc712b2c201c78b310712d3"
+      "hash_contenuto": "0894dbc1e899cc8451dc1a6e6d35070511863a63"
     },
     {
       "id": "regione-sicilia-l68-enti-pubblici-messina-2025-sospensione-avviso-l-68-inps-pdf-cpi-messina",
@@ -9583,10 +9934,6 @@
   "changed": true,
   "source_errors": [
     {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
       "source": "gazzetta-via-concorsipubblici",
       "message": "HTTP 403"
     },
@@ -9597,10 +9944,6 @@
     {
       "source": "regione-sicilia-concorsi",
       "message": "fetch failed"
-    },
-    {
-      "source": "linkedin-categorie-protette-sicilia",
-      "message": "HTTP 429"
     },
     {
       "source": "regione-sicilia-l68-enti-pubblici-messina",
