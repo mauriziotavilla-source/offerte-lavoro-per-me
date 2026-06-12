@@ -1,34 +1,112 @@
 {
-  "generated_at": "2026-06-11T22:20:31.809Z",
+  "generated_at": "2026-06-12T04:18:19.786Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "67ca434c3b056fafb79615bef2af2dd97865e934",
+  "catalog_hash": "765d828ea7ec04f857b6a4a2acb13657eb857af4",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 8,
     "aggiornati": 1
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-global-is-project-manager-abb",
-      "nome": "Global IS Project Manager — ABB",
+      "id": "linkedin-orfani-guerra-sicilia-associato-studio-penale-bellavista",
+      "nome": "Associato — Studio penale Bellavista",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/global-is-project-manager-at-abb-4425859214",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/associato-4421953315",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "51fcaa0cccf7642773e80b8c4b4967a3fd921666",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5d1129da3ca9a23abdbef130b7d502559b9a05ce",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
-      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "id": "linkedin-orfani-guerra-sicilia-communication-specialist-ceipes-ets",
+      "nome": "Communication Specialist — CEIPES ETS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/communication-specialist-at-ceipes-ets-4421916042",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8f4aeb3a9e6a05189cdca52f0e1bbd747301da68",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-dj-m-f-club-med-resort-italia-o-all-estero-club-med",
+      "nome": "Dj (M/F) Club Med Resort Italia o all'estero — Club Med",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/dj-m-f-club-med-resort-italia-o-all-estero-at-club-med-4425572610",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a468be24dbc1b42da70d2f0a55a990ab8130ef35",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
+      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4418942292",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "835fc9b5dd6638b26528d48f33640ef8b8c45797",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-legal-manager-gifrab-italia-s-p-a",
+      "nome": "LEGAL MANAGER — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-manager-at-gifrab-italia-s-p-a-4422892469",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "0a18794c32a3385d77e36fb1343cc5a9f5dbe81f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-social-media-content-creator-studio-legale-leone-fell-c",
+      "nome": "Social Media Content Creator — Studio Legale Leone Fell & C.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-content-creator-at-studio-legale-leone-fell-c-4415201513",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "81d5e0c5ed4123d3c4b0f13d40b53b430375c82b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-visual-information-specialist-u-s-navy-fleet-and-family-readiness-ffr",
+      "nome": "Visual Information Specialist — U.S. Navy Fleet and Family Readiness (FFR)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-information-specialist-at-u-s-navy-fleet-and-family-readiness-ffr-4419135456",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -49,10 +127,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
