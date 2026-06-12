@@ -1,138 +1,125 @@
 {
-  "generated_at": "2026-06-12T15:22:55.544Z",
+  "generated_at": "2026-06-12T20:15:35.115Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "05d42e07a6d67697d5912490eb36bf4e55eb1104",
+  "catalog_hash": "bf9684525976ba7bf2fab5dda3db8857c2f6cb01",
   "counts": {
-    "nuovi": 10,
+    "nuovi": 9,
     "aggiornati": 1
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-accoglienza-e-supporto-clienti-ambiente-giovane-part-full-time-catania-jteam-srl",
-      "nome": "Accoglienza e Supporto Clienti – Ambiente Giovane - Part/Full Time - Catania — Jteam SRLS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/accoglienza-e-supporto-clienti-%E2%80%93-ambiente-giovane-part-full-time-catania-at-jteam-srls-4426788456",
+      "id": "linkedin-lavoro-sicilia-amministrativo-contabile-startfound-srl",
+      "nome": "amministrativo contabile — STARTFOUND SRL",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-at-startfound-srl-4424867243",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d20ae965800e99b6589f352b706fb0ca9a4008e7",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d290eab6d088f8dd8f769afd13eeea93a11f4e7f",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetti-e-all-accoglienza-clienti-part-full-time-catania-jteam-srls",
-      "nome": "Addetti/e All'Accoglienza Clienti Part/Full Time -Catania — Jteam SRLS",
+      "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-various-italian-locations-belmond",
+      "nome": "Assistant Financial Controller - Various Italian locations — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetti-e-all-accoglienza-clienti-part-full-time-catania-at-jteam-srls-4427951350",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "acf3bb4dc2569ad35499656596bf3e5351dda653",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-allieva-o-capo-settore-evento-recruiting-day-pescara-29-06-2026-bricocenter-ital",
-      "nome": "Allieva/o Capo Settore 🎓 - Evento Recruiting Day PESCARA 29/06/2026 — Bricocenter Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/allieva-o-capo-settore-%F0%9F%8E%93-evento-recruiting-day-pescara-29-06-2026-at-bricocenter-italia-4419364253",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-financial-controller-various-italian-locations-at-belmond-4412747515",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "384873a55f4dae5482d6034d242b628c1f6eb225",
+      "hash_contenuto": "f8e27e4105bc30e0e20d7153537bd7224925994f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-assistente-a-amministrativo-a-per-azienda-di-logistica-ad-maio-solutions",
-      "nome": "Assistente/a amministrativo/a per azienda di logistica — Ad Maio Solutions",
+      "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-belmond",
+      "nome": "Assistant Financial Controller | Grand Hotel Timeo & Villa Sant'Andrea — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-at-belmond-4415775501",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a871f272626e80cb6aa60aad40d29a5d883eb20b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-di-cantier-jr-assistente-di-cantiere-messina-nonstop-consulting",
+      "nome": "Contabile di Cantier Jr-Assistente di cantiere Messina — NonStop Consulting",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-di-cantier-jr-assistente-di-cantiere-messina-at-nonstop-consulting-4427558450",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "69f200356f4dcf2046e9285eccce0c11a0b83e16",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-senior-randstad-italia",
+      "nome": "Contabile senior — Randstad Italia",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-a-amministrativo-a-per-azienda-di-logistica-at-ad-maio-solutions-4426649705",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-randstad-italia-4424874222",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "b5b731e2d40884aa3fbf8cbed53103fb909b03a0",
+      "hash_contenuto": "dca72ec852a67dd7b54897fa5535d3099d73a9a2",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-contabile-openjobmetis-spa",
-      "nome": "Contabile — Openjobmetis SpA",
+      "id": "linkedin-orfani-guerra-messina-legal-specialist-agrumaria-reggina",
+      "nome": "Legal Specialist — Agrumaria Reggina",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-specialist-at-agrumaria-reggina-4420107711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "00da720d32d56974be58a31599fd907d59a1e8f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4389075969",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d618c41f17063cac2556820041904997b0e62af9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-settore-trasporti-ad-maio-solutions",
+      "nome": "Segretario/a amministrativo/a settore trasporti — Ad Maio Solutions",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4426945492",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-settore-trasporti-at-ad-maio-solutions-4426649682",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "2a4465704985a4aa3f4785783b6711ac7eb71ba0",
+      "hash_contenuto": "247758fd9fb977b009eaedb838a97b99ac4a769b",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-lega-del-fi",
-      "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
+      "id": "linkedin-orfani-guerra-messina-senior-consultant-contabilita-enti-locali-dedagroup",
+      "nome": "Senior Consultant Contabilità - Enti Locali — Dedagroup",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4420195380",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-consultant-contabilit%C3%A0-enti-locali-at-dedagroup-4412134527",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ea03e630ecc35c002be4cf654f28d7f2db8138a3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-impiegato-a-categorie-protette-art-18-c-2-l-68-99-tecnotask-s-p-a",
-      "nome": "Impiegato/a Categorie Protette Art.18 c.2 L. 68/99 — TECNOTASK S.P.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-categorie-protette-art-18-c-2-l-68-99-at-tecnotask-s-p-a-4097053291",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "470b8b456038330b625a2a550a0f170140dacdab",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-palermo-figura-educativa-part-time-fondazione-l-albero-della-vita-e-t-s",
-      "nome": "Palermo – Figura Educativa Part-Time — Fondazione L'Albero della Vita E.T.S.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/palermo-%E2%80%93-figura-educativa-part-time-at-fondazione-l-albero-della-vita-e-t-s-4416916646",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8a37accf14e0e71a7e368edf0d32e2e43eb91212",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-steward-publipeas",
-      "nome": "Steward — Publipeas",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/steward-at-publipeas-4410097505",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9fe9e7c4a3a3bc0a1d890c0f89450218b601c1c1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-tirocinio-area-ascolto-e-consulenza-infanzia-palermo-fondazione-sos-il-telefono-",
-      "nome": "Tirocinio Area Ascolto e Consulenza Infanzia - Palermo — Fondazione SOS il Telefono Azzurro ETS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tirocinio-area-ascolto-e-consulenza-infanzia-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4395737371",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b53f71b1e6698a81d269dfd14dc5c5f667f91c79",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "dcc3c751b6f26df2714236fffae4a103cf07bbd9",
       "notifica_topics": [
         "categorie_protette"
       ]
