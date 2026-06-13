@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-06-13T09:21:46.798Z",
+  "generated_at": "2026-06-13T14:06:55.178Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "97ee0ea5fd3fd9f4f3fb0365f84a2c90c89768c1",
+  "catalog_hash": "6f02fa9a7e5249e8bd91e3a2bde71ae53ef81d7a",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 1
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-messina-amministrativo-contabile-startfound-srl",
+      "nome": "amministrativo contabile — STARTFOUND SRL",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-at-startfound-srl-4424867243",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "d290eab6d088f8dd8f769afd13eeea93a11f4e7f",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-commis-di-sala-futura-vacanze-tour-operator",
+      "nome": "Commis di Sala — FUTURA VACANZE Tour Operator",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commis-di-sala-at-futura-vacanze-tour-operator-4420427469",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "601001319d78f41cfd127a47ccabcf7199e9505a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
@@ -30,14 +57,6 @@
     {
       "source": "concorsipubblici-sicilia",
       "message": "HTTP 403"
-    },
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
     }
   ]
 }
