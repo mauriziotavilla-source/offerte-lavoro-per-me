@@ -1,125 +1,86 @@
 {
-  "generated_at": "2026-06-12T20:15:35.115Z",
+  "generated_at": "2026-06-13T04:06:40.454Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bf9684525976ba7bf2fab5dda3db8857c2f6cb01",
+  "catalog_hash": "e69436f0eccc27a218e76c4d8c5b860a36e50981",
   "counts": {
-    "nuovi": 9,
+    "nuovi": 6,
     "aggiornati": 1
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-amministrativo-contabile-startfound-srl",
-      "nome": "amministrativo contabile — STARTFOUND SRL",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-at-startfound-srl-4424867243",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d290eab6d088f8dd8f769afd13eeea93a11f4e7f",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-various-italian-locations-belmond",
-      "nome": "Assistant Financial Controller - Various Italian locations — Belmond",
+      "id": "linkedin-orfani-guerra-messina-business-development-representative-sales-messina-deliveroo",
+      "nome": "Business Development Representative (Sales) - Messina — Deliveroo",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-financial-controller-various-italian-locations-at-belmond-4412747515",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/business-development-representative-sales-messina-at-deliveroo-4427229327",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f8e27e4105bc30e0e20d7153537bd7224925994f",
+      "hash_contenuto": "5f574b4088f5b85ef9a5b6ad6b03e161f1734d75",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-belmond",
-      "nome": "Assistant Financial Controller | Grand Hotel Timeo & Villa Sant'Andrea — Belmond",
+      "id": "gazzetta-via-concorsipubblici-comune-di-inverigo-1-istruttore-amministrativo",
+      "nome": "Comune di Inverigo, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-inverigo-concorso-istruttore-amministrativo-como-2026",
+      "data_pubblicazione": "2026-06-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d9e509b0b4c729c8084c0984b7292482bebdf960",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-misano-di-gera-d-adda-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Misano di Gera D’Adda, 1 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-misano-di-gera-dadda-concorso-istruttore-amministrativo-contabile-bergamo-2026",
+      "data_pubblicazione": "2026-06-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "91d18525e8586514995554be555b1924958269db",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-rende-1-collaboratore-amministrativo",
+      "nome": "Comune di Rende, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-rende-concorso-riservato-collaboratore-amministrativo-cosenza-2026",
+      "data_pubblicazione": "2026-07-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "62eb3aca560da63a3a278884c33c49b86adec5a7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-at-belmond-4415775501",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a871f272626e80cb6aa60aad40d29a5d883eb20b",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-contabile-di-cantier-jr-assistente-di-cantiere-messina-nonstop-consulting",
-      "nome": "Contabile di Cantier Jr-Assistente di cantiere Messina — NonStop Consulting",
+      "id": "linkedin-orfani-guerra-messina-operatore-recupero-crediti-smart-working-fides-s-p-a",
+      "nome": "Operatore Recupero Crediti - Smart Working — Fides S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-di-cantier-jr-assistente-di-cantiere-messina-at-nonstop-consulting-4427558450",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-recupero-crediti-smart-working-at-fides-s-p-a-4424633659",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "69f200356f4dcf2046e9285eccce0c11a0b83e16",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-senior-randstad-italia",
-      "nome": "Contabile senior — Randstad Italia",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-at-randstad-italia-4424874222",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "dca72ec852a67dd7b54897fa5535d3099d73a9a2",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-legal-specialist-agrumaria-reggina",
-      "nome": "Legal Specialist — Agrumaria Reggina",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-specialist-at-agrumaria-reggina-4420107711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "00da720d32d56974be58a31599fd907d59a1e8f1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4389075969",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d618c41f17063cac2556820041904997b0e62af9",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-settore-trasporti-ad-maio-solutions",
-      "nome": "Segretario/a amministrativo/a settore trasporti — Ad Maio Solutions",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-settore-trasporti-at-ad-maio-solutions-4426649682",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "247758fd9fb977b009eaedb838a97b99ac4a769b",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-senior-consultant-contabilita-enti-locali-dedagroup",
-      "nome": "Senior Consultant Contabilità - Enti Locali — Dedagroup",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-consultant-contabilit%C3%A0-enti-locali-at-dedagroup-4412134527",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "dcc3c751b6f26df2714236fffae4a103cf07bbd9",
+      "hash_contenuto": "dc194fedc80b26ad94294ff39dc21599583c09da",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -140,22 +101,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
-    }
-  ]
+  "errori_fonti": []
 }
