@@ -1,12 +1,53 @@
 {
-  "generated_at": "2026-06-14T14:10:37.134Z",
+  "generated_at": "2026-06-14T19:41:41.952Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d53fbd437a0af499348218b0b2fbcb10ad37ff6f",
+  "catalog_hash": "b6fdb1f484badc5609b42ade372dcc02c54739e9",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 1
+    "nuovi": 2,
+    "aggiornati": 4
   },
   "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-child-and-youth-program-cyp-direct-care-supervisor-u-s-navy-fleet-and-family-rea",
+      "nome": "Child and Youth Program (CYP) Direct Care Supervisor — U.S. Navy Fleet and Family Readiness (FFR)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/child-and-youth-program-cyp-direct-care-supervisor-at-u-s-navy-fleet-and-family-readiness-ffr-4428317333",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "715c94ae4763285c50973f37db90e49c029ee704",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
+      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
+  "aggiornati": [
+    {
+      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
+      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379188933",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
     {
       "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
       "nome": "Assistente amministrativo — new car srl",
@@ -45,53 +86,7 @@
       "notifica_topics": [
         "offerte_lavoro"
       ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425717615",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "11cd67c3fc2a6658997c08008563e4e2c56750bc",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-contabile-amministrativo-sicaniasc-revenue-marketing-per-il-turismo",
-      "nome": "Contabile amministrativo — SICANIASC revenue & marketing per il turismo",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-sicaniasc-revenue-marketing-per-il-turismo-4425381767",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "94e58fbef9cd9ecc3918dc1b8f95bffb858a7a7c",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
     }
   ],
-  "aggiornati": [
-    {
-      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
-      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379188933",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
