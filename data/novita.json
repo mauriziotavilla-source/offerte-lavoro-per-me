@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-06-14T04:24:05.202Z",
+  "generated_at": "2026-06-14T09:40:41.628Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f210044543d7c361dfd7ac2e53535a937de504e5",
+  "catalog_hash": "43634c1dfb8e4d7c9bdf4df80381738ee794da6a",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 1
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-cinigiano-1-istruttore-direttivo-amministrativo-contabile",
+      "nome": "Comune di Cinigiano, 1 istruttore direttivo amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cinigiano-concorso-istruttore-direttivo-amministrativo-contabile-grosseto-2026",
+      "data_pubblicazione": "2026-06-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "629f5892993d9b784027e59f0881d05ebacf2ce0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-preseglie-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Preseglie , 1 Istruttore Amministrativo - Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-preseglie-concorso-istruttore-amministrativo-contabile-brescia-2026",
+      "data_pubblicazione": "2026-06-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a592a391588e1a189ce519d3ac0e6ccc400594d4",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istruttore-direttivo-amministrativo-contabile",
+      "nome": "istruttore direttivo amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-amministrativo-contabile-339",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9bcaa95e49fac7192dd93c99faf4b814cf96cc78",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
@@ -22,18 +62,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
