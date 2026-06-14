@@ -1,49 +1,75 @@
 {
-  "generated_at": "2026-06-14T09:40:41.628Z",
+  "generated_at": "2026-06-14T14:10:37.134Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "43634c1dfb8e4d7c9bdf4df80381738ee794da6a",
+  "catalog_hash": "d53fbd437a0af499348218b0b2fbcb10ad37ff6f",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 5,
     "aggiornati": 1
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cinigiano-1-istruttore-direttivo-amministrativo-contabile",
-      "nome": "Comune di Cinigiano, 1 istruttore direttivo amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cinigiano-concorso-istruttore-direttivo-amministrativo-contabile-grosseto-2026",
-      "data_pubblicazione": "2026-06-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "629f5892993d9b784027e59f0881d05ebacf2ce0",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-preseglie-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Preseglie , 1 Istruttore Amministrativo - Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-preseglie-concorso-istruttore-amministrativo-contabile-brescia-2026",
-      "data_pubblicazione": "2026-06-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a592a391588e1a189ce519d3ac0e6ccc400594d4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istruttore-direttivo-amministrativo-contabile",
-      "nome": "istruttore direttivo amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-amministrativo-contabile-339",
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425740140",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9bcaa95e49fac7192dd93c99faf4b814cf96cc78",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "4470e3a3ba38ae00ba5e1d8aa4d6a8e28fe8c97a",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741081",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "c5b42dc0eee6960df7eea3827230e09c975c424c",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741101",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "c59ffc164578aba63f3df581cb1790bfb9e69db7",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425717615",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "11cd67c3fc2a6658997c08008563e4e2c56750bc",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-contabile-amministrativo-sicaniasc-revenue-marketing-per-il-turismo",
+      "nome": "Contabile amministrativo — SICANIASC revenue & marketing per il turismo",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-sicaniasc-revenue-marketing-per-il-turismo-4425381767",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "94e58fbef9cd9ecc3918dc1b8f95bffb858a7a7c",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     }
   ],
@@ -62,5 +88,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
