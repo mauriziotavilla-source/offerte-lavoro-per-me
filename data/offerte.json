@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "f210044543d7c361dfd7ac2e53535a937de504e5",
-  "generated_at": "2026-06-13T19:42:05.359Z",
+  "generated_at": "2026-06-14T04:24:05.201Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -196,7 +196,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -240,7 +240,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -284,7 +284,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -328,7 +328,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -354,7 +354,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -379,7 +379,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -468,7 +468,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -562,7 +562,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -688,7 +688,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -713,7 +713,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -808,7 +808,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -908,7 +908,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -958,7 +958,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1134,7 +1134,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1159,7 +1159,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1184,7 +1184,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1209,7 +1209,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2407,7 +2407,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -2451,7 +2451,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -2546,7 +2546,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -2640,7 +2640,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -2737,7 +2737,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -3220,7 +3220,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3615,7 +3615,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -3659,7 +3659,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -3703,7 +3703,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -3747,7 +3747,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -4017,7 +4017,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4042,7 +4042,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4117,7 +4117,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4142,7 +4142,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4167,7 +4167,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4192,7 +4192,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4267,7 +4267,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4292,7 +4292,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4317,7 +4317,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4342,7 +4342,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4468,7 +4468,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-07-28",
+          "data": "2026-07-29",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4493,7 +4493,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4869,7 +4869,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -4913,7 +4913,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -4957,7 +4957,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -5007,7 +5007,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5051,7 +5051,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -5189,7 +5189,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -5333,7 +5333,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -5572,7 +5572,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-13",
+      "rilevato_il": "2026-06-14",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -5729,7 +5729,7 @@
       "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": [
     {
       "source": "gazzetta-via-concorsipubblici",
@@ -5740,12 +5740,8 @@
       "message": "HTTP 403"
     },
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }

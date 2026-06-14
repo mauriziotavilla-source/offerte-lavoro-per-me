@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-06-13T19:42:05.360Z",
+  "generated_at": "2026-06-14T04:24:05.202Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f210044543d7c361dfd7ac2e53535a937de504e5",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 1
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-amministrativo-contabile-startfound-srl",
-      "nome": "amministrativo contabile — STARTFOUND SRL",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-at-startfound-srl-4424867243",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d290eab6d088f8dd8f769afd13eeea93a11f4e7f",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-amministrativo-sicaniasc-revenue-marketing-per-il-turismo",
-      "nome": "Contabile amministrativo — SICANIASC revenue & marketing per il turismo",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-sicaniasc-revenue-marketing-per-il-turismo-4425381767",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "94e58fbef9cd9ecc3918dc1b8f95bffb858a7a7c",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
@@ -59,12 +32,8 @@
       "message": "HTTP 403"
     },
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
