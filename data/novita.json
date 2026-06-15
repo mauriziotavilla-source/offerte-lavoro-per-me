@@ -1,34 +1,21 @@
 {
-  "generated_at": "2026-06-14T19:41:41.952Z",
+  "generated_at": "2026-06-15T04:47:41.212Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b6fdb1f484badc5609b42ade372dcc02c54739e9",
+  "catalog_hash": "7a3a9e2be967770fc4a2545680d5c702d7f76683",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 1,
     "aggiornati": 4
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-child-and-youth-program-cyp-direct-care-supervisor-u-s-navy-fleet-and-family-rea",
-      "nome": "Child and Youth Program (CYP) Direct Care Supervisor — U.S. Navy Fleet and Family Readiness (FFR)",
+      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-sicaniasc-revenue-marketing-per-il-turismo",
+      "nome": "Contabile amministrativo — SICANIASC revenue & marketing per il turismo",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/child-and-youth-program-cyp-direct-care-supervisor-at-u-s-navy-fleet-and-family-readiness-ffr-4428317333",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-sicaniasc-revenue-marketing-per-il-turismo-4425381767",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "715c94ae4763285c50973f37db90e49c029ee704",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
-      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "04be72f814cb11b8559386aa2d91da894ff73113",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -88,5 +75,34 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
+    }
+  ]
 }
