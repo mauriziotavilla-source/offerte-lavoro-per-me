@@ -1,27 +1,66 @@
 {
-  "generated_at": "2026-06-15T04:47:41.212Z",
+  "generated_at": "2026-06-15T12:23:00.874Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7a3a9e2be967770fc4a2545680d5c702d7f76683",
+  "catalog_hash": "c969b07667920020fa100b50610000acecae8481",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 4
+    "nuovi": 3,
+    "aggiornati": 5
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-sicaniasc-revenue-marketing-per-il-turismo",
-      "nome": "Contabile amministrativo — SICANIASC revenue & marketing per il turismo",
+      "id": "linkedin-lavoro-sicilia-addetto-a-alle-paghe-gruppo-cappadona",
+      "nome": "Addetto/a alle paghe — Gruppo Cappadona",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alle-paghe-at-gruppo-cappadona-4425752939",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "287fccc0c6036ce3483c11e0172742845cbbb255",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
+      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-sicaniasc-revenue-marketing-per-il-turismo-4425381767",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "04be72f814cb11b8559386aa2d91da894ff73113",
+      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-operatore-servizio-clienti-mobilificio-marchese",
+      "nome": "Operatore servizio clienti — Mobilificio Marchese",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-servizio-clienti-at-mobilificio-marchese-4345656305",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "3738b6a9ea434992c91d7f0f7e32490858a506d5",
       "notifica_topics": [
         "categorie_protette"
       ]
     }
   ],
   "aggiornati": [
+    {
+      "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4425774162",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d4923c594b9559ee9b257650bfb7e7f803530cea",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
     {
       "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
       "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
@@ -77,14 +116,6 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
       "source": "gazzetta-via-concorsipubblici",
       "message": "HTTP 403"
     },
@@ -93,16 +124,8 @@
       "message": "HTTP 403"
     },
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
     }
   ]
 }
