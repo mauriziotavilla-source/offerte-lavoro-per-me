@@ -1,49 +1,179 @@
 {
-  "generated_at": "2026-06-15T12:23:00.874Z",
+  "generated_at": "2026-06-15T21:08:41.558Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c969b07667920020fa100b50610000acecae8481",
+  "catalog_hash": "cbf1350ba054ca27fc5730cb206e4a3b205e1509",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 5
+    "nuovi": 13,
+    "aggiornati": 2
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-addetto-a-alle-paghe-gruppo-cappadona",
-      "nome": "Addetto/a alle paghe — Gruppo Cappadona",
+      "id": "linkedin-lavoro-messina-amministrativo-contabile-startfound-srl",
+      "nome": "amministrativo contabile — STARTFOUND SRL",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alle-paghe-at-gruppo-cappadona-4425752939",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-at-startfound-srl-4424867243",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "287fccc0c6036ce3483c11e0172742845cbbb255",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "d290eab6d088f8dd8f769afd13eeea93a11f4e7f",
       "notifica_topics": [
         "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425740140",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d9979633403fca4c593d291466874459b009d44f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741081",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "27378f7fe9212a7c596dff866c064e7d34f40646",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741101",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d506df7cf18a19930ac8d95d410f1504588a80a4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
+      "nome": "Assistente amministrativo — new car srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425717615",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "28a0a64e8cc5326ed0fd531f9602f0406db934d3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-unita-sanitaria-locale-di-bologna-1-collaboratore-amministrativo-profess",
+      "nome": "Azienda Unità Sanitaria Locale di Bologna, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-di-bologna-concorso-collaboratore-amministrativo-professionale-0",
+      "data_pubblicazione": "2026-07-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fd30e603d196486c46f167473a6bf5f428e903fb",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-unita-sanitaria-locale-di-bologna-1-collaboratore-amministrativo-profess",
+      "nome": "Azienda Unità Sanitaria Locale di Bologna, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-di-bologna-concorso-collaboratore-amministrativo-professionale",
+      "data_pubblicazione": "2026-07-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "45a2f24cc722f84e7a0af84eda5bbb9f95c64e6a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-usl-di-bologna-1-collaboratore-amministrativo-professionale",
+      "nome": "Azienda USL di Bologna , 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-di-bologna-concorso-collaboratore-amministrativo-bologna-2026-0",
+      "data_pubblicazione": "2026-07-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6f5cd872109fd586f7de2cbc9c9e669c57838b57",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-usl-di-bologna-1-collaboratore-amministrativo-professionale",
+      "nome": "Azienda USL di Bologna, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-di-bologna-concorso-collaboratore-amministrativo-bologna-2026",
+      "data_pubblicazione": "2026-07-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b21f2e39b95ed0de47b75eb08c8ed48ac5258178",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-miane-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Miane , 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-miane-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-07-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "588c2deba76dfac657aac617d5d6306e8bfd72e8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
       "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-operatore-servizio-clienti-mobilificio-marchese",
-      "nome": "Operatore servizio clienti — Mobilificio Marchese",
+      "id": "linkedin-orfani-guerra-sicilia-lavapiatti-m-f-club-med-resort-italia-o-all-estero-club-med",
+      "nome": "Lavapiatti (M/F) Club Med Resort Italia o all'estero — Club Med",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-servizio-clienti-at-mobilificio-marchese-4345656305",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavapiatti-m-f-club-med-resort-italia-o-all-estero-at-club-med-4330454548",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "3738b6a9ea434992c91d7f0f7e32490858a506d5",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2763c1a0f5bcc18885b3c4c0522ef93063a38441",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-professionista-fiscale-senior-studio-commerciale-crispino",
+      "nome": "Professionista Fiscale Senior — Studio Commerciale Crispino",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/professionista-fiscale-senior-at-studio-commerciale-crispino-4428822841",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "6a9561e7c00c046451a2e40c5b62c12519414d9a",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     }
   ],
@@ -53,10 +183,10 @@
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4425774162",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4414886774",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d4923c594b9559ee9b257650bfb7e7f803530cea",
+      "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -73,59 +203,7 @@
       "notifica_topics": [
         "categorie_protette"
       ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425740140",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "4470e3a3ba38ae00ba5e1d8aa4d6a8e28fe8c97a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741081",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "c5b42dc0eee6960df7eea3827230e09c975c424c",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741101",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "c59ffc164578aba63f3df581cb1790bfb9e69db7",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
