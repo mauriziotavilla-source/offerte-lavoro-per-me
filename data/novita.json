@@ -1,88 +1,23 @@
 {
-  "generated_at": "2026-06-16T17:01:32.042Z",
+  "generated_at": "2026-06-16T20:56:18.133Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1a442eeaffa247af1997cc26262d015f5df9d929",
+  "catalog_hash": "5ef62a8f6ed57334e4e1f77f7abe929a7cfdfacb",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 1,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetta-boutique-gex-agent-per-baia-del-sole-resort-mediterranean-hospitality-ma",
-      "nome": "ADDETTA BOUTIQUE/GEX AGENT PER BAIA DEL SOLE RESORT — Mediterranean Hospitality Management & Consulting",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetta-boutique-gex-agent-per-baia-del-sole-resort-at-mediterranean-hospitality-management-consulting-4420463478",
+      "id": "linkedin-lavoro-sicilia-segretaria-o-per-ufficio-logistico-amministrativo-ad-maio-solutions",
+      "nome": "Segretaria/o per ufficio logistico amministrativo — Ad Maio Solutions",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretaria-o-per-ufficio-logistico-amministrativo-at-ad-maio-solutions-4427743505",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "dc26f625e7c029ed46b03f22f78b40232f60cc2d",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "c0c8f3107c5814a88a0288697efe9a6fd723783e",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-commerciale-gruppo-serenissima-ristorazione",
-      "nome": "COMMERCIALE — Gruppo Serenissima Ristorazione",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-at-gruppo-serenissima-ristorazione-4403522002",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4dbcb78f2b48b2e709616eb6a648c5ff590ac076",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-trecchina-1-istruttore-contabile",
-      "nome": "Comune di Trecchina, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trecchina-avviso-di-mobilita-istruttore-contabile-potenza-2026",
-      "data_pubblicazione": "2026-07-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7ce017664167604f7c042368351c4109326edfff",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-regione-toscana-1-istruttore-amministrativo",
-      "nome": "Regione Toscana, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-avviso-di-mobilita-istruttore-amministrativo-firenze-2026-4",
-      "data_pubblicazione": "2026-07-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4c16a33ae0a37d3ffb5b2ff6534dd72760613633",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-sales-advisor-taormina-damiani-group",
-      "nome": "Sales Advisor - Taormina — DAMIANI Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-advisor-taormina-at-damiani-group-4419476160",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "077f1f93fac4ef939d112bfe40726ca613466b02",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-store-manager-trainee-ovs-spa-calabria-ovs-s-p-a",
-      "nome": "Store Manager Trainee OVS SpA (Calabria) — OVS S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-trainee-ovs-spa-calabria-at-ovs-s-p-a-4426488565",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "07bce6b0919d571f79946424db76790561fe4da8",
-      "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -192,5 +127,22 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
