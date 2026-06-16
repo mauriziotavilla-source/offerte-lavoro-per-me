@@ -1,36 +1,88 @@
 {
-  "generated_at": "2026-06-16T11:18:28.529Z",
+  "generated_at": "2026-06-16T17:01:32.042Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f993b97a3e0f383aaf67ef8bc1d73ea910528b90",
+  "catalog_hash": "1a442eeaffa247af1997cc26262d015f5df9d929",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 6,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-colle-brianza-1-istruttore-amministrativo",
-      "nome": "Comune di Colle Brianza , 1 Istruttore Amministrativo",
+      "id": "linkedin-orfani-guerra-messina-addetta-boutique-gex-agent-per-baia-del-sole-resort-mediterranean-hospitality-ma",
+      "nome": "ADDETTA BOUTIQUE/GEX AGENT PER BAIA DEL SOLE RESORT — Mediterranean Hospitality Management & Consulting",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetta-boutique-gex-agent-per-baia-del-sole-resort-at-mediterranean-hospitality-management-consulting-4420463478",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "dc26f625e7c029ed46b03f22f78b40232f60cc2d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-commerciale-gruppo-serenissima-ristorazione",
+      "nome": "COMMERCIALE — Gruppo Serenissima Ristorazione",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-at-gruppo-serenissima-ristorazione-4403522002",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4dbcb78f2b48b2e709616eb6a648c5ff590ac076",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-trecchina-1-istruttore-contabile",
+      "nome": "Comune di Trecchina, 1 istruttore contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colle-brianza-concorso-istruttore-amministrativo-lecco-2026",
-      "data_pubblicazione": "2026-06-15",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trecchina-avviso-di-mobilita-istruttore-contabile-potenza-2026",
+      "data_pubblicazione": "2026-07-12",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a3f8a95068b1635329e9a6935fdb4193d7100f8c",
+      "hash_contenuto": "7ce017664167604f7c042368351c4109326edfff",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-volpago-del-montello-1-struttore-amministrativo-contabile",
-      "nome": "Comune di Volpago del Montello, 1 struttore amministrativo-contabile",
+      "id": "gazzetta-via-concorsipubblici-regione-toscana-1-istruttore-amministrativo",
+      "nome": "Regione Toscana, 1 istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-volpago-del-montello-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-06-15",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-avviso-di-mobilita-istruttore-amministrativo-firenze-2026-4",
+      "data_pubblicazione": "2026-07-12",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "06619e9de4609d8c7d06a5517a7ded8631188d13",
+      "hash_contenuto": "4c16a33ae0a37d3ffb5b2ff6534dd72760613633",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-sales-advisor-taormina-damiani-group",
+      "nome": "Sales Advisor - Taormina — DAMIANI Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-advisor-taormina-at-damiani-group-4419476160",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "077f1f93fac4ef939d112bfe40726ca613466b02",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-store-manager-trainee-ovs-spa-calabria-ovs-s-p-a",
+      "nome": "Store Manager Trainee OVS SpA (Calabria) — OVS S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-trainee-ovs-spa-calabria-at-ovs-s-p-a-4426488565",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "07bce6b0919d571f79946424db76790561fe4da8",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -140,14 +192,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
