@@ -1,23 +1,37 @@
 {
-  "generated_at": "2026-06-15T21:08:41.558Z",
+  "generated_at": "2026-06-16T04:44:36.966Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "cbf1350ba054ca27fc5730cb206e4a3b205e1509",
   "counts": {
-    "nuovi": 13,
-    "aggiornati": 2
+    "nuovi": 0,
+    "aggiornati": 7
   },
-  "nuovi": [
+  "nuovi": [],
+  "aggiornati": [
     {
-      "id": "linkedin-lavoro-messina-amministrativo-contabile-startfound-srl",
-      "nome": "amministrativo contabile — STARTFOUND SRL",
+      "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-at-startfound-srl-4424867243",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4414886774",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "d290eab6d088f8dd8f769afd13eeea93a11f4e7f",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
+      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379188933",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -60,19 +74,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425717615",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "28a0a64e8cc5326ed0fd531f9602f0406db934d3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-azienda-unita-sanitaria-locale-di-bologna-1-collaboratore-amministrativo-profess",
       "nome": "Azienda Unità Sanitaria Locale di Bologna, 1 collaboratore amministrativo professionale",
       "tipo": "concorso",
@@ -81,19 +82,6 @@
       "data_pubblicazione": "2026-07-13",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "fd30e603d196486c46f167473a6bf5f428e903fb",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-unita-sanitaria-locale-di-bologna-1-collaboratore-amministrativo-profess",
-      "nome": "Azienda Unità Sanitaria Locale di Bologna, 1 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-di-bologna-concorso-collaboratore-amministrativo-professionale",
-      "data_pubblicazione": "2026-07-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "45a2f24cc722f84e7a0af84eda5bbb9f95c64e6a",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -110,100 +98,28 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-usl-di-bologna-1-collaboratore-amministrativo-professionale",
-      "nome": "Azienda USL di Bologna, 1 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-di-bologna-concorso-collaboratore-amministrativo-bologna-2026",
-      "data_pubblicazione": "2026-07-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b21f2e39b95ed0de47b75eb08c8ed48ac5258178",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-miane-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Miane , 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-miane-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-07-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "588c2deba76dfac657aac617d5d6306e8bfd72e8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
-      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-lavapiatti-m-f-club-med-resort-italia-o-all-estero-club-med",
-      "nome": "Lavapiatti (M/F) Club Med Resort Italia o all'estero — Club Med",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavapiatti-m-f-club-med-resort-italia-o-all-estero-at-club-med-4330454548",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2763c1a0f5bcc18885b3c4c0522ef93063a38441",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-professionista-fiscale-senior-studio-commerciale-crispino",
-      "nome": "Professionista Fiscale Senior — Studio Commerciale Crispino",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/professionista-fiscale-senior-at-studio-commerciale-crispino-4428822841",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "6a9561e7c00c046451a2e40c5b62c12519414d9a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
     }
   ],
-  "aggiornati": [
+  "errori_fonti": [
     {
-      "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
-      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4414886774",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
-      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379188933",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
-  ],
-  "errori_fonti": []
+  ]
 }

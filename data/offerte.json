@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "cbf1350ba054ca27fc5730cb206e4a3b205e1509",
-  "generated_at": "2026-06-15T21:08:41.558Z",
+  "generated_at": "2026-06-16T04:44:36.965Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -558,7 +558,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-06-15",
+      "rilevato_il": "2026-06-16",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -651,7 +651,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-06-15",
+      "rilevato_il": "2026-06-16",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -1197,7 +1197,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-15",
+      "rilevato_il": "2026-06-16",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3770,7 +3770,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-15",
+      "rilevato_il": "2026-06-16",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5746,7 +5746,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-15",
+      "rilevato_il": "2026-06-16",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6468,6 +6468,27 @@
       "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9"
     }
   ],
-  "changed": true,
-  "source_errors": []
+  "changed": false,
+  "source_errors": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
