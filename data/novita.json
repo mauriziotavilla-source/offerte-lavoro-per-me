@@ -1,23 +1,49 @@
 {
-  "generated_at": "2026-06-16T20:56:18.133Z",
+  "generated_at": "2026-06-17T04:25:21.467Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5ef62a8f6ed57334e4e1f77f7abe929a7cfdfacb",
+  "catalog_hash": "a352ff695003968a333b4e756aac7e0a73e28258",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 3,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-segretaria-o-per-ufficio-logistico-amministrativo-ad-maio-solutions",
-      "nome": "Segretaria/o per ufficio logistico amministrativo — Ad Maio Solutions",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretaria-o-per-ufficio-logistico-amministrativo-at-ad-maio-solutions-4427743505",
+      "id": "linkedin-orfani-guerra-messina-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
+      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "c0c8f3107c5814a88a0288697efe9a6fd723783e",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-social-worker-project-palermo-survivors-of-torture-medici-senza-frontiere",
+      "nome": "Social Worker - Project Palermo \"Survivors of torture\" — Medici Senza Frontiere",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-worker-project-palermo-survivors-of-torture-at-medici-senza-frontiere-4428037895",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d4fc67a2d86967629d51b713c7bf711dfc419646",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-talent-admission-specialist-radar-academy-recruiting",
+      "nome": "Talent Admission Specialist — RADAR - Academy & Recruiting",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/talent-admission-specialist-at-radar-academy-recruiting-4429559523",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2030469dcec3f200009f72a30c991c53e7f0e79c",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -135,14 +161,6 @@
     {
       "source": "concorsipubblici-sicilia",
       "message": "HTTP 403"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
     }
   ]
 }
