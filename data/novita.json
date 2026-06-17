@@ -1,49 +1,114 @@
 {
-  "generated_at": "2026-06-17T11:03:21.502Z",
+  "generated_at": "2026-06-17T15:41:37.783Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "4395525ebc71b14902397bc85304be275e0b1e2f",
+  "catalog_hash": "d522ced85c4e130c78f84390ced2215940567195",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 8,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-spaziale-italiana-2-posti-di-collaboratore-amministrativo",
-      "nome": "Agenzia Spaziale Italiana, 2 posti di collaboratore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-cerveteri-2-collaboratori-amministrativi",
+      "nome": "Comune di Cerveteri, 2 collaboratori amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-spaziale-italiana-concorso-riservato-collaboratore-amministrativo-collaboratore-di",
-      "data_pubblicazione": "2026-07-17",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cerveteri-avviso-di-mobilita-collaboratore-amministrativo-roma-2026",
+      "data_pubblicazione": "2026-07-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d31e75ea67b3ec9bb5c3e836a4aeada198a61ac5",
+      "hash_contenuto": "492d360a91225f5e13ab08832e99219b9902360e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vicoforte-1-istruttore-amministrativo",
-      "nome": "Comune di Vicoforte , 1 Istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vidor-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Vidor , 1 Istruttore Amministrativo-Contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vicoforte-concorso-istruttore-amministrativo-cuneo-2026",
-      "data_pubblicazione": "2026-06-16",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vidor-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-07-15",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bc9003cd06d31e8d1bac74fc94c2149c16e5634b",
+      "hash_contenuto": "7bab4cdf87076e199413b01149c19184098c1fad",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-esperto-paghe-e-contributi-per-la-p-a-locale-catania-immedia-s-p-a",
-      "nome": "Esperto paghe e contributi per la P.A. locale | Catania — Immedia S.p.A.",
+      "id": "linkedin-lavoro-sicilia-contabile-lavori-hays",
+      "nome": "Contabile Lavori — Hays",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-paghe-e-contributi-per-la-p-a-locale-catania-at-immedia-s-p-a-4429525340",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-lavori-at-hays-4427327602",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "e23b354ddeb3af444da7e6ccf125cf5c67a03f7f",
+      "hash_contenuto": "7f3e680229092b1bfa15c6f5530979a64501385d",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-ufficio-amministrativo-c-s-s-group",
+      "nome": "Impiegato/a ufficio amministrativo — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-ufficio-amministrativo-at-c-s-s-group-4428030820",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "5fb8e9f201325512f0f9e88776dd053bebbe2bfa",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-medical-liaison-officer-project-survivors-of-torture-palermo-medici-senza-fronti",
+      "nome": "Medical Liaison Officer - Project Survivors of Torture - Palermo — Medici Senza Frontiere",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/medical-liaison-officer-project-survivors-of-torture-palermo-at-medici-senza-frontiere-4428067989",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8fdd8ff78ed408f3c007bfe3590a06476a33daf5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-responsabile-sede-caf-centro-assistenza-fiscale-studio-cosentino",
+      "nome": "RESPONSABILE SEDE CAF (Centro Assistenza Fiscale) — Studio Cosentino",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-sede-caf-centro-assistenza-fiscale-at-studio-cosentino-4398277551",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "1656e8321c0e3313d966f231f6ae68481ab9288d",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-ufficio-stile-e-prodotto-head-of-product-style-gifrab-italia-s-p-a",
+      "nome": "RESPONSABILE UFFICIO STILE E PRODOTTO / HEAD OF PRODUCT & STYLE — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-ufficio-stile-e-prodotto-head-of-product-style-at-gifrab-italia-s-p-a-4412779860",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d99d41c7ecdb0ef939a89ef2cdd7b134d5b86403",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
