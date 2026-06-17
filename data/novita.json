@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-06-17T04:25:21.467Z",
+  "generated_at": "2026-06-17T11:03:21.502Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a352ff695003968a333b4e756aac7e0a73e28258",
+  "catalog_hash": "4395525ebc71b14902397bc85304be275e0b1e2f",
   "counts": {
     "nuovi": 3,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-housekeeping-intern-taormina-san-domenico-palace-taormina-a-four-seasons-hotel",
-      "nome": "Housekeeping Intern - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/housekeeping-intern-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4407837294",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ba5046d38d6cdf39a44c24de826fbdbf40d19dd4",
+      "id": "gazzetta-via-concorsipubblici-agenzia-spaziale-italiana-2-posti-di-collaboratore-amministrativo",
+      "nome": "Agenzia Spaziale Italiana, 2 posti di collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-spaziale-italiana-concorso-riservato-collaboratore-amministrativo-collaboratore-di",
+      "data_pubblicazione": "2026-07-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d31e75ea67b3ec9bb5c3e836a4aeada198a61ac5",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-social-worker-project-palermo-survivors-of-torture-medici-senza-frontiere",
-      "nome": "Social Worker - Project Palermo \"Survivors of torture\" — Medici Senza Frontiere",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-worker-project-palermo-survivors-of-torture-at-medici-senza-frontiere-4428037895",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d4fc67a2d86967629d51b713c7bf711dfc419646",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vicoforte-1-istruttore-amministrativo",
+      "nome": "Comune di Vicoforte , 1 Istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vicoforte-concorso-istruttore-amministrativo-cuneo-2026",
+      "data_pubblicazione": "2026-06-16",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bc9003cd06d31e8d1bac74fc94c2149c16e5634b",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-talent-admission-specialist-radar-academy-recruiting",
-      "nome": "Talent Admission Specialist — RADAR - Academy & Recruiting",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/talent-admission-specialist-at-radar-academy-recruiting-4429559523",
+      "id": "linkedin-lavoro-sicilia-esperto-paghe-e-contributi-per-la-p-a-locale-catania-immedia-s-p-a",
+      "nome": "Esperto paghe e contributi per la P.A. locale | Catania — Immedia S.p.A.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-paghe-e-contributi-per-la-p-a-locale-catania-at-immedia-s-p-a-4429525340",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2030469dcec3f200009f72a30c991c53e7f0e79c",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "e23b354ddeb3af444da7e6ccf125cf5c67a03f7f",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -153,14 +153,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    }
-  ]
+  "errori_fonti": []
 }
