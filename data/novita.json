@@ -1,23 +1,270 @@
 {
-  "generated_at": "2026-06-18T10:25:27.041Z",
+  "generated_at": "2026-06-18T15:33:35.655Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e8b5b01ac5f82f5bf962bb5490e4de80fe6d52ce",
+  "catalog_hash": "3f3d6bfe9c878d1b93f92276350282516320279f",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 20,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-collaboratore-amministrativo",
-      "nome": "Comune di Vigonza , 1 Collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-collaboratore-amministrativo-padova-2026",
-      "data_pubblicazione": "2026-06-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4919f3f0b83d55f40faa06d334fa8985fc6fb764",
+      "id": "linkedin-lavoro-sicilia-addetto-contabilita-aurora-pen",
+      "nome": "Addetto contabilità — Aurora Pen",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-contabilit%C3%A0-at-aurora-pen-4351984226",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "eb83652995392cbeb7ed24e82463d406c9573a3f",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-art-and-design-studios-assistant-full-time-john-cabot-university",
+      "nome": "Art and Design Studios Assistant - Full-Time — John Cabot University",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/art-and-design-studios-assistant-full-time-at-john-cabot-university-4423369975",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "33b4f26084580bd504c4faa678eb495150cc6572",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-art-director-arkage-artattack-group",
+      "nome": "Art Director — Arkage (Artattack Group)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/art-director-at-arkage-artattack-group-4380365161",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "fcf36b1554b87fa25c96ad7100eaa2188a4daec5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-art-director-sgi-societa-generale-dell-immagine",
+      "nome": "Art Director — SGI Società Generale dell'Immagine",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/art-director-at-sgi-societ%C3%A0-generale-dell-immagine-4426485456",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "6fb8af193233b85cc2ee5d0185324672f6c70ff1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-art-director-social-brand-experience-content-dentsu",
+      "nome": "Art Director (Social, Brand, Experience, Content) — dentsu",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/art-director-social-brand-experience-content-at-dentsu-4414134827",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "989892d6ce94990d5ab4e350b9ee6ad934541f7d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-assistente-bagnanti-kiwi-beach-resorts-srl",
+      "nome": "Assistente Bagnanti — Kiwi Beach Resorts srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-bagnanti-at-kiwi-beach-resorts-srl-4420739087",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "c5ee7b58c47bb3d6dbe8f93551a0616afd4cfcc0",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-ali-professional",
+      "nome": "Contabile — Ali Professional",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-ali-professional-4426308128",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "6c4aff49f6702ba2e3e822304d2264b479114070",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-bcube",
+      "nome": "Contabile — BCUBE",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-bcube-4280432781",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "21ad895de68c40a04ac4a51344c94500bba5a52c",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-bechtle",
+      "nome": "Contabile — Bechtle",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-bechtle-4422232665",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "a6bdf681acdcea4b65691038f91753096256572f",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-esserre",
+      "nome": "Contabile — Esserre",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-esserre-4426047959",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "71cc8cd7a6d87fb279d7749c5a16180b5fcb858d",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-lavoropiu-spa",
+      "nome": "Contabile — Lavoropiù SpA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-lavoropi%C3%B9-spa-4427936712",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "d1014f97d030ff60eae37488440361d06ea4da1a",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-maw",
+      "nome": "Contabile — MAW",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-maw-4421963508",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "5feaa0241f225eb9846cf4ef4673b48968a1f7aa",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contracts-rights-specialist-giunti-editore",
+      "nome": "Contracts & Rights Specialist — Giunti Editore",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contracts-rights-specialist-at-giunti-editore-4406599279",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d8a22e7babacdeabb0b29b5c26d965ca126afe9a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-directeur-d-alliance-francaise-f-h-alliance-francaise-de-turin-italie-ministere-",
+      "nome": "Directeur d'Alliance Française (F/H) - Alliance Française de Turin - Italie — Ministère des Affaires étrangères français",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/directeur-d-alliance-fran%C3%A7aise-f-h-alliance-fran%C3%A7aise-de-turin-italie-at-minist%C3%A8re-des-affaires-%C3%A9trang%C3%A8res-fran%C3%A7ais-4428674109",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "68fd546c91bae90f1ab1635a76626a9f7e98fa77",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-head-of-southern-europe-public-policy-tiktok",
+      "nome": "Head of Southern Europe - Public Policy — TikTok",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/head-of-southern-europe-public-policy-at-tiktok-4423247379",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "dd9a7eeb63aab3cedcb10355423e0511ab8eb33e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegata-o-contabile-d-azienda-maw",
+      "nome": "IMPIEGATA/O CONTABILE D'AZIENDA — MAW",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegata-o-contabile-d-azienda-at-maw-4417229395",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "ccd2deb3a07ddfffa510d9556396fa170cef8db2",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-amministrativo-contabile-contratto-a-tempo-indeterminato-joinrs",
+      "nome": "Impiegato Amministrativo Contabile - Contratto a tempo indeterminato — Joinrs",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-contabile-contratto-a-tempo-indeterminato-at-joinrs-4412520431",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "fb5cc5e13fd3c806a667e9abb9c6102668c8bf99",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-contabile-studio-valentini-associati-stp-a-rl",
+      "nome": "IMPIEGATO/A AMMINISTRATIVO/A - CONTABILE — Studio Valentini & Associati STP A.RL.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-contabile-at-studio-valentini-associati-stp-a-rl-4420464968",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "3876c703a5b3b16af35161c75f1ecf3a12d4716d",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-secretaire-general-adjoint-d-etablissement-culturel-f-h-institut-francais-d-ital",
+      "nome": "Secrétaire général adjoint d'établissement culturel (F/H) - Institut français d'Italie - Antenne de Naples — Ministère des Affaires étrangères français",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/secr%C3%A9taire-g%C3%A9n%C3%A9ral-adjoint-d-%C3%A9tablissement-culturel-f-h-institut-fran%C3%A7ais-d-italie-antenne-de-naples-at-minist%C3%A8re-des-affaires-%C3%A9trang%C3%A8res-fran%C3%A7ais-4428670138",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0a7b13d9665b9d2a6b1274aafc0b5a5bb720f9f3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-striker-store-activator-calabria-red-bull",
+      "nome": "STRIKER - Store Activator - Calabria — Red Bull",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/striker-store-activator-calabria-at-red-bull-4430464713",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "6f8648bdf189ce8f68721831bd8ca60c394d91e6",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -129,16 +376,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
     },
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
     }
   ]
 }
