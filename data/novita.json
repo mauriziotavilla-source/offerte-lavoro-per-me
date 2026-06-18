@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-18T04:18:35.393Z",
+  "generated_at": "2026-06-18T10:25:27.041Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "36a90594f6be4bbba8d0fd1819cd41da76e9c8f1",
+  "catalog_hash": "e8b5b01ac5f82f5bf962bb5490e4de80fe6d52ce",
   "counts": {
     "nuovi": 1,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-cabin-crew-recruitment-day-palermo-7-july-2026-wizz-air",
-      "nome": "Cabin Crew Recruitment Day - Palermo - 7 July 2026 — Wizz Air",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/cabin-crew-recruitment-day-palermo-7-july-2026-at-wizz-air-4426470397",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "1ba86335c13614859cf2bdbe2dea08defca6e0ff",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-collaboratore-amministrativo",
+      "nome": "Comune di Vigonza , 1 Collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-collaboratore-amministrativo-padova-2026",
+      "data_pubblicazione": "2026-06-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4919f3f0b83d55f40faa06d334fa8985fc6fb764",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -129,12 +129,16 @@
   ],
   "errori_fonti": [
     {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
     },
     {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
