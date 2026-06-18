@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-17T20:17:39.018Z",
+  "generated_at": "2026-06-18T04:18:35.393Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8220034113338257a608806e49ddb4094c27b423",
+  "catalog_hash": "36a90594f6be4bbba8d0fd1819cd41da76e9c8f1",
   "counts": {
     "nuovi": 1,
     "aggiornati": 8
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-esperto-contabile-centro-dentale-corbo",
-      "nome": "Esperto contabile — Centro Dentale Corbo",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-centro-dentale-corbo-4417382130",
+      "id": "linkedin-orfani-guerra-sicilia-cabin-crew-recruitment-day-palermo-7-july-2026-wizz-air",
+      "nome": "Cabin Crew Recruitment Day - Palermo - 7 July 2026 — Wizz Air",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/cabin-crew-recruitment-day-palermo-7-july-2026-at-wizz-air-4426470397",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "c62202bf410e430f926300db6ee2eef1fd3e81e6",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "1ba86335c13614859cf2bdbe2dea08defca6e0ff",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     }
   ],
@@ -129,12 +129,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
     },
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
     }
   ]
 }
