@@ -1,101 +1,127 @@
 {
-  "generated_at": "2026-06-18T20:29:59.355Z",
+  "generated_at": "2026-06-19T04:46:22.779Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1d35053ac4c15f199041dc35c1cfed15df1ea950",
+  "catalog_hash": "f7dc8c83d960b5e7410fe4dd683e463ec2e720e1",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 8
+    "nuovi": 9,
+    "aggiornati": 9
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-paitone-1-istruttore-amministrativo",
-      "nome": "Comune di Paitone , 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paitone-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-07-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9f5d1f53a3bfdc47595cd0496d901339b5e266ec",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sanremo-1-istruttore-amministrativo-e-contabile",
-      "nome": "Comune di Sanremo , 1 Istruttore amministrativo e contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sanremo-concorso-istruttore-amministrativo-contabile-imperia-2026",
-      "data_pubblicazione": "2026-07-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3bb109e092e890a5501b1429901206a6aea3200f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sona-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Sona , 1 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sona-concorso-istruttore-amministrativo-contabile-verona-2026",
-      "data_pubblicazione": "2026-07-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "75677d5e9d736e9a31937cca27bdd59a11526153",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-collaboratore-amministrativo",
-      "nome": "Comune di Vigonza , 1 Collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-collaboratore-amministrativo-padova-2026",
-      "data_pubblicazione": "2026-06-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4919f3f0b83d55f40faa06d334fa8985fc6fb764",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-villorba-1-istruttore-servizi-amministrativo-contabili",
-      "nome": "Comune di Villorba , 1 istruttore servizi amministrativo–contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-villorba-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-07-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4a4e9bfad9d26092a499ba2cbb79147b6552f7ac",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-c-r-a-srl-consorzio-ricambi-auto",
-      "nome": "Contabile — C.R.A. srl - Consorzio Ricambi Auto",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-c-r-a-srl-consorzio-ricambi-auto-4427386462",
+      "id": "linkedin-orfani-guerra-sicilia-amministratore-mam-l-assistenza-che-fa-la-differenza",
+      "nome": "Amministratore — MAM L'assistenza che fa la differenza",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministratore-at-mam-l-assistenza-che-fa-la-differenza-4420722647",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "47bf7885fff37ae0c2c5a3e2ab3cef6e526a24ef",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "cd3af184b4f30d7a2ad116f3575e0dce711b9ab3",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Montana Feltrina , 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-1",
-      "data_pubblicazione": "2026-07-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b15d581e7e183f12ddb3312edaf8f5fd4f3a1f17",
+      "id": "linkedin-orfani-guerra-sicilia-educatore-professionista-istituto-walden-ets",
+      "nome": "Educatore professionista — Istituto Walden ETS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatore-professionista-at-istituto-walden-ets-4421963211",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "636e8baa3270c7e32aba195d19876ebd1779abd1",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-fotografo-professionale-evolve-agency",
+      "nome": "Fotografo professionale — Evolve Agency",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/fotografo-professionale-at-evolve-agency-4430447923",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7af553db4346ea9bfa16a31865145b7be0ba017b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-muratore-operaio-edile-agrigento-acrobatica",
+      "nome": "Muratore/Operaio Edile Agrigento — Acrobatica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-agrigento-at-acrobatica-4147931984",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5d45f0a7169ec6e025b87417e2fb7f4984be9b64",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-muratore-operaio-edile-ragusa-acrobatica",
+      "nome": "Muratore/Operaio Edile Ragusa — Acrobatica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-ragusa-at-acrobatica-4152632255",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8fcb1b3f270ea4fe721610c618c0ab8d5c6b020b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-operatore-servizi-di-ascolto-ed-emergenza-infanzia-palermo-fondazione-sos-il-tel",
+      "nome": "Operatore Servizi di Ascolto ed Emergenza Infanzia - Palermo — Fondazione SOS il Telefono Azzurro ETS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-servizi-di-ascolto-ed-emergenza-infanzia-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4430488947",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f7de21a5a55dfac0e71996b24f50d74300d7a37a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-receptionist-bluehm-it",
+      "nome": "Receptionist — Bluehm.it",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/receptionist-4421927613",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "315d98a64d4a7e6bc8a15bfcccb653077f2676aa",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-ricerca-autista-elettricista-tubista-muratore-acqua-azzurra-societa-agricola-srl",
+      "nome": "RICERCA AUTISTA-ELETTRICISTA-TUBISTA-MURATORE — Acqua Azzurra Società Agricola Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ricerca-autista-elettricista-tubista-muratore-at-acqua-azzurra-societ%C3%A0-agricola-srl-4423124184",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f0d6f29aefa8586286ce6f866462bd2ed7d6e555",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-social-media-content-creator-beauty-space-nails-srl",
+      "nome": "Social Media Content Creator — Beauty Space Nails Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-content-creator-at-beauty-space-nails-srl-4427359533",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "757164cfd1970e289a3607a1a3f807763f732722",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -203,7 +229,29 @@
       "notifica_topics": [
         "offerte_lavoro"
       ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-c-s-s-group",
+      "nome": "Impiegato/a amministrativo/a — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-at-c-s-s-group-4429367447",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "8d5e653b510789d6e6bcb76c066eb2307ad07f30",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    }
+  ]
 }
