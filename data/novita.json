@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-06-19T10:43:11.894Z",
+  "generated_at": "2026-06-19T15:27:36.641Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "18e5af6ec68ce2086a6de6d8ddf6d1bf70207c12",
+  "catalog_hash": "4b26dba72fbfa0214d85b724a9eb2c70c98c85e6",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 9
+    "nuovi": 0,
+    "aggiornati": 10
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-addetta-distribuzione-siderno-italgas",
-      "nome": "Addetto/Addetta Distribuzione Siderno — Italgas",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-addetta-distribuzione-siderno-at-italgas-4428234607",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f73c1133b27fd2e8fbdc561283a354e18af2dc06",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-specialista-digital-marketing-eurouniversity",
-      "nome": "Specialista Digital Marketing — Eurouniversity",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/specialista-digital-marketing-at-eurouniversity-4428246083",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "248c092da343156328e2d87059bf988a020eb5b9",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -150,6 +123,19 @@
       "hash_contenuto": "8d5e653b510789d6e6bcb76c066eb2307ad07f30",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
+      "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/resiliency-and-personal-development-facilitator-at-ladgov-corporation-4429667250",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d0f5de7570e40ea8480460d726549612118d11be",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
