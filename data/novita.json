@@ -1,130 +1,12 @@
 {
-  "generated_at": "2026-06-20T09:21:48.777Z",
+  "generated_at": "2026-06-20T14:10:41.366Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "cae790ab241866059e445e8e23ed6637f3805e1a",
   "counts": {
-    "nuovi": 9,
+    "nuovi": 0,
     "aggiornati": 12
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-agente-di-vendita-pubblicitaria-la-sicilia",
-      "nome": "Agente di vendita pubblicitaria — La Sicilia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-vendita-pubblicitaria-at-la-sicilia-4390119423",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "61b6810d3a94b5bfabec2e45324538ab7b26fbf7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-apprendista-tecnico-impianti-elettrici-e-sicurezza-dimensione-sicurezza-srl",
-      "nome": "Apprendista Tecnico Impianti Elettrici e Sicurezza — Dimensione Sicurezza srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/apprendista-tecnico-impianti-elettrici-e-sicurezza-at-dimensione-sicurezza-srl-4426421554",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "09f2b0c2ff3538cae1231f1e16e3013913c968f1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-estetista-abside-beauty-center",
-      "nome": "Estetista — Abside beauty center",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/estetista-4422793858",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d1ba7a6e6fcaade4a6bbd5951367970ae9b8bfec",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-legal-specialist-agrumaria",
-      "nome": "Legal Specialist — Agrumaria",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-specialist-at-agrumaria-4420107711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "10c3938dc8276b08fee1ea58a7be2766e976f7cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-muratore-operaio-edile-messina-acrobatica",
-      "nome": "Muratore/Operaio Edile Messina — Acrobatica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-messina-at-acrobatica-4150862696",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d9badd82c71350a004b681eb24c0e90d6b7e8c55",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-muratore-operaio-edile-reggio-calabria-acrobatica",
-      "nome": "Muratore/Operaio Edile Reggio Calabria — Acrobatica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-reggio-calabria-at-acrobatica-4132275348",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "69e9e6af36a446056a5dc2be8c306f5c0d97cd5f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-parrucchiere-titolare-g-hair-lab",
-      "nome": "Parrucchiere — Titolare G Hair Lab",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/parrucchiere-4404646265",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8e5ef4351b4cb4bc31539e2e745ecc6daf51e404",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-responsabile-ufficio-gare-e-appalti-hypnos-srl",
-      "nome": "Responsabile ufficio gare e appalti — HYPNOS SRL",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-ufficio-gare-e-appalti-4428291193",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8840782fa07f0314db4f330b47a318d8d6b5817e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -291,6 +173,14 @@
     {
       "source": "concorsipubblici-sicilia",
       "message": "HTTP 403"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
