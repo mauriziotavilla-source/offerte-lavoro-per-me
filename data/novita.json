@@ -1,166 +1,153 @@
 {
-  "generated_at": "2026-06-19T19:53:30.167Z",
+  "generated_at": "2026-06-20T04:00:32.006Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c26cf91055e2be6dc09b17d961e1db902f00cc0f",
+  "catalog_hash": "5040ad6b09c516b3bd038f6e59f5e6bee5284e4f",
   "counts": {
-    "nuovi": 12,
-    "aggiornati": 11
+    "nuovi": 11,
+    "aggiornati": 12
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-calcinato-1-i-istruttore-amministrativo",
-      "nome": "Comune di Calcinato, 1 i Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-calcinato-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-07-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f77d342d80d3cae53a483b061065aa8e57656f71",
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-professionista-ciambra-dario",
+      "nome": "Agente di commercio professionista — Ciambra Dario",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-professionista-4427360216",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e4609d7d43383047c15aa368f8619358fdb45c76",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-lavello-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Lavello, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-lavello-avviso-di-mobilita-istruttore-amministrativo-contabile-potenza-2026",
-      "data_pubblicazione": "2026-07-15",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d6a8aa02daa4b0d5a8df5f788a8ffff13c30f4b7",
+      "id": "linkedin-orfani-guerra-sicilia-agente-immobiliare-diamante-casa",
+      "nome": "Agente immobiliare — Diamante Casa",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-immobiliare-at-diamante-casa-4411645938",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "222855ee2a73df99fe564f96081fd408e5bc3b54",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-lavello-2-posti-di-istruttore-amministrativo",
-      "nome": "Comune di Lavello, 2 posti di istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-lavello-avviso-di-mobilita-istruttore-amministrativo-potenza-2026",
-      "data_pubblicazione": "2026-07-15",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "139e3de1a77739bfcd8b92f319477bfe615fb3f3",
+      "id": "linkedin-orfani-guerra-sicilia-arredatore-addetto-a-alla-vendita-chateau-d-ax-palermo-co-ma-co-51-dealer-chatea",
+      "nome": "Arredatore addetto/a alla vendita | Chateau d'Ax Palermo — CO.MA.CO.51 Dealer Chateau d'Ax",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/arredatore-addetto-a-alla-vendita-chateau-d-ax-palermo-at-co-ma-co-51-dealer-chateau-d-ax-4407763169",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "aed65aa438889bf0ea7c6c28e77edfb4839b25fc",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-mediglia-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Mediglia, 1 Istruttore Amministrativo-contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mediglia-concorso-istruttore-amministrativo-contabile-milano-2026",
-      "data_pubblicazione": "2026-07-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "aa33be4c3622dc8271a527e835fda35b56ed91d9",
+      "id": "linkedin-orfani-guerra-sicilia-farmacista-palermo-pac-2000a-conad",
+      "nome": "Farmacista - Palermo — PAC 2000A Conad",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/farmacista-palermo-at-pac-2000a-conad-4408847121",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d1d028e9d9431438fd02c19fbf532ebcf596c55a",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-melegnano-1-istruttore-amministrativo",
-      "nome": "Comune di Melegnano, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-melegnano-concorso-istruttore-amministrativo-milano-2026",
-      "data_pubblicazione": "2026-07-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c6694f07dc7c8081e31fafbcc2c14bcf001fdcab",
+      "id": "linkedin-orfani-guerra-sicilia-geometra-cascone-home",
+      "nome": "Geometra — Cascone Home",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/geometra-at-cascone-home-4421970306",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "23401212f636d07424b69ab78dc3e1f9db192145",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-montemurro-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Montemurro, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montemurro-concorso-istruttore-amministrativo-contabile-potenza-2026",
-      "data_pubblicazione": "2026-07-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "20644c8ff23a58a95130ad2bbc4586797e195e22",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-muggia-2-istruttore-amministrativo",
-      "nome": "Comune di Muggia, 2 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-muggia-concorso-istruttore-amministrativo-trieste-2026",
-      "data_pubblicazione": "2026-06-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c107e5d4cd910b347fe8cca8144b44141b1da362",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-serramazzoni-1-istruttore-amministrativo",
-      "nome": "Comune di Serramazzoni , 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-serramazzoni-concorso-istruttore-amministrativo-modena-2026",
-      "data_pubblicazione": "2026-06-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "72ff57ac1261bad3430aac0733b45f6e82c471ec",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-treia-1-istruttore-amministrativo",
-      "nome": "Comune di Treia , 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-treia-concorso-riservato-istruttore-amministrativo-macerata-2026",
-      "data_pubblicazione": "2026-07-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "dc27ae7e6c61bcd796101733d9fbef7ecf7e95b7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-urbana-1-istruttore-amministrativo",
-      "nome": "Comune di Urbana , 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-urbania-concorso-istruttore-amministrativo-padova-2026",
-      "data_pubblicazione": "2026-07-19",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4019dfed7f60a8ae024da8c6e4da0cd75f16d43c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-gestione-contabile-e-documentale-alastro-soc-coop",
+      "id": "linkedin-orfani-guerra-messina-gestione-contabile-e-documentale-alastro-soc-coop",
       "nome": "Gestione contabile e documentale — alastro soc coop",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/gestione-contabile-e-documentale-4428280145",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "03e4fa5dd4eda85adb53eed23d527ee6175198fd",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b3556680574e9915d47278f4478a0327d0d4a841",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-supporto-operativo-c-s-s-group",
-      "nome": "Segretario/a Amministrativo/a - Supporto Operativo — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-supporto-operativo-at-c-s-s-group-4429658708",
+      "id": "linkedin-orfani-guerra-sicilia-hr-cost-controller-clutch",
+      "nome": "HR Cost Controller — Clutch",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/hr-cost-controller-at-clutch-4425495449",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "0e840d69829c601ef29727e9a3d2b5b9579d494d",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "401b23ad10579cd9e78719b4a4f51281f9ca5e7a",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-manutenzione-clutch",
+      "nome": "Responsabile Manutenzione — Clutch",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-manutenzione-at-clutch-4430431736",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e93b88bd382feff1a6979176b85284e1be02cd53",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-sant-agata-li-battiati-diventa-consulente-remax-city-home-remax-city-home",
+      "nome": "Sant' Agata Li Battiati - Diventa Consulente Remax City Home — Remax City Home",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sant-agata-li-battiati-diventa-consulente-remax-city-home-at-remax-city-home-4419057429",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c168e0c3a6c1bebdce3f7f61c60ff17a7a98ea67",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-social-media-manager-e-content-creator-catanzaro-partners",
+      "nome": "Social Media Manager e Content Creator — Catanzaro & Partners",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-manager-e-content-creator-at-catanzaro-partners-4427808105",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e1930d147c96179aad62406efe0fc71bd409a95e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-termoidraulico-ramoneur",
+      "nome": "Termoidraulico — Ramoneur",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/termoidraulico-4415203645",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e4de944aa26e1ebf5f6a2a1d02212f8446e19c48",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -187,6 +174,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-belmond",
+      "nome": "Assistant Financial Controller | Grand Hotel Timeo & Villa Sant'Andrea — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-at-belmond-4430424609",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "877f062fe53bb5b7807f24b4a187e8496a47f4e5",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -261,10 +261,10 @@
       "nome": "Impiegato/a Amministrativo/a - Supporto Contabile e Gestionale — C.S.S. Group",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-supporto-contabile-e-gestionale-at-c-s-s-group-4429653731",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-supporto-contabile-e-gestionale-at-c-s-s-group-4419049944",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "ea08009a2205aa9e5c79640c96ba8f21a4d2354c",
+      "hash_contenuto": "5760dc26c71ae899855e47b71364789cae1938e1",
       "notifica_topics": [
         "offerte_lavoro"
       ]
