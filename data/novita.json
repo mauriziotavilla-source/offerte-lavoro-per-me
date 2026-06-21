@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-21T04:41:50.672Z",
+  "generated_at": "2026-06-21T09:55:13.560Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "dc8c4eb1e4dfe2542ff1047eb3462072e3b06e59",
+  "catalog_hash": "cdd5c02c362a036420e2c524452a5d93ec220f67",
   "counts": {
     "nuovi": 1,
     "aggiornati": 12
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-associate-pleasure-pie",
-      "nome": "Associate — Pleasure Pie",
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/associate-at-pleasure-pie-4431337691",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f6afa874f077007e627c2361e10f84e232ffe101",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
       "notifica_topics": [
         "categorie_protette"
       ]
