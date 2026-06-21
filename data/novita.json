@@ -1,47 +1,21 @@
 {
-  "generated_at": "2026-06-20T19:42:01.026Z",
+  "generated_at": "2026-06-21T04:41:50.672Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "14a6c45376e51b8553ca7fcfdd84dd0c264148f6",
+  "catalog_hash": "dc8c4eb1e4dfe2542ff1047eb3462072e3b06e59",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 1,
     "aggiornati": 12
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-assistente-amministrativo-solemar-sicilia",
-      "nome": "Assistente amministrativo — Solemar Sicilia",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-solemar-sicilia-4428527970",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "f47daa878a9daed5a6996b8c676e2f061ae4a12a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
+      "id": "linkedin-orfani-guerra-sicilia-associate-pleasure-pie",
+      "nome": "Associate — Pleasure Pie",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/associate-at-pleasure-pie-4431337691",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-site-contract-manager-adecco",
-      "nome": "Site Contract Manager — Adecco",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/site-contract-manager-at-adecco-4428252122",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "85c1fde0f2747f14d8ffccdc49dc6962c613ca5d",
+      "hash_contenuto": "f6afa874f077007e627c2361e10f84e232ffe101",
       "notifica_topics": [
         "categorie_protette"
       ]
