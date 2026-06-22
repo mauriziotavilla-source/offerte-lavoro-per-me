@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-06-21T19:47:56.583Z",
+  "generated_at": "2026-06-22T04:47:37.041Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "cdd5c02c362a036420e2c524452a5d93ec220f67",
+  "catalog_hash": "b2d9e58a6f81a9465604dad083a3d0be16ceae94",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 12
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-sanitaria-locale-al-alessandria-1-coadiutore-amministrativo",
+      "nome": "Azienda sanitaria locale AL - Alessandria, 1 coadiutore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-al-alessandria-avviso-coadiutore-amministrativo-alessandria-2026",
+      "data_pubblicazione": "2026-06-21",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "86d0d2ff00617815eecc3ec86df866b8ab8c354c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-stazione-consorziale-sperimentale-di-granicoltura-per-la-sicilia-1-segretario-am",
+      "nome": "Stazione Consorziale Sperimentale di Granicoltura per La Sicilia, 1 segretario amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/stazione-consorziale-sperimentale-di-granicoltura-la-sicilia-concorso-segretario-amministrativo",
+      "data_pubblicazione": "2026-06-20",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "601c915fda0fe6e17e78925804ba14ebcfe3db8c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -165,30 +205,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
