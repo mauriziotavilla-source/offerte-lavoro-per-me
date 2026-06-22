@@ -1,47 +1,99 @@
 {
-  "generated_at": "2026-06-22T04:47:37.041Z",
+  "generated_at": "2026-06-22T12:11:17.067Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b2d9e58a6f81a9465604dad083a3d0be16ceae94",
+  "catalog_hash": "d7f2cc0aac4aaf1de78b22cb09c88fdaa4147908",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 7,
     "aggiornati": 12
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-sanitaria-locale-al-alessandria-1-coadiutore-amministrativo",
-      "nome": "Azienda sanitaria locale AL - Alessandria, 1 coadiutore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-al-alessandria-avviso-coadiutore-amministrativo-alessandria-2026",
-      "data_pubblicazione": "2026-06-21",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "86d0d2ff00617815eecc3ec86df866b8ab8c354c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
+      "id": "linkedin-orfani-guerra-messina-account-manager-vendite-sentra-energia-s-p-a",
+      "nome": "Account manager vendite — Sentra Energia S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-vendite-at-sentra-energia-s-p-a-4429680352",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "bf5a5468893f6fd501b87fc978232bb8e6284ef7",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-stazione-consorziale-sperimentale-di-granicoltura-per-la-sicilia-1-segretario-am",
-      "nome": "Stazione Consorziale Sperimentale di Granicoltura per La Sicilia, 1 segretario amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-1-assistente-",
+      "nome": "Agenzia di tutela della salute della città metropolitana di Milano, 1 assistente amministrativo",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/stazione-consorziale-sperimentale-di-granicoltura-la-sicilia-concorso-segretario-amministrativo",
-      "data_pubblicazione": "2026-06-20",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "601c915fda0fe6e17e78925804ba14ebcfe3db8c",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-concorso-assistente-2",
+      "data_pubblicazione": "2026-07-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9a475185635451a939bf088462ce10d470589e9f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-aiuto-pizzaiolo-therasia-resort-sea-spa",
+      "nome": "Aiuto pizzaiolo — Therasia Resort Sea & Spa",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/aiuto-pizzaiolo-at-therasia-resort-sea-spa-4428919250",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "83605dfb1dfe031a649c179dd67be754b16dbb8c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-sanitaria-locale-roma-3-131-posti-di-assistente-amministrativi",
+      "nome": "Azienda sanitaria locale Roma 3, 131 posti di assistente amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-roma-3-concorso-assistente-amministrativo-roma-2026",
+      "data_pubblicazione": "2026-07-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5cb0e0bfb1751f93d9307fe1eca0b6b2e71afcee",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-endine-gaiano-3-istruttore-amministrativo",
+      "nome": "Comune di Endine Gaiano, 3 Istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-endine-gaiano-concorso-istruttore-amministrativo-bergamo-2026",
+      "data_pubblicazione": "2026-07-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c6cf11269554b183ebe3c18b114b6dd1c4108ad6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comunita-montana-della-carnia-in-tolmezzo-1-istruttore-direttivo-contabile",
+      "nome": "Comunità montana della Carnia in Tolmezzo, 1 istruttore direttivo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comunita-montana-della-carnia-tolmezzo-concorso-istruttore-direttivo-contabile-udine-2026",
+      "data_pubblicazione": "2026-07-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2115a693c6b414ac2ccd1f9b059bc3b6be40f532",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istruttore-direttivo-contabile",
+      "nome": "istruttore direttivo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-contabile-393",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6edebf46ca80b4c9e2ee241b873b5aa5b4039e59",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
