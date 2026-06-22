@@ -1,99 +1,73 @@
 {
-  "generated_at": "2026-06-22T12:11:17.067Z",
+  "generated_at": "2026-06-22T20:52:46.154Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d7f2cc0aac4aaf1de78b22cb09c88fdaa4147908",
+  "catalog_hash": "735f74e5c18da8ff619ecdbbc27ae3f1ba4eb8da",
   "counts": {
-    "nuovi": 7,
+    "nuovi": 5,
     "aggiornati": 12
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-account-manager-vendite-sentra-energia-s-p-a",
-      "nome": "Account manager vendite — Sentra Energia S.p.A.",
+      "id": "linkedin-lavoro-sicilia-addetto-a-ufficio-amministrativo-c-s-s-group",
+      "nome": "Addetto/a Ufficio Amministrativo — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-ufficio-amministrativo-at-c-s-s-group-4430553248",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "0977e68a5bd9f29772570d414c14285edb1f3a6e",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-renate-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Renate, 1 istruttore amministrativo - contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-renate-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
+      "data_pubblicazione": "2026-07-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9764e5c6c31f01a14f950a2983893e68d1837558",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-studio-categoria-protetta-maw",
+      "nome": "Contabile studio Categoria Protetta — MAW",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-vendite-at-sentra-energia-s-p-a-4429680352",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-categoria-protetta-at-maw-4428937891",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "bf5a5468893f6fd501b87fc978232bb8e6284ef7",
+      "hash_contenuto": "45b5a889fc5bebb9ca4e01133066a822e3243c8e",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-1-assistente-",
-      "nome": "Agenzia di tutela della salute della città metropolitana di Milano, 1 assistente amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-concorso-assistente-2",
-      "data_pubblicazione": "2026-07-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9a475185635451a939bf088462ce10d470589e9f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-aiuto-pizzaiolo-therasia-resort-sea-spa",
-      "nome": "Aiuto pizzaiolo — Therasia Resort Sea & Spa",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/aiuto-pizzaiolo-at-therasia-resort-sea-spa-4428919250",
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-grande-distribuzione-c-s-s-group",
+      "nome": "Impiegato/a Amministrativo/a - Grande Distribuzione — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-grande-distribuzione-at-c-s-s-group-4430572097",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "83605dfb1dfe031a649c179dd67be754b16dbb8c",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "4a91efb467fc066dd9ca585f3f2c7e70e51808f4",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-sanitaria-locale-roma-3-131-posti-di-assistente-amministrativi",
-      "nome": "Azienda sanitaria locale Roma 3, 131 posti di assistente amministrativi",
+      "id": "gazzetta-via-concorsipubblici-provincia-di-treviso-1-istruttore-amministrativo",
+      "nome": "Provincia di Treviso, 1 Istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-roma-3-concorso-assistente-amministrativo-roma-2026",
-      "data_pubblicazione": "2026-07-19",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5cb0e0bfb1751f93d9307fe1eca0b6b2e71afcee",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-endine-gaiano-3-istruttore-amministrativo",
-      "nome": "Comune di Endine Gaiano, 3 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-endine-gaiano-concorso-istruttore-amministrativo-bergamo-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-treviso-concorso-istruttore-amministrativo-treviso-2026-0",
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c6cf11269554b183ebe3c18b114b6dd1c4108ad6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comunita-montana-della-carnia-in-tolmezzo-1-istruttore-direttivo-contabile",
-      "nome": "Comunità montana della Carnia in Tolmezzo, 1 istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comunita-montana-della-carnia-tolmezzo-concorso-istruttore-direttivo-contabile-udine-2026",
-      "data_pubblicazione": "2026-07-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2115a693c6b414ac2ccd1f9b059bc3b6be40f532",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istruttore-direttivo-contabile",
-      "nome": "istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-contabile-393",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6edebf46ca80b4c9e2ee241b873b5aa5b4039e59",
+      "hash_contenuto": "debc849a2a1653afe6492996e6830f87bbaadc05",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -257,5 +231,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
