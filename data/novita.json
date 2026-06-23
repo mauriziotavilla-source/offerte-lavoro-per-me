@@ -1,36 +1,49 @@
 {
-  "generated_at": "2026-06-23T09:47:46.329Z",
+  "generated_at": "2026-06-23T14:55:56.624Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "20304e3a26e0c39825c4cdca635cb58896ce39b3",
+  "catalog_hash": "249ceb4be97f03763026521016b1224faa7b8b8e",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 12
+    "nuovi": 3,
+    "aggiornati": 13
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sondrio-1-istruttore-direttivo-contabile",
-      "nome": "Comune di Sondrio , 1 istruttore direttivo contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-cusago-2-istruttore-amministrativo",
+      "nome": "Comune di Cusago , 2 istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sondrio-concorso-istruttore-direttivo-contabile-sondrio-2026",
-      "data_pubblicazione": "2026-06-22",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cusago-concorso-istruttore-amministrativo-milano-2026",
+      "data_pubblicazione": "2026-07-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8f2bd209ca45d6d96e34b313b2d887d7a7e4717a",
+      "hash_contenuto": "2ecbabc586a0eaf96fd810a6ca6368be9e6aedcd",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-villa-di-briano-1-istruttore-amministrativo",
-      "nome": "Comune di Villa di Briano, 1 istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-esu-di-padova-3-istruttore-amministrativo-contabile",
+      "nome": "Esu di Padova , 3 Istruttore Amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-villa-di-briano-concorso-istruttore-amministrativo-caserta-2026",
-      "data_pubblicazione": "2026-07-22",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-regionale-il-diritto-allo-studio-universitario-di-padova-concorso-istruttore-amministrativo",
+      "data_pubblicazione": "2026-07-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5fdedbba04709880c0cdb3ef7287d3eae8b7bb5e",
+      "hash_contenuto": "490c77311e3ab45ce6635a5cb23c4f2cbb03615c",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -140,6 +153,19 @@
       ]
     },
     {
+      "id": "linkedin-lavoro-sicilia-contabile-openjobmetis-spa",
+      "nome": "Contabile — Openjobmetis SpA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4431208794",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "4cdfd0d3fd3390a6f40157488381212ccac52c97",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
       "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-supporto-contabile-e-gestionale-c-s-s-group",
       "nome": "Impiegato/a Amministrativo/a - Supporto Contabile e Gestionale — C.S.S. Group",
       "tipo": "lavoro",
@@ -192,18 +218,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
