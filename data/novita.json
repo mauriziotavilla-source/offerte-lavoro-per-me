@@ -1,46 +1,33 @@
 {
-  "generated_at": "2026-06-23T14:55:56.624Z",
+  "generated_at": "2026-06-23T20:10:20.752Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "249ceb4be97f03763026521016b1224faa7b8b8e",
+  "catalog_hash": "f229fbf0b4195a351b14724efb66fdcbb8b9de87",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 2,
     "aggiornati": 13
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cusago-2-istruttore-amministrativo",
-      "nome": "Comune di Cusago , 2 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cusago-concorso-istruttore-amministrativo-milano-2026",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2ecbabc586a0eaf96fd810a6ca6368be9e6aedcd",
+      "id": "linkedin-orfani-guerra-messina-allieva-o-capo-settore-italia-bricocenter-italia",
+      "nome": "Allieva/o Capo Settore 🎓 - Italia — Bricocenter Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/allieva-o-capo-settore-%F0%9F%8E%93-italia-at-bricocenter-italia-4431291956",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "90848aa91f55c73a5d10a193d81f625180450c5d",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-esu-di-padova-3-istruttore-amministrativo-contabile",
-      "nome": "Esu di Padova , 3 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-regionale-il-diritto-allo-studio-universitario-di-padova-concorso-istruttore-amministrativo",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "490c77311e3ab45ce6635a5cb23c4f2cbb03615c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
       "nome": "Licensing Manager — Red Raion",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
       "notifica_topics": [
         "categorie_protette"
@@ -157,10 +144,10 @@
       "nome": "Contabile — Openjobmetis SpA",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4431208794",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4426945492",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "4cdfd0d3fd3390a6f40157488381212ccac52c97",
+      "hash_contenuto": "2a4465704985a4aa3f4785783b6711ac7eb71ba0",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -218,5 +205,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "regione-sicilia-concorsi",
+      "message": "HTTP 500"
+    },
+    {
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "HTTP 500"
+    }
+  ]
 }
