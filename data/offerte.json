@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "735f74e5c18da8ff619ecdbbc27ae3f1ba4eb8da",
-  "generated_at": "2026-06-22T20:52:46.153Z",
+  "generated_at": "2026-06-23T03:52:41.196Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -997,7 +997,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -2282,7 +2282,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2384,7 +2384,7 @@
       "data_pubblicazione": "2026-06-21",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -2435,7 +2435,7 @@
       "data_pubblicazione": "2026-07-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3386,7 +3386,7 @@
       "data_pubblicazione": "2026-07-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3590,7 +3590,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3998,7 +3998,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4100,7 +4100,7 @@
       "data_pubblicazione": "2026-07-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4151,7 +4151,7 @@
       "data_pubblicazione": "2026-07-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4202,7 +4202,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4305,7 +4305,7 @@
       "data_pubblicazione": "2026-07-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4356,7 +4356,7 @@
       "data_pubblicazione": "2026-06-28",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4407,7 +4407,7 @@
       "data_pubblicazione": "2026-06-28",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4509,7 +4509,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4611,7 +4611,7 @@
       "data_pubblicazione": "2026-07-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4662,7 +4662,7 @@
       "data_pubblicazione": "2026-07-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4815,7 +4815,7 @@
       "data_pubblicazione": "2026-07-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4917,7 +4917,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6866,7 +6866,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8042,7 +8042,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8132,7 +8132,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9278,7 +9278,7 @@
       "data_pubblicazione": "2026-07-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10952,7 +10952,7 @@
       "data_pubblicazione": "2026-06-20",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11492,7 +11492,7 @@
       "data_pubblicazione": "2026-07-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-06-22",
+      "rilevato_il": "2026-06-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11549,8 +11549,20 @@
       "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"

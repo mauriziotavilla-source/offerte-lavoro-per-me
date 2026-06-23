@@ -1,78 +1,12 @@
 {
-  "generated_at": "2026-06-22T20:52:46.154Z",
+  "generated_at": "2026-06-23T03:52:41.196Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "735f74e5c18da8ff619ecdbbc27ae3f1ba4eb8da",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 0,
     "aggiornati": 12
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-addetto-a-ufficio-amministrativo-c-s-s-group",
-      "nome": "Addetto/a Ufficio Amministrativo — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-ufficio-amministrativo-at-c-s-s-group-4430553248",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "0977e68a5bd9f29772570d414c14285edb1f3a6e",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-renate-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Renate, 1 istruttore amministrativo - contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-renate-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
-      "data_pubblicazione": "2026-07-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9764e5c6c31f01a14f950a2983893e68d1837558",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-contabile-studio-categoria-protetta-maw",
-      "nome": "Contabile studio Categoria Protetta — MAW",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-categoria-protetta-at-maw-4428937891",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "45b5a889fc5bebb9ca4e01133066a822e3243c8e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-grande-distribuzione-c-s-s-group",
-      "nome": "Impiegato/a Amministrativo/a - Grande Distribuzione — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-grande-distribuzione-at-c-s-s-group-4430572097",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "4a91efb467fc066dd9ca585f3f2c7e70e51808f4",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-treviso-1-istruttore-amministrativo",
-      "nome": "Provincia di Treviso, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-treviso-concorso-istruttore-amministrativo-treviso-2026-0",
-      "data_pubblicazione": "2026-07-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "debc849a2a1653afe6492996e6830f87bbaadc05",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -232,6 +166,18 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
