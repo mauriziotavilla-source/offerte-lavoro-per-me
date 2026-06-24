@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-06-23T20:10:20.752Z",
+  "generated_at": "2026-06-24T03:53:56.703Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f229fbf0b4195a351b14724efb66fdcbb8b9de87",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 13
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-allieva-o-capo-settore-italia-bricocenter-italia",
-      "nome": "Allieva/o Capo Settore 🎓 - Italia — Bricocenter Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/allieva-o-capo-settore-%F0%9F%8E%93-italia-at-bricocenter-italia-4431291956",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "90848aa91f55c73a5d10a193d81f625180450c5d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -205,14 +178,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "HTTP 500"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "HTTP 500"
-    }
-  ]
+  "errori_fonti": []
 }
