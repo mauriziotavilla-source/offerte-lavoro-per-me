@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-06-24T03:53:56.703Z",
+  "generated_at": "2026-06-24T09:36:54.225Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f229fbf0b4195a351b14724efb66fdcbb8b9de87",
+  "catalog_hash": "5d990d8fc8fc08d074b35e0a99dc49ff365f7e66",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 13
+    "nuovi": 3,
+    "aggiornati": 14
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-martina-franca-1-istruttore-amministrativo",
+      "nome": "Comune di Martina Franca, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-martina-franca-avviso-di-mobilita-istruttore-amministrativo-taranto-2026",
+      "data_pubblicazione": "2026-06-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3d57f0c0dce7b5ce2b06f4750658dbb1abb2709b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-junior-auditor-kpmg-italy",
+      "nome": "Junior Auditor — KPMG Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-auditor-at-kpmg-italy-4314037160",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "3681a68bca1d661baa51178aa11515be4ad8bacd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-lavora-negli-eventi-e-nel-marketing-part-time-full-time-jteam-srls",
+      "nome": "Lavora negli Eventi e nel Marketing – Part Time / Full Time — Jteam SRLS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-negli-eventi-e-nel-marketing-%E2%80%93-part-time-full-time-at-jteam-srls-4431327030",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9b1a2287a3e30522597e06710e358d19afca4856",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -110,6 +150,19 @@
       "hash_contenuto": "6f5cd872109fd586f7de2cbc9c9e669c57838b57",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-adecco",
+      "nome": "Contabile — Adecco",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-adecco-4429858129",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "44188059c11dcbc2afe9df2cadeab3ea6c845c6b",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     },
     {
