@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-06-24T09:36:54.225Z",
+  "generated_at": "2026-06-24T14:38:20.766Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5d990d8fc8fc08d074b35e0a99dc49ff365f7e66",
+  "catalog_hash": "47b4dbed48cfb7690036931a3d384d52a37af394",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 14
+    "nuovi": 0,
+    "aggiornati": 17
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-martina-franca-1-istruttore-amministrativo",
-      "nome": "Comune di Martina Franca, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-martina-franca-avviso-di-mobilita-istruttore-amministrativo-taranto-2026",
-      "data_pubblicazione": "2026-06-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3d57f0c0dce7b5ce2b06f4750658dbb1abb2709b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-junior-auditor-kpmg-italy",
-      "nome": "Junior Auditor — KPMG Italy",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-auditor-at-kpmg-italy-4314037160",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3681a68bca1d661baa51178aa11515be4ad8bacd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-lavora-negli-eventi-e-nel-marketing-part-time-full-time-jteam-srls",
-      "nome": "Lavora negli Eventi e nel Marketing – Part Time / Full Time — Jteam SRLS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-negli-eventi-e-nel-marketing-%E2%80%93-part-time-full-time-at-jteam-srls-4431327030",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9b1a2287a3e30522597e06710e358d19afca4856",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -157,10 +117,10 @@
       "nome": "Contabile — Adecco",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-adecco-4429858129",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-adecco-4420700336",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "44188059c11dcbc2afe9df2cadeab3ea6c845c6b",
+      "hash_contenuto": "708d9fc9badd1346df73d4a499fefea1ab9115f9",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -218,6 +178,32 @@
       ]
     },
     {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-c-s-s-group",
+      "nome": "Impiegato/a amministrativo/a — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-at-c-s-s-group-4431848226",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "42a8ed7288485ccab3a5bf05ad2a7416ad468357",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
+      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4432586112",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "858fc84af9eb3aa95884eb15be3e2b3133fcb0dc",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
       "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
       "tipo": "categoria_protetta",
@@ -226,6 +212,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "a33a8b91b0b0da1f63ec7958cbfc945548d3f2b4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
+      "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/resiliency-and-personal-development-facilitator-at-ladgov-corporation-4430852192",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c1d7fa4f93f42c120cd8f2e88fbeb85eb9823181",
       "notifica_topics": [
         "categorie_protette"
       ]
