@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-06-24T14:38:20.766Z",
+  "generated_at": "2026-06-24T19:50:57.473Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "47b4dbed48cfb7690036931a3d384d52a37af394",
+  "catalog_hash": "da416ee803159e73dff14fd75999045adfa745ca",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 17
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-sicilia-addetto-paghe-payroll-specialist-studio-scacciante-associati",
+      "nome": "Addetto Paghe - Payroll specialist — Studio Scacciante & Associati",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-paghe-payroll-specialist-at-studio-scacciante-associati-4412036166",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "84d88499b0c9105485bc6da5fa6c0dc22b47c11a",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ponsacco-concorso-per-soli-esami-per-la-copertura-di-n-3-posti-di-istr",
+      "nome": "Comune di Ponsacco – Concorso, per soli esami, per la copertura di n. 3 posti di Istruttore Amministrativo (ex cat. C) a tempo pieno e indeterminato, di cui 1 posto riservato alle categorie protette.",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ponsacco-concorso-istruttore-amministrativo-toscana-2026",
+      "data_pubblicazione": "2026-07-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0f3a4aa24a3445015bd3062d07f317f168575936",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-rovigo-1-collaboratore-amministrativo",
+      "nome": "Provincia di Rovigo , 1 Collaboratore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-rovigo-concorso-collaboratore-amministrativo-rovigo-2026",
+      "data_pubblicazione": "2026-07-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "527e50a81dc48636c8dbb0cd2317a1463169b347",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -195,10 +235,10 @@
       "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4432586112",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4418942292",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "858fc84af9eb3aa95884eb15be3e2b3133fcb0dc",
+      "hash_contenuto": "835fc9b5dd6638b26528d48f33640ef8b8c45797",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -221,14 +261,19 @@
       "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/resiliency-and-personal-development-facilitator-at-ladgov-corporation-4430852192",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/resiliency-and-personal-development-facilitator-at-ladgov-corporation-4429667250",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c1d7fa4f93f42c120cd8f2e88fbeb85eb9823181",
+      "hash_contenuto": "d0f5de7570e40ea8480460d726549612118d11be",
       "notifica_topics": [
         "categorie_protette"
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
