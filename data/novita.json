@@ -1,49 +1,23 @@
 {
-  "generated_at": "2026-06-24T19:50:57.473Z",
+  "generated_at": "2026-06-25T03:54:48.185Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "da416ee803159e73dff14fd75999045adfa745ca",
+  "catalog_hash": "968ed2f89a3f8dc8649844df63c9830d96a82fe0",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 1,
     "aggiornati": 17
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-addetto-paghe-payroll-specialist-studio-scacciante-associati",
-      "nome": "Addetto Paghe - Payroll specialist — Studio Scacciante & Associati",
+      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-paghe-payroll-specialist-at-studio-scacciante-associati-4412036166",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4429880416",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "84d88499b0c9105485bc6da5fa6c0dc22b47c11a",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "3bd9e2704bcd2a9a91a440c398ee03bae2646719",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-ponsacco-concorso-per-soli-esami-per-la-copertura-di-n-3-posti-di-istr",
-      "nome": "Comune di Ponsacco – Concorso, per soli esami, per la copertura di n. 3 posti di Istruttore Amministrativo (ex cat. C) a tempo pieno e indeterminato, di cui 1 posto riservato alle categorie protette.",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ponsacco-concorso-istruttore-amministrativo-toscana-2026",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0f3a4aa24a3445015bd3062d07f317f168575936",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-rovigo-1-collaboratore-amministrativo",
-      "nome": "Provincia di Rovigo , 1 Collaboratore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-rovigo-concorso-collaboratore-amministrativo-rovigo-2026",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "527e50a81dc48636c8dbb0cd2317a1463169b347",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     }
   ],
@@ -273,6 +247,10 @@
   "errori_fonti": [
     {
       "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
