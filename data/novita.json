@@ -1,23 +1,36 @@
 {
-  "generated_at": "2026-06-25T03:54:48.185Z",
+  "generated_at": "2026-06-25T09:31:51.240Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "968ed2f89a3f8dc8649844df63c9830d96a82fe0",
+  "catalog_hash": "b87fb2ce7809f9d2f244129f092d7bb6a18628fc",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 17
+    "nuovi": 2,
+    "aggiornati": 19
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
-      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4429880416",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "3bd9e2704bcd2a9a91a440c398ee03bae2646719",
+      "id": "gazzetta-via-concorsipubblici-comune-di-motta-di-livenza-2-istruttori-amministrativo-contabile",
+      "nome": "Comune di Motta di Livenza, 2 istruttori amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-motta-di-livenza-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-06-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d4d615b245fb6a150a58fdfcfe648189052e0ce6",
       "notifica_topics": [
-        "offerte_lavoro"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-graphic-designer-clap-adv",
+      "nome": "Graphic designer — Clap ADV",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/graphic-designer-at-clap-adv-4429845825",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "fffef3a8eccf123daec35d2c8b6aee7b314a421a",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -33,6 +46,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4429880416",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cf4d5e09b428b6c69ef4b6fc42593408f8567a77",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -218,6 +244,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-full-remote-jet-hr",
+      "nome": "Payroll Specialist - Full Remote — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-full-remote-at-jet-hr-4429886261",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "811b03dc7d96620eec1f3a611c4fc974a00908de",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
       "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
       "tipo": "categoria_protetta",
@@ -244,14 +283,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
