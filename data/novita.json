@@ -1,23 +1,179 @@
 {
-  "generated_at": "2026-06-25T14:40:14.842Z",
+  "generated_at": "2026-06-25T20:05:05.515Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2ad071a2714769389145c1a0816db5d35375672f",
+  "catalog_hash": "695218a8908c45ce5d3349bbdd901bffe0be58b0",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 19
+    "nuovi": 13,
+    "aggiornati": 20
   },
   "nuovi": [
     {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-definitive-enti-pubblici-l-68-99-zip-cpi-messina",
-      "nome": "graduatorie_definitive_enti_pubblici_l_68_99.zip (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-06/graduatorie_definitive_enti_pubblici_l_68_99.zip",
+      "id": "linkedin-lavoro-sicilia-assistente-amministrativo-a-junior-area-vendite-ad-maio-solutions",
+      "nome": "Assistente amministrativo/a junior area vendite — Ad Maio Solutions",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-a-junior-area-vendite-at-ad-maio-solutions-4431850254",
       "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "hash_contenuto": "d0e5c69eac97550d3a4d256ecb53f8388e468007",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "2c7ada17f1ed92dc1ea44fa4d297683d85e04156",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-artogne-1-istruttore-amministrativo",
+      "nome": "Comune di Artogne, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-artogne-concorso-istruttore-amministrativo-brescia-2026",
+      "data_pubblicazione": "2026-07-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1ebb2e21ff02dd51c9fbd57bbd9af08e314c9b04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-colle-di-val-d-elsa-1-istruttore-amministrativo",
+      "nome": "Comune di Colle di Val d’Elsa, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colle-di-val-delsa-concorso-riservato-istruttore-amministrativo-siena-2026",
+      "data_pubblicazione": "2026-07-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d2b512c4bb82a907e3edabda62cb980f2693d285",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-colle-di-val-d-elsa-un-istruttore-amministrativo-part-time-a-tempo-ind",
+      "nome": "Comune di Colle di Val D'Elsa, un istruttore amministrativo part time a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colle-di-val-delsa-concorso-istruttore-amministrativo-siena-2026",
+      "data_pubblicazione": "2026-07-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "752decdb7058e82968b07d7c5274376e52486654",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-motta-di-livenza-2-istruttori-amministrativo-contabile",
+      "nome": "Comune di Motta di Livenza, 2 istruttori amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-motta-di-livenza-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-06-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d4d615b245fb6a150a58fdfcfe648189052e0ce6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ponsacco-3-posti-di-istruttore-amministrativo",
+      "nome": "Comune di Ponsacco, 3 posti di istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ponsacco-concorso-istruttore-amministrativo-pisa-2026-1",
+      "data_pubblicazione": "2026-07-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3cca7d69d53215f623f038569a232374b670dbe9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-impiegato-ufficio-tecnico-d-agostino-costruzioni-generali",
+      "nome": "Impiegato Ufficio Tecnico — D'Agostino Costruzioni Generali",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-ufficio-tecnico-at-d-agostino-costruzioni-generali-4430235482",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "423766dee9086be9cefe7d9d4ced7546cc309747",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-operatore-di-linea-settore-detergenza-fiorillo-detergenza",
+      "nome": "Operatore di linea- Settore Detergenza — Fiorillo Detergenza",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-di-linea-settore-detergenza-at-fiorillo-detergenza-4430209666",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b8c1264b8c440c8dc32276ac2c3d8bf8e99e2cde",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-regione-toscana-6-istruttori-amministrativi",
+      "nome": "Regione Toscana, 6 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-concorso-riservato-istruttore-amministrativo-firenze-2026",
+      "data_pubblicazione": "2026-07-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "38ffde330dc86af222164321395aa54689e7ed02",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-regione-toscana-concorso-per-6-istruttori-amministrativi-a-tempo-indeterminato",
+      "nome": "Regione Toscana, concorso per 6 istruttori amministrativi a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-concorso-istruttore-amministrativo-toscana-2026",
+      "data_pubblicazione": "2026-07-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7e73978a40ec04c9bec2b45f598434db29855b9c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-school-psychologist-department-of-war-education-activity-dowea",
+      "nome": "School Psychologist. — Department of War Education Activity (DOWEA)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/school-psychologist-at-department-of-war-education-activity-dowea-4433095373",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b2ef2148379820bcde14381f67abc7df679a558d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
+      "nome": "Unione Montana Feltrina , 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-0",
+      "data_pubblicazione": "2026-07-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "943b54203fcb622b6ec2fe9d1eefc0516688eba8",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -166,6 +322,19 @@
       ]
     },
     {
+      "id": "linkedin-lavoro-sicilia-contabile-openjobmetis-spa",
+      "nome": "Contabile — Openjobmetis SpA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4432651873",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "ac1c1c3d2a0f382bb548cbd1f01c2cbb66030b75",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
       "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-supporto-contabile-e-gestionale-c-s-s-group",
       "nome": "Impiegato/a Amministrativo/a - Supporto Contabile e Gestionale — C.S.S. Group",
       "tipo": "lavoro",
@@ -270,18 +439,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
