@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-06-25T09:31:51.240Z",
+  "generated_at": "2026-06-25T14:40:14.842Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b87fb2ce7809f9d2f244129f092d7bb6a18628fc",
+  "catalog_hash": "2ad071a2714769389145c1a0816db5d35375672f",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 1,
     "aggiornati": 19
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-motta-di-livenza-2-istruttori-amministrativo-contabile",
-      "nome": "Comune di Motta di Livenza, 2 istruttori amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-motta-di-livenza-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-06-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d4d615b245fb6a150a58fdfcfe648189052e0ce6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-graphic-designer-clap-adv",
-      "nome": "Graphic designer — Clap ADV",
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-definitive-enti-pubblici-l-68-99-zip-cpi-messina",
+      "nome": "graduatorie_definitive_enti_pubblici_l_68_99.zip (CPI Messina)",
       "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/graphic-designer-at-clap-adv-4429845825",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-06/graduatorie_definitive_enti_pubblici_l_68_99.zip",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fffef3a8eccf123daec35d2c8b6aee7b314a421a",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "d0e5c69eac97550d3a4d256ecb53f8388e468007",
       "notifica_topics": [
         "categorie_protette"
       ]
     }
   ],
   "aggiornati": [
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
+      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "31fac8a1eef8d7a603f69f4de26634d06a44f810",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
@@ -46,19 +46,6 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
-      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4429880416",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "cf4d5e09b428b6c69ef4b6fc42593408f8567a77",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -248,10 +235,10 @@
       "nome": "Payroll Specialist - Full Remote — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-full-remote-at-jet-hr-4429886261",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-full-remote-at-jet-hr-4415201282",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "811b03dc7d96620eec1f3a611c4fc974a00908de",
+      "hash_contenuto": "8c723671fa823ab020efad5f4826b3c92eeeb3ce",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -283,5 +270,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
