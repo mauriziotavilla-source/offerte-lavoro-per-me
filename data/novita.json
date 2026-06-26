@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-06-26T14:31:59.870Z",
+  "generated_at": "2026-06-26T19:53:34.912Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "6c32eb493d41de2e48faef19effc3ef009a53b5c",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 20
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-asl-ba-10-assistente-amministrativo",
-      "nome": "ASL BA , 10 assistente amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-della-provincia-di-bari-concorso-riservato-assistente-amministrativo-0",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b844fa7ffe4e939442d0171245f11a4405a8e390",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-asl-della-provincia-di-bari-30-coadiutore-amministrativo-senior",
-      "nome": "ASL della Provincia di Bari , 30 coadiutore amministrativo senior",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-della-provincia-di-bari-concorso-riservato-coadiutore-amministrativo-1",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "72a4580fb392bf7e980baee0fd153fabd7fe3f6f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-capo-ufficio-contabile-e-controllo-di-gestione-ptf-srl",
-      "nome": "Capo ufficio contabile e controllo di gestione — PTF SRL",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/capo-ufficio-contabile-e-controllo-di-gestione-4433220741",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "f48e988b934c4537e40472cf6780147ee3f1814a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -309,5 +269,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
