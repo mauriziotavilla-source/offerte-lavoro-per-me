@@ -1,86 +1,47 @@
 {
-  "generated_at": "2026-06-26T09:33:33.380Z",
+  "generated_at": "2026-06-26T14:31:59.870Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "94d5a587243aae21359af30d85f2d1700888abc1",
+  "catalog_hash": "6c32eb493d41de2e48faef19effc3ef009a53b5c",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 3,
     "aggiornati": 20
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-besana-in-brianza-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Besana in Brianza , 1 istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-asl-ba-10-assistente-amministrativo",
+      "nome": "ASL BA , 10 assistente amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-besana-brianza-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026-0",
-      "data_pubblicazione": "2026-07-24",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-della-provincia-di-bari-concorso-riservato-assistente-amministrativo-0",
+      "data_pubblicazione": "2026-07-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "55409a02ae378a2f922224757372f9754dfdc262",
+      "hash_contenuto": "b844fa7ffe4e939442d0171245f11a4405a8e390",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sant-egidio-alla-vibrata-1-collaboratore-amministrativo",
-      "nome": "Comune di Sant’ Egidio alla Vibrata, 1 collaboratore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-asl-della-provincia-di-bari-30-coadiutore-amministrativo-senior",
+      "nome": "ASL della Provincia di Bari , 30 coadiutore amministrativo senior",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santegidio-alla-vibrata-concorso-riservato-collaboratore-amministrativo-teramo-2026",
-      "data_pubblicazione": "2026-07-25",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-della-provincia-di-bari-concorso-riservato-coadiutore-amministrativo-1",
+      "data_pubblicazione": "2026-07-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6a8944dbf19a2628648a317ff3596ebdb7b09e66",
+      "hash_contenuto": "72a4580fb392bf7e980baee0fd153fabd7fe3f6f",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sarezzo-1-istruttore-contabile",
-      "nome": "Comune di Sarezzo, 1 Istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarezzo-concorso-istruttore-contabile-brescia-2026-0",
-      "data_pubblicazione": "2026-07-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "283b6191918830954ffb5dd204ee2aa02338d204",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-studio-maw",
-      "nome": "CONTABILE STUDIO — MAW",
+      "id": "linkedin-lavoro-sicilia-capo-ufficio-contabile-e-controllo-di-gestione-ptf-srl",
+      "nome": "Capo ufficio contabile e controllo di gestione — PTF SRL",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/capo-ufficio-contabile-e-controllo-di-gestione-4433220741",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-chieti-1-istruttore-amministrativo",
-      "nome": "Provincia di Chieti, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-chieti-avviso-di-mobilita-istruttore-amministrativo-chieti-2026",
-      "data_pubblicazione": "2026-06-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e1b77afe193920151856f7d2bf82e24e44b99cca",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-primimidia",
-      "nome": "Responsabile amministrativo — Primimidia",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-primimidia-4433800792",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "8ef7aa1958792924b9513eb3a40f1338cce98827",
+      "hash_contenuto": "f48e988b934c4537e40472cf6780147ee3f1814a",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -348,14 +309,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
