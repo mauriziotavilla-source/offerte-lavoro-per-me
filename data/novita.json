@@ -1,127 +1,88 @@
 {
-  "generated_at": "2026-06-26T04:01:16.081Z",
+  "generated_at": "2026-06-26T09:33:33.380Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c18e6620ed9885fd821b3b10d285942f1aff3771",
+  "catalog_hash": "94d5a587243aae21359af30d85f2d1700888abc1",
   "counts": {
-    "nuovi": 9,
+    "nuovi": 6,
     "aggiornati": 20
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-vendita-taormina-nuova-apertura-nino-friends-italy-nino-and-friends",
-      "nome": "ADDETTO/A VENDITA - TAORMINA nuova apertura - Nino & Friends ITALY — Nino and Friends",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-vendita-taormina-nuova-apertura-nino-friends-italy-at-nino-and-friends-4426084856",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8f8ab95299496d900fe57a5757a4a9452ce32065",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-11-posti-di",
-      "nome": "Azienda Ospedaliera Ospedali Riuniti Villa Sofia - Cervello di Palermo, 11 posti di assistente amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-besana-in-brianza-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Besana in Brianza , 1 istruttore amministrativo contabile",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-concorso-assistente",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-besana-brianza-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026-0",
       "data_pubblicazione": "2026-07-24",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "269a60c9ff4326f0defe39af9f5362a675a75cb7",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "55409a02ae378a2f922224757372f9754dfdc262",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-4-posti-di-",
-      "nome": "Azienda Ospedaliera Ospedali Riuniti Villa Sofia - Cervello di Palermo, 4 posti di collaboratore amministrativo professionale",
+      "id": "gazzetta-via-concorsipubblici-comune-di-sant-egidio-alla-vibrata-1-collaboratore-amministrativo",
+      "nome": "Comune di Sant’ Egidio alla Vibrata, 1 collaboratore amministrativo",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-concorso-collaboratore",
-      "data_pubblicazione": "2026-07-24",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "ce19c774678b573aac0588161d5e3c2167dc0f1a",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santegidio-alla-vibrata-concorso-riservato-collaboratore-amministrativo-teramo-2026",
+      "data_pubblicazione": "2026-07-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6a8944dbf19a2628648a317ff3596ebdb7b09e66",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-collaboratore-amministrativo-professionale",
-      "nome": "collaboratore amministrativo professionale",
+      "id": "gazzetta-via-concorsipubblici-comune-di-sarezzo-1-istruttore-contabile",
+      "nome": "Comune di Sarezzo, 1 Istruttore contabile",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-amministrativo-professionale-314",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "2dbba321ba0b0d0dcf5b0c2be56cbf3ee55015b0",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarezzo-concorso-istruttore-contabile-brescia-2026-0",
+      "data_pubblicazione": "2026-07-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "283b6191918830954ffb5dd204ee2aa02338d204",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-addetto-alle-vendite-ventra-sas-agricoltura",
-      "nome": "Magazziniere addetto alle vendite — VENTRA SAS AGRICOLTURA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-addetto-alle-vendite-4428041580",
+      "id": "linkedin-lavoro-sicilia-contabile-studio-maw",
+      "nome": "CONTABILE STUDIO — MAW",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "0c3fe42dc31ece48235b8a8d1e24c36a7ac789a9",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-sales-assistant-gutteridge-taormina-gutteridge-1878",
-      "nome": "SALES ASSISTANT GUTTERIDGE TAORMINA — Gutteridge 1878",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-gutteridge-taormina-at-gutteridge-1878-4362714535",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "961d0970c6f43b2e090ef07819438c4077133dc4",
+      "id": "gazzetta-via-concorsipubblici-provincia-di-chieti-1-istruttore-amministrativo",
+      "nome": "Provincia di Chieti, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-chieti-avviso-di-mobilita-istruttore-amministrativo-chieti-2026",
+      "data_pubblicazione": "2026-06-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e1b77afe193920151856f7d2bf82e24e44b99cca",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-store-manager-gutteridge-taormina-gutteridge-1878",
-      "nome": "STORE MANAGER GUTTERIDGE TAORMINA — Gutteridge 1878",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-gutteridge-taormina-at-gutteridge-1878-4362319162",
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrativo-primimidia",
+      "nome": "Responsabile amministrativo — Primimidia",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-primimidia-4433800792",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ef00aa7c3692874426529a8c00a65af245d41d36",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "8ef7aa1958792924b9513eb3a40f1338cce98827",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-tecnico-di-produzione-fiorillo-srl",
-      "nome": "Tecnico di produzione — FIORILLO SRL",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-di-produzione-at-fiorillo-srl-4290742335",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "e66076b56e9a08caa77e5c0f8d761c6edd502d88",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-venditore-wanted-s-r-l",
-      "nome": "Venditore — WANTED S.R.L.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/venditore-at-wanted-s-r-l-4428290680",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f6361b2ba1965b23330121f1b30934023a686a20",
-      "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -387,5 +348,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
