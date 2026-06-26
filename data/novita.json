@@ -1,179 +1,127 @@
 {
-  "generated_at": "2026-06-25T20:05:05.515Z",
+  "generated_at": "2026-06-26T04:01:16.081Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "695218a8908c45ce5d3349bbdd901bffe0be58b0",
+  "catalog_hash": "c18e6620ed9885fd821b3b10d285942f1aff3771",
   "counts": {
-    "nuovi": 13,
+    "nuovi": 9,
     "aggiornati": 20
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-assistente-amministrativo-a-junior-area-vendite-ad-maio-solutions",
-      "nome": "Assistente amministrativo/a junior area vendite — Ad Maio Solutions",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-a-junior-area-vendite-at-ad-maio-solutions-4431850254",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "2c7ada17f1ed92dc1ea44fa4d297683d85e04156",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-artogne-1-istruttore-amministrativo",
-      "nome": "Comune di Artogne, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-artogne-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-07-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1ebb2e21ff02dd51c9fbd57bbd9af08e314c9b04",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-colle-di-val-d-elsa-1-istruttore-amministrativo",
-      "nome": "Comune di Colle di Val d’Elsa, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colle-di-val-delsa-concorso-riservato-istruttore-amministrativo-siena-2026",
-      "data_pubblicazione": "2026-07-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d2b512c4bb82a907e3edabda62cb980f2693d285",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-colle-di-val-d-elsa-un-istruttore-amministrativo-part-time-a-tempo-ind",
-      "nome": "Comune di Colle di Val D'Elsa, un istruttore amministrativo part time a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colle-di-val-delsa-concorso-istruttore-amministrativo-siena-2026",
-      "data_pubblicazione": "2026-07-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "752decdb7058e82968b07d7c5274376e52486654",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-motta-di-livenza-2-istruttori-amministrativo-contabile",
-      "nome": "Comune di Motta di Livenza, 2 istruttori amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-motta-di-livenza-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-06-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d4d615b245fb6a150a58fdfcfe648189052e0ce6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-ponsacco-3-posti-di-istruttore-amministrativo",
-      "nome": "Comune di Ponsacco, 3 posti di istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ponsacco-concorso-istruttore-amministrativo-pisa-2026-1",
-      "data_pubblicazione": "2026-07-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3cca7d69d53215f623f038569a232374b670dbe9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-impiegato-ufficio-tecnico-d-agostino-costruzioni-generali",
-      "nome": "Impiegato Ufficio Tecnico — D'Agostino Costruzioni Generali",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-vendita-taormina-nuova-apertura-nino-friends-italy-nino-and-friends",
+      "nome": "ADDETTO/A VENDITA - TAORMINA nuova apertura - Nino & Friends ITALY — Nino and Friends",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-ufficio-tecnico-at-d-agostino-costruzioni-generali-4430235482",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-vendita-taormina-nuova-apertura-nino-friends-italy-at-nino-and-friends-4426084856",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "423766dee9086be9cefe7d9d4ced7546cc309747",
+      "hash_contenuto": "8f8ab95299496d900fe57a5757a4a9452ce32065",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
+      "id": "concorsipubblici-sicilia-azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-11-posti-di",
+      "nome": "Azienda Ospedaliera Ospedali Riuniti Villa Sofia - Cervello di Palermo, 11 posti di assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-concorso-assistente",
+      "data_pubblicazione": "2026-07-24",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "269a60c9ff4326f0defe39af9f5362a675a75cb7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-4-posti-di-",
+      "nome": "Azienda Ospedaliera Ospedali Riuniti Villa Sofia - Cervello di Palermo, 4 posti di collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedali-riuniti-villa-sofia-cervello-di-palermo-concorso-collaboratore",
+      "data_pubblicazione": "2026-07-24",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "ce19c774678b573aac0588161d5e3c2167dc0f1a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-collaboratore-amministrativo-professionale",
+      "nome": "collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-amministrativo-professionale-314",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "2dbba321ba0b0d0dcf5b0c2be56cbf3ee55015b0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-addetto-alle-vendite-ventra-sas-agricoltura",
+      "nome": "Magazziniere addetto alle vendite — VENTRA SAS AGRICOLTURA",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-addetto-alle-vendite-4428041580",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "hash_contenuto": "0c3fe42dc31ece48235b8a8d1e24c36a7ac789a9",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-operatore-di-linea-settore-detergenza-fiorillo-detergenza",
-      "nome": "Operatore di linea- Settore Detergenza — Fiorillo Detergenza",
+      "id": "linkedin-orfani-guerra-messina-sales-assistant-gutteridge-taormina-gutteridge-1878",
+      "nome": "SALES ASSISTANT GUTTERIDGE TAORMINA — Gutteridge 1878",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-di-linea-settore-detergenza-at-fiorillo-detergenza-4430209666",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-gutteridge-taormina-at-gutteridge-1878-4362714535",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b8c1264b8c440c8dc32276ac2c3d8bf8e99e2cde",
+      "hash_contenuto": "961d0970c6f43b2e090ef07819438c4077133dc4",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-regione-toscana-6-istruttori-amministrativi",
-      "nome": "Regione Toscana, 6 istruttori amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-concorso-riservato-istruttore-amministrativo-firenze-2026",
-      "data_pubblicazione": "2026-07-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "38ffde330dc86af222164321395aa54689e7ed02",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-regione-toscana-concorso-per-6-istruttori-amministrativi-a-tempo-indeterminato",
-      "nome": "Regione Toscana, concorso per 6 istruttori amministrativi a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-concorso-istruttore-amministrativo-toscana-2026",
-      "data_pubblicazione": "2026-07-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7e73978a40ec04c9bec2b45f598434db29855b9c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-school-psychologist-department-of-war-education-activity-dowea",
-      "nome": "School Psychologist. — Department of War Education Activity (DOWEA)",
+      "id": "linkedin-orfani-guerra-messina-store-manager-gutteridge-taormina-gutteridge-1878",
+      "nome": "STORE MANAGER GUTTERIDGE TAORMINA — Gutteridge 1878",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/school-psychologist-at-department-of-war-education-activity-dowea-4433095373",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-gutteridge-taormina-at-gutteridge-1878-4362319162",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b2ef2148379820bcde14381f67abc7df679a558d",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ef00aa7c3692874426529a8c00a65af245d41d36",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
-      "nome": "Unione Montana Feltrina , 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-0",
-      "data_pubblicazione": "2026-07-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "943b54203fcb622b6ec2fe9d1eefc0516688eba8",
+      "id": "linkedin-orfani-guerra-messina-tecnico-di-produzione-fiorillo-srl",
+      "nome": "Tecnico di produzione — FIORILLO SRL",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-di-produzione-at-fiorillo-srl-4290742335",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e66076b56e9a08caa77e5c0f8d761c6edd502d88",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-venditore-wanted-s-r-l",
+      "nome": "Venditore — WANTED S.R.L.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/venditore-at-wanted-s-r-l-4428290680",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f6361b2ba1965b23330121f1b30934023a686a20",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -326,10 +274,10 @@
       "nome": "Contabile — Openjobmetis SpA",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4432651873",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4431208794",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "ac1c1c3d2a0f382bb548cbd1f01c2cbb66030b75",
+      "hash_contenuto": "4cdfd0d3fd3390a6f40157488381212ccac52c97",
       "notifica_topics": [
         "offerte_lavoro"
       ]
