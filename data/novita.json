@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:53:34.912Z",
+  "generated_at": "2026-06-27T03:45:07.284Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "6c32eb493d41de2e48faef19effc3ef009a53b5c",
   "counts": {
@@ -269,10 +269,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
