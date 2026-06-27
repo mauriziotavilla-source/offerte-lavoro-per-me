@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-06-27T08:40:13.275Z",
+  "generated_at": "2026-06-27T13:49:28.445Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6c32eb493d41de2e48faef19effc3ef009a53b5c",
+  "catalog_hash": "42b593391e094dcc579625caf1a7376af87561a9",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 20
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-pontedera-1-specialista-amministrativo-contabile",
+      "nome": "Comune di Pontedera, 1 specialista amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-pontedera-avviso-di-mobilita-esperto-amministrativo-contabile-pisa-2026",
+      "data_pubblicazione": "2026-06-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "27f26e1769feaa7c49fdff06703afcdb8e6328c9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-contabile-studio-maw",
+      "nome": "CONTABILE STUDIO — MAW",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -270,6 +297,14 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
