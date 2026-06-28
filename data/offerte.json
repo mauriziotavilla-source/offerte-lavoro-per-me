@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "f773ba1be7a24ed7c2f9a5fdd6bdd5a72ab48683",
-  "generated_at": "2026-06-28T13:54:09.646Z",
+  "generated_at": "2026-06-28T19:25:35.884Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -729,7 +729,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -754,7 +754,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -917,7 +917,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -942,7 +942,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1319,7 +1319,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-10",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1344,7 +1344,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-26",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3207,7 +3207,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3232,7 +3232,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3257,7 +3257,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-09",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3282,7 +3282,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-25",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7647,7 +7647,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -9728,7 +9728,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9753,7 +9753,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10378,7 +10378,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10403,7 +10403,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10428,7 +10428,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-10",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10453,7 +10453,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-26",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10829,7 +10829,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10854,7 +10854,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13096,7 +13096,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-11",
+          "data": "2026-08-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -13121,7 +13121,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-27",
+      "rilevato_il": "2026-06-28",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13720,10 +13720,6 @@
   ],
   "changed": false,
   "source_errors": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
