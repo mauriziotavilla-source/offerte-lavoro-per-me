@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-28T04:08:36.304Z",
+  "generated_at": "2026-06-28T08:57:26.361Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "42b593391e094dcc579625caf1a7376af87561a9",
+  "catalog_hash": "f773ba1be7a24ed7c2f9a5fdd6bdd5a72ab48683",
   "counts": {
     "nuovi": 1,
     "aggiornati": 20
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-contabile-studio-maw",
+      "id": "linkedin-lavoro-sicilia-contabile-studio-maw",
       "nome": "CONTABILE STUDIO — MAW",
       "tipo": "lavoro",
       "ente": "LinkedIn",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
       "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
       "notifica_topics": [
         "offerte_lavoro"
@@ -284,10 +284,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
