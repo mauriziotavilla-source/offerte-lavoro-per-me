@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-06-28T08:57:26.361Z",
+  "generated_at": "2026-06-28T13:54:09.646Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f773ba1be7a24ed7c2f9a5fdd6bdd5a72ab48683",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 20
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-studio-maw",
-      "nome": "CONTABILE STUDIO — MAW",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
