@@ -1,12 +1,91 @@
 {
-  "generated_at": "2026-06-29T04:15:34.987Z",
+  "generated_at": "2026-06-29T11:06:52.837Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f773ba1be7a24ed7c2f9a5fdd6bdd5a72ab48683",
+  "catalog_hash": "a3882c5039922f52163da2fc717867740d151418",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 20
+    "nuovi": 6,
+    "aggiornati": 21
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-ms-fiscal-resolutions",
+      "nome": "Contabile — MS - Fiscal ReSolutions",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-ms-fiscal-resolutions-4434443598",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "07f46be22d714612f4557985daf14fec250f7997",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-contabile-studio-associato-maggiore-e-patti",
+      "nome": "Contabile — studio associato maggiore e patti",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4431094286",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "4a9e8cb7258081ed4e8428bdf723b3d7a30be3f7",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-instructor-jrotc-po-navy-department-of-war-education-activity-dowea",
+      "nome": "Instructor JROTC PO NAVY. — Department of War Education Activity (DOWEA)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/instructor-jrotc-po-navy-at-department-of-war-education-activity-dowea-4434203801",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "578c54bbc3cc23755fcb6405fbf193a9576770cf",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-lunch-operations-associate-catalyst-public-schools",
+      "nome": "Lunch/Operations Associate — Catalyst Public Schools",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lunch-operations-associate-at-catalyst-public-schools-4433496787",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ad4dd28fbef1e260ac0f42d12ee8db28ee81456a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-musketeer-sales-marketing-specialist-catania-red-bull",
+      "nome": "MUSKETEER - SALES & MARKETING SPECIALIST - Catania — Red Bull",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/musketeer-sales-marketing-specialist-catania-at-red-bull-4417306656",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a5f474101e3ef0a00db25362fa740e1979cbf0b4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -230,6 +309,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-junior-auditor-kpmg-italy",
+      "nome": "Junior Auditor — KPMG Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-auditor-at-kpmg-italy-4314035196",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "baa03401496add04a5417d727fb0062028ebf5a1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-payroll-specialist-full-remote-jet-hr",
       "nome": "Payroll Specialist - Full Remote — Jet HR",
       "tipo": "categoria_protetta",
@@ -271,12 +363,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 503"
     },
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 503"
     }
   ]
 }
