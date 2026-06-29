@@ -1,91 +1,12 @@
 {
-  "generated_at": "2026-06-29T15:52:56.005Z",
+  "generated_at": "2026-06-29T20:02:31.141Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "faa0a3bb6b562723c6402757cb6d7db6fed13667",
+  "catalog_hash": "2a9339d3fbb0a3ff42c848a08d69f5d0f60684f0",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 0,
     "aggiornati": 21
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-monticiano-assunzione-di-due-istruttori-amministrativi-e-contabili-a-t",
-      "nome": "Comune di Monticiano, assunzione di due istruttori amministrativi e contabili a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-monticiano-concorso-istruttore-amministrativo-contabile-toscana-2026",
-      "data_pubblicazione": "2026-07-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b409cf600277a63f18002f8f5cdd7b41bac8bec4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sant-onofrio-1-istruttore-amministrativo-revoca-concorso",
-      "nome": "Comune di Sant'Onofrio, 1 istruttore amministrativo (revoca concorso)",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santonofrio-avviso-istruttore-amministrativo-vibo-valentia-2026-0",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9083f607f0fcc044a705fc50c84ec46dca301915",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-amministrativo",
-      "nome": "Comune di Santa Venerina, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-venerina-concorso-riservato-istruttore-amministrativo-catania-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "eb95a15f33313453e4ccb1d2be1c6c875b2fa3c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-contabile",
-      "nome": "Comune di Santa Venerina, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-venerina-concorso-riservato-istruttore-contabile-catania-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "0b63775c44cd9710749dd05199555784769416d7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sessame-concorso-istruttore-amministrativo-addetto-ai-servizi-demograf",
-      "nome": "Comune di Sessame, concorso istruttore amministrativo addetto ai servizi demografici",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sessame-concorso-istruttore-amministrativo-asti-2026",
-      "data_pubblicazione": "2026-07-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f467439f205d50a754f287dfdd90202f5c3faac3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-della-val-di-bisenzio-1-istruttore-contabile",
-      "nome": "Unione Dei Comuni della Val di Bisenzio, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-della-val-di-bisenzio-concorso-istruttore-contabile-prato-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b50c58503ea570c9ed91032cc5e4558e6cabb796",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -363,7 +284,15 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-sicilia",
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     }
   ]
