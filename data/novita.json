@@ -1,12 +1,66 @@
 {
-  "generated_at": "2026-06-30T03:56:57.767Z",
+  "generated_at": "2026-06-30T09:42:49.722Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d4f55f9cbddc1f4327fa2796ef7b61bed330fd59",
+  "catalog_hash": "e921fba53848327347a222c6330ed2533b956dd6",
   "counts": {
-    "nuovi": 14,
-    "aggiornati": 21
+    "nuovi": 4,
+    "aggiornati": 22
   },
   "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-citta-di-castello-1-istruttore-amministrativo",
+      "nome": "Comune di Città di Castello, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-citta-di-castello-concorso-istruttore-amministrativo-perugia-2026",
+      "data_pubblicazione": "2026-06-29",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "990e5e2f61ed7812a2c03723966714a9612f8667",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-guarene-concorso-per-istruttore-amministrativo-area-finanziaria-serviz",
+      "nome": "Comune di Guarene, concorso per istruttore amministrativo, area finanziaria servizio tributi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-guarene-concorso-istruttore-amministrativo-cuneo-2026",
+      "data_pubblicazione": "2026-07-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fda7b4c7520e7b8ad0953266df438b8cb278680f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-iglesias-1-operatore-amministrativo",
+      "nome": "Comune di Iglesias, 1 operatore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-iglesias-concorso-operatore-amministrativo-carbonia-iglesias-2026",
+      "data_pubblicazione": "2026-06-29",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6c5b5954c352ea65ac7d810673a38ca6ee8d4c00",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-fondazione-ptv-policlinico-tor-vergata-1-collaboratore-amministrativo-profession",
+      "nome": "Fondazione Ptv-Policlinico Tor Vergata, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-lazio-fondazione-ptv-policlinico-tor-vergata-avviso-di-mobilita-collaboratore-0",
+      "data_pubblicazione": "2026-07-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "90631828a68e6d8ef9bc3f5544873e663d85c29a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
+  "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
       "nome": "Account manager — ALLEANZA ASSICURAZIONI S.P.A.",
@@ -20,177 +74,6 @@
         "categorie_protette"
       ]
     },
-    {
-      "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
-      "nome": "Account manager — ALLEANZA ASSICURAZIONI S.P.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-at-alleanza-assicurazioni-s-p-a-4427388421",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "bb39c2dedadd94fc5acd90f894477f112abb08f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-agente-commerciale-caffe-vergnano-1882",
-      "nome": "Agente commerciale — Caffè Vergnano 1882",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-commerciale-at-caff%C3%A8-vergnano-1882-4426958235",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "04e6c65e284d9e08f8d9b8bb63e2cd1d7fee87fa",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-banconista-nais-2007",
-      "nome": "Banconista — Nais 2007",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/banconista-4429123175",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "33ad2240538e34be43e9b851feff2087cda36f36",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-commercial-excellence-pricing-manager-abb",
-      "nome": "Commercial Excellence & Pricing Manager — ABB",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commercial-excellence-pricing-manager-at-abb-4434138239",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a091c8aacde73c4ab2b0550d38f6da33812cf49b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-commis-di-cucina-futura-vacanze-tour-operator",
-      "nome": "Commis di Cucina — FUTURA VACANZE Tour Operator",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commis-di-cucina-at-futura-vacanze-tour-operator-4420422756",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "95feffa0348a165ca090d9ece8bdca1bf6984c69",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sant-onofrio-1-istruttore-amministrativo-revoca-concorso",
-      "nome": "Comune di Sant'Onofrio, 1 istruttore amministrativo (revoca concorso)",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santonofrio-avviso-istruttore-amministrativo-vibo-valentia-2026-0",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9083f607f0fcc044a705fc50c84ec46dca301915",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-amministrativo",
-      "nome": "Comune di Santa Venerina, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-venerina-concorso-riservato-istruttore-amministrativo-catania-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "eb95a15f33313453e4ccb1d2be1c6c875b2fa3c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-santa-venerina-1-istruttore-contabile",
-      "nome": "Comune di Santa Venerina, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-venerina-concorso-riservato-istruttore-contabile-catania-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "0b63775c44cd9710749dd05199555784769416d7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-consulente-assicurativo-alleanza-assicurazioni-taurianova",
-      "nome": "Consulente assicurativo — Alleanza assicurazioni Taurianova",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-assicurativo-4430696532",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "59e2db7c35e345bb2376485e8d8bbfae63cd5370",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-impiegato-a-commerciale-sofi-dolcezze-mediterranee",
-      "nome": "Impiegato/a Commerciale — Sofì Dolcezze Mediterranee",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-commerciale-at-sof%C3%AC-dolcezze-mediterranee-4434701437",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7afdf076f020cd4c57f9cdf74819f97451fb0dd2",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-store-manager-tommy-hilfiger-reggio-calabria-gifrab-italia-s-p-a",
-      "nome": "STORE MANAGER - TOMMY HILFIGER REGGIO CALABRIA — Gifrab Italia S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-tommy-hilfiger-reggio-calabria-at-gifrab-italia-s-p-a-4422872843",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d0c36b011a62907a9ca967b1ace2cdee8de6bbc0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-della-val-di-bisenzio-1-istruttore-contabile",
-      "nome": "Unione Dei Comuni della Val di Bisenzio, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-della-val-di-bisenzio-concorso-istruttore-contabile-prato-2026",
-      "data_pubblicazione": "2026-06-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b50c58503ea570c9ed91032cc5e4558e6cabb796",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
-  "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
@@ -466,6 +349,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
