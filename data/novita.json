@@ -1,49 +1,62 @@
 {
-  "generated_at": "2026-06-30T14:29:42.219Z",
+  "generated_at": "2026-06-30T20:03:10.189Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8db7b0823e96b5209ffa1576774dca1d3327ed06",
+  "catalog_hash": "f79dad3cfeb8beee8294ae710d3f16d7dcbce08c",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 4,
     "aggiornati": 22
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-chiari-concorso-per-istruttore-amministrativo-contabile-area-cultura-s",
-      "nome": "Comune di Chiari, concorso per istruttore amministrativo contabile, area cultura sistema biblioteche",
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-polo-di-piave-concorso-per-istruttore-amministrativo-contabile",
+      "nome": "Comune di San Polo di Piave, concorso per istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-chiari-concorso-istruttore-amministrativo-contabile-bibliotecario-brescia-2026",
-      "data_pubblicazione": "2026-07-26",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-polo-di-piave-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-07-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "51e3f9ab1669845b5a9981865b79629484739c36",
+      "hash_contenuto": "8fa124bf4741f227d12ffef35f05ea84765c0be5",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-contabile-studio-maw",
+      "id": "gazzetta-via-concorsipubblici-comune-di-val-liona-concorso-per-istruttore-amministrativo",
+      "nome": "Comune di Val Liona, concorso per istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-val-liona-concorso-amministrativo-istruttore-amministrativo-vicenza-2026",
+      "data_pubblicazione": "2026-08-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c658a0b7ae1c616a8a70b5eaafcb23118a98f46a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-studio-maw",
       "nome": "CONTABILE STUDIO — MAW",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "624df630950c4c5af8ea9a314cd4906ca9daf394",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-del-medio-campidano-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Provincia del Medio Campidano, 2 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-del-medio-campidano-concorso-istruttore-amministrativo-contabile-medio-campidano-2026",
-      "data_pubblicazione": "2026-07-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "608a652e3d064bc9ee3293942386e2a0c85201f4",
+      "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
+      "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4434000175",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f76295c94a5b5702e93ff65db1cad8f78de4391d",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -335,18 +348,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
