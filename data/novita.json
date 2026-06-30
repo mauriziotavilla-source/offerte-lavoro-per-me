@@ -1,60 +1,47 @@
 {
-  "generated_at": "2026-06-30T09:42:49.722Z",
+  "generated_at": "2026-06-30T14:29:42.219Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e921fba53848327347a222c6330ed2533b956dd6",
+  "catalog_hash": "8db7b0823e96b5209ffa1576774dca1d3327ed06",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 3,
     "aggiornati": 22
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-citta-di-castello-1-istruttore-amministrativo",
-      "nome": "Comune di Città di Castello, 1 istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-chiari-concorso-per-istruttore-amministrativo-contabile-area-cultura-s",
+      "nome": "Comune di Chiari, concorso per istruttore amministrativo contabile, area cultura sistema biblioteche",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-citta-di-castello-concorso-istruttore-amministrativo-perugia-2026",
-      "data_pubblicazione": "2026-06-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "990e5e2f61ed7812a2c03723966714a9612f8667",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-guarene-concorso-per-istruttore-amministrativo-area-finanziaria-serviz",
-      "nome": "Comune di Guarene, concorso per istruttore amministrativo, area finanziaria servizio tributi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-guarene-concorso-istruttore-amministrativo-cuneo-2026",
-      "data_pubblicazione": "2026-07-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fda7b4c7520e7b8ad0953266df438b8cb278680f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-iglesias-1-operatore-amministrativo",
-      "nome": "Comune di Iglesias, 1 operatore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-iglesias-concorso-operatore-amministrativo-carbonia-iglesias-2026",
-      "data_pubblicazione": "2026-06-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c5b5954c352ea65ac7d810673a38ca6ee8d4c00",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-fondazione-ptv-policlinico-tor-vergata-1-collaboratore-amministrativo-profession",
-      "nome": "Fondazione Ptv-Policlinico Tor Vergata, 1 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-lazio-fondazione-ptv-policlinico-tor-vergata-avviso-di-mobilita-collaboratore-0",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-chiari-concorso-istruttore-amministrativo-contabile-bibliotecario-brescia-2026",
       "data_pubblicazione": "2026-07-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "90631828a68e6d8ef9bc3f5544873e663d85c29a",
+      "hash_contenuto": "51e3f9ab1669845b5a9981865b79629484739c36",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-contabile-studio-maw",
+      "nome": "CONTABILE STUDIO — MAW",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "2216e265945631498740b11baaa29550c9e414d3",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-del-medio-campidano-2-posti-di-istruttore-amministrativo-contabile",
+      "nome": "Provincia del Medio Campidano, 2 posti di istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-del-medio-campidano-concorso-istruttore-amministrativo-contabile-medio-campidano-2026",
+      "data_pubblicazione": "2026-07-29",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "608a652e3d064bc9ee3293942386e2a0c85201f4",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -349,6 +336,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
