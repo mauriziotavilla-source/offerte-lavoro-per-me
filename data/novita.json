@@ -1,21 +1,99 @@
 {
-  "generated_at": "2026-07-01T09:54:47.879Z",
+  "generated_at": "2026-07-01T14:43:20.773Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e08f27abc698bf1b768064ac6c9b11976a410eaa",
+  "catalog_hash": "a62417abda0cd2038bed464256759a0b667ff3ac",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 7,
     "aggiornati": 22
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-squinzano-1-istruttore-amministrativo",
-      "nome": "Comune di Squinzano, 1 istruttore amministrativo",
+      "id": "linkedin-lavoro-messina-addetto-a-alla-segreteria-contabile-maw",
+      "nome": "Addetto/a alla segreteria contabile — MAW",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alla-segreteria-contabile-at-maw-4432385039",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "ed816bce2b6c689138be5c86bb0f0487dc07dff9",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-addetto-a-amministrativo-a-c-s-s-group",
+      "nome": "Addetto/a Amministrativo/a — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-amministrativo-a-at-c-s-s-group-4434315330",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "68b9c8c731e5044e2d0645136a9f3c6a8a3550ee",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-casoria-concorso-per-4-funzionari-amministrativi",
+      "nome": "Comune di Casoria, concorso per 4 funzionari amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-squinzano-concorso-riservato-istruttore-amministrativo-lecce-2026",
-      "data_pubblicazione": "2026-07-28",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casoria-concorso-assistente-amministrativo-campania-2026",
+      "data_pubblicazione": "2026-07-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "610e10d9824416b661c9941f62eb057ed61586a7",
+      "hash_contenuto": "b764daeae098cc394114f72b60bc649572acf61f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-fonte-nuova-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Fonte Nuova, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-fonte-nuova-concorso-istruttore-amministrativo-contabile-roma-2026",
+      "data_pubblicazione": "2026-07-31",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "63fc4c82c43585e7679d06ebc22f308224ca166a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-ufficio-direzionale-c-s-s-group",
+      "nome": "Impiegato/a Amministrativo/a – Ufficio Direzionale — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-%E2%80%93-ufficio-direzionale-at-c-s-s-group-4434325175",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "bbcba8a9891bad79131100b0c5bac8ddaac5438b",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-latina-6-posti-di-istruttore-amministrativo-contabile",
+      "nome": "Provincia di Latina, 6 posti di istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-latina-concorso-istruttore-amministrativo-contabile-latina-2026",
+      "data_pubblicazione": "2026-07-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d512f030a2fbfbf5f3d5b10b9f8e522f348e672f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-di-comuni-valmarecchia-concorso-per-istruttore-amministrativo-contabile",
+      "nome": "Unione di Comuni Valmarecchia, concorso per istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-di-comuni-valmarecchia-concorso-istruttore-amministrativo-contabile-rimini-2026",
+      "data_pubblicazione": "2026-07-31",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "95c54d6748c303316503d3a6d11a168af7fd71b5",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -310,14 +388,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
