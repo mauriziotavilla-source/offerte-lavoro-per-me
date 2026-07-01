@@ -1,60 +1,21 @@
 {
-  "generated_at": "2026-06-30T20:03:10.189Z",
+  "generated_at": "2026-07-01T04:11:45.519Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f79dad3cfeb8beee8294ae710d3f16d7dcbce08c",
+  "catalog_hash": "c1836f411115a4e4323edc847b2351360db328fe",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 1,
     "aggiornati": 22
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-polo-di-piave-concorso-per-istruttore-amministrativo-contabile",
-      "nome": "Comune di San Polo di Piave, concorso per istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-polo-di-piave-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-07-27",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8fa124bf4741f227d12ffef35f05ea84765c0be5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-val-liona-concorso-per-istruttore-amministrativo",
-      "nome": "Comune di Val Liona, concorso per istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-val-liona-concorso-amministrativo-istruttore-amministrativo-vicenza-2026",
-      "data_pubblicazione": "2026-08-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c658a0b7ae1c616a8a70b5eaafcb23118a98f46a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-contabile-studio-maw",
-      "nome": "CONTABILE STUDIO — MAW",
+      "id": "linkedin-orfani-guerra-messina-buyer-impiegato-a-ufficio-acquisti-archimede-agenzia-per-il-lavoro-filiale-di-ud",
+      "nome": "BUYER - IMPIEGATO /A UFFICIO ACQUISTI — Archimede - Agenzia per il lavoro -filiale di Udine",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4433816503",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/buyer-impiegato-a-ufficio-acquisti-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4431911067",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "624df630950c4c5af8ea9a314cd4906ca9daf394",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
-      "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4434000175",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f76295c94a5b5702e93ff65db1cad8f78de4391d",
+      "hash_contenuto": "72588275e054bddc99658deb6815362b5e7b88db",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -348,5 +309,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
