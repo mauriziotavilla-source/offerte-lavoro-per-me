@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-01T04:11:45.519Z",
+  "generated_at": "2026-07-01T09:54:47.879Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c1836f411115a4e4323edc847b2351360db328fe",
+  "catalog_hash": "e08f27abc698bf1b768064ac6c9b11976a410eaa",
   "counts": {
     "nuovi": 1,
     "aggiornati": 22
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-buyer-impiegato-a-ufficio-acquisti-archimede-agenzia-per-il-lavoro-filiale-di-ud",
-      "nome": "BUYER - IMPIEGATO /A UFFICIO ACQUISTI — Archimede - Agenzia per il lavoro -filiale di Udine",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/buyer-impiegato-a-ufficio-acquisti-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4431911067",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "72588275e054bddc99658deb6815362b5e7b88db",
+      "id": "gazzetta-via-concorsipubblici-comune-di-squinzano-1-istruttore-amministrativo",
+      "nome": "Comune di Squinzano, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-squinzano-concorso-riservato-istruttore-amministrativo-lecce-2026",
+      "data_pubblicazione": "2026-07-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "610e10d9824416b661c9941f62eb057ed61586a7",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -316,6 +316,10 @@
     },
     {
       "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
