@@ -1,49 +1,127 @@
 {
-  "generated_at": "2026-07-02T03:52:40.811Z",
+  "generated_at": "2026-07-02T09:17:50.489Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "40181f0a40873a8e8af34ef84dd3af19cbf4d0d9",
+  "catalog_hash": "3d60dd1e4c17299e7bf2bf6c8aa6230ed8dbf899",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 9,
     "aggiornati": 23
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-alla-segreteria-contabile-maw",
-      "nome": "Addetto/a alla segreteria contabile — MAW",
+      "id": "linkedin-lavoro-sicilia-addetto-a-data-entry-e-elaborazione-dati-c-s-s-group",
+      "nome": "Addetto/a Data Entry e Elaborazione Dati — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-data-entry-e-elaborazione-dati-at-c-s-s-group-4434396984",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "94f2f7a63734e973cf6bcf411f8d7c2ee5a1c708",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-carugo-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Carugo , 1 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-carugo-concorso-istruttore-amministrativo-contabile-como-2026",
+      "data_pubblicazione": "2026-07-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "48d7b54e0fbbfd56a4ff1ce0b41d2195c0880fe9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-valdastico-1-istruttore-amministrativo",
+      "nome": "Comune di Valdastico, 1 Istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-valdastico-concorso-istruttore-amministrativo-vicenza-2026",
+      "data_pubblicazione": "2026-07-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "38b6e9ed784a6d98e82ece59db30793c3715c8c9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
+      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alla-segreteria-contabile-at-maw-4432385039",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pieno-e-indeterminato-area-dei-funzionari-e-dell%E2%80%99elevata-qualificazione-profilo-%E2%80%9Ceducatore-asili-nido%E2%80%9D-at-dipartimento-della-funzione-pubblica-4436180806",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ca94598abb98aa278ca62dc715e80577e140e7ef",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "962e61ac1274cd7d6c5f2a3b604b38b19c58fb92",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-eurosoccorso-di-aliotta-maria-rita",
-      "nome": "Assistente — Eurosoccorso di Aliotta Maria Rita",
+      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
+      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-4435533804",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pieno-e-indeterminato-area-dei-funzionari-e-dell%E2%80%99elevata-qualificazione-profilo-%E2%80%9Ceducatore-asili-nido%E2%80%9D-at-dipartimento-della-funzione-pubblica-4436174950",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "937e16711bc05553f55671083790d73678ab9f6a",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7a3ee5e6f58092860e0ccceef9f5ca208914113e",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-di-direzione-area-fiscale-strategica-e-management-ransomtax-your-busi",
-      "nome": "Assistente di Direzione – Area Fiscale, Strategica e Management — Ransomtax - Your Business Partner",
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-di-direzione-%E2%80%93-area-fiscale-strategica-e-management-at-ransomtax-your-business-partner-4434637289",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436198006",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8b0a1ad43e0422dded55dc790e480eca5dc457f9",
+      "hash_contenuto": "98c3658da586db6aa135d1c0a6025f9bcc14b173",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-store-manager-messina-sostituzione-maternita-mango",
+      "nome": "STORE MANAGER (Messina - Sostituzione maternità) — MANGO",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-messina-sostituzione-maternit%C3%A0-at-mango-4435835047",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "05086e169531c61c30e124435c9aee0a5677d6a3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-terre-dell-olio-e-del-sagrantino-1-istruttore-amministrativo-c",
+      "nome": "Unione dei Comuni Terre dell’Olio e del Sagrantino, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-terre-dellolio-e-del-sagrantino-concorso-istruttore-amministrativo-contabile",
+      "data_pubblicazione": "2026-07-29",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a2124606f859c98ef4509809afe8f666481d94a6",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -183,10 +261,10 @@
       "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4435841959",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4418951383",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "36f9a5bfaf527de8c940902e8531812ea3afba43",
+      "hash_contenuto": "78e7c2e35194b983cfb1923ed3a75c31b093e9d1",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -348,10 +426,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
