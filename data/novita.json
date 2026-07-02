@@ -1,36 +1,101 @@
 {
-  "generated_at": "2026-07-02T14:09:10.606Z",
+  "generated_at": "2026-07-02T19:38:19.371Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "91cabc8ddf12414e5a008af41e28afa69a5e051b",
+  "catalog_hash": "9fe293deede39193e8675d93787c75da3543765c",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 25
+    "nuovi": 7,
+    "aggiornati": 26
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-trebisacce-3-posti-di-letturista-collaboratore-amministrativo",
-      "nome": "Comune di Trebisacce, 3 posti di letturista collaboratore amministrativo",
+      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436195399",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "89500aa202aa8cf8d100d8bf2c1d7acaf5d080e9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulenti-commerciali-per-il-settore-dell-arte-contemporanea-pitturiamo",
+      "nome": "Consulenti Commerciali per il settore dell'Arte Contemporanea — PitturiAmo",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulenti-commerciali-per-il-settore-dell-arte-contemporanea-at-pitturiamo-4432779729",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "623de1231967b4347a5330860868cc755ba350d5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-ente-parco-delle-madonie-dipartimento-della-funzione-pubblica",
+      "nome": "ENTE PARCO DELLE MADONIE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ente-parco-delle-madonie-at-dipartimento-della-funzione-pubblica-4432747925",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "0e0988d6fb48afe1769600cd6e3c7c8743b21a5a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-impiegato-ufficio-gare-adecco",
+      "nome": "Impiegato Ufficio Gare — Adecco",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-ufficio-gare-at-adecco-4433102449",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "27f0fc56012c5a4497d64b203a224ba1853af088",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-ordine-dei-dottori-commercialisti-di-lucca-concorso-per-impiegato-amministrativo",
+      "nome": "Ordine dei dottori commercialisti di Lucca, concorso per impiegato amministrativo a tempo determinato",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trebisacce-concorso-collaboratore-amministrativo-cosenza-2026-0",
+      "link_ufficiale": "https://www.concorsipubblici.com/ordine-dottori-commercialisti-ed-esperti-contabili-di-lucca-concorso-impiegato-amministrativo-lucca",
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0b8c222ef74aca69778f23519094a824da632388",
+      "hash_contenuto": "fc33311b89aaa3a252723c8032320c5343be1ab8",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
-      "nome": "Payroll Specialist — Jet HR",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4436339228",
+      "id": "linkedin-lavoro-messina-responsabile-commerciale-e-assistenza-clienti-fiscal-revisione",
+      "nome": "Responsabile commerciale e Assistenza clienti — FISCAL REVISIONE",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-commerciale-e-assistenza-clienti-at-fiscal-revisione-4432763631",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b9b68a3a4ca8c531983bc8015e99b3197e50e633",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "7e4773481efcec254458b202b60cb6fb7a7a59a8",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -200,6 +265,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "98c3658da586db6aa135d1c0a6025f9bcc14b173",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
       "notifica_topics": [
         "categorie_protette"
       ]
