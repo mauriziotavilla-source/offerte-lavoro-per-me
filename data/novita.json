@@ -1,36 +1,49 @@
 {
-  "generated_at": "2026-07-01T20:00:52.209Z",
+  "generated_at": "2026-07-02T03:52:40.811Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "32094206ae1846ea199a08deccd8b545bd98e912",
+  "catalog_hash": "40181f0a40873a8e8af34ef84dd3af19cbf4d0d9",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 22
+    "nuovi": 3,
+    "aggiornati": 23
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-la-promozione-turistica-in-liguria-concorso-per-istruttore",
-      "nome": "Agenzia Regionale per la Promozione Turistica in Liguria, concorso per istruttore amministrativo esperto in turismo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-la-promozione-turistica-liguria-concorso-istruttore-amministrativo-genova-2026",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "93b1bfe07bb76e54bdb2359aab99d268240b3db5",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-alla-segreteria-contabile-maw",
+      "nome": "Addetto/a alla segreteria contabile — MAW",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alla-segreteria-contabile-at-maw-4432385039",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ca94598abb98aa278ca62dc715e80577e140e7ef",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-assistente-di-direzione-area-fiscale-strategica-e-management-ransomtax-your-busi",
+      "id": "linkedin-orfani-guerra-messina-assistente-eurosoccorso-di-aliotta-maria-rita",
+      "nome": "Assistente — Eurosoccorso di Aliotta Maria Rita",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-4435533804",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "937e16711bc05553f55671083790d73678ab9f6a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-assistente-di-direzione-area-fiscale-strategica-e-management-ransomtax-your-busi",
       "nome": "Assistente di Direzione – Area Fiscale, Strategica e Management — Ransomtax - Your Business Partner",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-di-direzione-%E2%80%93-area-fiscale-strategica-e-management-at-ransomtax-your-business-partner-4434637289",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "25e679c7a5a3fd846f6147cbed4182c565b2218b",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8b0a1ad43e0422dded55dc790e480eca5dc457f9",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     }
   ],
@@ -163,6 +176,19 @@
       "hash_contenuto": "6f5cd872109fd586f7de2cbc9c9e669c57838b57",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-commerciale-reggio-calabria-m-f-vitalaire",
+      "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4435841959",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "36f9a5bfaf527de8c940902e8531812ea3afba43",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -323,10 +349,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
