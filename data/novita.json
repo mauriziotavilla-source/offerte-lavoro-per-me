@@ -1,127 +1,36 @@
 {
-  "generated_at": "2026-07-02T09:17:50.489Z",
+  "generated_at": "2026-07-02T14:09:10.606Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3d60dd1e4c17299e7bf2bf6c8aa6230ed8dbf899",
+  "catalog_hash": "91cabc8ddf12414e5a008af41e28afa69a5e051b",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 23
+    "nuovi": 2,
+    "aggiornati": 25
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-addetto-a-data-entry-e-elaborazione-dati-c-s-s-group",
-      "nome": "Addetto/a Data Entry e Elaborazione Dati — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-data-entry-e-elaborazione-dati-at-c-s-s-group-4434396984",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "94f2f7a63734e973cf6bcf411f8d7c2ee5a1c708",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-carugo-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Carugo , 1 Istruttore Amministrativo Contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-trebisacce-3-posti-di-letturista-collaboratore-amministrativo",
+      "nome": "Comune di Trebisacce, 3 posti di letturista collaboratore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-carugo-concorso-istruttore-amministrativo-contabile-como-2026",
-      "data_pubblicazione": "2026-07-01",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trebisacce-concorso-collaboratore-amministrativo-cosenza-2026-0",
+      "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "48d7b54e0fbbfd56a4ff1ce0b41d2195c0880fe9",
+      "hash_contenuto": "0b8c222ef74aca69778f23519094a824da632388",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-valdastico-1-istruttore-amministrativo",
-      "nome": "Comune di Valdastico, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-valdastico-concorso-istruttore-amministrativo-vicenza-2026",
-      "data_pubblicazione": "2026-07-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "38b6e9ed784a6d98e82ece59db30793c3715c8c9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
-      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
+      "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pieno-e-indeterminato-area-dei-funzionari-e-dell%E2%80%99elevata-qualificazione-profilo-%E2%80%9Ceducatore-asili-nido%E2%80%9D-at-dipartimento-della-funzione-pubblica-4436180806",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "962e61ac1274cd7d6c5f2a3b604b38b19c58fb92",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
-      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pieno-e-indeterminato-area-dei-funzionari-e-dell%E2%80%99elevata-qualificazione-profilo-%E2%80%9Ceducatore-asili-nido%E2%80%9D-at-dipartimento-della-funzione-pubblica-4436174950",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a3ee5e6f58092860e0ccceef9f5ca208914113e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
-      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436198006",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4436339228",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "98c3658da586db6aa135d1c0a6025f9bcc14b173",
+      "hash_contenuto": "b9b68a3a4ca8c531983bc8015e99b3197e50e633",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
-      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-store-manager-messina-sostituzione-maternita-mango",
-      "nome": "STORE MANAGER (Messina - Sostituzione maternità) — MANGO",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-messina-sostituzione-maternit%C3%A0-at-mango-4435835047",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "05086e169531c61c30e124435c9aee0a5677d6a3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-terre-dell-olio-e-del-sagrantino-1-istruttore-amministrativo-c",
-      "nome": "Unione dei Comuni Terre dell’Olio e del Sagrantino, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-terre-dellolio-e-del-sagrantino-concorso-istruttore-amministrativo-contabile",
-      "data_pubblicazione": "2026-07-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a2124606f859c98ef4509809afe8f666481d94a6",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     }
   ],
@@ -265,6 +174,32 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "78e7c2e35194b983cfb1923ed3a75c31b093e9d1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
+      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pieno-e-indeterminato-area-dei-funzionari-e-dell%E2%80%99elevata-qualificazione-profilo-%E2%80%9Ceducatore-asili-nido%E2%80%9D-at-dipartimento-della-funzione-pubblica-4436180806",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "962e61ac1274cd7d6c5f2a3b604b38b19c58fb92",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436198006",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "98c3658da586db6aa135d1c0a6025f9bcc14b173",
       "notifica_topics": [
         "categorie_protette"
       ]
