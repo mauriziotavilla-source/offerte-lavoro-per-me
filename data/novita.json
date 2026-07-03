@@ -1,91 +1,12 @@
 {
-  "generated_at": "2026-07-03T14:13:14.182Z",
+  "generated_at": "2026-07-03T19:27:15.527Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "418fcaed28d26a971d34de906c6d96e22154355f",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 0,
     "aggiornati": 26
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-addetto-a-amministrativo-a-e-rapporti-con-fornitori-c-s-s-group",
-      "nome": "Addetto/a Amministrativo/a e Rapporti con Fornitori — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-amministrativo-a-e-rapporti-con-fornitori-at-c-s-s-group-4435446739",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "1f795811cd2c2226d3f953f5f272af6a7481d2bc",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-avvisi-l-68-mese-di-luglio-2026-enti-pubblici-4-signed-pdf-cpi-messina",
-      "nome": "avvisi_l.68_mese_di_luglio_2026_enti_pubblici_4_signed.pdf (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-07/avvisi_l.68_mese_di_luglio_2026_enti_pubblici_4_signed.pdf",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "hash_contenuto": "bcc2ffbb91cac3dfefc677fb734c7333983e4f0b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-director-of-operational-excellence-m-f-d-honeywell-technologies",
-      "nome": "Director of Operational Excellence (m/f/d) — Honeywell Technologies",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-operational-excellence-m-f-d-at-honeywell-technologies-4436725144",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8a786e76e5a3319953776dc4ef3841d33f9aec4a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-fondazione-alghero-musei-eventi-turismo-arte-1-impiegato-amministrativo-contabil",
-      "nome": "Fondazione Alghero Musei Eventi Turismo Arte, 1 impiegato amministrativo contabile ragioniere",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-alghero-musei-eventi-turismo-arte-concorso-impiegato-amministrativo-ragioniere-sassari",
-      "data_pubblicazione": "2026-08-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1cfb454e8497b1f12cf4a2a103dabb335de5ed5b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-senior-accountant-contabilita-e-bilancio-gifrab-italia-s-p-a",
-      "nome": "SENIOR ACCOUNTANT - CONTABILITA' E BILANCIO — Gifrab Italia S.p.A.",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-accountant-contabilita-e-bilancio-at-gifrab-italia-s-p-a-4435455432",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "4776e42afa2fbf92e3485e94d7b66d671c4775e2",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-store-manager-ft-messina-mango",
-      "nome": "STORE MANAGER (FT - Messina) — MANGO",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-ft-messina-at-mango-4435835047",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fc927058f90be2eb79c70ecc9699b8e824394986",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -426,5 +347,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
