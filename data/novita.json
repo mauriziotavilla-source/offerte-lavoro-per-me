@@ -1,75 +1,49 @@
 {
-  "generated_at": "2026-07-03T03:34:33.917Z",
+  "generated_at": "2026-07-03T09:24:04.367Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "877b0bf92cd1a54560a7b05d87151d8df66079ec",
+  "catalog_hash": "137222c0757d9c1ad813cf9c3631249e057200fe",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 3,
     "aggiornati": 26
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-celano-1-operatore-amministrativo-cerimoniere",
-      "nome": "Comune di Celano, 1 operatore amministrativo cerimoniere",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-celano-concorso-operatore-amministrativo-laquila-2026-1",
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "75488b8d98f12328ab15ddd47e22dd4df698f11a",
+      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-per-candidati-idonei-non-assunti-e-utilmente-collocati-in-gr",
+      "nome": "AVVISO DI SELEZIONE PER CANDIDATI IDONEI NON ASSUNTI E UTILMENTE COLLOCATI IN GRADUATORIE DI MERITO DI ALTRI ENTI -ASSISTENTE SOCIALE N.2 UNITA' A TEMPO PIENO E INDETERMINATO — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-per-candidati-idonei-non-assunti-e-utilmente-collocati-in-graduatorie-di-merito-di-altri-enti-assistente-sociale-n-2-unita-a-tempo-pieno-e-indeterminato-at-dipartimento-della-funzione-pubblica-4432786801",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b12c2c0cd233f17c7594918b5795ff6456a2a272",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-celano-1-operatore-amministrativo-esperto",
-      "nome": "Comune di Celano, 1 operatore amministrativo esperto",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-celano-concorso-operatore-amministrativo-laquila-2026-0",
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d2bfdb4ce59da1162797a2acc7d6f26a6f2e7526",
+      "id": "linkedin-lavoro-sicilia-esperto-contabile-fulmine-group",
+      "nome": "Esperto Contabile — Fulmine Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-fulmine-group-4433162414",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "6eaf537cb2a4118957ff755dd36b9e76a00433ca",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-gragnano-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Gragnano, 2 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gragnano-avviso-di-mobilita-istruttore-amministrativo-contabile-napoli-2026",
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "424682d0482687e97e9d72385fe3dd206b27d612",
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
       "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-fior-1-istruttore-dei-servizi-ammnistrativo-contabili",
-      "nome": "Comune di San Fior , 1 Istruttore dei Servizi Ammnistrativo-Contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-fior-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "eadf0334aceccbc71a95deb743407e9ff5dc6c87",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sinalunga-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Sinalunga, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sinalunga-concorso-istruttore-amministrativo-contabile-siena-2026",
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e6c213e1eeeb17dce4e80625fa1261c1fe7bb90f",
-      "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -415,12 +389,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
     },
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
     }
   ]
 }
