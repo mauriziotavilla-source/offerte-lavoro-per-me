@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-07-03",
-  "versione": 86,
+  "ultimo_aggiornamento": "2026-07-04",
+  "versione": 87,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "418fcaed28d26a971d34de906c6d96e22154355f",
-  "generated_at": "2026-07-03T19:27:15.526Z",
+  "catalog_hash": "c7a56710c985f67940ed1ec6678cc069a65bbd36",
+  "generated_at": "2026-07-04T03:27:17.735Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -580,7 +580,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -624,7 +624,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -712,7 +712,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -756,7 +756,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -1124,7 +1124,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -1526,7 +1526,7 @@
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3108,7 +3108,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3158,7 +3158,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3259,7 +3259,7 @@
       "data_pubblicazione": "2026-07-24",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3310,7 +3310,7 @@
       "data_pubblicazione": "2026-07-24",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4011,7 +4011,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -4207,7 +4207,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4811,7 +4811,7 @@
       "data_pubblicazione": "2026-07-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4867,110 +4867,6 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "9496bf981ffa56f0fd3dc4334d5183cc87297028"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-celano-1-operatore-amministrativo-cerimoniere",
-      "nome": "Comune di Celano, 1 operatore amministrativo cerimoniere",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Celano, 1 operatore amministrativo cerimoniere Ente Comune di Celano Scadenza 02/07/2026 Scaduto Dettagli Località L'Aquila Occupazione operatore amministrativo Posti 1 Avviso pubblico di selezione comparativa per il conferimento di un incarico a tem",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-07-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-celano-concorso-operatore-amministrativo-laquila-2026-1",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "75488b8d98f12328ab15ddd47e22dd4df698f11a"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-celano-1-operatore-amministrativo-esperto",
-      "nome": "Comune di Celano, 1 operatore amministrativo esperto",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Celano, 1 operatore amministrativo esperto Ente Comune di Celano Scadenza 02/07/2026 Scaduto Dettagli Località L'Aquila Occupazione operatore amministrativo Posti 1 Avviso pubblico di selezione comparativa per il conferimento di un incarico a tempo d",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-07-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-celano-concorso-operatore-amministrativo-laquila-2026-0",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "d2bfdb4ce59da1162797a2acc7d6f26a6f2e7526"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-cerveteri-2-collaboratori-amministrativi",
@@ -5374,7 +5270,7 @@
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5483,57 +5379,6 @@
       "hash_contenuto": "25819bea8d5f31aaf0eb29a671fc676d0adccd03"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-gragnano-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Gragnano, 2 posti di istruttore amministrativo contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Gragnano, 2 posti di istruttore amministrativo contabile Ente Comune di Gragnano Scadenza 02/07/2026 Scaduto Dettagli Località Napoli Occupazione istruttore amministrativo contabile Posti 2 Avviso di mobilità volontaria esterna ai sensi dell’art. 30 ",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-07-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gragnano-avviso-di-mobilita-istruttore-amministrativo-contabile-napoli-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "424682d0482687e97e9d72385fe3dd206b27d612"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-guarene-concorso-per-istruttore-amministrativo-area-finanziaria-serviz",
       "nome": "Comune di Guarene, concorso per istruttore amministrativo, area finanziaria servizio tributi",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -5578,7 +5423,7 @@
       "data_pubblicazione": "2026-07-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5736,6 +5581,94 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "139e3de1a77739bfcd8b92f319477bfe615fb3f3"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-comune-di-mazara-del-vallo-avviso-di-mobilita-esterna-per-3-postoia-tempo-pieno-",
+      "nome": "COMUNE DI MAZARA DEL VALLO - AVVISO DI MOBILITÀ ESTERNA PER 3 POSTOIA TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE – AREA DEI FUNZIONARI E DELL’E.Q.” — Dipartimento della Funzione Pubblica",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-mazara-del-vallo-avviso-di-mobilit%C3%A0-esterna-per-3-postoia-tempo-pieno-e-indeterminato-di-%E2%80%9Cistruttore-direttivo-amministrativo-contabile-%E2%80%93-area-dei-funzionari-e-dell%E2%80%99e-q-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4433166325",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "04231c104182b4f387594db03fb8e4fbe21f04e1"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-comune-di-mazara-del-vallo-avviso-di-mobilita-esterna-per-3-postoia-tempo-pieno-",
+      "nome": "COMUNE DI MAZARA DEL VALLO - AVVISO DI MOBILITÀ ESTERNA PER 3 POSTOIA TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE – AREA DEI FUNZIONARI E DELL’E.Q.” — Dipartimento della Funzione Pubblica",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Trapani, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-mazara-del-vallo-avviso-di-mobilit%C3%A0-esterna-per-3-postoia-tempo-pieno-e-indeterminato-di-%E2%80%9Cistruttore-direttivo-amministrativo-contabile-%E2%80%93-area-dei-funzionari-e-dell%E2%80%99e-q-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4433172212",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "fb0c5c0738ae32bee1a1ad9fc36706b60e5244c9"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-mediglia-1-istruttore-amministrativo-contabile",
@@ -6037,7 +5970,7 @@
       "data_pubblicazione": "2026-07-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6093,6 +6026,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "9f5d1f53a3bfdc47595cd0496d901339b5e266ec"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-palma-campania-12-posti-di-istruttore-amministrativo",
+      "nome": "Comune di Palma Campania, 12 posti di istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Palma Campania, 12 posti di istruttore amministrativo Ente Comune di Palma Campania Scadenza 03/07/2026 Scaduto Dettagli Località Napoli Occupazione istruttore amministrativo Posti 12 Istruttore amministrativo – categoria c – area personale ex catego",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-palma-campania-concorso-istruttore-amministrativo-napoli-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "273b678ff2d23282ca39a8a88133337a85f01b1b"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-ponsacco-concorso-per-soli-esami-per-la-copertura-di-n-3-posti-di-istr",
@@ -6300,57 +6284,6 @@
       "hash_contenuto": "62eb3aca560da63a3a278884c33c49b86adec5a7"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-fior-1-istruttore-dei-servizi-ammnistrativo-contabili",
-      "nome": "Comune di San Fior , 1 Istruttore dei Servizi Ammnistrativo-Contabili",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di San Fior , 1 Istruttore dei Servizi Ammnistrativo-Contabili Ente Comune di San Fior Scadenza 02/07/2026 Scaduto Dettagli Località Treviso Occupazione istruttore amministrativo contabile Posti 1 concorso pubblico per esami per la copertura di n. 1 pos",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-07-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-fior-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "eadf0334aceccbc71a95deb743407e9ff5dc6c87"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-san-polo-di-piave-concorso-per-istruttore-amministrativo-contabile",
       "nome": "Comune di San Polo di Piave, concorso per istruttore amministrativo contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -6395,11 +6328,62 @@
       "data_pubblicazione": "2026-07-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "8fa124bf4741f227d12ffef35f05ea84765c0be5"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-zeno-naviglio-1-istruttore-amministrativo",
+      "nome": "Comune di San Zeno Naviglio, 1 istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di San Zeno Naviglio, 1 istruttore amministrativo Ente Comune di San Zeno Naviglio Scadenza 03/07/2026 Scaduto Dettagli Località Brescia Occupazione istruttore amministrativo Posti 1 Concorso Pubblico per esami per la copertura di N. 1 posto di istrutto",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-zeno-naviglio-concorso-istruttore-amministrativo-brescia-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "07aec2f22f29b7e8a4bbe593095a028420d32a59"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-sanremo-1-istruttore-amministrativo-e-contabile",
@@ -6549,7 +6533,7 @@
       "data_pubblicazione": "2026-06-28",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6600,7 +6584,7 @@
       "data_pubblicazione": "2026-06-28",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6753,62 +6737,11 @@
       "data_pubblicazione": "2026-07-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "f467439f205d50a754f287dfdd90202f5c3faac3"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sinalunga-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Sinalunga, 1 istruttore amministrativo contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Sinalunga, 1 istruttore amministrativo contabile Ente Comune di Sinalunga Scadenza 02/07/2026 Scaduto Dettagli Località Siena Occupazione istruttore amministrativo contabile Posti 1 Concorso pubblico per esami per la copertura di n. 1 posto a tempo p",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-07-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sinalunga-concorso-istruttore-amministrativo-contabile-siena-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-07-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "e6c213e1eeeb17dce4e80625fa1261c1fe7bb90f"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-sona-1-istruttore-amministrativo-contabile",
@@ -6906,7 +6839,7 @@
       "data_pubblicazione": "2026-07-28",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6957,7 +6890,7 @@
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7161,7 +7094,7 @@
       "data_pubblicazione": "2026-08-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7421,6 +7354,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "923a2abce53259b5dca3bc33f807619ad7ce8426"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comunita-montana-castelli-romani-prenestini-1-istruttore-amministrativo",
+      "nome": "Comunità Montana Castelli Romani – Prenestini, 1 istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comunità Montana Castelli Romani – Prenestini, 1 istruttore amministrativo Ente GAL - Castelli Romani e Monti Prenestini Scadenza 03/07/2026 Scaduto Dettagli Località Roma Occupazione istruttore amministrativo Posti 1 Comunita montana castelli romani e prenest",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/gal-castelli-romani-e-monti-prenestini-concorso-istruttore-amministrativo-roma-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "40c8ef5e9c854f7f97c978cc7e3e23b0457302a4"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comunita-montana-della-carnia-in-tolmezzo-1-istruttore-direttivo-contabile",
@@ -8404,7 +8388,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -8448,7 +8432,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -8492,7 +8476,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -8819,7 +8803,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -9781,11 +9765,55 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
       "hash_contenuto": "6eaf537cb2a4118957ff755dd36b9e76a00433ca"
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-esperto-contabile-gruppo-cappadona",
+      "nome": "Esperto contabile — Gruppo Cappadona",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Ragusa, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-gruppo-cappadona-4433153937",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "ce2c8b49113aaa89c27cc841b1b0bf7980288053"
     },
     {
       "id": "linkedin-lavoro-sicilia-esperto-paghe-e-contributi-per-la-p-a-locale-catania-immedia-s-p-a",
@@ -10028,7 +10056,7 @@
       "data_pubblicazione": "2026-08-03",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10329,7 +10357,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10981,6 +11009,50 @@
       "hash_contenuto": "423766dee9086be9cefe7d9d4ced7546cc309747"
     },
     {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-contabile-sicilgrassi-s-p-a",
+      "nome": "IMPIEGATO/A AMMINISTRATIVO CONTABILE — Sicilgrassi S.P.A.",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-contabile-at-sicilgrassi-s-p-a-4433187866",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "69c6ddb41a53c5f984368b96bc57d33273078bf6"
+    },
+    {
       "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-contabile-studio-valentini-associati-stp-a-rl",
       "nome": "IMPIEGATO/A AMMINISTRATIVO/A - CONTABILE — Studio Valentini & Associati STP A.RL.",
       "ente": "LinkedIn",
@@ -11062,7 +11134,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -11152,7 +11224,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-02",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -11284,7 +11356,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -11655,6 +11727,50 @@
       "hash_contenuto": "5fb8e9f201325512f0f9e88776dd053bebbe2bfa"
     },
     {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-ufficio-amministrativo-c-s-s-group",
+      "nome": "Impiegato/a Ufficio Amministrativo — C.S.S. Group",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-ufficio-amministrativo-at-c-s-s-group-4435437928",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "rilevato_il": "2026-07-04",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "4ea972c7bdc0d86011124d4455c86464cedd292c"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-informatori-infrabios",
       "nome": "Informatori — INFRABIOS",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -11843,7 +11959,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13284,7 +13400,7 @@
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13680,7 +13796,7 @@
       "data_pubblicazione": "2026-07-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13731,7 +13847,7 @@
       "data_pubblicazione": "2026-07-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15354,7 +15470,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -16632,7 +16748,7 @@
       "data_pubblicazione": "2026-07-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16683,7 +16799,7 @@
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-03",
+      "rilevato_il": "2026-07-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16892,12 +17008,8 @@
       "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9"
     }
   ],
-  "changed": false,
+  "changed": true,
   "source_errors": [
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
