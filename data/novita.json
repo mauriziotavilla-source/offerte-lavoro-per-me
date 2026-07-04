@@ -1,104 +1,12 @@
 {
-  "generated_at": "2026-07-04T03:27:17.735Z",
+  "generated_at": "2026-07-04T08:41:58.468Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c7a56710c985f67940ed1ec6678cc069a65bbd36",
+  "catalog_hash": "a43d319bb1ceaa0597ba82d3c941f4a5bb12e8eb",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 27
+    "nuovi": 0,
+    "aggiornati": 29
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-comune-di-mazara-del-vallo-avviso-di-mobilita-esterna-per-3-postoia-tempo-pieno-",
-      "nome": "COMUNE DI MAZARA DEL VALLO - AVVISO DI MOBILITÀ ESTERNA PER 3 POSTOIA TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE – AREA DEI FUNZIONARI E DELL’E.Q.” — Dipartimento della Funzione Pubblica",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-mazara-del-vallo-avviso-di-mobilit%C3%A0-esterna-per-3-postoia-tempo-pieno-e-indeterminato-di-%E2%80%9Cistruttore-direttivo-amministrativo-contabile-%E2%80%93-area-dei-funzionari-e-dell%E2%80%99e-q-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4433166325",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "04231c104182b4f387594db03fb8e4fbe21f04e1",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-comune-di-mazara-del-vallo-avviso-di-mobilita-esterna-per-3-postoia-tempo-pieno-",
-      "nome": "COMUNE DI MAZARA DEL VALLO - AVVISO DI MOBILITÀ ESTERNA PER 3 POSTOIA TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE – AREA DEI FUNZIONARI E DELL’E.Q.” — Dipartimento della Funzione Pubblica",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-mazara-del-vallo-avviso-di-mobilit%C3%A0-esterna-per-3-postoia-tempo-pieno-e-indeterminato-di-%E2%80%9Cistruttore-direttivo-amministrativo-contabile-%E2%80%93-area-dei-funzionari-e-dell%E2%80%99e-q-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4433172212",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "fb0c5c0738ae32bee1a1ad9fc36706b60e5244c9",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-palma-campania-12-posti-di-istruttore-amministrativo",
-      "nome": "Comune di Palma Campania, 12 posti di istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-palma-campania-concorso-istruttore-amministrativo-napoli-2026",
-      "data_pubblicazione": "2026-07-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "273b678ff2d23282ca39a8a88133337a85f01b1b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-zeno-naviglio-1-istruttore-amministrativo",
-      "nome": "Comune di San Zeno Naviglio, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-zeno-naviglio-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-07-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "07aec2f22f29b7e8a4bbe593095a028420d32a59",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comunita-montana-castelli-romani-prenestini-1-istruttore-amministrativo",
-      "nome": "Comunità Montana Castelli Romani – Prenestini, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/gal-castelli-romani-e-monti-prenestini-concorso-istruttore-amministrativo-roma-2026",
-      "data_pubblicazione": "2026-07-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "40c8ef5e9c854f7f97c978cc7e3e23b0457302a4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-esperto-contabile-gruppo-cappadona",
-      "nome": "Esperto contabile — Gruppo Cappadona",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-gruppo-cappadona-4433153937",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "ce2c8b49113aaa89c27cc841b1b0bf7980288053",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-contabile-sicilgrassi-s-p-a",
-      "nome": "IMPIEGATO/A AMMINISTRATIVO CONTABILE — Sicilgrassi S.P.A.",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-contabile-at-sicilgrassi-s-p-a-4433187866",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "69c6ddb41a53c5f984368b96bc57d33273078bf6",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -231,6 +139,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-buyer-impiegato-a-ufficio-acquisti-archimede-agenzia-per-il-lavoro-filiale-di-ud",
+      "nome": "BUYER - IMPIEGATO /A UFFICIO ACQUISTI — Archimede - Agenzia per il lavoro -filiale di Udine",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/buyer-impiegato-a-ufficio-acquisti-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4436795432",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "680934ffd2826519769343e3986573bf516ce46e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-commerciale-reggio-calabria-m-f-vitalaire",
       "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
       "tipo": "categoria_protetta",
@@ -241,6 +162,19 @@
       "hash_contenuto": "78e7c2e35194b983cfb1923ed3a75c31b093e9d1",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-comune-di-mazara-del-vallo-avviso-di-mobilita-esterna-per-3-postoia-tempo-pieno-",
+      "nome": "COMUNE DI MAZARA DEL VALLO - AVVISO DI MOBILITÀ ESTERNA PER 3 POSTOIA TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE – AREA DEI FUNZIONARI E DELL’E.Q.” — Dipartimento della Funzione Pubblica",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-mazara-del-vallo-avviso-di-mobilit%C3%A0-esterna-per-3-postoia-tempo-pieno-e-indeterminato-di-%E2%80%9Cistruttore-direttivo-amministrativo-contabile-%E2%80%93-area-dei-funzionari-e-dell%E2%80%99e-q-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4433166325",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "04231c104182b4f387594db03fb8e4fbe21f04e1",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     },
     {
@@ -375,13 +309,13 @@
     },
     {
       "id": "linkedin-lavoro-sicilia-impiegato-a-ufficio-amministrativo-c-s-s-group",
-      "nome": "Impiegato/a Ufficio Amministrativo — C.S.S. Group",
+      "nome": "Impiegato/a ufficio amministrativo — C.S.S. Group",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-ufficio-amministrativo-at-c-s-s-group-4435437928",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-ufficio-amministrativo-at-c-s-s-group-4428030820",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "4ea972c7bdc0d86011124d4455c86464cedd292c",
+      "hash_contenuto": "5fb8e9f201325512f0f9e88776dd053bebbe2bfa",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -454,7 +388,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-lavoro-messina",
       "message": "HTTP 429"
     },
     {
