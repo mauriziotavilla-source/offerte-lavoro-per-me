@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-04T08:41:58.468Z",
+  "generated_at": "2026-07-04T13:40:01.268Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a43d319bb1ceaa0597ba82d3c941f4a5bb12e8eb",
+  "catalog_hash": "fdc31556fbabd37e14872fc281b2972e53b0b385",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 29
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-event-sales-executive-season-2026-grand-hotel-timeo-a-belmond-hotel-belmond",
+      "nome": "Event Sales Executive | season 2026 | Grand Hotel Timeo, a Belmond Hotel — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-sales-executive-season-2026-grand-hotel-timeo-a-belmond-hotel-at-belmond-4430439795",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b8981a7e1efd1cd67aed33ec3629a0d48ca83930",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -143,10 +157,10 @@
       "nome": "BUYER - IMPIEGATO /A UFFICIO ACQUISTI — Archimede - Agenzia per il lavoro -filiale di Udine",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/buyer-impiegato-a-ufficio-acquisti-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4436795432",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/buyer-impiegato-a-ufficio-acquisti-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4431911067",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "680934ffd2826519769343e3986573bf516ce46e",
+      "hash_contenuto": "72588275e054bddc99658deb6815362b5e7b88db",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -387,10 +401,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
