@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-05T13:46:50.319Z",
+  "generated_at": "2026-07-05T19:22:32.654Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5620538e6247845597c507927dfe3f53552dab63",
+  "catalog_hash": "799899696c550afb39489409a3fac22a54a5e0dd",
   "counts": {
     "nuovi": 1,
     "aggiornati": 30
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-team-leader-sap-co-controlling-fincons-group",
-      "nome": "Team Leader SAP CO (Controlling) — Fincons Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-leader-sap-co-controlling-at-fincons-group-4382942373",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5129f26c255aed4d1538886923aba57e41b18c29",
+      "id": "gazzetta-via-concorsipubblici-estar-concorso-per-collaboratore-amministrativo-professionale-per-talune-aziende",
+      "nome": "Estar, concorso per collaboratore amministrativo professionale per talune aziende sanitarie della Regione Toscana",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/estar-concorso-collaboratore-amministrativo-pisa-2026",
+      "data_pubblicazione": "2026-07-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f45a7f1c94b92ad06b3268bf45739177b22fb848",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
