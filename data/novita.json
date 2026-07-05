@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-04T19:19:01.760Z",
+  "generated_at": "2026-07-05T03:43:49.225Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "ce2d715063d8dd8bdcf6dafdb45b1b827260cfb7",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 31
+    "nuovi": 0,
+    "aggiornati": 30
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-operatore-trice-di-front-office-back-office-adecco",
-      "nome": "Operatore/trice di Front-office/Back-office — Adecco",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4433188731",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7c6f3be18938c892deddfd638cce12ca4606ff33",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -231,19 +204,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
-      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -300,10 +260,10 @@
       "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4432775206",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4420195380",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d788f5417779cc767631bd91e6667fe74a74a4c4",
+      "hash_contenuto": "ea03e630ecc35c002be4cf654f28d7f2db8138a3",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -439,5 +399,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
