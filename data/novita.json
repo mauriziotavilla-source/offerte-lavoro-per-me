@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-05T08:57:02.145Z",
+  "generated_at": "2026-07-05T13:46:50.319Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ce2d715063d8dd8bdcf6dafdb45b1b827260cfb7",
+  "catalog_hash": "5620538e6247845597c507927dfe3f53552dab63",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 30
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-team-leader-sap-co-controlling-fincons-group",
+      "nome": "Team Leader SAP CO (Controlling) — Fincons Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-leader-sap-co-controlling-at-fincons-group-4382942373",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5129f26c255aed4d1538886923aba57e41b18c29",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -399,10 +413,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
