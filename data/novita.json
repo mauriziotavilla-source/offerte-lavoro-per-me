@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-05T19:22:32.654Z",
+  "generated_at": "2026-07-06T03:52:41.877Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "799899696c550afb39489409a3fac22a54a5e0dd",
+  "catalog_hash": "cc99a3aff30181b1eff6d829acd440afebe8583e",
   "counts": {
     "nuovi": 1,
     "aggiornati": 30
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-estar-concorso-per-collaboratore-amministrativo-professionale-per-talune-aziende",
-      "nome": "Estar, concorso per collaboratore amministrativo professionale per talune aziende sanitarie della Regione Toscana",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/estar-concorso-collaboratore-amministrativo-pisa-2026",
-      "data_pubblicazione": "2026-07-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f45a7f1c94b92ad06b3268bf45739177b22fb848",
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
+      "nome": "Licensing Manager — Red Raion",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -218,13 +218,13 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
       "notifica_topics": [
         "categorie_protette"
@@ -413,5 +413,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
