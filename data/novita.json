@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-06T03:52:41.877Z",
+  "generated_at": "2026-07-06T10:43:24.867Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "cc99a3aff30181b1eff6d829acd440afebe8583e",
+  "catalog_hash": "01e30b3f9e03ac198056314dfa9464b47c289cb2",
   "counts": {
     "nuovi": 1,
     "aggiornati": 30
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
+      "id": "gazzetta-via-concorsipubblici-azienda-servizi-alla-persona-del-forlivese-1-istruttore-amministrativo-giuridico",
+      "nome": "Azienda Servizi alla Persona del Forlivese , 1 istruttore amministrativo giuridico-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-del-forlivese-di-predappio-concorso-istruttore-amministrativo",
+      "data_pubblicazione": "2026-07-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2aa8625c524acb73640873ca04dd896a3d60e4d1",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -222,10 +222,10 @@
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
+      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -414,6 +414,14 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
