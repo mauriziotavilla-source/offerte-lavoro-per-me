@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-06T10:43:24.867Z",
+  "generated_at": "2026-07-06T15:39:34.433Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "01e30b3f9e03ac198056314dfa9464b47c289cb2",
+  "catalog_hash": "024527d3625b4bea423ceae5946551ffbe6f7a84",
   "counts": {
     "nuovi": 1,
     "aggiornati": 30
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-servizi-alla-persona-del-forlivese-1-istruttore-amministrativo-giuridico",
-      "nome": "Azienda Servizi alla Persona del Forlivese , 1 istruttore amministrativo giuridico-contabile",
+      "id": "concorsipubblici-sicilia-azienda-ospedaliera-papardo-di-messina-1-assistente-amministrativo",
+      "nome": "Azienda Ospedaliera «Papardo» di Messina, 1 assistente amministrativo",
       "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-del-forlivese-di-predappio-concorso-istruttore-amministrativo",
-      "data_pubblicazione": "2026-07-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2aa8625c524acb73640873ca04dd896a3d60e4d1",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-papardo-di-messina-concorso-assistente-amministrativo-messina-2026",
+      "data_pubblicazione": "2026-08-02",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "0d311a87cd1adc4665cfc8e81c5f84bf6547e94e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
