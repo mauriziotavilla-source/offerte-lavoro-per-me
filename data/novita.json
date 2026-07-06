@@ -1,23 +1,62 @@
 {
-  "generated_at": "2026-07-06T15:39:34.433Z",
+  "generated_at": "2026-07-06T20:02:09.166Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "024527d3625b4bea423ceae5946551ffbe6f7a84",
+  "catalog_hash": "65b41b716d57b82f3ee00de27753d7ef40be1a36",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 4,
     "aggiornati": 30
   },
   "nuovi": [
     {
-      "id": "concorsipubblici-sicilia-azienda-ospedaliera-papardo-di-messina-1-assistente-amministrativo",
-      "nome": "Azienda Ospedaliera «Papardo» di Messina, 1 assistente amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-grugliasco-concorso-riservato-per-istruttore-amministrativo-contabile",
+      "nome": "Comune di Grugliasco, concorso riservato per istruttore amministrativo contabile",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-papardo-di-messina-concorso-assistente-amministrativo-messina-2026",
-      "data_pubblicazione": "2026-08-02",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "0d311a87cd1adc4665cfc8e81c5f84bf6547e94e",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-grugliasco-concorso-istruttore-amministrativo-contabile-torino-2026",
+      "data_pubblicazione": "2026-07-31",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b879ad984d3d90d6a70e150b1dbce1c143721ed3",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-consulente-commerciale-eurouniversity",
+      "nome": "Consulente Commerciale — Eurouniversity",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-commerciale-at-eurouniversity-4433926482",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d64adf69f4ef0bb4af9cadbd7d1a2755663102db",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-gestione-ordini-e-fornitori-c-s-s-group",
+      "nome": "Impiegato/a Amministrativo/a - Gestione Ordini e Fornitori — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-gestione-ordini-e-fornitori-at-c-s-s-group-4436206295",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "7e5f5ab8917bc1ad800f1c73fc6532b60a378994",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
+      "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4436089092",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "76bcd9166b02ab9494148f9c6aae8aa2e574741e",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -413,18 +452,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
