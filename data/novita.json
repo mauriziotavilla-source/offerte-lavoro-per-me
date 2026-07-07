@@ -1,49 +1,36 @@
 {
-  "generated_at": "2026-07-07T14:43:17.258Z",
+  "generated_at": "2026-07-07T20:00:08.417Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "23404ce5c95d3f7adff1585a5bd223e37757e5b6",
+  "catalog_hash": "07764012538a9a2778bb7947b78b04e0c23c62f4",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 2,
     "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-anghiari-avviso-di-interpello-per-due-istruttori-amministrativi-contab",
-      "nome": "Comune di Anghiari, avviso di interpello per due Istruttori Amministrativi Contabili a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-anghiari-avviso-istruttore-amministrativo-contabile-toscana-2026",
-      "data_pubblicazione": "2026-08-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8ce39d9907d7c3f6e433bc479cc3bb9f866028d2",
+      "id": "linkedin-orfani-guerra-sicilia-child-protection-officer-save-the-children-italia",
+      "nome": "Child Protection Officer — Save the Children Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/child-protection-officer-at-save-the-children-italia-4437791784",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "de7bbcab8902639e5b4cc6250cea2f022928cb85",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-carugate-concorso-per-istruttore-amministrativo-contabile",
-      "nome": "Comune di Carugate, concorso per istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-carugate-concorso-istruttore-amministrativo-contabile-milano-2026-0",
-      "data_pubblicazione": "2026-08-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9c8448ec625a467b2de140a74fa5e588ab22db18",
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-grande-distribuzione-organizzata-c-s-s-group",
+      "nome": "Impiegato/a Amministrativo/a - Grande Distribuzione Organizzata — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-grande-distribuzione-organizzata-at-c-s-s-group-4436589846",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "4266dc1f4b83d5d8ef0be1fdb1aec182960a0dc3",
       "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-media-valle-del-serchio-concorso-per-un-istruttore-amministrat",
-      "nome": "Unione dei Comuni Media Valle del Serchio, concorso per un istruttore amministrativo a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-media-valle-del-serchio-concorso-istruttore-amministrativo-toscana-2026",
-      "data_pubblicazione": "2026-08-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "56782900ec0fd669c41b1e65fcb212de55dcddc3",
-      "notifica_topics": [
-        "concorsi_pubblici"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -452,18 +439,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
