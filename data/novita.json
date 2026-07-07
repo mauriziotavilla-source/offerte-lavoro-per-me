@@ -1,62 +1,49 @@
 {
-  "generated_at": "2026-07-07T09:48:13.092Z",
+  "generated_at": "2026-07-07T14:43:17.258Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bfcc3b96bf1ac9c816791d2418dad2865eabcd26",
+  "catalog_hash": "23404ce5c95d3f7adff1585a5bd223e37757e5b6",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 3,
     "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-assistente-amministrativo-check-up-catania-del-prof-giovanni-diene",
-      "nome": "Assistente amministrativo — check-up Catania del Prof. Giovanni Diene",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-3886235317",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "d163d32085960debea5863a681fdd0ee974d5a50",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-socio-sanitaria-territoriale-ovest-milanese-di-legnano-1-coadiutore-ammi",
-      "nome": "Azienda socio sanitaria territoriale ovest Milanese di Legnano, 1 coadiutore amministrativo senior",
+      "id": "gazzetta-via-concorsipubblici-comune-di-anghiari-avviso-di-interpello-per-due-istruttori-amministrativi-contab",
+      "nome": "Comune di Anghiari, avviso di interpello per due Istruttori Amministrativi Contabili a tempo indeterminato",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-ovest-milanese-di-legnano-concorso-coadiutore-amministrativo",
-      "data_pubblicazione": "2026-08-02",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-anghiari-avviso-istruttore-amministrativo-contabile-toscana-2026",
+      "data_pubblicazione": "2026-08-05",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fa1329b94ab156b1f881e8c4e59160f04b48ab37",
+      "hash_contenuto": "8ce39d9907d7c3f6e433bc479cc3bb9f866028d2",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-consulente-del-lavoro-addetto-a-paghe-e-contributi-scarano-group",
-      "nome": "Consulente del lavoro - Addetto/a paghe e contributi — Scarano Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-del-lavoro-addetto-a-paghe-e-contributi-at-scarano-group-4437754129",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "6e22c596ec2eeb0e8a6feb24e9a310ae876941dd",
+      "id": "gazzetta-via-concorsipubblici-comune-di-carugate-concorso-per-istruttore-amministrativo-contabile",
+      "nome": "Comune di Carugate, concorso per istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-carugate-concorso-istruttore-amministrativo-contabile-milano-2026-0",
+      "data_pubblicazione": "2026-08-06",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9c8448ec625a467b2de140a74fa5e588ab22db18",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-esperto-contabile-fla-srl",
-      "nome": "Esperto contabile — FLA SRL",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-fla-srl-4437759020",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "ddfeff063a2a46c6f9124f21d83803c7399a8339",
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-media-valle-del-serchio-concorso-per-un-istruttore-amministrat",
+      "nome": "Unione dei Comuni Media Valle del Serchio, concorso per un istruttore amministrativo a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-media-valle-del-serchio-concorso-istruttore-amministrativo-toscana-2026",
+      "data_pubblicazione": "2026-08-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "56782900ec0fd669c41b1e65fcb212de55dcddc3",
       "notifica_topics": [
-        "offerte_lavoro"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -209,10 +196,10 @@
       "nome": "Commercial Excellence & Pricing Manager — ABB",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commercial-excellence-pricing-manager-at-abb-4436298990",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commercial-excellence-pricing-manager-at-abb-4434138239",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "670372276ed4bfa0476ddd15ab2483842c545805",
+      "hash_contenuto": "a091c8aacde73c4ab2b0550d38f6da33812cf49b",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -466,6 +453,14 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
