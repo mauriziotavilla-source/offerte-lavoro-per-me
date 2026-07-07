@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-07-06T20:02:09.166Z",
+  "generated_at": "2026-07-07T03:42:17.250Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "65b41b716d57b82f3ee00de27753d7ef40be1a36",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 30
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-grugliasco-concorso-riservato-per-istruttore-amministrativo-contabile",
-      "nome": "Comune di Grugliasco, concorso riservato per istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-grugliasco-concorso-istruttore-amministrativo-contabile-torino-2026",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b879ad984d3d90d6a70e150b1dbce1c143721ed3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-consulente-commerciale-eurouniversity",
-      "nome": "Consulente Commerciale — Eurouniversity",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-commerciale-at-eurouniversity-4433926482",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d64adf69f4ef0bb4af9cadbd7d1a2755663102db",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-gestione-ordini-e-fornitori-c-s-s-group",
-      "nome": "Impiegato/a Amministrativo/a - Gestione Ordini e Fornitori — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-gestione-ordini-e-fornitori-at-c-s-s-group-4436206295",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "7e5f5ab8917bc1ad800f1c73fc6532b60a378994",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
-      "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4436089092",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "76bcd9166b02ab9494148f9c6aae8aa2e574741e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
