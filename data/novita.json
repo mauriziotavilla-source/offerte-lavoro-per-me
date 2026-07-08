@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-08T08:34:09.062Z",
+  "generated_at": "2026-07-08T14:21:19.079Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "270a510d005310520adcd07ad17acb0c3d6c6729",
+  "catalog_hash": "11106424e403e7ebdd5bec0eb270c1c96538f172",
   "counts": {
     "nuovi": 1,
     "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-sicilia-contabile-senior-f-m-nb-randstad-italia",
-      "nome": "Contabile Senior (f/m/nb) — Randstad Italia",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-f-m-nb-at-randstad-italia-4434532692",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "ff5c8c55452c41a77d9b5df7e88ab365ebbc37c1",
+      "id": "gazzetta-via-concorsipubblici-provincia-di-sondrio-concorso-riservato-per-2-posti-istruttore-amministrativo",
+      "nome": "Provincia di Sondrio, concorso riservato per 2 posti istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-sondrio-concorso-riservato-istruttore-amministrativo-sondrio-2026",
+      "data_pubblicazione": "2026-07-31",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2c824db3a6925330f5edc0e8848ca6a7afc36200",
       "notifica_topics": [
-        "offerte_lavoro"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -231,13 +231,13 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
       "notifica_topics": [
         "categorie_protette"
@@ -426,14 +426,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
