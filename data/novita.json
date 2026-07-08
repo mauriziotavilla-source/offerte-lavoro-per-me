@@ -1,21 +1,34 @@
 {
-  "generated_at": "2026-07-08T14:21:19.079Z",
+  "generated_at": "2026-07-08T19:37:07.232Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "11106424e403e7ebdd5bec0eb270c1c96538f172",
+  "catalog_hash": "e8936eb14982c866b40e5085f19843ab72f844c0",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 2,
     "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-sondrio-concorso-riservato-per-2-posti-istruttore-amministrativo",
-      "nome": "Provincia di Sondrio, concorso riservato per 2 posti istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-bagolino-concorso-istruttore-amministrativo",
+      "nome": "Comune di Bagolino, concorso istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-sondrio-concorso-riservato-istruttore-amministrativo-sondrio-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bagolino-concorso-istruttore-amministrativo-brescia-2026",
       "data_pubblicazione": "2026-07-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2c824db3a6925330f5edc0e8848ca6a7afc36200",
+      "hash_contenuto": "b50ae98895513fed668c98012a81dcf5ba7efbd2",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-lombarda-magherno-torre-d-arese-concorso-istruttore-amministra",
+      "nome": "Unione dei comuni Lombarda Magherno-Torre d’Arese, concorso istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-lombarda-magherno-torre-darese-concorso-istruttore-amministrativo-contabile-0",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "cc67878974d5102e9c4421ee164c7afad03cf366",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -235,10 +248,10 @@
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
+      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -426,5 +439,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
