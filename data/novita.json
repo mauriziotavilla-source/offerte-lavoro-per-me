@@ -1,62 +1,23 @@
 {
-  "generated_at": "2026-07-08T02:56:47.642Z",
+  "generated_at": "2026-07-08T08:34:09.062Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b58a613d2934f460dd3a8c2ccf0666f87a933663",
+  "catalog_hash": "270a510d005310520adcd07ad17acb0c3d6c6729",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 32
+    "nuovi": 1,
+    "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-back-office-per-area-commerciale-healtyct",
-      "nome": "Addetto/a Back Office per Area Commerciale — healtyct",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-back-office-per-area-commerciale-at-healtyct-4436878547",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "cb65aef97e8c1640136253d8427073a243b43958",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-esami-per-la-copertura-a-t-ind-e-pieno-di-n-1-personale-ap",
-      "nome": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA, A T. IND. E PIENO DI N. 1 PERSONALE APPARTENENTE ALL’ AREA DEI FUNZIONARI DI EQ DEL VIGENTE CCNL DEL COMPARTO FUNZ. LOC. - PROF.PROFESS “FUNZ. CONT.” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-esami-per-la-copertura-a-t-ind-e-pieno-di-n-1-personale-appartenente-all%E2%80%99-area-dei-funzionari-di-eq-del-vigente-ccnl-del-comparto-funz-loc-prof-profess-%E2%80%9Cfunz-cont-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4434810132",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "bed74d47827c49818901d65b084f13acbff93608",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-consulente-applicativo-software-gestionali-area-contabile-fiscale-e-aziendale-da",
-      "nome": "Consulente applicativo Software gestionali – Area Contabile, Fiscale e Aziendale — Datev Koinos",
+      "id": "linkedin-lavoro-sicilia-contabile-senior-f-m-nb-randstad-italia",
+      "nome": "Contabile Senior (f/m/nb) — Randstad Italia",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-applicativo-software-gestionali-%E2%80%93-area-contabile-fiscale-e-aziendale-at-datev-koinos-4434535145",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-senior-f-m-nb-at-randstad-italia-4434532692",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "4cbbab1e8eb321f10808341874a47b09b3bd48a4",
+      "hash_contenuto": "ff5c8c55452c41a77d9b5df7e88ab365ebbc37c1",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-impiegato-openjobmetis-spa",
-      "nome": "Impiegato — Openjobmetis SpA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-at-openjobmetis-spa-4436214667",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c78eb4d59adabdf0436be389aea16ab5092c8d7f",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -270,19 +231,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
-      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -478,5 +426,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
