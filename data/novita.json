@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-08T19:37:07.232Z",
+  "generated_at": "2026-07-09T03:35:28.351Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e8936eb14982c866b40e5085f19843ab72f844c0",
+  "catalog_hash": "32014b73200b0bfb5f93565d9389b6113ac138ea",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 31
+    "nuovi": 0,
+    "aggiornati": 32
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bagolino-concorso-istruttore-amministrativo",
-      "nome": "Comune di Bagolino, concorso istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bagolino-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b50ae98895513fed668c98012a81dcf5ba7efbd2",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-lombarda-magherno-torre-d-arese-concorso-istruttore-amministra",
-      "nome": "Unione dei comuni Lombarda Magherno-Torre d’Arese, concorso istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-lombarda-magherno-torre-darese-concorso-istruttore-amministrativo-contabile-0",
-      "data_pubblicazione": "2026-08-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cc67878974d5102e9c4421ee164c7afad03cf366",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -400,6 +373,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
+      "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4438281226",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "52bce886513cb5a9ee5f5844bbf71b91f1a44fa4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-payroll-specialist-full-remote-jet-hr",
       "nome": "Payroll Specialist - Full Remote — Jet HR",
       "tipo": "categoria_protetta",
@@ -439,10 +425,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
