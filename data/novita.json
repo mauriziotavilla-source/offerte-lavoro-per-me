@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-07-09T03:35:28.351Z",
+  "generated_at": "2026-07-09T09:50:43.863Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "32014b73200b0bfb5f93565d9389b6113ac138ea",
+  "catalog_hash": "fafcb951573ca013b8a19424d65ec68445f71082",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 32
+    "nuovi": 3,
+    "aggiornati": 33
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-budoni-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Budoni, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-budoni-concorso-istruttore-amministrativo-contabile-gallura-nord-est-sardegna-2026",
+      "data_pubblicazione": "2026-08-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "26b5ac93638a90c00bd75210a3856a65abf58347",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-responsabile-amministrazione-e-contabilita-cassibba-prodotti-dolciari",
+      "nome": "Responsabile amministrazione e contabilità — Cassibba Prodotti Dolciari",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrazione-e-contabilit%C3%A0-at-cassibba-prodotti-dolciari-4435650536",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "486d0f02975936021861b84ab036829a93564c9c",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-comuni-garfagnana-concorso-per-un-istruttore-amministrativo-a-tempo-indet",
+      "nome": "Unione Comuni Garfagnana, concorso per un istruttore amministrativo a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-garfagnana-concorso-istruttore-amministrativo-toscana-2026",
+      "data_pubblicazione": "2026-08-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "81631d99b990f0ab687efa2bf87ce4a1ae589fd1",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -230,6 +270,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-lavoro-sicilia-contabile-adecco",
       "nome": "Contabile — Adecco",
       "tipo": "lavoro",
@@ -377,10 +430,10 @@
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4438281226",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4434000175",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "52bce886513cb5a9ee5f5844bbf71b91f1a44fa4",
+      "hash_contenuto": "f76295c94a5b5702e93ff65db1cad8f78de4391d",
       "notifica_topics": [
         "categorie_protette"
       ]
