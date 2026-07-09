@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-09T09:50:43.863Z",
+  "generated_at": "2026-07-09T15:16:53.423Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "fafcb951573ca013b8a19424d65ec68445f71082",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 33
+    "nuovi": 0,
+    "aggiornati": 32
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-budoni-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Budoni, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-budoni-concorso-istruttore-amministrativo-contabile-gallura-nord-est-sardegna-2026",
-      "data_pubblicazione": "2026-08-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "26b5ac93638a90c00bd75210a3856a65abf58347",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-responsabile-amministrazione-e-contabilita-cassibba-prodotti-dolciari",
-      "nome": "Responsabile amministrazione e contabilità — Cassibba Prodotti Dolciari",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrazione-e-contabilit%C3%A0-at-cassibba-prodotti-dolciari-4435650536",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "486d0f02975936021861b84ab036829a93564c9c",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-comuni-garfagnana-concorso-per-un-istruttore-amministrativo-a-tempo-indet",
-      "nome": "Unione Comuni Garfagnana, concorso per un istruttore amministrativo a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-garfagnana-concorso-istruttore-amministrativo-toscana-2026",
-      "data_pubblicazione": "2026-08-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "81631d99b990f0ab687efa2bf87ce4a1ae589fd1",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -252,19 +212,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "98c3658da586db6aa135d1c0a6025f9bcc14b173",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
-      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -478,5 +425,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }

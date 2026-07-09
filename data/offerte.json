@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "fafcb951573ca013b8a19424d65ec68445f71082",
-  "generated_at": "2026-07-09T09:50:43.862Z",
+  "generated_at": "2026-07-09T15:16:53.422Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -3277,7 +3277,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-22",
+          "data": "2026-08-23",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3302,7 +3302,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-08",
+      "rilevato_il": "2026-07-09",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4136,7 +4136,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-08-22",
+          "data": "2026-08-23",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4161,7 +4161,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-08",
+      "rilevato_il": "2026-07-09",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10336,7 +10336,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "rilevato_il": "2026-07-08",
+      "rilevato_il": "2026-07-09",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -18222,6 +18222,11 @@
       "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9"
     }
   ],
-  "changed": true,
-  "source_errors": []
+  "changed": false,
+  "source_errors": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
