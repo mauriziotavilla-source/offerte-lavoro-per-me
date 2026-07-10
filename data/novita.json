@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-07-09T19:51:34.277Z",
+  "generated_at": "2026-07-10T03:37:26.862Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6f90f537a56574943c6b14cdd90e6fbfb7b244ab",
+  "catalog_hash": "41d703138c94c2a0912e10cc926f841adf7a2850",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 4,
     "aggiornati": 32
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-sicilia-addetto-a-amministrativo-contabile-ufficio-gare-global-com-technologies-s-r-l",
+      "nome": "Addetto/a Amministrativo Contabile — Ufficio Gare — Global Com Technologies S.r.l.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-amministrativo-contabile-%E2%80%94-ufficio-gare-at-global-com-technologies-s-r-l-4435915084",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "a35cd614e62b7c5bdeb720232dd0aa6258333f1f",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-bdc-specialist-automotive-sales-autozeta-concessionarie",
+      "nome": "BDC Specialist – Automotive Sales — Autozeta Concessionarie",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bdc-specialist-%E2%80%93-automotive-sales-at-autozeta-concessionarie-4434555836",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "67a2e81a249c4d1bea1ed8391c45dd523baa49b7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-albettone-concorso-istruttore-amministrativo",
+      "nome": "Comune di Albettone, concorso istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-albettone-concorso-istruttore-amministrativo-vicenza-2026",
+      "data_pubblicazione": "2026-08-06",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f79b6a83f1ab693bfcf6dd4afbfcac93f14e5796",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-program-assistant-palermo-italy-world-learning",
+      "nome": "Program Assistant - Palermo, Italy — World Learning",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/program-assistant-palermo-italy-at-world-learning-4438670565",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -221,10 +274,10 @@
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
+      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -425,18 +478,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-lavoro-sicilia",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
