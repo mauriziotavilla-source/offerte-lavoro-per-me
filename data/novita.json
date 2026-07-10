@@ -1,75 +1,49 @@
 {
-  "generated_at": "2026-07-10T09:40:42.393Z",
+  "generated_at": "2026-07-10T14:34:12.888Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d621fff4175ff7a86a1b917ffd66e9486ee9097b",
+  "catalog_hash": "018330be8d5551676365286a9d3f77eee300baf0",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 3,
     "aggiornati": 32
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-ai-piani-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-belmo",
-      "nome": "Addetto/a ai Piani | Sostituzione Malattia | Villa Sant'Andrea, a Belmond Hotel — Belmond",
+      "id": "linkedin-orfani-guerra-messina-department-manager-decathlon",
+      "nome": "Department Manager — Decathlon",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-ai-piani-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-at-belmond-4439014901",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/department-manager-at-decathlon-4439045204",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7e33b7ec27e82bf2d00a5c7507f9d93ec105401c",
+      "hash_contenuto": "fd5df4ad1cc5c0fd354d38a0dfea6391d30ec0c3",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-assistente-amministrativo-contabile",
-      "nome": "assistente amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/assistente-amministrativo-contabile-41238",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0e4a658145a6924ccbe61008323ee216ed6af666",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-ordine-dei-medici-chirurghi-e-degli-odontoiatri-della-provincia-di-chieti-1-assi",
-      "nome": "Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Chieti, 1 assistente amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/ordine-dei-medici-chirurghi-e-degli-odontoiatri-della-provincia-di-chieti-concorso-assistente",
-      "data_pubblicazione": "2026-07-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "37dcd63ccbba5fb4c8630486ba066f48b0f47330",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-responsabile-assistenza-post-vendita-gadget48-gadget-personalizzati",
-      "nome": "Responsabile Assistenza Post Vendita — Gadget48 | Gadget personalizzati",
+      "id": "linkedin-orfani-guerra-messina-esperto-contabile-ac-consulting-accounting-dottore-commercialista-official-page-",
+      "nome": "Esperto contabile — AC CONSULTING & ACCOUNTING - DOTTORE COMMERCIALISTA Official Page - Aldo Campo",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-assistenza-post-vendita-at-gadget48-gadget-personalizzati-4434832350",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-ac-consulting-accounting-dottore-commercialista-official-page-aldo-campo-4439078903",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4345378502879a22b55526e679c82430ccffc74e",
+      "hash_contenuto": "f9caf3ded7ba34788193240fe13335aaf00426ff",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-social-media-advisor-italian-market-lisbon-w-relocation-accommodation-tavrion-dy",
-      "nome": "Social Media Advisor – Italian Market Lisbon w/ Relocation & Accommodation — Tavrion Dynamics",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-advisor-%E2%80%93-italian-market-lisbon-w-relocation-accommodation-at-tavrion-dynamics-4437344328",
+      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-junior-c-s-s-group",
+      "nome": "Segretario/a Amministrativo/a Junior — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-junior-at-c-s-s-group-4437560023",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "44f18ccceaca956908a7219e16607717366f2f28",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "853bc4160eb2b3568796d24ff89503b9777e7d0b",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -491,10 +465,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
