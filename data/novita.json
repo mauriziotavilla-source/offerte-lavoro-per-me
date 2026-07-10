@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-07-10T14:34:12.888Z",
+  "generated_at": "2026-07-10T19:37:29.557Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "018330be8d5551676365286a9d3f77eee300baf0",
+  "catalog_hash": "99a28f7276a89742d347d5b581f216086e1a292c",
   "counts": {
     "nuovi": 3,
     "aggiornati": 32
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-department-manager-decathlon",
-      "nome": "Department Manager — Decathlon",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/department-manager-at-decathlon-4439045204",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fd5df4ad1cc5c0fd354d38a0dfea6391d30ec0c3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-esperto-contabile-ac-consulting-accounting-dottore-commercialista-official-page-",
-      "nome": "Esperto contabile — AC CONSULTING & ACCOUNTING - DOTTORE COMMERCIALISTA Official Page - Aldo Campo",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-contabile-at-ac-consulting-accounting-dottore-commercialista-official-page-aldo-campo-4439078903",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f9caf3ded7ba34788193240fe13335aaf00426ff",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-segretario-a-amministrativo-a-junior-c-s-s-group",
-      "nome": "Segretario/a Amministrativo/a Junior — C.S.S. Group",
+      "id": "linkedin-lavoro-sicilia-contabile-esperto-a-157135-orienta-agenzia-per-il-lavoro",
+      "nome": "| CONTABILE ESPERTO/A | 157135 | — Orienta Agenzia per il Lavoro",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretario-a-amministrativo-a-junior-at-c-s-s-group-4437560023",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-esperto-a-157135-at-orienta-agenzia-per-il-lavoro-4435999027",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "853bc4160eb2b3568796d24ff89503b9777e7d0b",
+      "hash_contenuto": "81405affe2b20be2b16838e1d5e336c9346b1b64",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-studio-professionale-servizi-c-s-s-group",
+      "nome": "Impiegato/a Amministrativo – Studio Professionale Servizi — C.S.S. Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-%E2%80%93-studio-professionale-servizi-at-c-s-s-group-4438310271",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "f24860548b8d9a61d4fabf4c0002fcfa64962ac9",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-sicilia-operatore-data-entry-ssi-sicilia-servizi-informatici",
+      "nome": "Operatore Data Entry — SSI Sicilia Servizi Informatici",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-data-entry-at-ssi-sicilia-servizi-informatici-4428253854",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-sicilia",
+      "hash_contenuto": "f847085231da8a8ab1c900b3f643985e9c5b8aa8",
       "notifica_topics": [
         "offerte_lavoro"
       ]
