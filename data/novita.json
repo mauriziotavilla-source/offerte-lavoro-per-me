@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T02:52:18.536Z",
+  "generated_at": "2026-07-11T08:01:04.762Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "2d3541c9495c68e50ec7a89e59929e3971b46eda",
   "counts": {
@@ -351,10 +351,10 @@
       "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4438363553",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4436089092",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b50d8cdae4fc27089e32c1a9b59bacf1d5dd4576",
+      "hash_contenuto": "76bcd9166b02ab9494148f9c6aae8aa2e574741e",
       "notifica_topics": [
         "categorie_protette"
       ]
