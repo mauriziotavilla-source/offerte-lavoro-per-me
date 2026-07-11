@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:01:04.762Z",
+  "generated_at": "2026-07-11T13:26:00.379Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "2d3541c9495c68e50ec7a89e59929e3971b46eda",
   "counts": {
@@ -439,6 +439,14 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-sicilia",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
