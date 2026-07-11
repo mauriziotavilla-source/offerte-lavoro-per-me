@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-10T19:37:29.557Z",
+  "generated_at": "2026-07-11T02:52:18.536Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "99a28f7276a89742d347d5b581f216086e1a292c",
+  "catalog_hash": "2d3541c9495c68e50ec7a89e59929e3971b46eda",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 32
+    "nuovi": 0,
+    "aggiornati": 33
   },
-  "nuovi": [
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-esperto-a-157135-orienta-agenzia-per-il-lavoro",
-      "nome": "| CONTABILE ESPERTO/A | 157135 | — Orienta Agenzia per il Lavoro",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-esperto-a-157135-at-orienta-agenzia-per-il-lavoro-4435999027",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "81405affe2b20be2b16838e1d5e336c9346b1b64",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-studio-professionale-servizi-c-s-s-group",
-      "nome": "Impiegato/a Amministrativo – Studio Professionale Servizi — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-%E2%80%93-studio-professionale-servizi-at-c-s-s-group-4438310271",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "f24860548b8d9a61d4fabf4c0002fcfa64962ac9",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-operatore-data-entry-ssi-sicilia-servizi-informatici",
-      "nome": "Operatore Data Entry — SSI Sicilia Servizi Informatici",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-data-entry-at-ssi-sicilia-servizi-informatici-4428253854",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "f847085231da8a8ab1c900b3f643985e9c5b8aa8",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -387,6 +347,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
+      "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4438363553",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b50d8cdae4fc27089e32c1a9b59bacf1d5dd4576",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
       "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
       "tipo": "categoria_protetta",
@@ -465,5 +438,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
