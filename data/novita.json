@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-12T08:22:23.776Z",
+  "generated_at": "2026-07-12T13:26:58.586Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2d3541c9495c68e50ec7a89e59929e3971b46eda",
+  "catalog_hash": "90c9a8d803bc48ac49af7a133451428d6bf93d4c",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 33
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-call-per-artisti-e-collettivi-di-arte-pubblica-contemporanea-dipartimento-della-",
+      "nome": "CALL PER ARTISTI E COLLETTIVI DI ARTE PUBBLICA CONTEMPORANEA — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/call-per-artisti-e-collettivi-di-arte-pubblica-contemporanea-at-dipartimento-della-funzione-pubblica-4436600197",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d8bd21de702caaaaaa5ebde7750f01d2a41c45b6",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
