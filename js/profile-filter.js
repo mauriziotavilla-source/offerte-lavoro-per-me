@@ -4,6 +4,7 @@
  */
 
 import { isCategoriaProtettaScaduta } from './scadenze-categoria.js';
+import { isPerMessinaLavoro } from './localita-filter.js';
 
 const ESCLUDI_PROFESSIONI_CONCORSO = [
   'veterinar', 'medico', 'infermier', 'ostetric', 'ingegner', 'ingegneria', 'architet',
@@ -172,5 +173,8 @@ export function passaFiltroProfilo(offerta, profilo) {
     if (professioneNonCompatibile(text)) return false;
     if (richiedeLaurea(text, profilo)) return false;
   }
+
+  if (tipo === 'lavoro' && !isPerMessinaLavoro(offerta, profilo)) return false;
+
   return true;
 }

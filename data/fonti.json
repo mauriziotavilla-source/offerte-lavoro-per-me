@@ -7,7 +7,7 @@
       "portali": [
         { "nome": "LinkedIn Lavoro (Messina)", "url": "https://www.linkedin.com/jobs/search/?keywords=contabile&location=Messina%2C%20Sicilia", "nota": "Fonte usata anche dallo scraper automatico" },
         { "nome": "Indeed Italia", "url": "https://it.indeed.com/jobs?q=contabile&l=Messina", "nota": "Usa /jobs/ (non /lavoro/). Lo scraper non riesce ad aggiornarlo automaticamente (blocco 403)" },
-        { "nome": "Subito Lavoro", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/?q=contabile" },
+        { "nome": "Subito Lavoro (Messina)", "url": "https://www.subito.it/annunci-sicilia/messina/offerte-lavoro/?q=contabile" },
         { "nome": "Jooble (contabile Messina)", "url": "https://it.jooble.org/SearchResult?ukw=contabile&loc=Messina" },
         { "nome": "Cliclavoro (ANPAL)", "url": "https://www.cliclavoro.gov.it/" },
         { "nome": "InfoJobs (CHIUSO)", "url": "https://www.infojobs.it/", "nota": "Piattaforma chiusa in Italia dal 31/12/2025. Non usare." }
@@ -37,12 +37,12 @@
     }
   ],
   "sicilia": {
-    "nome": "Sicilia / Messina",
-    "descrizione": "Offerte di lavoro e concorsi con sede in Sicilia, in particolare nella zona di Messina, più le posizioni in smart working.",
+    "nome": "Messina e provincia",
+    "descrizione": "Offerte di lavoro concentrate su Messina e comuni limitrofi, più smart working. Concorsi e categorie protette restano su tutta la Sicilia dove previsto.",
     "portali": [
       { "nome": "Centro per l'Impiego Messina", "url": "https://www.cittametropolitana.me.it/" },
       { "nome": "Regione Siciliana - Bandi concorso", "url": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-autonomie-locali-funzione-pubblica/dipartimento-funzione-pubblica-personale/bandi-concorso" },
-      { "nome": "Subito Lavoro Sicilia", "url": "https://www.subito.it/annunci-sicilia/offerte-lavoro/" },
+      { "nome": "Subito Lavoro Messina", "url": "https://www.subito.it/annunci-sicilia/messina/offerte-lavoro/" },
       { "nome": "Indeed Messina", "url": "https://it.indeed.com/jobs?l=Messina" }
     ]
   },

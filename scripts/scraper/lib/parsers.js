@@ -14,6 +14,53 @@ function keywordExcluded(text, keywords = []) {
   return keywords.some((word) => hay.includes(String(word).toLowerCase()));
 }
 
+/** Titolo utile quando il link dice solo "Vai alla pagina dedicata" ecc. */
+function inferTitleFromLink($, el) {
+  const linkTitle = compactText($(el).text());
+  const href = String($(el).attr('href') || '');
+  const generic =
+    /^(vai alla pagina|vai al|vai alla|leggi tutto|scarica|pdf|decreto|delibera|modello|archivio|pubblicazioni)/i;
+  if (linkTitle.length > 22 && !generic.test(linkTitle)) return linkTitle;
+
+  const block = $(el).closest('[data-block-plugin-id]');
+  if (block.length) {
+    let prev = block.prev('[data-block-plugin-id]');
+    for (let i = 0; i < 4 && prev.length; i += 1) {
+      const t = compactText(prev.text());
+      if (
+        t.length >= 15 &&
+        !/^vai alla pagina/i.test(t) &&
+        !/^home\//i.test(t) &&
+        !/^dipartimento della funzione/i.test(t) &&
+        t.toLowerCase() !== 'bandi di concorso'
+      ) {
+        return t.slice(0, 220);
+      }
+      prev = prev.prev('[data-block-plugin-id]');
+    }
+  }
+
+  let node = $(el).parent();
+  for (let i = 0; i < 6 && node.length; i += 1) {
+    const blockText = compactText(node.text());
+    if (blockText.length >= 20 && blockText.length <= 420) {
+      const beforeLink = blockText.split(/vai alla pagina/i)[0];
+      const candidate = compactText(beforeLink || blockText);
+      if (candidate.length >= 15) return candidate.slice(0, 220);
+    }
+    node = node.parent();
+  }
+
+  const slug = href.split('/').filter(Boolean).pop() || '';
+  if (slug.length > 8 && !slug.endsWith('.pdf')) {
+    return compactText(slug.replace(/-/g, ' ')).slice(0, 220);
+  }
+
+  const fallback = compactText($(el).closest('article, li, .views-row, tr, section').text());
+  const candidate = compactText(fallback.split(/vai alla pagina/i)[0] || fallback);
+  return (candidate.length >= 15 ? candidate : linkTitle).slice(0, 220);
+}
+
 async function fetchText(url) {
   const res = await fetch(url, {
     headers: {
@@ -77,7 +124,7 @@ async function parseHtmlLinks(source) {
   const items = [];
   selectors.forEach((selector) => {
     $(selector).each((_, el) => {
-      const title = compactText($(el).text());
+      const title = inferTitleFromLink($, el);
       const href = makeAbsoluteUrl(source.url, $(el).attr('href'));
       const context = compactText($(el).closest('article, li, div, tr').text());
       const text = `${title} ${context}`;

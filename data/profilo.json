@@ -7,6 +7,8 @@
     "legge_elenco_cpi": "art. 8 L. 68/1999 (elenchi e graduatorie collocamento mirato)",
     "descrizione": "Orfani di guerra ed equiparati ai sensi dell'art. 18 L. 68/99 e dell'art. 7 L. 585/1971. Esclusi bandi riservati solo ad art. 1 (invalidità/disabilità)."
   },
+  "citta_focus": "Messina",
+  "regione_focus": "messina",
   "candidato": {
     "nome": "Serafino Maurizio Tavilla",
     "citta": "Messina",
@@ -130,5 +132,5 @@
     "paghe",
     "consulenza-informatica"
   ],
-  "sedi_preferite": ["Messina", "Sicilia", "Remoto", "Italia (smart working)"]
+  "sedi_preferite": ["Messina", "Provincia di Messina", "Remoto", "Smart working"]
 }

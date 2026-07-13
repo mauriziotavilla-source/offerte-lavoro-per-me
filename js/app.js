@@ -29,13 +29,20 @@ import {
   syncNewBadgeFromNovitaOnline,
 } from './push-notifications.js';
 import { passaFiltroProfilo } from './profile-filter.js';
+import { isPerMessinaLavoro } from './localita-filter.js';
 import {
   isNascostaPerScadenza,
   isScadutaPerData,
   statoEffettivo,
 } from './offerta-retention.js';
+import {
+  reconcilePreferitiConCatalogo,
+  isPreferitoSalvato,
+  togglePreferitoSalvato,
+  risolviPreferitiPerVista,
+  contaPreferiti,
+} from './preferiti-store.js';
 
-const STORAGE_PREFERITI = 'lavoro_preferiti';
 const STORAGE_CHECKLIST = 'lavoro_checklist';
 const STORAGE_ORDINAMENTO = 'lavoro_ordinamento';
 const STORAGE_FILTRO_SICILIA = 'lavoro_filtro_sicilia';
@@ -74,6 +81,7 @@ async function applicaDati(data, opts = {}) {
     else if (data.fonte === 'online') showToast('Elenco offerte aggiornato da internet.');
   }
   await syncNewBadgeOnline();
+  reconcilePreferitiConCatalogo(offerte);
   renderOfferte();
   aggiornaContatorePreferiti();
   flushPendingPushDeepLink();
@@ -358,7 +366,11 @@ function syncCategoriaDaFiltri() {
   else if (checked.length === 1) categoriaAttiva = checked[0];
   else categoriaAttiva = 'multi';
   nav.querySelectorAll('.tab-cat').forEach((b) => {
-    b.classList.toggle('active', b.dataset.cat === categoriaAttiva);
+    if (categoriaAttiva === 'multi') {
+      b.classList.toggle('active', b.dataset.cat !== 'tutti' && checked.includes(b.dataset.cat));
+    } else {
+      b.classList.toggle('active', b.dataset.cat === categoriaAttiva);
+    }
   });
 }
 
@@ -595,18 +607,33 @@ function isPerSicilia(o) {
   return false;
 }
 
+/** Filtro località: lavoro → Messina (+ remoto); categorie protette → Sicilia; concorsi → sempre visibili */
+function passaFiltroLocalita(o) {
+  const soloLocalita = $('#filtro-sicilia')?.checked;
+  if (!soloLocalita) return true;
+  if (o.tipo === 'concorso') return true;
+  if (o.tipo === 'lavoro') return isPerMessinaLavoro(o, profilo);
+  return isPerSicilia(o);
+}
+
+function badgeLocalita(o) {
+  if (o.tipo === 'lavoro') {
+    return isPerMessinaLavoro(o, profilo) ? '<span class="pill-sicilia">✓ Messina/Remoto</span>' : '';
+  }
+  return isPerSicilia(o) ? '<span class="pill-sicilia">✓ Sicilia/Remoto</span>' : '';
+}
+
 function getFiltrate(lista = offerte) {
   const testo = ($('#filtro-testo')?.value || '').toLowerCase().trim();
   const tipi = [...$$('#filtro-tipo input:checked')].map((i) => i.value);
   const aree = [...$$('#filtro-area input:checked')].map((i) => i.value);
   const stati = [...$$('#filtro-stato input:checked')].map((i) => i.value);
   const soloFuture = $('#filtro-solo-scadenze')?.checked;
-  const soloSicilia = $('#filtro-sicilia')?.checked;
 
   return lista.filter((o) => {
     if (!passaFiltroProfilo(o, profilo)) return false;
     if (isNascostaPerScadenza(o, isPreferito(o.id))) return false;
-    if (soloSicilia && !isPerSicilia(o)) return false;
+    if (!passaFiltroLocalita(o)) return false;
     if (!tipi.includes(o.tipo)) return false;
     if (!stati.includes(statoEffettivo(o))) return false;
     if (!(o.aree || []).some((a) => aree.includes(a))) return false;
@@ -836,8 +863,9 @@ function cardHTML(o, opts = {}) {
   const hasLink = link.startsWith('http');
   const newTitle = `Nuova offerta: visibile per ${GIORNI_BADGE_NEW} giorni`;
   const badgeNew = isNuova(o) ? `<span class="pill-new" title="${newTitle}">New</span>` : '';
-  const badgeSicilia = isPerSicilia(o) ? '<span class="pill-sicilia">✓ Sicilia/Remoto</span>' : '';
+  const badgeSicilia = badgeLocalita(o);
   const badgeCustom = o.fonte === 'utente' ? '<span class="pill-custom">Tua</span>' : '';
+  const badgeArchiviato = o.archiviato ? '<span class="pill-custom">Archiviata</span>' : '';
   const badgeScaduto =
     showPreferitiExpiredBadge && scaduto ? '<span class="pill pill-inline pill-scaduto">Scaduta</span>' : '';
 
@@ -846,7 +874,7 @@ function cardHTML(o, opts = {}) {
       <div class="bando-card-header">
         <div class="pills-row">
           <span class="pill pill-${o.tipo}">${escapeHtml(labelTipo(o.tipo))}</span>
-          ${badgeNew}${badgeSicilia}${badgeCustom}${badgeScaduto}
+          ${badgeNew}${badgeSicilia}${badgeCustom}${badgeArchiviato}${badgeScaduto}
           <span class="stato-badge stato-${o.stato}">${labelStato(o.stato)}</span>
         </div>
         <button type="button" class="btn-fav ${pref ? 'active' : ''}" aria-label="Preferito">${pref ? '★' : '☆'}</button>
@@ -1139,23 +1167,21 @@ function apriFormNuovaOfferta() {
 }
 
 /* ----------------------------- Preferiti ----------------------------- */
-function getPreferiti() {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_PREFERITI) || '[]');
-  } catch {
-    return [];
-  }
-}
 function isPreferito(id) {
-  return getPreferiti().includes(id);
+  const live = offerte.find((o) => o.id === id);
+  return isPreferitoSalvato(live || id, offerte);
 }
 function togglePreferito(id) {
-  let prefs = getPreferiti();
-  if (prefs.includes(id)) prefs = prefs.filter((x) => x !== id);
-  else prefs.push(id);
-  localStorage.setItem(STORAGE_PREFERITI, JSON.stringify(prefs));
+  const offerta = offerte.find((o) => o.id === id);
+  if (!offerta) {
+    showToast('Offerta non trovata nell\'elenco attuale.');
+    return;
+  }
+  const result = togglePreferitoSalvato(offerta, offerte);
+  if (result.message) showToast(result.message);
   aggiornaContatorePreferiti();
   renderOfferte();
+  if (!$('#vista-preferiti')?.hidden) renderPreferiti();
 }
 function togglePreferitoModal() {
   if (!offertaCorrente) return;
@@ -1164,11 +1190,10 @@ function togglePreferitoModal() {
 }
 function aggiornaContatorePreferiti() {
   const el = $('#count-preferiti');
-  if (el) el.textContent = String(getPreferiti().length);
+  if (el) el.textContent = String(contaPreferiti());
 }
 function renderPreferiti() {
-  const ids = getPreferiti();
-  const lista = ordina(offerte.filter((o) => ids.includes(o.id)), getOrdinamento());
+  const lista = ordina(risolviPreferitiPerVista(offerte), getOrdinamento());
   const grid = $('#lista-preferiti');
   const empty = $('#preferiti-vuoti');
   if (!lista.length) {

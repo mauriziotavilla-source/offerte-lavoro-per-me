@@ -123,6 +123,7 @@ const ESCLUDI_CAT_PROTETTA_NON_ORFANI = [
 const {
   isCategoriaProtettaScaduta,
 } = require('./scadenze-categoria');
+const { isPerMessinaLavoro } = require('./localita-filter');
 
 /** Richiedono laurea: da escludere se titolo_studio.livello = diploma */
 const ESCLUDI_SE_NON_LAUREATO = [
@@ -298,6 +299,10 @@ function valutaProfilo(offerta, profilo = null) {
     if (contestoNonCompatibile(text, tipo)) return { ok: false, motivo: 'contesto_non_compatibile' };
     if (professioneNonCompatibile(text)) return { ok: false, motivo: 'professione_non_compatibile' };
     if (richiedeLaurea(text, p)) return { ok: false, motivo: 'richiede_laurea' };
+  }
+
+  if (tipo === 'lavoro' && !isPerMessinaLavoro(offerta, p)) {
+    return { ok: false, motivo: 'fuori_messina' };
   }
 
   return { ok: true };

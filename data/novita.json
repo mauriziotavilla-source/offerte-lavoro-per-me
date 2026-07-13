@@ -1,21 +1,112 @@
 {
-  "generated_at": "2026-07-13T19:26:31.107Z",
+  "generated_at": "2026-07-13T20:45:56.430Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e994b2b1badd94140b6e5694fd7f8236bb561c4a",
+  "catalog_hash": "ca298058841d3a849e10c61a468d2816b00d2ef8",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 34
+    "nuovi": 8,
+    "aggiornati": 25
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-unione-comuni-pianura-reggiana-concorso-istruttore-amministrativo-contabile",
-      "nome": "Unione comuni pianura reggiana, concorso istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-amministrativo-istruttore-amministrativo",
+      "nome": "amministrativo istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-pianura-reggiana-concorso-istruttore-amministrativo-contabile-reggio-emilia-2026",
-      "data_pubblicazione": "2026-08-06",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/amministrativo-303",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b1493537d21ff12e42bc1878fd9490b24289afe0",
+      "hash_contenuto": "f482ddb9ec7ff11c94eb83136f28cb8c214ba414",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-enna-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Enna Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/enna",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "28ca48ab45d00b98f4e9e9c942951913344a03b4",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-ferrara-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Ferrara Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ferrara",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1fbb567649266aeb6b1919d1aaefcc30339bd792",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-messina-occupazione-assistente-amministrativo-posti-2",
+      "nome": "Località Messina Occupazione assistente amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/messina",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "7f9a5460c208696682e362be8a28a924e7749df4",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-assistente-amministrativo-posti-11",
+      "nome": "Località Palermo Occupazione assistente amministrativo Posti 11",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "3ee5881aa016bdf4d5af47758233d1b074834e25",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Toscana Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/toscana",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ed27c4e01fb64df3ad5d7289aafcafd1118ba228",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-udine-occupazione-collaboratore-amministrativo-professionale-assistente",
+      "nome": "Località Udine Occupazione collaboratore amministrativo professionale assistente amministrativo Posti 19",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/udine",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4f2ff74dd8d39c70b76d8847e2df06e04d76f8c3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-vicenza-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Vicenza Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vicenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9a850147637ca6208502a5cece5c751c915a2b77",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -192,19 +283,6 @@
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-comune-di-mazara-del-vallo-avviso-di-mobilita-esterna-per-3-postoia-tempo-pieno-",
-      "nome": "COMUNE DI MAZARA DEL VALLO - AVVISO DI MOBILITÀ ESTERNA PER 3 POSTOIA TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE – AREA DEI FUNZIONARI E DELL’E.Q.” — Dipartimento della Funzione Pubblica",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-mazara-del-vallo-avviso-di-mobilit%C3%A0-esterna-per-3-postoia-tempo-pieno-e-indeterminato-di-%E2%80%9Cistruttore-direttivo-amministrativo-contabile-%E2%80%93-area-dei-funzionari-e-dell%E2%80%99e-q-%E2%80%9D-at-dipartimento-della-funzione-pubblica-4433166325",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "04231c104182b4f387594db03fb8e4fbe21f04e1",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
       "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -244,45 +322,6 @@
       ]
     },
     {
-      "id": "linkedin-lavoro-sicilia-contabile-adecco",
-      "nome": "Contabile — Adecco",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-adecco-4420700336",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "708d9fc9badd1346df73d4a499fefea1ab9115f9",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-openjobmetis-spa",
-      "nome": "Contabile — Openjobmetis SpA",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4426945492",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "2a4465704985a4aa3f4785783b6711ac7eb71ba0",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-contabile-openjobmetis-spa",
-      "nome": "Contabile — Openjobmetis SpA",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-openjobmetis-spa-4431208794",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "4cdfd0d3fd3390a6f40157488381212ccac52c97",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-coordinatore-centro-territoriale-palermo-fondazione-sos-il-telefono-azzurro-ets",
       "nome": "Coordinatore Centro Territoriale - PALERMO — Fondazione SOS il Telefono Azzurro ETS",
       "tipo": "categoria_protetta",
@@ -306,71 +345,6 @@
       "hash_contenuto": "ea03e630ecc35c002be4cf654f28d7f2db8138a3",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-supporto-contabile-e-gestionale-c-s-s-group",
-      "nome": "Impiegato/a Amministrativo/a - Supporto Contabile e Gestionale — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-supporto-contabile-e-gestionale-at-c-s-s-group-4419049944",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "5760dc26c71ae899855e47b71364789cae1938e1",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-c-s-s-group",
-      "nome": "Impiegato/a amministrativo/a — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-at-c-s-s-group-4427703752",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "e29847c54536602ebf5f472f60552ae751dc8df9",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-c-s-s-group",
-      "nome": "Impiegato/a amministrativo/a — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-at-c-s-s-group-4429367447",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "8d5e653b510789d6e6bcb76c066eb2307ad07f30",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-amministrativo-a-c-s-s-group",
-      "nome": "Impiegato/a amministrativo/a — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-at-c-s-s-group-4431848226",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "42a8ed7288485ccab3a5bf05ad2a7416ad468357",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-sicilia-impiegato-a-ufficio-amministrativo-c-s-s-group",
-      "nome": "Impiegato/a ufficio amministrativo — C.S.S. Group",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-ufficio-amministrativo-at-c-s-s-group-4428030820",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-sicilia",
-      "hash_contenuto": "5fb8e9f201325512f0f9e88776dd053bebbe2bfa",
-      "notifica_topics": [
-        "offerte_lavoro"
       ]
     },
     {
