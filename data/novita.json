@@ -1,60 +1,21 @@
 {
-  "generated_at": "2026-07-13T14:41:13.286Z",
+  "generated_at": "2026-07-13T19:26:31.107Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "432c0e1609b161aff8a35eb859ffbd7068120f73",
+  "catalog_hash": "e994b2b1badd94140b6e5694fd7f8236bb561c4a",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 1,
     "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-3-posti-di-assiste",
-      "nome": "Azienda Ospedaliera Ospedale «San Gerardo dei Tintori» di Monza, 3 posti di assistente amministrativo",
+      "id": "gazzetta-via-concorsipubblici-unione-comuni-pianura-reggiana-concorso-istruttore-amministrativo-contabile",
+      "nome": "Unione comuni pianura reggiana, concorso istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-concorso-assistente-amministrativo-0",
-      "data_pubblicazione": "2026-08-09",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-pianura-reggiana-concorso-istruttore-amministrativo-contabile-reggio-emilia-2026",
+      "data_pubblicazione": "2026-08-06",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "916d35a3e4a1e8241be1617abeca2723399601b6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-regionale-di-coordinamento-per-la-salute-di-udine-19-posti-per-collabora",
-      "nome": "Azienda regionale di coordinamento per la salute di Udine, 19 posti per collaboratore amministrativo professionale e assistente amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-regionale-di-coordinamento-la-salute-di-udine-concorso-collaboratore-amministrativo-0",
-      "data_pubblicazione": "2026-08-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2303a5644c1ed1c688f0ee49b364c3692551b29c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-business-data-analyst-junior-irritec",
-      "nome": "Business & Data Analyst Junior — Irritec",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/business-data-analyst-junior-at-irritec-4439407666",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4e0637027667d04a3954cb45ab1e8f54bf169c79",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bondeno-concorso-istruttore-amministrativo-contabile-presso-comune-di-",
-      "nome": "Comune di Bondeno, concorso istruttore amministrativo contabile presso comune di Terre del Reno",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bondeno-concorso-riservato-istruttore-amministrativo-contabile-ferrara-2026",
-      "data_pubblicazione": "2026-08-08",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "baa08b2410f537e3efef1346116a9ab474d8946a",
+      "hash_contenuto": "b1493537d21ff12e42bc1878fd9490b24289afe0",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -504,10 +465,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
