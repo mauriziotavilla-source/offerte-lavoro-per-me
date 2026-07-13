@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-13T03:20:03.966Z",
+  "generated_at": "2026-07-13T09:33:30.472Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "39f3e190b1c78ed927193a9da2598159d78b8e97",
+  "catalog_hash": "f99686354f39077d7efdef979f9304465f7339fb",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 33
+    "nuovi": 0,
+    "aggiornati": 34
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-socio-sanitaria-territoriale-di-pavia-concorso-collaboratore-amministrat",
-      "nome": "Azienda Socio Sanitaria Territoriale di Pavia, concorso collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-di-pavia-concorso-collaboratore-amministrativo-professionale-0",
-      "data_pubblicazione": "2026-08-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cf3e2c6761ff21c73b9046d6764bd360b7b76194",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-professionale",
-      "nome": "collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-amministrativo-professionale-0-41154",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d00ac95a84e1923d44fff2e14fd9414cb8877c3b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -296,6 +269,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-coordinatore-centro-territoriale-palermo-fondazione-sos-il-telefono-azzurro-ets",
+      "nome": "Coordinatore Centro Territoriale - PALERMO — Fondazione SOS il Telefono Azzurro ETS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/coordinatore-centro-territoriale-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4439736727",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f3b34f9a8d25536bb7899aa38bf95c07434a5ada",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-lega-del-fi",
       "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
       "tipo": "categoria_protetta",
@@ -465,14 +451,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
