@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-07-12T19:09:42.727Z",
+  "generated_at": "2026-07-13T03:20:03.966Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "90c9a8d803bc48ac49af7a133451428d6bf93d4c",
+  "catalog_hash": "39f3e190b1c78ed927193a9da2598159d78b8e97",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 33
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-socio-sanitaria-territoriale-di-pavia-concorso-collaboratore-amministrat",
+      "nome": "Azienda Socio Sanitaria Territoriale di Pavia, concorso collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-di-pavia-concorso-collaboratore-amministrativo-professionale-0",
+      "data_pubblicazione": "2026-08-06",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "cf3e2c6761ff21c73b9046d6764bd360b7b76194",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-professionale",
+      "nome": "collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-amministrativo-professionale-0-41154",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d00ac95a84e1923d44fff2e14fd9414cb8877c3b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -439,6 +466,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
