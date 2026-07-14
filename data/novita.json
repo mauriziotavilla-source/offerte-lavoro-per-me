@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-07-14T08:11:51.208Z",
+  "generated_at": "2026-07-14T13:50:41.896Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c205aff747050bd1c304796eac6dde9b179c52d7",
+  "catalog_hash": "f4392f95368f6c96f4e610fccf995ec6c3582ac4",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 5,
     "aggiornati": 24
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-commis-de-rang-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-belmond",
+      "nome": "Commis de Rang | Sostituzione Malattia | Villa Sant'Andrea. a Belmond Hotel — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commis-de-rang-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-at-belmond-4440529263",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "251fb91456f7b19bdafe2b7ca8bc9bfb0982885c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-lanciano-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Lanciano, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-lanciano-concorso-riservato-istruttore-amministrativo-contabile-chieti-2026",
+      "data_pubblicazione": "2026-08-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6bc9888463c1805c15aae2caf1960746f449836f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-chieti-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Chieti Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/chieti",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ddb6060099c67a654f6dbfa85d6438ec18c9dd87",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-collaboratore-amministrativo-posti-3",
+      "nome": "Località Frosinone Occupazione collaboratore amministrativo Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "027399a95db65ca608fdce557f2962cc4e644f80",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-vicenza-occupazione-amministrativo-istruttore-amministrativo-posti-1",
+      "nome": "Località Vicenza Occupazione amministrativo istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vicenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "87da2d4dda8671199ac6bb8096c0d64d2cf4158c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -208,10 +274,10 @@
       "nome": "Department Manager — Decathlon",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/department-manager-at-decathlon-4440500929",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/department-manager-at-decathlon-4439045204",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "95f71c7ddc08c87da8f4cdae33e81565edde2e73",
+      "hash_contenuto": "fd5df4ad1cc5c0fd354d38a0dfea6391d30ec0c3",
       "notifica_topics": [
         "categorie_protette"
       ]
