@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-14T02:44:15.746Z",
+  "generated_at": "2026-07-14T08:11:51.208Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1347112a090a45098cde73a730a84423d1ad4ceb",
+  "catalog_hash": "c205aff747050bd1c304796eac6dde9b179c52d7",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 23
+    "nuovi": 0,
+    "aggiornati": 24
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-rieti-1-revisore-contabile",
-      "nome": "Comune di Rieti, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-rieti-concorso-revisore-contabile-rieti-2026",
-      "data_pubblicazione": "2026-07-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6452bf12d11d3e80124aa88386bfec02a602d0c0",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-rieti-occupazione-revisore-contabile-posti-1",
-      "nome": "Località Rieti Occupazione revisore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/rieti",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "65db98e80689bb3149c67f7e15bb9581792df222",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-occupazione-revisore-contabile",
-      "nome": "Occupazione revisore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/revisore-contabile-405",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b66cb59a5c3b111707c5d00b2ec1ac5881a2caa1",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -239,6 +199,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "56f59a45556a8688a40299c3224a6eb839cc3221",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-department-manager-decathlon",
+      "nome": "Department Manager — Decathlon",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/department-manager-at-decathlon-4440500929",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "95f71c7ddc08c87da8f4cdae33e81565edde2e73",
       "notifica_topics": [
         "categorie_protette"
       ]
