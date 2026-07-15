@@ -1,99 +1,73 @@
 {
-  "generated_at": "2026-07-15T13:49:14.834Z",
+  "generated_at": "2026-07-15T19:16:09.636Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b18f31b3b913a313bc366b6038c3d00b43d03e0c",
+  "catalog_hash": "5be8b965cabd720d6994cb1572ea930cb86a4054",
   "counts": {
-    "nuovi": 7,
+    "nuovi": 5,
     "aggiornati": 26
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-profilo-junior-full-time-lun-ven-c-m-s-r-l",
-      "nome": "Assistente alla Direzione Tecnica (profilo junior) | Full time (lun–ven) — C & M S.R.L.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-profilo-junior-full-time-lun%E2%80%93ven-at-c-m-s-r-l-4438018373",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5268212559deb5f9f45b3c4e6c9d44fdddd42219",
+      "id": "gazzetta-via-concorsipubblici-comune-di-casoria-concorso-per-5-istruttori-amministrativi-a-tempo-indeterminato",
+      "nome": "Comune di Casoria, concorso per 5 istruttori amministrativi a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casoria-concorso-istruttore-amministrativo-campania-2026",
+      "data_pubblicazione": "2026-08-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "db51b2863019cb4eb8e67c3e3253d3c3b74247be",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-domus-bet",
-      "nome": "Assistente amministrativo — Domus Bet",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-domus-bet-4438074172",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c264e88b4017ad962fcc757f8727e389e96087d7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-a-400-posti-nella-qualifica-di-vigile-del-",
-      "nome": "Concorso pubblico, per titoli ed esami, a 400 posti nella qualifica di vigile del fuoco del Corpo nazionale dei vigili del fuoco. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-a-400-posti-nella-qualifica-di-vigile-del-fuoco-del-corpo-nazionale-dei-vigili-del-fuoco-at-dipartimento-della-funzione-pubblica-4433103083",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d184a0c677c740ba91945b186319be551dca7679",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-contabile-mf-consulting-stp",
+      "id": "linkedin-orfani-guerra-messina-contabile-mf-consulting-stp",
       "nome": "Contabile — Mf Consulting stp",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4440847274",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "c6dac88235fa7769c08883d0396f07bc55edd4da",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "30b6bb422c31dce3b88d912587ebef4fba74d409",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-contabile-studio-maw",
-      "nome": "Contabile studio — MAW",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4438089394",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "640985dab8ce777ae520bc57598535f41b2ab032",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-licensing-manager-red-raion",
+      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
       "nome": "Licensing Manager — Red Raion",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-social-media-content-creator-di-martino-group",
-      "nome": "Social Media Content Creator — Di Martino Group",
+      "id": "gazzetta-via-concorsipubblici-localita-campania-occupazione-istruttore-amministrativo-posti-5",
+      "nome": "Località Campania Occupazione istruttore amministrativo Posti 5",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/campania",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "739598bd1e67758fa92fb8515c89c454e96309aa",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-store-manager-new-opening-kiko-milano",
+      "nome": "Store Manager - New opening — KIKO MILANO",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-content-creator-at-di-martino-group-4438088722",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-new-opening-at-kiko-milano-4438400609",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9e02308aa1b1bd88f4f79a4eb8752d531abfd539",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "067be86fcbbf3c98cc9deea8cbbe60969ad9e686",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -274,23 +248,23 @@
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
+      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
-      "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-messina-contabile-studio-maw",
+      "nome": "Contabile studio — MAW",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4438089394",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cef40f1ead295d590f23fb94d6d3b2c628c94731",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -339,10 +313,10 @@
       "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4438080185",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4432775206",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3f4625e22e5ed0adfca82b563e7c3ae2e2b42535",
+      "hash_contenuto": "d788f5417779cc767631bd91e6667fe74a74a4c4",
       "notifica_topics": [
         "categorie_protette"
       ]
