@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-14T19:23:51.904Z",
+  "generated_at": "2026-07-15T02:42:25.612Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "5283723268d6056378019561ab286eb885a9f70f",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 24
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sanluri-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Sanluri, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sanluri-concorso-istruttore-amministrativo-contabile-medio-campidano-2026",
-      "data_pubblicazione": "2026-08-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4e13efd76587728a9753ff1003fa62f7e5602c49",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sanluri-1-istruttore-contabile",
-      "nome": "Comune di Sanluri, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sanluri-concorso-istruttore-contabile-medio-campidano-2026",
-      "data_pubblicazione": "2026-08-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "eda4194114890b002d071b1813a3611b15203e98",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -348,5 +321,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
