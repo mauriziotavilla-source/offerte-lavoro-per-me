@@ -1,73 +1,60 @@
 {
-  "generated_at": "2026-07-15T19:16:09.636Z",
+  "generated_at": "2026-07-16T02:49:26.699Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5be8b965cabd720d6994cb1572ea930cb86a4054",
+  "catalog_hash": "34bafabbc44bad272288a110a919f9e50da78be9",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 26
+    "nuovi": 4,
+    "aggiornati": 27
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-casoria-concorso-per-5-istruttori-amministrativi-a-tempo-indeterminato",
-      "nome": "Comune di Casoria, concorso per 5 istruttori amministrativi a tempo indeterminato",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vidigulfo-concorso-istruttore-amministrativo",
+      "nome": "Comune di Vidigulfo, concorso istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casoria-concorso-istruttore-amministrativo-campania-2026",
-      "data_pubblicazione": "2026-08-13",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vidigulfo-concorso-istruttore-amministrativo-pavia-2026",
+      "data_pubblicazione": "2026-07-15",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "db51b2863019cb4eb8e67c3e3253d3c3b74247be",
+      "hash_contenuto": "9dfffbbe75de3f6addedd75c153bc88ba7f9aa9f",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-contabile-mf-consulting-stp",
-      "nome": "Contabile — Mf Consulting stp",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4440847274",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "30b6bb422c31dce3b88d912587ebef4fba74d409",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-licensing-manager-red-raion",
-      "nome": "Licensing Manager — Red Raion",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/licensing-manager-at-red-raion-4402449301",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "844f2787257ccb43dae147deb1803570d29240cd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-campania-occupazione-istruttore-amministrativo-posti-5",
-      "nome": "Località Campania Occupazione istruttore amministrativo Posti 5",
+      "id": "gazzetta-via-concorsipubblici-localita-campania-occupazione-assistente-amministrativo-posti-2",
+      "nome": "Località Campania Occupazione assistente amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/campania",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "739598bd1e67758fa92fb8515c89c454e96309aa",
+      "hash_contenuto": "31a35f8aa20dae3c42e7417734bd66bff1dba7dd",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-store-manager-new-opening-kiko-milano",
-      "nome": "Store Manager - New opening — KIKO MILANO",
+      "id": "gazzetta-via-concorsipubblici-localita-pavia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Pavia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pavia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b7ca30a4d59bf9dee03751c6ddf84b3a61d0e6e7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-programma-p-talent-pitagora-spa",
+      "nome": "Programma P-TALENT — Pitagora Spa",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-new-opening-at-kiko-milano-4438400609",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/programma-p-talent-at-pitagora-spa-4440212963",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "067be86fcbbf3c98cc9deea8cbbe60969ad9e686",
+      "hash_contenuto": "952220c1af02ed6461de41369f98c4900bf94ef5",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -218,6 +205,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-commerciale-reggio-calabria-m-f-vitalaire",
+      "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4441225804",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "17763ad1ced9b62ebb9b9c9e3e0f7728e052b3db",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
       "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -248,10 +248,10 @@
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179760",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-37-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-11-giugno-2026-e-successive-modifiche-at-dipartimento-della-funzione-pubblica-4436179770",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a3ef9104e53989f1d1cb51a90aec07d250c59d5",
+      "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
       "notifica_topics": [
         "categorie_protette"
       ]
