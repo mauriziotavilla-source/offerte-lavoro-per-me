@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-07-16T14:00:10.193Z",
+  "generated_at": "2026-07-16T19:16:38.163Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "34bafabbc44bad272288a110a919f9e50da78be9",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 27
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vidigulfo-concorso-istruttore-amministrativo",
-      "nome": "Comune di Vidigulfo, concorso istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vidigulfo-concorso-istruttore-amministrativo-pavia-2026",
-      "data_pubblicazione": "2026-07-15",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9dfffbbe75de3f6addedd75c153bc88ba7f9aa9f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -374,5 +360,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
