@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-16T19:16:38.163Z",
+  "generated_at": "2026-07-17T02:51:46.615Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "34bafabbc44bad272288a110a919f9e50da78be9",
+  "catalog_hash": "15dd721884b26a335cfa721d219760140992e879",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 27
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-all-imballaggio-fip-porte",
+      "nome": "Addetto all'Imballaggio — FIP Porte",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-all-imballaggio-at-fip-porte-4441491423",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "41304ed2ced30ef93128a827517b249bca7bf303",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -360,14 +374,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
