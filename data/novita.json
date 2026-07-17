@@ -1,21 +1,86 @@
 {
-  "generated_at": "2026-07-17T08:14:40.773Z",
+  "generated_at": "2026-07-17T13:44:53.800Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ac2d64519e90d994e173949b3617ebd3be6de1fd",
+  "catalog_hash": "cedc4ea6166a7db66df71897b7a787bc8a865520",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 6,
     "aggiornati": 27
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-campania-occupazione-istruttore-amministrativo-posti-5",
-      "nome": "Località Campania Occupazione istruttore amministrativo Posti 5",
+      "id": "gazzetta-via-concorsipubblici-comune-di-la-spezia-concorso-per-4-assistenti-amministrativi",
+      "nome": "Comune di la Spezia, concorso per 4 assistenti amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/campania",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-la-spezia-concorso-assistente-amministrativo-la-spezia-2026",
+      "data_pubblicazione": "2026-08-14",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "37b91b74b339b44b8a89202420669441a5b1fc30",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sant-onofrio-1-istruttore-amministrativo",
+      "nome": "Comune di Sant’Onofrio, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santonofrio-concorso-istruttore-amministrativo-vibo-valentia-2026",
+      "data_pubblicazione": "2026-08-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8ac5f9be6713572f872c5e4b9fa38d16a1723c4d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-scafa-1-istruttore-amministrativo",
+      "nome": "Comune di Scafa, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-scafa-concorso-istruttore-amministrativo-pescara-2026",
+      "data_pubblicazione": "2026-08-16",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b6b053bf06abb89d0ed19e702cd880bf651ea5c4",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatorie-provvisorie-enti-pubblici-mese-maggio-pdf-cpi-messina",
+      "nome": "graduatorie_provvisorie_enti_pubblici_mese_maggio.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/sites/default/files/2026-07/graduatorie_provvisorie_enti_pubblici_mese_maggio.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "2c305a7016b11a0e277f9947a4d65b60fee59e41",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-la-spezia-occupazione-assistente-amministrativo-posti-4",
+      "nome": "Località La Spezia Occupazione assistente amministrativo Posti 4",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/la_spezia",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "739598bd1e67758fa92fb8515c89c454e96309aa",
+      "hash_contenuto": "a5a27ef39d5a81a333af06f07981f2cd4a9af21f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pescara-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Pescara Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pescara",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "15ea7444be1f50323bb40f07f62130d7370a2502",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -374,5 +439,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
