@@ -1,62 +1,36 @@
 {
-  "generated_at": "2026-07-17T19:15:16.085Z",
+  "generated_at": "2026-07-18T02:44:11.901Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "03e8ff3a9605a46b02b14681cc48e065c0bc667f",
+  "catalog_hash": "05cd1d0178b98bbd0f5fb16128a012aa42025a32",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 27
+    "nuovi": 2,
+    "aggiornati": 28
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-la-protezione-dell-ambiente-del-piemonte-concorso-riservat",
-      "nome": "Agenzia Regionale per la Protezione dell’Ambiente del Piemonte, concorso riservato coadiutore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/arpa-piemonte-concorso-riservato-coadiutore-amministrativo-torino-2026",
-      "data_pubblicazione": "2026-08-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f3b26a5957c57130b422274560baad3ee4060214",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-chivasso-concorso-4-posti-istruttore-amministrativo-contabile",
-      "nome": "Comune di Chivasso, concorso 4 posti istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-chivasso-concorso-istruttore-amministrativo-contabile-torino-2026",
-      "data_pubblicazione": "2026-08-15",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9bf86a68a133591ede1f5617d88020f576606ee2",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-giusto-canavese-concorso-istruttore-amministrativo",
-      "nome": "Comune di San Giusto Canavese, concorso istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-giusto-canavese-concorso-istruttore-amministrativo-torino-2026",
-      "data_pubblicazione": "2026-08-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "072b4de6f1974c5d57083a15a9ae43194d8163d2",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-contabile-posti-4",
-      "nome": "Località Torino Occupazione istruttore amministrativo contabile Posti 4",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
+      "id": "linkedin-orfani-guerra-messina-hr-generalist-whitelab",
+      "nome": "HR Generalist — Whitelab",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/hr-generalist-at-whitelab-4442161022",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b11bd08248dab93ff6589482722a2003b38d04fa",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "41e438b699e0654acb62c656475e40b52f0dc636",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-manifestazione-di-interesse-per-il-reclutamento-a-tempo-pieno-e-determinato-mesi",
+      "nome": "Manifestazione di interesse per il reclutamento a tempo pieno e determinato ( Mesi tre) di nr. 2 Istruttori di Polizia Locale - CCNL - Comparto Funzioni — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/manifestazione-di-interesse-per-il-reclutamento-a-tempo-pieno-e-determinato-mesi-tre-di-nr-2-istruttori-di-polizia-locale-ccnl-comparto-funzioni-at-dipartimento-della-funzione-pubblica-4438423515",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7bd37d48f8b99042707a377d4002685365573fa6",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -387,6 +361,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
+      "nome": "Payroll Specialist — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4441984328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "bd63b156a98cc3570758082a53695d4e51a66fa5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
       "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
       "tipo": "categoria_protetta",
@@ -414,10 +401,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
