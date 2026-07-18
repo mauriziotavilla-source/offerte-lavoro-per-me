@@ -1,36 +1,49 @@
 {
-  "generated_at": "2026-07-18T02:44:11.901Z",
+  "generated_at": "2026-07-18T07:56:47.906Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "05cd1d0178b98bbd0f5fb16128a012aa42025a32",
+  "catalog_hash": "9df76c29e8c0ea31ba509d6248ab6bcc9796a92e",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 3,
     "aggiornati": 28
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-hr-generalist-whitelab",
-      "nome": "HR Generalist — Whitelab",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/hr-generalist-at-whitelab-4442161022",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "41e438b699e0654acb62c656475e40b52f0dc636",
+      "id": "gazzetta-via-concorsipubblici-comune-di-viadana-concorso-responsabile-servizio-settore-contabilita-e-bilancio",
+      "nome": "Comune di Viadana, concorso responsabile servizio settore contabilità e bilancio",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-viadana-concorso-responsabile-mantova-2026",
+      "data_pubblicazione": "2026-07-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "363fe4854c6ec0f8e15e1a8c9824754a20e570ec",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-manifestazione-di-interesse-per-il-reclutamento-a-tempo-pieno-e-determinato-mesi",
-      "nome": "Manifestazione di interesse per il reclutamento a tempo pieno e determinato ( Mesi tre) di nr. 2 Istruttori di Polizia Locale - CCNL - Comparto Funzioni — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/manifestazione-di-interesse-per-il-reclutamento-a-tempo-pieno-e-determinato-mesi-tre-di-nr-2-istruttori-di-polizia-locale-ccnl-comparto-funzioni-at-dipartimento-della-funzione-pubblica-4438423515",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7bd37d48f8b99042707a377d4002685365573fa6",
+      "id": "gazzetta-via-concorsipubblici-comunita-montana-gennargentu-mandrolisai-1-istruttore-amministrativo",
+      "nome": "Comunità Montana Gennargentu Mandrolisai, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comunita-montana-gennargentu-mandrolisai-di-sorgono-concorso-istruttore-amministrativo-nuoro-2026",
+      "data_pubblicazione": "2026-07-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b7a78afb6d948612d7e221d739ee797081e56fdd",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-nuoro-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Nuoro Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/nuoro",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d2a50e3cb0fada778f7ddd6856e9c8671dd8f4ff",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -365,10 +378,10 @@
       "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4441984328",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4436339228",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "bd63b156a98cc3570758082a53695d4e51a66fa5",
+      "hash_contenuto": "b9b68a3a4ca8c531983bc8015e99b3197e50e633",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -401,6 +414,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
