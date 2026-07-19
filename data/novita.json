@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-19T13:23:24.374Z",
+  "generated_at": "2026-07-19T19:10:45.747Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "77f789dfdf18ffe36e6feb854f9ebd46c51d3bf2",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 29
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-avviso-esplorativo-per-il-conferimento-dell-incarico-di-direttore-generale-del-c",
-      "nome": "avviso esplorativo per il conferimento dell'incarico di Direttore Generale del Comune di Reggio Calabria ex art 108 TUEL — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-esplorativo-per-il-conferimento-dell-incarico-di-direttore-generale-del-comune-di-reggio-calabria-ex-art-108-tuel-at-dipartimento-della-funzione-pubblica-4434861345",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5f8df367d1f04261a474191cdf21710af0654e22",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-incarico",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA - AZIENDA ZERO - INCARICO QUINQUENNALE DI DIREZIONE DEL DISTRETTO JONICO DELL’AZIENDA SANITARIA PROVINCIALE DI REGGIO CALABRIA — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-incarico-quinquennale-di-direzione-del-distretto-jonico-dell%E2%80%99azienda-sanitaria-provinciale-di-reggio-calabria-at-dipartimento-della-funzione-pubblica-4434511096",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4bf616cf6b60c176269d1caa88c57e48be82e145",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-procedura-di-stabilizzazione-per-la-copertura-di-n-2-unita-di-personale-a-tempo-",
-      "nome": "PROCEDURA DI STABILIZZAZIONE PER LA COPERTURA DI N. 2 UNITÀ DI PERSONALE A TEMPO PIENO E INDETERMINATO CON PROFILO PROFESSIONALE DI OPERATORE– AREA OPERATORI (CCNL FUNZIONI LOCALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-stabilizzazione-per-la-copertura-di-n-2-unit%C3%A0-di-personale-a-tempo-pieno-e-indeterminato-con-profilo-professionale-di-operatore%E2%80%93-area-operatori-ccnl-funzioni-locali-at-dipartimento-della-funzione-pubblica-4438710990",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "6420d7be4f5e2dbf8277ff089578e72f1c63afd4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
