@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-07-18T19:09:27.946Z",
+  "generated_at": "2026-07-19T03:13:48.260Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9df76c29e8c0ea31ba509d6248ab6bcc9796a92e",
+  "catalog_hash": "74e96888e9833a0615756561aca161490731fa46",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 28
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-proprietario-bonta-di-carne",
+      "nome": "Proprietario — Bontà di Carne",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/proprietario-4439615924",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b1b1d163debec3570f5e3f34b99e33ee2d5e1482",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-secondo-sommelier-la-capinera",
+      "nome": "secondo sommelier — La Capinera",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/secondo-sommelier-4439612845",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "6d4df640bcd4a192d1ffe6128c1e0f9cedf63e1e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -374,14 +401,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
