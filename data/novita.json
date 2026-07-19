@@ -1,34 +1,47 @@
 {
-  "generated_at": "2026-07-19T03:13:48.260Z",
+  "generated_at": "2026-07-19T08:23:45.557Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "74e96888e9833a0615756561aca161490731fa46",
+  "catalog_hash": "81b1492bcdc1552015d0972a61ba062214f015e2",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 28
+    "nuovi": 3,
+    "aggiornati": 29
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-proprietario-bonta-di-carne",
-      "nome": "Proprietario — Bontà di Carne",
+      "id": "linkedin-orfani-guerra-sicilia-estate-2026-nuove-risorse-per-eventi-part-full-time-jteam-srls",
+      "nome": "Estate 2026 - Nuove risorse per eventi Part/Full time — Jteam SRLS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/proprietario-4439615924",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/estate-2026-nuove-risorse-per-eventi-part-full-time-at-jteam-srls-4440535655",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b1b1d163debec3570f5e3f34b99e33ee2d5e1482",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "aea8539ad4f4e9295dc6da2650f2d055136adc7a",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-secondo-sommelier-la-capinera",
-      "nome": "secondo sommelier — La Capinera",
+      "id": "linkedin-orfani-guerra-sicilia-guardia-di-finanza-concorso-pubblico-per-titoli-ed-esami-per-il-reclutamento-di-",
+      "nome": "Guardia di finanza. Concorso pubblico, per titoli ed esami, per il reclutamento di un maestro direttore della Banda musicale della Guardia di finanza — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/secondo-sommelier-4439612845",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/guardia-di-finanza-concorso-pubblico-per-titoli-ed-esami-per-il-reclutamento-di-un-maestro-direttore-della-banda-musicale-della-guardia-di-finanza-at-dipartimento-della-funzione-pubblica-4436197026",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "6d4df640bcd4a192d1ffe6128c1e0f9cedf63e1e",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d415f4e27325daca228b08cabd480cf92b834397",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-progressioni-tra-le-aree-art-18-ccnl-2019-2021-e-art-19-ccnl-2022-2024-comparto-",
+      "nome": "PROGRESSIONI TRA LE AREE - ART. 18 CCNL 2019-2021 E ART. 19 CCNL 2022-2024 COMPARTO FUNZIONI CENTRALI - DIPARTIMENTO PER LA GIUSTIZIA MINORILE E DI COMUNITA' — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/progressioni-tra-le-aree-art-18-ccnl-2019-2021-e-art-19-ccnl-2022-2024-comparto-funzioni-centrali-dipartimento-per-la-giustizia-minorile-e-di-comunita-at-dipartimento-della-funzione-pubblica-4436182640",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "583d92d9d383b993dadcdbae3f5add96f85c7940",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -335,6 +348,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-lavora-negli-eventi-e-nel-marketing-part-time-full-time-jteam-srls",
+      "nome": "Lavora negli Eventi e nel Marketing – Part Time / Full Time — Jteam SRLS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-negli-eventi-e-nel-marketing-%E2%80%93-part-time-full-time-at-jteam-srls-4440967414",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "03d41b012b1bbe1c0d1bb4367ad3159db7deb372",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
@@ -400,10 +426,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
