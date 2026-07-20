@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-07-20T03:28:01.494Z",
+  "generated_at": "2026-07-20T09:20:02.641Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "ee2c690fc708fbcd148ae03ecd87672e37b0a750",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 29
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-leasing-associate-elephant-central-management-limited",
-      "nome": "Leasing Associate — ELEPHANT CENTRAL MANAGEMENT LIMITED",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/leasing-associate-at-elephant-central-management-limited-4441768359",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7363a5073912a238f71f6a99f09fba5727f3a913",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -402,12 +388,16 @@
   ],
   "errori_fonti": [
     {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
     },
     {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
