@@ -1,12 +1,130 @@
 {
-  "generated_at": "2026-07-20T09:20:02.641Z",
+  "generated_at": "2026-07-20T14:12:16.756Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ee2c690fc708fbcd148ae03ecd87672e37b0a750",
+  "catalog_hash": "36e371916fb0477a87e9d590bf96c45f3d15a99d",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 9,
     "aggiornati": 29
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-messina-amministrativo-contabile-senior-bella-repertoire",
+      "nome": "Amministrativo Contabile Senior — Bella Repertoire",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-senior-at-bella-repertoire-4440128453",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "09bf3d80d56f7873204ef47b0070e4277aaa08ba",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-porto-valtravaglia-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Porto Valtravaglia, 1 Istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-porto-valtravaglia-concorso-istruttore-amministrativo-contabile-varese-2026-0",
+      "data_pubblicazione": "2026-08-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2ab2c597693a44a46e89281c6c846b29d60fcc14",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-conservatorio-di-musica-f-cilea-reggio-calabria-concorso-pubblico-titoli-ed-esam",
+      "nome": "Conservatorio di Musica F. Cilea Reggio Calabria - concorso pubblico titoli ed esami per un \"Operatore\" a tempo pieno e indeterminato area I - CCNL Istruzione e Ricerca 2019-2021 del 18.01.2024 — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/conservatorio-di-musica-f-cilea-reggio-calabria-concorso-pubblico-titoli-ed-esami-per-un-operatore-a-tempo-pieno-e-indeterminato-area-i-ccnl-istruzione-e-ricerca-2019-2021-del-18-01-2024-at-dipartimento-della-funzione-pubblica-4440162022",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "835afceeb201ed97c8345f81168349a818c452be",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-ancona-occupazione-assistente-amministrativo-contabile-assistente-ammin",
+      "nome": "Località Ancona Occupazione assistente amministrativo contabile assistente amministrativo assistente contabile Posti 16",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ancona",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "caff313639b9328d926f454eed127b0579172bae",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Varese Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c8628866188daceec1c7574c99fee5bc0272f70a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-parco-delle-groane-1-istruttore-amministrativo-contabile",
+      "nome": "Parco Delle Groane, 1 Istruttore Amministrativo-Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/parco-delle-groane-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "data_pubblicazione": "2026-08-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0792da5dc511c436a2f926783041da2390ab1dbf",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-regione-marche-16-assistente-amministrativo-e-contabile",
+      "nome": "Regione Marche, 16 Assistente amministrativo e contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-marche-concorso-riservato-assistente-amministrativo-contabile-assistente-amministrativo",
+      "data_pubblicazione": "2026-08-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c37d2b0b00e6614982903cb3f724d8d370fd5bef",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -386,18 +504,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
