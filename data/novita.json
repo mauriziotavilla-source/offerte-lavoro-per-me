@@ -1,72 +1,20 @@
 {
-  "generated_at": "2026-07-20T19:46:50.863Z",
+  "generated_at": "2026-07-21T02:54:37.144Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f3b82cd3dab4f7b2dfed46ac5f978884cf9107f1",
+  "catalog_hash": "259fbf07a578e9147a97f0041b79aad363c4c252",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 1,
     "aggiornati": 29
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-amministrativo-contabile-senior-bella-repertoire",
-      "nome": "Amministrativo Contabile Senior — Bella Repertoire",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-contabile-senior-at-bella-repertoire-4440128453",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "adf104f3a11494dd3c55aad9b0591dd17d9e7f24",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-global-product-manager-for-augmented-operator-abb",
-      "nome": "Global Product Manager for Augmented Operator — ABB",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/global-product-manager-for-augmented-operator-at-abb-4442087812",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8c1cfcc6866e62afe4f85d29091d76d10508f2a3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-global-product-manager-for-rto-abb",
-      "nome": "Global Product Manager for RTO — ABB",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/global-product-manager-for-rto-at-abb-4442090669",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4ff0422da07d32f667095ca87217ea7e54922073",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-graphic-designer-marketing-veressenze-milano",
-      "nome": "Graphic designer marketing — Veressenze Milano",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/graphic-designer-marketing-at-veressenze-milano-4440122972",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "cec0c59b3292fdaf48687fc693e6359352f23115",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
