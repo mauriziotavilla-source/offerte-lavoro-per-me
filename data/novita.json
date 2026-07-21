@@ -1,88 +1,127 @@
 {
-  "generated_at": "2026-07-21T08:33:38.738Z",
+  "generated_at": "2026-07-21T13:59:04.540Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d7431cae254290f6de686743aef75e77ec60c0e7",
+  "catalog_hash": "036463b106543f5eb9c0d2585846ce64a2107b11",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 9,
     "aggiornati": 29
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-2-c",
-      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 2 Collaboratore Amministrativo Professionale",
+      "id": "gazzetta-via-concorsipubblici-comune-di-cernusco-sul-naviglio-1-istruttore-amministrativo-finanziario",
+      "nome": "Comune di Cernusco sul Naviglio, 1 Istruttore Amministrativo Finanziario",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-18",
-      "data_pubblicazione": "2026-08-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c0f9c60578ce2c24d659661e0b54f0d543103336",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bergamo-1-istruttore-amministrativo",
-      "nome": "Comune di Bergamo, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bergamo-concorso-istruttore-amministrativo-bergamo-2026",
-      "data_pubblicazione": "2026-08-14",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9b2c4bcb75290ce0491f0d8e55fd345efd19c036",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-redondesco-1-istruttore-amministrativo",
-      "nome": "Comune di Redondesco, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-redondesco-concorso-istruttore-amministrativo-mantova-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cernusco-sul-naviglio-concorso-istruttore-amministrativo-contabile-milano-2026",
       "data_pubblicazione": "2026-08-15",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4d7e35aea13a9dbd121c905feca06b48c51476de",
+      "hash_contenuto": "7aa5b0ac75157cc86e54f25cb0d44070b6d3fc90",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-villamassargia-1-istruttore-contabile",
-      "nome": "Comune di Villamassargia, 1 istruttore contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-donato-milanese-1-esperto-amministrativo-contabile",
+      "nome": "Comune di San Donato Milanese, 1 esperto amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-villamassargia-concorso-istruttore-contabile-sulcis-iglesiente-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-donato-milanese-concorso-esperto-amministrativo-contabile-milano-2026",
+      "data_pubblicazione": "2026-09-02",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e2097b7335a2800794e6480461f5646cac08b4c0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sutri-1-istruttore-amministrativo",
+      "nome": "Comune di Sutri, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sutri-concorso-istruttore-amministrativo-viterbo-2026",
+      "data_pubblicazione": "2026-08-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "11097470d5eeac458941b4e4b6161fde1ced1faf",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-veglie-2-posti-di-istruttore-amministrativo",
+      "nome": "Comune di Veglie, 2 posti di istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-veglie-concorso-riservato-istruttore-amministrativo-lecce-2026",
       "data_pubblicazione": "2026-08-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fb356244e6ae07dbe364962ff6df7934b10aa07b",
+      "hash_contenuto": "d1c66c64fa5d874fdd49e8ed743a8046f8cdba97",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-3",
-      "nome": "Località Bergamo Occupazione istruttore amministrativo Posti 3",
+      "id": "linkedin-lavoro-messina-contabile-diamantour-s-r-l",
+      "nome": "Contabile — DIAMANTOUR S.R.L.",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4443332867",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "d6e63fe244022591e1212efafd6a7901e1c9c614",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Lecce Occupazione istruttore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "99e18adaf467000d3ccd506579f541e52a5f3725",
+      "hash_contenuto": "55e3c5fbcc5b50aa9b78e6fd9c2a806fac774f28",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-mantova-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Mantova Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-viterbo-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Viterbo Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/mantova",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/viterbo",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c29b6a74a382cd7259d4fe8a322818dbc7066a2",
+      "hash_contenuto": "30786ad5dc67c835a8b4a4651418ef06c1d973e2",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-saldi-il-calendario-regione-per-regione-con-le-date-ufficiali-e-le-sanzioni-per-",
+      "nome": "Saldi: il calendario Regione per Regione con le date ufficiali e le sanzioni per violazioni regole — Zerouno TV",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/saldi-il-calendario-regione-per-regione-con-le-date-ufficiali-e-le-sanzioni-per-violazioni-regole-at-zerouno-tv-4443343513",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ab0861cfec9f04ebb558a9c4b7ab24fd7d5a6b03",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -465,14 +504,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
