@@ -1,23 +1,88 @@
 {
-  "generated_at": "2026-07-21T02:54:37.144Z",
+  "generated_at": "2026-07-21T08:33:38.738Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "259fbf07a578e9147a97f0041b79aad363c4c252",
+  "catalog_hash": "d7431cae254290f6de686743aef75e77ec60c0e7",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 6,
     "aggiornati": 29
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-2-c",
+      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 2 Collaboratore Amministrativo Professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-18",
+      "data_pubblicazione": "2026-08-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c0f9c60578ce2c24d659661e0b54f0d543103336",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-bergamo-1-istruttore-amministrativo",
+      "nome": "Comune di Bergamo, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bergamo-concorso-istruttore-amministrativo-bergamo-2026",
+      "data_pubblicazione": "2026-08-14",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9b2c4bcb75290ce0491f0d8e55fd345efd19c036",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-redondesco-1-istruttore-amministrativo",
+      "nome": "Comune di Redondesco, 1 Istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-redondesco-concorso-istruttore-amministrativo-mantova-2026",
+      "data_pubblicazione": "2026-08-15",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4d7e35aea13a9dbd121c905feca06b48c51476de",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-villamassargia-1-istruttore-contabile",
+      "nome": "Comune di Villamassargia, 1 istruttore contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-villamassargia-concorso-istruttore-contabile-sulcis-iglesiente-2026",
+      "data_pubblicazione": "2026-08-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fb356244e6ae07dbe364962ff6df7934b10aa07b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-3",
+      "nome": "Località Bergamo Occupazione istruttore amministrativo Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "99e18adaf467000d3ccd506579f541e52a5f3725",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-mantova-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Mantova Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/mantova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6c29b6a74a382cd7259d4fe8a322818dbc7066a2",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -400,5 +465,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
