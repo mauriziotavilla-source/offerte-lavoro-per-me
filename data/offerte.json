@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-07-22",
-  "versione": 143,
+  "versione": 144,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "50990792629f45761c29d191720711ed5e08d52e",
-  "generated_at": "2026-07-22T08:33:24.189Z",
+  "catalog_hash": "7adec1f65e933e6f3aacf70177cd6b8d229e4ff2",
+  "generated_at": "2026-07-22T14:02:23.354Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -12619,8 +12619,8 @@
       "hash_contenuto": "65db98e80689bb3149c67f7e15bb9581792df222"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-contabile-posti-4",
-      "nome": "Località Torino Occupazione istruttore amministrativo contabile Posti 4",
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -12661,7 +12661,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "b11bd08248dab93ff6589482722a2003b38d04fa"
+      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-istruttore-amministrativo-posti-1",

@@ -1,73 +1,21 @@
 {
-  "generated_at": "2026-07-22T08:33:24.189Z",
+  "generated_at": "2026-07-22T14:02:23.355Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "50990792629f45761c29d191720711ed5e08d52e",
+  "catalog_hash": "7adec1f65e933e6f3aacf70177cd6b8d229e4ff2",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 1,
     "aggiornati": 29
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-borno-concorso-istruttore-amministrativo",
-      "nome": "Comune di Borno, concorso istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-borno-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8fc219b5a7e486a70a16d45e19c1f57bec6e21d6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-selva-di-progno-concorso-istruttore-amministrativo-tributi",
-      "nome": "Comune di Selva di Progno, concorso istruttore amministrativo tributi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-selva-di-progno-concorso-istruttore-amministrativo-verona-2026",
-      "data_pubblicazione": "2026-07-21",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "23de1f26023ae6138d645ff4220e2bada87dc14d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-pavia-occupazione-amministrativo-contabile-posti-2",
-      "nome": "Località Pavia Occupazione amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pavia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9fc2ce7917bab3e20a8096714e5c6fbeb575f24d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Verona Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "63b46bb935bcafe70bafd72f45d1a25d68a25b1d",
+      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
