@@ -1,23 +1,101 @@
 {
-  "generated_at": "2026-07-22T14:02:23.355Z",
+  "generated_at": "2026-07-22T19:25:21.626Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7adec1f65e933e6f3aacf70177cd6b8d229e4ff2",
+  "catalog_hash": "b504e48ea10f1a0cf4d13488dc81dc7f05e3beda",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 29
+    "nuovi": 7,
+    "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
+      "id": "linkedin-orfani-guerra-sicilia-admissions-associate-leaders-of-tomorrow-digital-exchange-program",
+      "nome": "📝 Admissions Associate — Leaders Of Tomorrow Digital Exchange Program",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/%F0%9F%93%9D-admissions-associate-at-leaders-of-tomorrow-digital-exchange-program-4443180454",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "720fec0ec580db1d5b1406c7e534f2533e6f0692",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-inmi-lazzaro-spallanzani-irccs-10-assistente-amministrativo",
+      "nome": "INMI Lazzaro Spallanzani IRCCS, 10 assistente amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-lazzaro-spallanzani-di-roma-concorso-assistente-amministrativo-roma-2026",
+      "data_pubblicazione": "2026-08-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd",
+      "hash_contenuto": "36c9c101faf1775a337918ecee5cedf7bf231502",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-irccs-istituti-fisoterapici-ospitalieri-1-collaboratore-amministrativo-professio",
+      "nome": "IRCCS Istituti fisoterapici ospitalieri, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituti-fisioterapici-ospitalieri-di-roma-avviso-di-mobilita-collaboratore-amministrativo-0",
+      "data_pubblicazione": "2026-08-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c85c15bbae1f7b39d2c81231989d13c677a0aecd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-collaboratore-amministrativo-professionale-posti-1",
+      "nome": "Località Roma Occupazione collaboratore amministrativo professionale Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "30e211ff482d51fd4d81a1ff7ad77b6b4c473e6f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-me-ct-addetto-servizi-generali-webuild",
+      "nome": "Me-Ct - Addetto Servizi Generali — Webuild",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/me-ct-addetto-servizi-generali-at-webuild-4443175278",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "21409a68563870a3934890ec9f2d64e6f85005e7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-non-basta-insegnare-come-trovare-lavoro-bisogna-preparare-a-crearlo-zerouno-tv",
+      "nome": "Non basta insegnare come trovare lavoro, bisogna preparare a crearlo — Zerouno TV",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/non-basta-insegnare-come-trovare-lavoro-bisogna-preparare-a-crearlo-at-zerouno-tv-4443345294",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "96d862824eb887809abadbd3cec306929e4f49cd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -309,6 +387,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
+      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4442984941",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "efc74381ba6d97ab55ed8e2bccc03e5e04abe796",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-junior-auditor-kpmg-italy",
       "nome": "Junior Auditor — KPMG Italy",
       "tipo": "categoria_protetta",
@@ -398,16 +489,20 @@
       "notifica_topics": [
         "categorie_protette"
       ]
-    }
-  ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
     },
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-ufficio-stile-e-prodotto-head-of-product-style-gifrab-italia-s-p-a",
+      "nome": "RESPONSABILE UFFICIO STILE E PRODOTTO / HEAD OF PRODUCT & STYLE — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-ufficio-stile-e-prodotto-head-of-product-style-at-gifrab-italia-s-p-a-4437096703",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fb49dbef49381cfc03f908c38b8ef234f18278c1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
     }
-  ]
+  ],
+  "errori_fonti": []
 }
