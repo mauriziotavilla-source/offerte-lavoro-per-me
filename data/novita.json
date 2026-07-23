@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-07-23T03:13:35.352Z",
+  "generated_at": "2026-07-23T08:34:44.487Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "be6ca3c08b20231cc4155c8ec6d1a938f8636e64",
+  "catalog_hash": "5b03f8f385d68d539d1102b8ec84a4e3d6753123",
   "counts": {
     "nuovi": 2,
     "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-pescara-occupazione-operatore-amministrativo-posti-1",
-      "nome": "Località Pescara Occupazione operatore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pescara",
+      "id": "linkedin-orfani-guerra-messina-ai-nelle-pmi-italiane-il-potenziale-c-e-ma-la-maturita-resta-bassa-zerouno-tv",
+      "nome": "Ai: nelle pmi italiane il potenziale c’è ma la ‘maturità’ resta bassa — Zerouno TV",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ai-nelle-pmi-italiane-il-potenziale-c%E2%80%99%C3%A8-ma-la-%E2%80%98maturit%C3%A0%E2%80%99-resta-bassa-at-zerouno-tv-4443334948",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "af8cb9a6a4ca6af9a3fd9b534194fbab5075531c",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f08f54a280958ccbe04a493c9858096dcbf75635",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-pescara-1-operatore-esperto-amministrativo",
-      "nome": "Provincia di Pescara, 1 operatore esperto amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-pescara-concorso-operatore-amministrativo-pescara-2026",
-      "data_pubblicazione": "2026-07-22",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "be64ec20d73005b57540553c0d4ffd7e35b8ef8a",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -440,14 +440,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
