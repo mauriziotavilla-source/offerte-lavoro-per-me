@@ -1,75 +1,62 @@
 {
-  "generated_at": "2026-07-23T14:08:05.010Z",
+  "generated_at": "2026-07-23T19:22:33.787Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ee7c74358c954942838a93750c07be8a3b2d943f",
+  "catalog_hash": "7fd6fa86af94dd3cbc7469619c9e716e1381f396",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 33
+    "nuovi": 4,
+    "aggiornati": 32
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-pubblica-per-esami-per-l-assunzione-a-tempo-pieno-e-indeterm",
-      "nome": "Avviso di selezione pubblica per esami per l’assunzione a tempo pieno e indeterminato di un tecnico informatico junior livello C1 — Pasubio Tecnologia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-pubblica-per-esami-per-l%E2%80%99assunzione-a-tempo-pieno-e-indeterminato-di-un-tecnico-informatico-junior-livello-c1-at-pasubio-tecnologia-4444272102",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f85ccd3acbc4d743900fecf182ca23ce5b4547d9",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-bowling-center-manager-u-s-navy-fleet-and-family-readiness-ffr",
-      "nome": "Bowling Center Manager — U.S. Navy Fleet and Family Readiness (FFR)",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bowling-center-manager-at-u-s-navy-fleet-and-family-readiness-ffr-4444433794",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "fca9a45b91b297d07453e452f629075a5ea36fd7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-computista-two-smart-building",
-      "nome": "Computista — Two Smart Building",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/computista-at-two-smart-building-4443768806",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8428fc06563981b6d3faf885e3f6cb0a20cfd419",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-coadiutore-amministrativo-posti-1",
-      "nome": "Località Torino Occupazione coadiutore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-crespadoro-concorso-per-istruttore-amministrativo",
+      "nome": "Comune di Crespadoro, concorso per istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-crespadoro-concorso-istruttore-amministrativo-vicenza-2026",
+      "data_pubblicazione": "2026-08-21",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "31fdc7c73bb5b56790442aab8135869388ce8cb8",
+      "hash_contenuto": "52a90cbede2aa218ac64ad951e3b8cbbc861bbe2",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-segreteria-e-adetta-alla-reception-offresi-annunci-subito-it",
-      "nome": "Segreteria e adetta alla reception offresi — Annunci-Subito.it",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/segreteria-e-adetta-alla-reception-offresi-at-annunci-subito-it-4444423956",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a4a368399c61e7e9d4f30d645effa132ec3a2035",
+      "id": "gazzetta-via-concorsipubblici-comune-di-nervesa-della-battaglia-concorso-per-2-posti-istruttore-amministrativo",
+      "nome": "Comune di Nervesa della Battaglia, concorso per 2 posti istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-nervesa-della-battaglia-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-08-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b3ae138b1783c9ee8cd703e13929faaa5a04cc7b",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-istruttore-amministrativo-contabile-posti-2",
+      "nome": "Località Treviso Occupazione istruttore amministrativo contabile Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/treviso",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f5e6ad403d6d5ff3fd6c58f9b4c50205beb90940",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-vicenza-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Vicenza Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vicenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9a850147637ca6208502a5cece5c751c915a2b77",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -400,19 +387,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-non-basta-insegnare-come-trovare-lavoro-bisogna-preparare-a-crearlo-zerouno-tv",
-      "nome": "Non basta insegnare come trovare lavoro, bisogna preparare a crearlo — Zerouno TV",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/non-basta-insegnare-come-trovare-lavoro-bisogna-preparare-a-crearlo-at-zerouno-tv-4443345294",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "488d1fedbb93076722b99e2cc7b166d9e19939a6",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
@@ -495,14 +469,19 @@
       "nome": "Visual Information Specialist — U.S. Navy Fleet and Family Readiness (FFR)",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-information-specialist-at-u-s-navy-fleet-and-family-readiness-ffr-4444430749",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-information-specialist-at-u-s-navy-fleet-and-family-readiness-ffr-4419135456",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f6731a45b1c86ea86dd05cb550dc4d47fda5e219",
+      "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9",
       "notifica_topics": [
         "categorie_protette"
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
