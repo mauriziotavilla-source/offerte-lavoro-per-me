@@ -1,34 +1,73 @@
 {
-  "generated_at": "2026-07-23T08:34:44.487Z",
+  "generated_at": "2026-07-23T14:08:05.010Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5b03f8f385d68d539d1102b8ec84a4e3d6753123",
+  "catalog_hash": "ee7c74358c954942838a93750c07be8a3b2d943f",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 31
+    "nuovi": 5,
+    "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-ai-nelle-pmi-italiane-il-potenziale-c-e-ma-la-maturita-resta-bassa-zerouno-tv",
-      "nome": "Ai: nelle pmi italiane il potenziale c’è ma la ‘maturità’ resta bassa — Zerouno TV",
+      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-pubblica-per-esami-per-l-assunzione-a-tempo-pieno-e-indeterm",
+      "nome": "Avviso di selezione pubblica per esami per l’assunzione a tempo pieno e indeterminato di un tecnico informatico junior livello C1 — Pasubio Tecnologia",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/ai-nelle-pmi-italiane-il-potenziale-c%E2%80%99%C3%A8-ma-la-%E2%80%98maturit%C3%A0%E2%80%99-resta-bassa-at-zerouno-tv-4443334948",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-pubblica-per-esami-per-l%E2%80%99assunzione-a-tempo-pieno-e-indeterminato-di-un-tecnico-informatico-junior-livello-c1-at-pasubio-tecnologia-4444272102",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f08f54a280958ccbe04a493c9858096dcbf75635",
+      "hash_contenuto": "f85ccd3acbc4d743900fecf182ca23ce5b4547d9",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-bowling-center-manager-u-s-navy-fleet-and-family-readiness-ffr",
+      "nome": "Bowling Center Manager — U.S. Navy Fleet and Family Readiness (FFR)",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bowling-center-manager-at-u-s-navy-fleet-and-family-readiness-ffr-4444433794",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fca9a45b91b297d07453e452f629075a5ea36fd7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-computista-two-smart-building",
+      "nome": "Computista — Two Smart Building",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/computista-at-two-smart-building-4443768806",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "hash_contenuto": "8428fc06563981b6d3faf885e3f6cb0a20cfd419",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-coadiutore-amministrativo-posti-1",
+      "nome": "Località Torino Occupazione coadiutore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "31fdc7c73bb5b56790442aab8135869388ce8cb8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-segreteria-e-adetta-alla-reception-offresi-annunci-subito-it",
+      "nome": "Segreteria e adetta alla reception offresi — Annunci-Subito.it",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/segreteria-e-adetta-alla-reception-offresi-at-annunci-subito-it-4444423956",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a4a368399c61e7e9d4f30d645effa132ec3a2035",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -361,6 +400,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-non-basta-insegnare-come-trovare-lavoro-bisogna-preparare-a-crearlo-zerouno-tv",
+      "nome": "Non basta insegnare come trovare lavoro, bisogna preparare a crearlo — Zerouno TV",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/non-basta-insegnare-come-trovare-lavoro-bisogna-preparare-a-crearlo-at-zerouno-tv-4443345294",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "488d1fedbb93076722b99e2cc7b166d9e19939a6",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
@@ -437,12 +489,20 @@
       "notifica_topics": [
         "categorie_protette"
       ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-visual-information-specialist-u-s-navy-fleet-and-family-readiness-ffr",
+      "nome": "Visual Information Specialist — U.S. Navy Fleet and Family Readiness (FFR)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-information-specialist-at-u-s-navy-fleet-and-family-readiness-ffr-4444430749",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f6731a45b1c86ea86dd05cb550dc4d47fda5e219",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
