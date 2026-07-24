@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-24T08:31:49.744Z",
+  "generated_at": "2026-07-24T13:50:42.096Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "361da604e01391760b22252ba0ebddf979819873",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 32
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-supervisory-recreation-specialist-sports-coordinator-u-s-navy-fleet-and-family-r",
-      "nome": "Supervisory Recreation Specialist (Sports Coordinator) — U.S. Navy Fleet and Family Readiness (FFR)",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/supervisory-recreation-specialist-sports-coordinator-at-u-s-navy-fleet-and-family-readiness-ffr-4444308602",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "0bf8b4d817b1a91f91a536635575b634a8b1661a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -454,12 +427,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
     },
     {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
