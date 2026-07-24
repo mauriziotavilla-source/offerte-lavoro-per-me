@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-07-24T13:50:42.096Z",
+  "generated_at": "2026-07-24T19:28:29.060Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "361da604e01391760b22252ba0ebddf979819873",
+  "catalog_hash": "78caa2fde07318abdcb9fa734656789e3f60c1f5",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 4,
     "aggiornati": 32
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-montescudaio-interpello-per-un-istruttore-amministrativo-a-tempo-indet",
+      "nome": "Comune di Montescudaio, interpello per un istruttore amministrativo a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montescudaio-concorso-istruttore-amministrativo-toscana-2026",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c9ea606c4009758680a43d5a9bebd1575ccae8e6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-scorze-concorso-istruttore-amministrativo",
+      "nome": "Comune di Scorzè, concorso istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-scorze-concorso-istruttore-amministrativo-venezia-2026",
+      "data_pubblicazione": "2026-08-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "66d0177575fa70b56f28606c6563651bc8955204",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-assistente-amministrativo-posti-10",
+      "nome": "Località Roma Occupazione assistente amministrativo Posti 10",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "66869d4b23427d720777ff8d6c50043346f9bf5b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-venezia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Venezia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/venezia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bcd9597f506ac8b5357d87efee6334d142f4278b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
