@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-07-25T13:40:40.082Z",
+  "generated_at": "2026-07-25T19:11:40.803Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f02ebc8df89102a6feeec75f1ce72bb12c69800a",
+  "catalog_hash": "a4a354fbb6eaff75cea8fe25956b5b39ecf1b038",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 34
+    "nuovi": 3,
+    "aggiornati": 35
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-esperto-linguistico",
+      "nome": "collaboratore amministrativo esperto linguistico",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/esperto-linguistico-1362",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "aab9b69f34ab76f227a3408e1f973d6d738d01bd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-guido-zaccarelli-dalla-piramide-al-cerchio",
+      "nome": "Guido Zaccarelli — Dalla Piramide al Cerchio",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/guido-zaccarelli-at-dalla-piramide-al-cerchio-4444684138",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "9c9acf1772a7678f4d7329cfdc2c389541c77446",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-trieste-occupazione-collaboratore-amministrativo-esperto-linguistico-po",
+      "nome": "Località Trieste Occupazione collaboratore amministrativo esperto linguistico Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/trieste",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9ecbefd21daaf754a6ce0f2a05625d5c8a6585bd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -295,6 +335,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
+      "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4440290204",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "9fcbc075f7df31160d23a15e8f8f74bea489d292",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
       "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
       "tipo": "categoria_protetta",
@@ -451,14 +504,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
