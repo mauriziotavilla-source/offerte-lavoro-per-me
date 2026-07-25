@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-07-25T02:52:41.509Z",
+  "generated_at": "2026-07-25T08:10:03.634Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f02ebc8df89102a6feeec75f1ce72bb12c69800a",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 34
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-lo-sviluppo-e-l-innovazione-dell-agricoltura-del-lazio-1-i",
-      "nome": "Agenzia Regionale per Lo Sviluppo e L’Innovazione dell’Agricoltura del Lazio, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-lo-sviluppo-e-linnovazione-dellagricoltura-del-lazio-concorso-riservato",
-      "data_pubblicazione": "2026-07-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "14ddaeb8a99f3dd04b44afa33180fc2643dcb79b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-cabin-crew-recruitment-day-palermo-14-august-2026-wizz-air",
-      "nome": "Cabin Crew Recruitment Day - Palermo - 14 August 2026 — Wizz Air",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/cabin-crew-recruitment-day-palermo-14-august-2026-at-wizz-air-4441811541",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d91f160b50d77e673743dc0672b853c390947899",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Roma Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1438e9889620a2a0d0d1c5b43dbb6cc8088a0e60",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -417,10 +364,10 @@
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4443516785",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4438281226",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "566f1614a8830ec1ca9d940e661adf5e98fa0635",
+      "hash_contenuto": "52bce886513cb5a9ee5f5844bbf71b91f1a44fa4",
       "notifica_topics": [
         "categorie_protette"
       ]

@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "f02ebc8df89102a6feeec75f1ce72bb12c69800a",
-  "generated_at": "2026-07-25T02:52:41.509Z",
+  "generated_at": "2026-07-25T08:10:03.634Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -18020,6 +18020,6 @@
       "hash_contenuto": "f6731a45b1c86ea86dd05cb550dc4d47fda5e219"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": []
 }
