@@ -1,20 +1,33 @@
 {
-  "generated_at": "2026-07-26T08:30:30.803Z",
+  "generated_at": "2026-07-26T13:36:25.988Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f2b69fb17fa201cfb026fbc092a33c9b384fec26",
+  "catalog_hash": "0fcc06059113642f709c29c380cc65a3466c79c8",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 2,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-social-media-manager-product-heroes",
+      "nome": "Social Media Manager — Product Heroes",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-manager-at-product-heroes-4444962595",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8e061bd0ac241e6a932176abe1b68a716830b83a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
