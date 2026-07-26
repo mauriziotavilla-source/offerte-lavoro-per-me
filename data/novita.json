@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-26T03:17:48.926Z",
+  "generated_at": "2026-07-26T08:30:30.803Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e7be69fd8f9bb79e1190c8afc77859d522f0b4e0",
+  "catalog_hash": "f2b69fb17fa201cfb026fbc092a33c9b384fec26",
   "counts": {
     "nuovi": 1,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
