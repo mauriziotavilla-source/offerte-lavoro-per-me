@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-27T03:27:42.575Z",
+  "generated_at": "2026-07-27T09:57:05.101Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "b0ca1f3d434e0a42f7bc2a0b15d9459efac93328",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 35
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-educatore-auxilium-soc-coop-sociale-onlus",
-      "nome": "Educatore — Auxilium Soc. Coop. Sociale onlus",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatore-4442365561",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "0b2a9e35c84ad5d320a05a5539a4f6fccc0c2d6a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -491,5 +464,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
