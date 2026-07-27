@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-07-27T09:57:05.101Z",
+  "generated_at": "2026-07-27T14:42:12.429Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b0ca1f3d434e0a42f7bc2a0b15d9459efac93328",
+  "catalog_hash": "98086fee9a0c205dc1cbf96159d5463f62f85a89",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 5,
     "aggiornati": 35
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-2-posti-di-co",
+      "nome": "Agenzia di tutela della salute della città metropolitana di Milano, 2 posti di collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-concorso-collaboratore-1",
+      "data_pubblicazione": "2026-08-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "821af38fbd67484a542eeff3bfb5beb10a301ae1",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-amministratore-di-sistema-senior-ids-unitelm-s-r-l",
+      "nome": "Amministratore di sistema senior — IDS & UNITELM S.R.L.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministratore-di-sistema-senior-at-ids-unitelm-s-r-l-4442827137",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0e85ef5b88ba8481909aa974aa836896eb28e14d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-direttore-controllo-di-gestione-zenith-services-group-spa",
+      "nome": "Direttore Controllo di Gestione — Zenith Services Group SpA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-controllo-di-gestione-at-zenith-services-group-spa-4445139799",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "23191e85febe10e703865099dcfe5a023c81d18a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-professionisti-rr-soci",
+      "nome": "professionisti — RR & Soci",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/professionisti-at-rr-soci-4445936654",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7336260368add95014f122095c8e2886178bffff",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -466,12 +532,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
     },
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
     }
   ]
 }
