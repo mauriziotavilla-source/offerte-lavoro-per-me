@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-07-27",
-  "versione": 160,
+  "versione": 161,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "98086fee9a0c205dc1cbf96159d5463f62f85a89",
-  "generated_at": "2026-07-27T14:42:12.428Z",
+  "catalog_hash": "52a3c529d7f86c1d1bafda26fef5290859f40851",
+  "generated_at": "2026-07-27T19:38:46.188Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -10429,7 +10429,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-09",
+          "data": "2026-09-10",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10454,7 +10454,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-26",
+      "rilevato_il": "2026-07-27",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13052,6 +13052,56 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "30786ad5dc67c835a8b4a4651418ef06c1d973e2"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-lpc-associate-kaleidoscope-counseling-and-assessment",
+      "nome": "LPC-Associate — Kaleidoscope Counseling and Assessment",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Ispica, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-09-10",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lpc-associate-at-kaleidoscope-counseling-and-assessment-4445126372",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-07-27",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "4ee6a78ca78aa3c0e474155782d1350af066e57c"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-lunch-operations-associate-catalyst-public-schools",
@@ -17253,7 +17303,7 @@
       "hash_contenuto": "5129f26c255aed4d1538886923aba57e41b18c29"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -17267,7 +17317,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -17295,7 +17345,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-07-27",
       "notifica_topics": [
         "categorie_protette"
@@ -18010,14 +18060,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
-    }
-  ]
+  "source_errors": []
 }
