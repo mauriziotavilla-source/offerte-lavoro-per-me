@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-07-27T19:38:46.188Z",
+  "generated_at": "2026-07-28T02:44:47.447Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "52a3c529d7f86c1d1bafda26fef5290859f40851",
+  "catalog_hash": "99ba166f480f8659e9cc5d20709c4ccd34681630",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 35
+    "nuovi": 0,
+    "aggiornati": 34
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-lpc-associate-kaleidoscope-counseling-and-assessment",
-      "nome": "LPC-Associate — Kaleidoscope Counseling and Assessment",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lpc-associate-at-kaleidoscope-counseling-and-assessment-4445126372",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "4ee6a78ca78aa3c0e474155782d1350af066e57c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -72,19 +45,6 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-area-manager-commerciale-e-post-vendita-marine-suzuki-italia",
-      "nome": "Area Manager commerciale e post vendita Marine — Suzuki Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/area-manager-commerciale-e-post-vendita-marine-at-suzuki-italia-4379188933",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "666ed0c53102b7a5b556144d1c692a64b6a301c5",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -491,5 +451,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
