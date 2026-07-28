@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-28T02:44:47.447Z",
+  "generated_at": "2026-07-28T08:38:59.212Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "99ba166f480f8659e9cc5d20709c4ccd34681630",
+  "catalog_hash": "dcc2c057c804478a0d381b0b0338b3b1ba28ea8d",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 34
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-messina-contabile-studio-associato-lubiana",
+      "nome": "Contabile — Studio Associato Lubiana",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-studio-associato-lubiana-4290370793",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "6d618225f3affad0af40e938d0e5664358562473",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -452,6 +466,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
