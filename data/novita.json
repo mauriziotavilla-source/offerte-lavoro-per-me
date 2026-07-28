@@ -1,23 +1,62 @@
 {
-  "generated_at": "2026-07-28T08:38:59.212Z",
+  "generated_at": "2026-07-28T14:13:37.525Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "dcc2c057c804478a0d381b0b0338b3b1ba28ea8d",
+  "catalog_hash": "5f451720de7ee893550927b33bb434b545cd8558",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 4,
     "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-contabile-studio-associato-lubiana",
+      "id": "gazzetta-via-concorsipubblici-consiglio-provinciale-ordine-dei-consulenti-del-lavoro-di-roma-1-assistente-ammi",
+      "nome": "Consiglio Provinciale Ordine Dei Consulenti del Lavoro di Roma, 1 assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/consiglio-provinciale-ordine-dei-consulenti-del-lavoro-di-roma-concorso-assistente-amministrativo",
+      "data_pubblicazione": "2026-08-27",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0e46105a806919a096ed1d2b7c975836f3a357e9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-studio-associato-lubiana",
       "nome": "Contabile — Studio Associato Lubiana",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-studio-associato-lubiana-4290370793",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "6d618225f3affad0af40e938d0e5664358562473",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "afb875d169869d32f7f19fca9842de7986189012",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-di-cantiere-s-you-italia",
+      "nome": "CONTABILE DI CANTIERE — S&you Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-di-cantiere-at-s-you-italia-4443266159",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "02abe29909961e6e12cb11eea4769e0705967283",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Roma Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e54b29a495560d61e9a979feedcc96717a489fd6",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -465,14 +504,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
