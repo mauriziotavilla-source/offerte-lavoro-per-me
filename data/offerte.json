@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-07-29",
-  "versione": 165,
+  "versione": 166,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "f8f3681bb631ce5ef74ad9717db9b79e9ef9c8ba",
-  "generated_at": "2026-07-29T02:52:10.934Z",
+  "catalog_hash": "d5cd492cbf432b09eeb64e285f856b7ab67c6187",
+  "generated_at": "2026-07-29T08:45:13.928Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -8678,7 +8678,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-11",
+          "data": "2026-09-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8703,7 +8703,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-28",
+      "rilevato_il": "2026-07-29",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11566,7 +11566,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-10",
+          "data": "2026-09-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11591,7 +11591,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-27",
+      "rilevato_il": "2026-07-29",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14521,7 +14521,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-11",
+          "data": "2026-09-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14546,7 +14546,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-28",
+      "rilevato_il": "2026-07-29",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14871,7 +14871,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-11",
+          "data": "2026-09-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14896,7 +14896,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-28",
+      "rilevato_il": "2026-07-29",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17303,7 +17303,7 @@
       "hash_contenuto": "5129f26c255aed4d1538886923aba57e41b18c29"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -17317,11 +17317,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-11",
+          "data": "2026-09-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17345,8 +17345,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-28",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-07-29",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17521,7 +17521,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-11",
+          "data": "2026-09-12",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17546,7 +17546,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-28",
+      "rilevato_il": "2026-07-29",
       "notifica_topics": [
         "categorie_protette"
       ],

@@ -1,73 +1,21 @@
 {
-  "generated_at": "2026-07-29T02:52:10.934Z",
+  "generated_at": "2026-07-29T08:45:13.928Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f8f3681bb631ce5ef74ad9717db9b79e9ef9c8ba",
+  "catalog_hash": "d5cd492cbf432b09eeb64e285f856b7ab67c6187",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 1,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-pubblica-per-l-assunzione-di-n-4-addetti-area-tecnica-presso",
-      "nome": "AVVISO DI SELEZIONE PUBBLICA – per l’assunzione di n. 4 addetti – Area Tecnica presso varie Unità Operative Gestionali — ALER Varese, Como, Monza Brianza e Busto Arsizio",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-pubblica-%E2%80%93-per-l%E2%80%99assunzione-di-n-4-addetti-%E2%80%93-area-tecnica-presso-varie-unit%C3%A0-operative-gestionali-at-aler-varese-como-monza-brianza-e-busto-arsizio-4443656152",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-pubblica-per-l-assunzione-di-un-addetto-area-amministrativa-",
-      "nome": "AVVISO DI SELEZIONE PUBBLICA – per l’assunzione di un addetto – Area Amministrativa presso U.O.G. di Como Via Italia Libera n. 17 — ALER Varese, Como, Monza Brianza e Busto Arsizio",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-pubblica-%E2%80%93-per-l%E2%80%99assunzione-di-un-addetto-%E2%80%93-area-amministrativa-presso-u-o-g-di-como-via-italia-libera-n-17-at-aler-varese-como-monza-brianza-e-busto-arsizio-4443653199",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "19c53c33089617a83c67e2032fa38da35692767b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-lavora-con-noi-posizione-aperte-per-agosto-2026-primaria-spa",
-      "nome": "Lavora con noi: posizione aperte per Agosto 2026 — Primaria SpA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-con-noi-posizione-aperte-per-agosto-2026-at-primaria-spa-4446311067",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "33f2c6b1f945ebd704e616309ffa528b92a455f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-me-ct-addetto-servizi-generali-seli-overseas-s-p-a",
-      "nome": "Me-Ct - Addetto Servizi Generali — SELI OVERSEAS S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/me-ct-addetto-servizi-generali-at-seli-overseas-s-p-a-4443175278",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "05384b6cb41d41535fd75d6bd42462b46ad4e24f",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -118,10 +66,10 @@
       "nome": "Addetto/Addetta Distribuzione Siderno — Italgas",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-addetta-distribuzione-siderno-at-italgas-4443299378",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-addetta-distribuzione-siderno-at-italgas-4428234607",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "479bdaceab729c87f23af0320ca18518d74e7d8e",
+      "hash_contenuto": "f73c1133b27fd2e8fbdc561283a354e18af2dc06",
       "notifica_topics": [
         "categorie_protette"
       ]
