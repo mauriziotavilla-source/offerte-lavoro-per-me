@@ -1,46 +1,72 @@
 {
-  "generated_at": "2026-07-30T08:31:49.619Z",
+  "generated_at": "2026-07-30T14:08:46.510Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9e26cf2a75f5b3f4f9e24738de08fc4371543d69",
+  "catalog_hash": "9e8930fd54058c043a995b01ceec9c8ddc91e8f1",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 35
+    "nuovi": 5,
+    "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-monticiano-assunzione-di-due-istruttori-amministrativi-e-contabili-a-t",
-      "nome": "Comune di Monticiano, assunzione di due istruttori amministrativi e contabili a tempo indeterminato",
+      "id": "linkedin-lavoro-messina-amministrativo-a-ufficio-gare-e-appalti-pubblici-gis-design",
+      "nome": "AMMINISTRATIVO/A UFFICIO GARE E APPALTI PUBBLICI — Gis Design",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-a-ufficio-gare-e-appalti-pubblici-at-gis-design-4444567701",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "791476266b7ef0894c00091ea9914d248bb859a5",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sant-antioco-5-posti-di-istruttore-amministrativo-contabile",
+      "nome": "Comune di Sant’Antioco, 5 posti di istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-monticiano-concorso-istruttore-amministrativo-contabile-toscana-2026",
-      "data_pubblicazione": "2026-07-29",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santantioco-concorso-istruttore-amministrativo-contabile-sulcis-iglesiente-2026",
+      "data_pubblicazione": "2026-08-28",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "47eaf93e849619ed1d3d105d80781411faa024b1",
+      "hash_contenuto": "e526f64c1d2bccbc760fd0fa0b120ab202f4fc3c",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Toscana Occupazione istruttore amministrativo contabile Posti 2",
+      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-2",
+      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/toscana",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "39b25363e6b2a573abe3a3bfb03e187ab8728b15",
+      "hash_contenuto": "60244dd0569d58b66635c55495f2197ff701f6e0",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -317,6 +343,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "d788f5417779cc767631bd91e6667fe74a74a4c4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-lega-del-fi",
+      "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4443231500",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "4113c005cf8073d2303e9624d1fa4ef761ca3fd8",
       "notifica_topics": [
         "categorie_protette"
       ]
