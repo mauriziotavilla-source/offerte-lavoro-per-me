@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-29T19:20:51.058Z",
+  "generated_at": "2026-07-30T02:36:48.291Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "12d9b7f103c23c9af7392c28c49d2697b4003366",
+  "catalog_hash": "59527d54eb9eaf9be9bf3aed5cd739127e5269b7",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 35
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cave-3-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Cave, 3 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cave-concorso-istruttore-amministrativo-contabile-roma-2026",
-      "data_pubblicazione": "2026-08-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2440fc0f08d1fdcc8e4e6fc8342bc9ae2c55dfe3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-praia-a-mare-14-istruttori-amministrativi",
-      "nome": "Comune di Praia a Mare, 14 Istruttori Amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-praia-mare-concorso-istruttore-amministrativo-cosenza-2026",
-      "data_pubblicazione": "2026-08-27",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1bf04e63a23bbc6fffcdab223dd9ab5973a7e90b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-amministrativo-posti-14",
-      "nome": "Località Cosenza Occupazione istruttore amministrativo Posti 14",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cosenza",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "da9e90f07c6b8bdcdcc014c2ffd553454f1f2348",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -504,5 +464,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
