@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-07-31",
-  "versione": 173,
+  "versione": 174,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "5ee8b599cb094ceef81bc42f5f8cd002514a85b5",
-  "generated_at": "2026-07-31T03:18:07.223Z",
+  "catalog_hash": "7b1229035772ba599bc9d7d6a23248252b134ab7",
+  "generated_at": "2026-07-31T08:53:36.136Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -426,7 +426,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -451,7 +451,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -912,7 +912,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -937,7 +937,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2148,7 +2148,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2173,7 +2173,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4053,7 +4053,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4078,7 +4078,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4638,7 +4638,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4663,7 +4663,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5940,57 +5940,6 @@
       "hash_contenuto": "c9ea606c4009758680a43d5a9bebd1575ccae8e6"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-monticiano-assunzione-di-due-istruttori-amministrativi-e-contabili-a-t",
-      "nome": "Comune di Monticiano, assunzione di due istruttori amministrativi e contabili a tempo indeterminato",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Monticiano, assunzione di due istruttori amministrativi e contabili a tempo indeterminato Ente Comune di Monticiano Scadenza 29/07/2026 Scaduto Dettagli Località Toscana Occupazione istruttore amministrativo contabile Posti 2 Concorso pubblico per es",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-07-29",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-monticiano-concorso-istruttore-amministrativo-contabile-toscana-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-07-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-07-31",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "47eaf93e849619ed1d3d105d80781411faa024b1"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-nervesa-della-battaglia-concorso-per-2-posti-istruttore-amministrativo",
       "nome": "Comune di Nervesa della Battaglia, concorso per 2 posti istruttore amministrativo contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -6601,6 +6550,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "66d0177575fa70b56f28606c6563651bc8955204"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sessame-concorso-istruttore-amministrativo-addetto-ai-servizi-demograf",
+      "nome": "Comune di Sessame, concorso istruttore amministrativo addetto ai servizi demografici",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Sessame, concorso istruttore amministrativo addetto ai servizi demografici Ente Comune di Sessame Scadenza 30/07/2026 Scaduto Dettagli Località Asti Occupazione istruttore amministrativo Posti 1 sessame – concorso pubblico per titoli ed esami per la ",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-07-30",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sessame-concorso-istruttore-amministrativo-asti-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-07-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-07-31",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "61c2b5622d89223e75afe6b1611623606b7c2641"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-sutri-1-istruttore-amministrativo",
@@ -7276,7 +7276,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -7301,7 +7301,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8422,7 +8422,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8447,7 +8447,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9569,7 +9569,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9594,7 +9594,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9619,7 +9619,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9644,7 +9644,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10824,7 +10824,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10849,7 +10849,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11360,7 +11360,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11385,7 +11385,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11835,6 +11835,51 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "caff313639b9328d926f454eed127b0579172bae"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-asti-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Asti Occupazione istruttore amministrativo Posti 1",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Asti",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/asti",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-07-31",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "42e319bb64d1400b7afa9ce44280259f4980601d"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-3",
@@ -12557,6 +12602,51 @@
       "hash_contenuto": "9fc2ce7917bab3e20a8096714e5c6fbeb575f24d"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-collaboratore-amministrativo-professionale-posti-3",
+      "nome": "Località Perugia Occupazione collaboratore amministrativo professionale Posti 3",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Perugia",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-07-31",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "9dd95aa5fc8e254a9a95260ab2bd46c6439d71c5"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-localita-pescara-occupazione-operatore-amministrativo-posti-1",
       "nome": "Località Pescara Occupazione operatore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -12738,8 +12828,8 @@
       "hash_contenuto": "31fdc7c73bb5b56790442aab8135869388ce8cb8"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Toscana Occupazione istruttore amministrativo contabile Posti 2",
+      "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Toscana Occupazione istruttore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -12780,7 +12870,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "39b25363e6b2a573abe3a3bfb03e187ab8728b15"
+      "hash_contenuto": "ed27c4e01fb64df3ad5d7289aafcafd1118ba228"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-istruttore-amministrativo-contabile-posti-2",
@@ -13761,7 +13851,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -13786,7 +13876,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14811,7 +14901,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14836,7 +14926,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -15061,7 +15151,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -15086,7 +15176,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17009,7 +17099,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17034,7 +17124,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17209,7 +17299,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-13",
+          "data": "2026-09-14",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17234,7 +17324,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-30",
+      "rilevato_il": "2026-07-31",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17899,7 +17989,7 @@
   "changed": true,
   "source_errors": [
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]

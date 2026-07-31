@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-07-31T03:18:07.224Z",
+  "generated_at": "2026-07-31T08:53:36.136Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5ee8b599cb094ceef81bc42f5f8cd002514a85b5",
+  "catalog_hash": "7b1229035772ba599bc9d7d6a23248252b134ab7",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 4,
     "aggiornati": 36
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sessame-concorso-istruttore-amministrativo-addetto-ai-servizi-demograf",
+      "nome": "Comune di Sessame, concorso istruttore amministrativo addetto ai servizi demografici",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sessame-concorso-istruttore-amministrativo-asti-2026",
+      "data_pubblicazione": "2026-07-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "61c2b5622d89223e75afe6b1611623606b7c2641",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-asti-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Asti Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/asti",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "42e319bb64d1400b7afa9ce44280259f4980601d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-collaboratore-amministrativo-professionale-posti-3",
+      "nome": "Località Perugia Occupazione collaboratore amministrativo professionale Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9dd95aa5fc8e254a9a95260ab2bd46c6439d71c5",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Toscana Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/toscana",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ed27c4e01fb64df3ad5d7289aafcafd1118ba228",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -479,7 +532,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
