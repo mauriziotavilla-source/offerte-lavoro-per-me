@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-30T19:36:57.686Z",
+  "generated_at": "2026-07-31T03:18:07.224Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "4accf2149baec4753c124a77893179f5985d6666",
+  "catalog_hash": "5ee8b599cb094ceef81bc42f5f8cd002514a85b5",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 36
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-gavorrano-concorso-per-un-istruttore-amministrativo-a-tempo-indetermin",
-      "nome": "Comune di Gavorrano, concorso per un istruttore amministrativo a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gavorrano-concorso-istruttore-amministrativo-toscana-2026",
-      "data_pubblicazione": "2026-09-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "60b4907550a32f5b96a169b47fbaf84a2472e88f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -517,5 +477,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
