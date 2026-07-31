@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "3ee2eea2a37ff6897c07337b16094131b84e1ef6",
-  "generated_at": "2026-07-31T14:13:41.717Z",
+  "generated_at": "2026-07-31T19:37:52.037Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -18346,6 +18346,19 @@
       "hash_contenuto": "f6731a45b1c86ea86dd05cb550dc4d47fda5e219"
     }
   ],
-  "changed": true,
-  "source_errors": []
+  "changed": false,
+  "source_errors": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
