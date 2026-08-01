@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-08-01T08:24:49.664Z",
+  "generated_at": "2026-08-01T13:27:05.138Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "897620f99ffcdc4cb20baf8356040f29a46d6897",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 36
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-di-n-1-docente-di-prima-fascia-d-p-r-n-83-2024-a-a-202",
-      "nome": "BANDO PER IL RECLUTAMENTO DI N. 1 DOCENTE DI PRIMA FASCIA – D.P.R. n. 83/2024 – A.A. 2026/2027 – AFAM 030 \"STRUMENTI A TASTIERA PER I NUOVI LINGUAGGI MUSICALI\" – COMJ/09 \"PIANOFORTE JAZZ\" — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-di-n-1-docente-di-prima-fascia-%E2%80%93-d-p-r-n-83-2024-%E2%80%93-a-a-2026-2027-%E2%80%93-afam-030-strumenti-a-tastiera-per-i-nuovi-linguaggi-musicali-%E2%80%93-comj-09-pianoforte-jazz-at-dipartimento-della-funzione-pubblica-4445510775",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "1384aed9ee6ce68fd07c4c8fa1d25420fe6de0ba",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-consulente-di-vendita-macchine-agricole-agrimacchine",
-      "nome": "Consulente di vendita macchine agricole — Agrimacchine",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-di-vendita-macchine-agricole-at-agrimacchine-4441063927",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "76c034463286208959338b29c550faf03036a2ca",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-sales-account-l-68-99-reggio-calabria-otis-elevator-co",
-      "nome": "SALES ACCOUNT –L. 68/99 REGGIO CALABRIA — Otis Elevator Co.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-account-%E2%80%93l-68-99-reggio-calabria-at-otis-elevator-co-4444010811",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "e92608deb34f0c375e50a6f066f1857442789b5b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -141,13 +101,13 @@
     },
     {
       "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-pubblica-per-l-assunzione-di-n-4-addetti-area-tecnica-presso",
-      "nome": "Avviso di Selezione Pubblica per l’assunzione di n. 4 addetti Area Tecnica presso varie Unità Operative Gestionali — ALER Varese, Como, Monza Brianza e Busto Arsizio",
+      "nome": "AVVISO DI SELEZIONE PUBBLICA – per l’assunzione di n. 4 addetti – Area Tecnica presso varie Unità Operative Gestionali — ALER Varese, Como, Monza Brianza e Busto Arsizio",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-pubblica-per-l%E2%80%99assunzione-di-n-4-addetti-area-tecnica-presso-varie-unit%C3%A0-operative-gestionali-at-aler-varese-como-monza-brianza-e-busto-arsizio-4443656153",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-pubblica-%E2%80%93-per-l%E2%80%99assunzione-di-n-4-addetti-%E2%80%93-area-tecnica-presso-varie-unit%C3%A0-operative-gestionali-at-aler-varese-como-monza-brianza-e-busto-arsizio-4443656152",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d31685580e9aca0b7cb6f9d304438c935e8b8344",
+      "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -517,5 +477,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
