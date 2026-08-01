@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-31T19:37:52.038Z",
+  "generated_at": "2026-08-01T03:16:11.697Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3ee2eea2a37ff6897c07337b16094131b84e1ef6",
+  "catalog_hash": "00f578bfe2f0c347fe809f0a95ea5344e0573577",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 36
+    "nuovi": 1,
+    "aggiornati": 35
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -56,19 +70,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "f73c1133b27fd2e8fbdc561283a354e18af2dc06",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-belmond",
-      "nome": "Assistant Financial Controller | Grand Hotel Timeo & Villa Sant'Andrea — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-financial-controller-grand-hotel-timeo-villa-sant-andrea-at-belmond-4415775501",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a871f272626e80cb6aa60aad40d29a5d883eb20b",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -480,10 +481,6 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
