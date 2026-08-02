@@ -1,143 +1,12 @@
 {
-  "generated_at": "2026-08-01T19:12:45.436Z",
+  "generated_at": "2026-08-02T03:16:30.426Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "245bd7b25d5d53e76cdac1811c01902f6022f993",
+  "catalog_hash": "e5029cf15f54a603a9f43330a84f324f610c8942",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 36
+    "nuovi": 0,
+    "aggiornati": 33
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-associate-specialists-midlands-psychology-ltd",
-      "nome": "Associate Specialists — Midlands Psychology LTD",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/associate-specialists-at-midlands-psychology-ltd-4445807047",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ec4bc9a8c74a447a00e0452170c036b89090f547",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-assunzione-italian-cultural-institute-new-york",
-      "nome": "Avviso di assunzione — Italian Cultural Institute New York",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-assunzione-at-italian-cultural-institute-new-york-4447780588",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "59f0bc6f35dd3e9701c5e345399a67dcb1b4279d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-grugliasco-concorso-riservato-per-istruttore-amministrativo-contabile",
-      "nome": "Comune di Grugliasco, concorso riservato per istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-grugliasco-concorso-istruttore-amministrativo-contabile-torino-2026",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "90f5f621c1a7da72b821c687878ee0aac9800632",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-trebisacce-3-posti-di-letturista-collaboratore-amministrativo",
-      "nome": "Comune di Trebisacce, 3 posti di letturista collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trebisacce-concorso-collaboratore-amministrativo-cosenza-2026-0",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "876078f44c28959cfeba30a911ba3223838c6fa8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-collaboratore-amministrativo-posti-3",
-      "nome": "Località Cosenza Occupazione collaboratore amministrativo Posti 3",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cosenza",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "de2984bcb0a104230624b7aede9196d627c76588",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8960933273f6754d1b39104a924e670ad3a0536f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Torino Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1b68b5356a1294d19aa18e1284653daed5b109fb",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-sondrio-concorso-riservato-per-2-posti-istruttore-amministrativo",
-      "nome": "Provincia di Sondrio, concorso riservato per 2 posti istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-sondrio-concorso-riservato-istruttore-amministrativo-sondrio-2026",
-      "data_pubblicazione": "2026-07-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "80dd6d61376e44fed0ab4db8c4581f8c036e6337",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-responsabile-amministrativo-gi-group",
-      "nome": "Responsabile amministrativo — Gi Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-gi-group-4445509813",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "4c8ad4cccc4305b24ba0af7013b1c6e300c29014",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -187,45 +56,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "f73c1133b27fd2e8fbdc561283a354e18af2dc06",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425740140",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d9979633403fca4c593d291466874459b009d44f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741081",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "27378f7fe9212a7c596dff866c064e7d34f40646",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-new-car-srl",
-      "nome": "Assistente amministrativo — new car srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4425741101",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d506df7cf18a19930ac8d95d410f1504588a80a4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -608,5 +438,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
+    }
+  ]
 }
