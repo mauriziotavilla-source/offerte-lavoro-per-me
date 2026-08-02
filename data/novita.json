@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-08-02T13:27:29.123Z",
+  "generated_at": "2026-08-02T19:14:50.205Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f467f0d05344424100f5ad4ed89f610e2c3c5834",
+  "catalog_hash": "f8ead335c5ca8b91181ad13f62325bc66e874b92",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 33
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-content-marketing-assistant-xdevel-s-r-l",
+      "nome": "Content & Marketing Assistant — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-marketing-assistant-at-xdevel-s-r-l-4444575313",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "365c0f23508ecdb299936206d5f61667fa87380e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-customer-operations-process-assistant-xdevel-s-r-l",
+      "nome": "Customer Operations & Process Assistant — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/customer-operations-process-assistant-at-xdevel-s-r-l-4444564918",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "779384a25150d21355acd072cd3cff08a7c5a442",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -439,10 +466,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
