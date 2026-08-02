@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-08-02T08:28:03.773Z",
+  "generated_at": "2026-08-02T13:27:29.123Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "f467f0d05344424100f5ad4ed89f610e2c3c5834",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 33
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7526e2446c7efe27a644a81fee57e08daf098d75",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-coadiutore-amministrativo-posti-1",
-      "nome": "Località Torino Occupazione coadiutore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "31fdc7c73bb5b56790442aab8135869388ce8cb8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-comelico-concorso-per-2-istruttore-amministrativi",
-      "nome": "Unione Montana Comelico, concorso per 2 istruttore amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-comelico-e-sappada-concorso-istruttore-amministrativo-belluno-2026",
-      "data_pubblicazione": "2026-08-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "68ecf7ee9560d727fd9a2303b894ab229ac424da",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -491,5 +438,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
