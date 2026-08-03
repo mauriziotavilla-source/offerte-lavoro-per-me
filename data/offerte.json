@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-08-03",
-  "versione": 182,
+  "versione": 183,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "d4ac89a9d744b8c7adfe62807e0a11e959a7e486",
-  "generated_at": "2026-08-03T03:18:35.232Z",
+  "catalog_hash": "f1ce816ecb4e95552c4069d0fdc08e0cf5460a95",
+  "generated_at": "2026-08-03T09:51:31.089Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -2426,7 +2426,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-08-02",
+      "rilevato_il": "2026-08-03",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2793,12 +2793,12 @@
         "amministrazione",
         "contabilita"
       ],
-      "stato": "aperto",
+      "stato": "chiuso",
       "sede": "Messina",
       "modalita": "",
       "contratto": "",
       "retribuzione": "",
-      "descrizione_breve": "Azienda Ospedaliera «Papardo» di Messina, 1 assistente amministrativo Ente Azienda Ospedaliera «Papardo» di Messina Scadenza 02/08/2026 Dettagli Località Messina Occupazione assistente amministrativo Posti 2 Revoca e contestuale indizione del concorso pubblico",
+      "descrizione_breve": "Azienda Ospedaliera «Papardo» di Messina, 1 assistente amministrativo Ente Azienda Ospedaliera «Papardo» di Messina Scadenza 02/08/2026 Scaduto Dettagli Località Messina Occupazione assistente amministrativo Posti 2 Revoca e contestuale indizione del concorso ",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
@@ -2833,7 +2833,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "0d311a87cd1adc4665cfc8e81c5f84bf6547e94e"
+      "hash_contenuto": "b4a939ca57d11999e901a9eac6be12597126db7e"
     },
     {
       "id": "gazzetta-via-concorsipubblici-azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-3-posti-di-assiste",
@@ -9195,7 +9195,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-08-02",
+      "rilevato_il": "2026-08-03",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17429,12 +17429,12 @@
   "changed": true,
   "source_errors": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
     },
     {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }

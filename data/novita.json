@@ -1,104 +1,12 @@
 {
-  "generated_at": "2026-08-03T03:18:35.233Z",
+  "generated_at": "2026-08-03T09:51:31.089Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d4ac89a9d744b8c7adfe62807e0a11e959a7e486",
+  "catalog_hash": "f1ce816ecb4e95552c4069d0fdc08e0cf5460a95",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 32
+    "nuovi": 0,
+    "aggiornati": 33
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-offerta-di-lavoro-agriturismo-mezzaluna-ricerca-personale-di-sala-qualificato-tr",
-      "nome": "(OFFERTA DI LAVORO) Agriturismo Mezzaluna ricerca personale di sala qualificato — Trieste Cafe",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/offerta-di-lavoro-agriturismo-mezzaluna-ricerca-personale-di-sala-qualificato-at-trieste-cafe-4445850966",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "65f4bb7467a5a80f826b36f27b6d837ac213bfdf",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-consulente-scientifico-gruppo-pediatrica",
-      "nome": "Consulente scientifico — Gruppo Pediatrica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-scientifico-at-gruppo-pediatrica-4446814101",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d882b275df11a08b2c03aa85a631a67698691d5f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-iom-ar-003-2021-ts-ogg-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1",
-      "nome": "IOM AR 003/2021 TS OGG-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca Post Dottorale — Ethical Journal of Research",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-003-2021-ts-ogg-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-post-dottorale-at-ethical-journal-of-research-4439907850",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "83b29a863fb0003d6f3a1fc6515287292f5017dc",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuove-offerte-di-lavoro-tra-bagheria-e-casteldaccia-sociale-gdo-produzione-e-sic",
-      "nome": "Nuove offerte di lavoro tra Bagheria e Casteldaccia: sociale, GDO, produzione e sicurezza cercano personale — Vivere Bagheria",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuove-offerte-di-lavoro-tra-bagheria-e-casteldaccia-sociale-gdo-produzione-e-sicurezza-cercano-personale-at-vivere-bagheria-4448134242",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "fe4f4531d2f719931d34b23c05d333143191d0e4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-procedura-selettiva-pubblica-per-titoli-per-n-1-contratto-a-tempo-determinato-pe",
-      "nome": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI PER N. 1 CONTRATTO A TEMPO DETERMINATO PER IL SAD PIANOFORTE E TASTIERE POP ROCK -AFAM 030 – PROFILO COMP/03 (PIANOFORTE E TASTIERE POP ROCK) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-selettiva-pubblica-per-titoli-per-n-1-contratto-a-tempo-determinato-per-il-sad-pianoforte-e-tastiere-pop-rock-afam-030-%E2%80%93-profilo-comp-03-pianoforte-e-tastiere-pop-rock-at-dipartimento-della-funzione-pubblica-4444124672",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "921560af2b9630f6d39022ad9d247ae26d8a0c97",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-store-manager-trainee-ovs-spa-calabria-ovs-georgia",
-      "nome": "Store Manager Trainee OVS SpA (Calabria) — OVS Georgia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-trainee-ovs-spa-calabria-at-ovs-georgia-4443562624",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "e0faa6fcf6e4355a321c38aaab7f5cbb96a0ecbc",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-vittoria-david-galleria-dell-arco-palermo",
-      "nome": "Vittoria David — Galleria dell'arco Palermo",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/vittoria-david-at-galleria-dell-arco-palermo-4447663037",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "572c3e2d22ead0ef9fe5d75152ba8ab134afec31",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -163,6 +71,19 @@
       "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-azienda-ospedaliera-papardo-di-messina-1-assistente-amministrativo",
+      "nome": "Azienda Ospedaliera «Papardo» di Messina, 1 assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-papardo-di-messina-concorso-assistente-amministrativo-messina-2026",
+      "data_pubblicazione": "2026-08-02",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "b4a939ca57d11999e901a9eac6be12597126db7e",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -519,12 +440,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
     },
     {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
