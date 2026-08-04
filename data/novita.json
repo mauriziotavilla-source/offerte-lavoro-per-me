@@ -1,23 +1,36 @@
 {
-  "generated_at": "2026-08-03T19:41:38.803Z",
+  "generated_at": "2026-08-04T02:47:21.720Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9841b0831ba2a85edd163b43aa8d03fe80f90d44",
+  "catalog_hash": "e9e28f02fcc326e3fe2a1acfc2b0e22f818eda25",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 33
+    "nuovi": 2,
+    "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-domus-bet",
-      "nome": "Assistente amministrativo — Domus Bet",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-domus-bet-4446231031",
+      "id": "gazzetta-via-concorsipubblici-impiegato-amministrativo-ragioniere",
+      "nome": "impiegato amministrativo Ragioniere",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/ragioniere-402",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "be33bb456371352c2750eb37e872151e680ac94a",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5e11a0afe9a81dc1307027c8a452f9745f2322d2",
       "notifica_topics": [
-        "offerte_lavoro"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-impiegato-amministrativo-ragioniere-posti-1",
+      "nome": "Località Sassari Occupazione impiegato amministrativo Ragioniere Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sassari",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e160b896f374e083d52f3adac30ff7e37bfc574e",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -270,6 +283,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-fondazione-alghero-musei-eventi-turismo-arte-1-impiegato-amministrativo-contabil",
+      "nome": "Fondazione Alghero Musei Eventi Turismo Arte, 1 impiegato amministrativo contabile ragioniere",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-alghero-musei-eventi-turismo-arte-concorso-impiegato-amministrativo-ragioniere-sassari",
+      "data_pubblicazione": "2026-08-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8a2ba5c9fe6e01f9bbdee271c88ef1c04524f4ca",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
       "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
       "tipo": "categoria_protetta",
@@ -453,6 +479,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
