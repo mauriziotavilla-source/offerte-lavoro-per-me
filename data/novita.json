@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-08-04T08:41:45.444Z",
+  "generated_at": "2026-08-04T14:22:19.483Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8f6ebd9b242556983a4953e08244be38ab8e671b",
+  "catalog_hash": "1603ad281a20a4389aa6a7543521d341d77ce3a0",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 3,
     "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-student-enrollment-advisor-the-italian-academy",
-      "nome": "Student Enrollment Advisor — The Italian Academy",
+      "id": "linkedin-orfani-guerra-messina-group-reporting-consolidation-specialist-reverse",
+      "nome": "GROUP REPORTING & CONSOLIDATION SPECIALIST — Reverse",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/student-enrollment-advisor-at-the-italian-academy-4448187898",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/group-reporting-consolidation-specialist-at-reverse-4445874855",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "37389adb84ddaa34f3b63531df9e1d24f161f47f",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cce03f5ed735504a017202745d96a178d3abb19f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-messina-retail-specialist-reggio-calabria-cosine-italy",
+      "nome": "Retail Specialist | Reggio Calabria — Cosine Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/retail-specialist-reggio-calabria-at-cosine-italy-4446218451",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "1ffac83b595bd747a437b8d1042249543480716e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
