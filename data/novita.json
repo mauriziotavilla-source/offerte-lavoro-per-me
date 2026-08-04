@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-04T02:47:21.720Z",
+  "generated_at": "2026-08-04T08:41:45.444Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e9e28f02fcc326e3fe2a1acfc2b0e22f818eda25",
+  "catalog_hash": "8f6ebd9b242556983a4953e08244be38ab8e671b",
   "counts": {
     "nuovi": 2,
-    "aggiornati": 34
+    "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-impiegato-amministrativo-ragioniere",
-      "nome": "impiegato amministrativo Ragioniere",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/ragioniere-402",
+      "id": "linkedin-orfani-guerra-sicilia-student-enrollment-advisor-the-italian-academy",
+      "nome": "Student Enrollment Advisor — The Italian Academy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/student-enrollment-advisor-at-the-italian-academy-4448187898",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5e11a0afe9a81dc1307027c8a452f9745f2322d2",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "37389adb84ddaa34f3b63531df9e1d24f161f47f",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-impiegato-amministrativo-ragioniere-posti-1",
-      "nome": "Località Sassari Occupazione impiegato amministrativo Ragioniere Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sassari",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e160b896f374e083d52f3adac30ff7e37bfc574e",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -283,19 +283,6 @@
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-fondazione-alghero-musei-eventi-turismo-arte-1-impiegato-amministrativo-contabil",
-      "nome": "Fondazione Alghero Musei Eventi Turismo Arte, 1 impiegato amministrativo contabile ragioniere",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-alghero-musei-eventi-turismo-arte-concorso-impiegato-amministrativo-ragioniere-sassari",
-      "data_pubblicazione": "2026-08-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8a2ba5c9fe6e01f9bbdee271c88ef1c04524f4ca",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
       "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
       "tipo": "categoria_protetta",
@@ -478,18 +465,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
