@@ -1,60 +1,21 @@
 {
-  "generated_at": "2026-08-04T19:40:55.745Z",
+  "generated_at": "2026-08-05T02:44:56.062Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "77a483927554cd821b325fdffef577f3651bbafc",
+  "catalog_hash": "e2f8a49c36e486b78fc970551ad967f58c12195e",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 1,
     "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-assistant-department-manager-milazzo-ikea",
-      "nome": "Assistant Department Manager – Milazzo — IKEA",
+      "id": "linkedin-orfani-guerra-messina-i-know-they-love-me-when-re-balance-org",
+      "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-department-manager-%E2%80%93-milazzo-at-ikea-4448289411",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9a633d0dd5dbf2a8c520182f40c6a09a5951f803",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-ballabio-1-istruttore-amministrativo",
-      "nome": "Comune di Ballabio, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ballabio-concorso-istruttore-amministrativo-lecco-2026",
-      "data_pubblicazione": "2026-09-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ca9f9b496ced3c0a12d76528b6874334482baef1",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lecco-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Lecco Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecco",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e1ae50d5d644d8fbe1060407961708b285069c59",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-retail-specialist-messina-cosine-italy",
-      "nome": "Retail Specialist | Messina — Cosine Italy",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/retail-specialist-messina-at-cosine-italy-4447984877",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "daac122fb094e771a06bf0ebabe046b338dc7c77",
+      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -493,12 +454,8 @@
   ],
   "errori_fonti": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
