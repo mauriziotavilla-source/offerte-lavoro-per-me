@@ -1,12 +1,143 @@
 {
-  "generated_at": "2026-08-06T08:41:17.468Z",
+  "generated_at": "2026-08-06T14:19:18.774Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "63960b5e77420bdb500195cd9faba449a6df9cb7",
+  "catalog_hash": "5cee76a24962b2387d938ffa6cd4ebed0c84f4ab",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 10,
     "aggiornati": 36
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-operatore-tecnico",
+      "nome": "collaboratore amministrativo operatore tecnico",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/operatore-tecnico-823",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "76c5062f40c00ebbe66b1f20bac0422fed288999",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-accumoli-1-istruttore-amministrativo",
+      "nome": "Comune di Accumoli, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-accumoli-concorso-istruttore-amministrativo-rieti-2026",
+      "data_pubblicazione": "2026-09-08",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bdf6c44c9afdb7d47c47496bf82e11d29986a00d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-colognola-ai-colli-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Colognola Ai Colli, 1 Istruttore Amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colognola-ai-colli-concorso-istruttore-amministrativo-contabile-verona-2026",
+      "data_pubblicazione": "2026-09-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bdebd68fcf58b0854162546c0966ab1d5c096404",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-isola-vicentina-1-istruttore-amministrativo",
+      "nome": "Comune di Isola Vicentina, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-isola-vicentina-concorso-istruttore-amministrativo-vicenza-2026",
+      "data_pubblicazione": "2026-09-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "37be28ab4d3dc3ca1ef050bc17e10724df3ca7de",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ruvo-del-monte-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Ruvo del Monte, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ruvo-del-monte-concorso-istruttore-amministrativo-contabile-potenza-2026",
+      "data_pubblicazione": "2026-08-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "41c09905f20860e5b7a545d39e8c1a068ef7e785",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-documentazione-innovazione-e-ricerca-educativa-2-posti-per",
+      "nome": "Istituto Nazionale di documentazione, Innovazione e Ricerca Educativa, 2 posti per collaboratore amministrativo e operatore tecnico",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-di-documentazione-linnovazione-e-la-ricerca-educativa-concorso-collaboratore-4",
+      "data_pubblicazione": "2026-09-04",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c04e5e82b71ab9194ca143c0726dc84f0f06fc42",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2923f1c29d3015c3ff5aac2e1943c46b5c90b639",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-potenza-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Potenza Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/potenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5ffc3ece63ab7f83f2111c1f5fd8bac24c25b669",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-rieti-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Rieti Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/rieti",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1685929bb13ec4ae0054069f5660cdafaec65b74",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Verona Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2eef9bada42fad4e991c0244eb983ebc6e9b8faf",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -429,10 +560,10 @@
       "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4449683709",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4441984328",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a2c03c325c8c5cfe3f91b4c9cf85d458d54a8a92",
+      "hash_contenuto": "bd63b156a98cc3570758082a53695d4e51a66fa5",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -477,14 +608,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "gazzetta-via-concorsipubblici",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "concorsipubblici-sicilia",
-      "message": "HTTP 403"
-    }
-  ]
+  "errori_fonti": []
 }
