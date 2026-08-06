@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-06T02:47:42.409Z",
+  "generated_at": "2026-08-06T08:41:17.468Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f77810dbcf592c65a0dea421df7fc81a1deeec93",
+  "catalog_hash": "63960b5e77420bdb500195cd9faba449a6df9cb7",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 35
+    "aggiornati": 36
   },
   "nuovi": [],
   "aggiornati": [
@@ -425,6 +425,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
+      "nome": "Payroll Specialist — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4449683709",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a2c03c325c8c5cfe3f91b4c9cf85d458d54a8a92",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
       "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
       "tipo": "categoria_protetta",
@@ -466,12 +479,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
+      "source": "gazzetta-via-concorsipubblici",
+      "message": "HTTP 403"
     },
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "concorsipubblici-sicilia",
+      "message": "HTTP 403"
     }
   ]
 }
