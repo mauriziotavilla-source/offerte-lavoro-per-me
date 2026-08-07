@@ -1,127 +1,88 @@
 {
-  "generated_at": "2026-08-07T13:10:00.572Z",
+  "generated_at": "2026-08-07T19:01:21.132Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e4f38cd37ccffc94e8f9e7efe415063cae3aef52",
+  "catalog_hash": "1a93aef6b26c7ca20f91ad0f9a87ebaaa2bd0372",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 35
+    "nuovi": 6,
+    "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "concorsipubblici-sicilia-comune-di-bronte-1-revisore-contabile",
-      "nome": "Comune di Bronte, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bronte-concorso-revisore-contabile-catania-2026",
-      "data_pubblicazione": "2026-09-05",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "687a1bd7587bc5dd29c53466fcb8417818d378c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-monteroni-di-lecce-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Monteroni di Lecce, 1 istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-montelupo-fiorentino-concorso-istruttore-amministrativo",
+      "nome": "Comune di Montelupo Fiorentino, concorso istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-monteroni-di-lecce-concorso-istruttore-amministrativo-contabile-lecce-2026",
-      "data_pubblicazione": "2026-09-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d39564715d78b118d215bb2ac3a7e67317e6107d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-selargius-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Selargius, 2 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-selargius-concorso-istruttore-amministrativo-contabile-cagliari-2026",
-      "data_pubblicazione": "2026-09-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d0d38a40b4790243ba4b4a1bbd9d25e4b8eb2bd4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-geofisica-e-vulcanologia-ingv-1-collaboratore-amministrati",
-      "nome": "Istituto Nazionale di Geofisica e Vulcanologia – INGV, 1 collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-di-geofisica-e-vulcanologia-concorso-riservato-collaboratore-amministrativo-roma",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montelupo-fiorentino-concorso-istruttore-amministrativo-firenze-2026",
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "039179eafb8c69747cd4815c87bd157b69246c91",
+      "hash_contenuto": "4c732dee9d3f9039f18a27198a226fd3b20020ef",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-geofisica-e-vulcanologia-ingv-2-collaboratori-amministrati",
-      "nome": "Istituto Nazionale di Geofisica e Vulcanologia – INGV, 2 collaboratori amministrativi (profilo b)",
+      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
+      "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-mobilit%C3%A0-volontaria-per-l%E2%80%99immissione-nel-ruolo-unico-del-ministero-dell%E2%80%99economia-e-delle-finanze-di-n-122-funzionari-at-dipartimento-della-funzione-pubblica-4448783794",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7b35fe3e0198ab0c58005173d5dc0ffc934f494c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-del-verbano-cusio-ossola-1-istruttore-amministrativo",
+      "nome": "Provincia del Verbano Cusio Ossola, 1 Istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-di-geofisica-e-vulcanologia-concorso-collaboratore-amministrativo-roma-2026",
-      "data_pubblicazione": "2026-09-07",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-del-verbano-cusio-ossola-concorso-istruttore-amministrativo-verbano-cusio-ossola-2026",
+      "data_pubblicazione": "2026-09-05",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5d77e54a29f6599b82dc7ad8cc43c452becc260f",
+      "hash_contenuto": "4ba968525e2e090632f0227ce97a4c8ba68577b0",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-cagliari-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Cagliari Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cagliari",
+      "id": "linkedin-orfani-guerra-messina-recruitment-day-taormina-15-settembre-2026-san-domenico-palace-taormina-a-four-s",
+      "nome": "Recruitment Day - Taormina - 15 settembre 2026 — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/recruitment-day-taormina-15-settembre-2026-at-san-domenico-palace-taormina-a-four-seasons-hotel-4450730691",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cf7f4d55cb4f145d6a557a07256041dbfdb0caec",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0fdd895d66b628038bbc4f2203e5814dc83ac190",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-localita-catania-occupazione-revisore-contabile-posti-1",
-      "nome": "Località Catania Occupazione revisore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/catania",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "fa36fcbaaab23b832882b0ae54726f4ec99b0f9e",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Lecce Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1d4f22c7aed9db6e2c82f69f1a0226806f1843a0",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-occupazione-revisore-contabile",
-      "nome": "Occupazione revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/revisore-contabile-405",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "f893ff0c9da2d85a536d4d41f8e28268acdce3b4",
-      "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -423,6 +384,19 @@
       "hash_contenuto": "b50d8cdae4fc27089e32c1a9b59bacf1d5dd4576",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-geofisica-e-vulcanologia-ingv-1-collaboratore-amministrati",
+      "nome": "Istituto Nazionale di Geofisica e Vulcanologia – INGV, 1 collaboratore amministrativo (profilo a)",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-di-geofisica-e-vulcanologia-concorso-collaboratore-amministrativo-roma-2026-0",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a18ece74b00da0cfd9f21304395ec87b91cc96a0",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
