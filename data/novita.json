@@ -1,138 +1,125 @@
 {
-  "generated_at": "2026-08-06T14:19:18.774Z",
+  "generated_at": "2026-08-07T00:04:38.941Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5cee76a24962b2387d938ffa6cd4ebed0c84f4ab",
+  "catalog_hash": "5cea1e742dde7a66d74a89f9603e5525262cd4e4",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 36
+    "nuovi": 9,
+    "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-operatore-tecnico",
-      "nome": "collaboratore amministrativo operatore tecnico",
+      "id": "gazzetta-via-concorsipubblici-comune-di-castrignano-del-capo-1-istruttore-amministrativo",
+      "nome": "Comune di Castrignano Del Capo, 1 istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/operatore-tecnico-823",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "76c5062f40c00ebbe66b1f20bac0422fed288999",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-accumoli-1-istruttore-amministrativo",
-      "nome": "Comune di Accumoli, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-accumoli-concorso-istruttore-amministrativo-rieti-2026",
-      "data_pubblicazione": "2026-09-08",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bdf6c44c9afdb7d47c47496bf82e11d29986a00d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-colognola-ai-colli-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Colognola Ai Colli, 1 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colognola-ai-colli-concorso-istruttore-amministrativo-contabile-verona-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castrignano-del-capo-concorso-istruttore-amministrativo-lecce-2026",
       "data_pubblicazione": "2026-09-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bdebd68fcf58b0854162546c0966ab1d5c096404",
+      "hash_contenuto": "59654fdfb0a601eda7970bcf54369079fc1fc303",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-isola-vicentina-1-istruttore-amministrativo",
-      "nome": "Comune di Isola Vicentina, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-isola-vicentina-concorso-istruttore-amministrativo-vicenza-2026",
-      "data_pubblicazione": "2026-09-03",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "37be28ab4d3dc3ca1ef050bc17e10724df3ca7de",
+      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-ruvo-del-monte-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Ruvo del Monte, 1 istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-localita-firenze-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Firenze Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ruvo-del-monte-concorso-istruttore-amministrativo-contabile-potenza-2026",
-      "data_pubblicazione": "2026-08-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "41c09905f20860e5b7a545d39e8c1a068ef7e785",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-documentazione-innovazione-e-ricerca-educativa-2-posti-per",
-      "nome": "Istituto Nazionale di documentazione, Innovazione e Ricerca Educativa, 2 posti per collaboratore amministrativo e operatore tecnico",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-di-documentazione-linnovazione-e-la-ricerca-educativa-concorso-collaboratore-4",
-      "data_pubblicazione": "2026-09-04",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c04e5e82b71ab9194ca143c0726dc84f0f06fc42",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-1",
-      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/firenze",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2923f1c29d3015c3ff5aac2e1943c46b5c90b639",
+      "hash_contenuto": "8b55544c3922f80ac0edd00d1063eddb138e6136",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-potenza-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Potenza Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Lecce Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/potenza",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5ffc3ece63ab7f83f2111c1f5fd8bac24c25b669",
+      "hash_contenuto": "361d06f097cfc2901e030fb3e8422e9d4f153b39",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-rieti-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Rieti Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-istruttore-amministrativo-posti-3",
+      "nome": "Località Roma Occupazione istruttore amministrativo Posti 3",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/rieti",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1685929bb13ec4ae0054069f5660cdafaec65b74",
+      "hash_contenuto": "ad6dd16065b3f82d925c70706344eadefee4359d",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Verona Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "linkedin-orfani-guerra-messina-network-system-administrator-junior-xdevel-s-r-l",
+      "nome": "Network System Administrator (Junior) — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/network-system-administrator-junior-at-xdevel-s-r-l-4444577313",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-operatore-socio-sanitario-residenza-sanitaria-assistenziale",
+      "nome": "Operatore socio-sanitario — Residenza Sanitaria Assistenziale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-socio-sanitario-at-residenza-sanitaria-assistenziale-4448010535",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ac04343566a30facc2141b9fd2346fa6257873af",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-dei-comuni-del-mugello-concorso-istruttore-amministrativo",
+      "nome": "Unione Montana Dei Comuni del Mugello, concorso istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-dei-comuni-del-mugello-concorso-riservato-istruttore-amministrativo-firenze-2026",
+      "data_pubblicazione": "2026-09-05",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2eef9bada42fad4e991c0244eb983ebc6e9b8faf",
+      "hash_contenuto": "788f462f3008c2bd462eefd0aba4c4baba381698",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -564,19 +551,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "bd63b156a98cc3570758082a53695d4e51a66fa5",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-resiliency-and-personal-development-facilitator-ladgov-corporation",
-      "nome": "Resiliency and Personal Development Facilitator — Ladgov Corporation",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/resiliency-and-personal-development-facilitator-at-ladgov-corporation-4429667250",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d0f5de7570e40ea8480460d726549612118d11be",
       "notifica_topics": [
         "categorie_protette"
       ]
