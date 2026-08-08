@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-08-08T12:53:51.424Z",
+  "generated_at": "2026-08-08T18:41:44.891Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3eb9fef83cad9d438cbb7fe59fdf9787133dc611",
+  "catalog_hash": "292add2e8024c50974cb92b256c4107c3ec3e8b1",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 36
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-assistente-notarile-studio-notarile-teodoro-arcuri-studio-notarile-arcuri",
+      "nome": "Assistente Notarile - Studio Notarile Teodoro Arcuri — Studio notarile Arcuri",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-notarile-studio-notarile-teodoro-arcuri-4451068192",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "778539201145883748b37c82e7a047206b7791e1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
+      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449269048",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "cea6f9c8eaab4556ddcee3a1e5dca48716cf3ebd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
+      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449248943",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "99ec130a80e23161178cbf605139717e131c6618",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -479,16 +519,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
     },
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
     }
   ]
 }
