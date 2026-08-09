@@ -1,49 +1,23 @@
 {
-  "generated_at": "2026-08-08T18:41:44.891Z",
+  "generated_at": "2026-08-09T01:56:26.922Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "292add2e8024c50974cb92b256c4107c3ec3e8b1",
+  "catalog_hash": "e9023e4aea391ead2982d9dbe4722105d6b8bbe1",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 36
+    "nuovi": 1,
+    "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-notarile-studio-notarile-teodoro-arcuri-studio-notarile-arcuri",
-      "nome": "Assistente Notarile - Studio Notarile Teodoro Arcuri — Studio notarile Arcuri",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-notarile-studio-notarile-teodoro-arcuri-4451068192",
+      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Frosinone Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "778539201145883748b37c82e7a047206b7791e1",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "164d178aa4c1d9e3335e1bc156fd50bd40b33977",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449269048",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "cea6f9c8eaab4556ddcee3a1e5dca48716cf3ebd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449248943",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "99ec130a80e23161178cbf605139717e131c6618",
-      "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -57,19 +31,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "92ae0ec5c696cf5c3856fd4822ba8e9684db2c6e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-paghe-e-contributi-full-remote-jet-hr",
-      "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-paghe-e-contributi-full-remote-at-jet-hr-4415208129",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "31fac8a1eef8d7a603f69f4de26634d06a44f810",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -187,6 +148,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "36f9a5bfaf527de8c940902e8531812ea3afba43",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
+      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449269048",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "cea6f9c8eaab4556ddcee3a1e5dca48716cf3ebd",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -365,19 +339,6 @@
       "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4418942292",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "835fc9b5dd6638b26528d48f33640ef8b8c45797",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
-      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4432586112",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
@@ -452,19 +413,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-payroll-specialist-full-remote-jet-hr",
-      "nome": "Payroll Specialist - Full Remote — Jet HR",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-full-remote-at-jet-hr-4415201282",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8c723671fa823ab020efad5f4826b3c92eeeb3ce",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
       "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
@@ -517,14 +465,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
-    }
-  ]
+  "errori_fonti": []
 }
