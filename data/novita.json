@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-09T01:56:26.922Z",
+  "generated_at": "2026-08-09T07:00:50.941Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e9023e4aea391ead2982d9dbe4722105d6b8bbe1",
+  "catalog_hash": "43b273e40c96191133218bd81f8e667f969e3b54",
   "counts": {
     "nuovi": 1,
     "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Frosinone Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
+      "id": "linkedin-orfani-guerra-messina-educatori-educatrici-spazio-giovani-impresa-sociale",
+      "nome": "Educatori / Educatrici — Spazio Giovani - Impresa Sociale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatori-educatrici-at-spazio-giovani-impresa-sociale-4451025858",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "164d178aa4c1d9e3335e1bc156fd50bd40b33977",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e3a83e02f9bf0d2b45d97b73c9762213d451b2a9",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
