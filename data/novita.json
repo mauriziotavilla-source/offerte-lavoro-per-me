@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-09T07:00:50.941Z",
+  "generated_at": "2026-08-09T12:56:09.379Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "43b273e40c96191133218bd81f8e667f969e3b54",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 34
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-educatori-educatrici-spazio-giovani-impresa-sociale",
-      "nome": "Educatori / Educatrici — Spazio Giovani - Impresa Sociale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatori-educatrici-at-spazio-giovani-impresa-sociale-4451025858",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "e3a83e02f9bf0d2b45d97b73c9762213d451b2a9",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
