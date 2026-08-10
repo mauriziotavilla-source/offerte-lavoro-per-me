@@ -1,86 +1,125 @@
 {
-  "generated_at": "2026-08-10T13:15:03.807Z",
+  "generated_at": "2026-08-10T19:01:09.440Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1efd1d7ce5d2f60adb79a9f8a7ac033b4e4d1e19",
+  "catalog_hash": "170384cb17c3fff722328cd9057aa127306579c2",
   "counts": {
-    "nuovi": 6,
-    "aggiornati": 33
+    "nuovi": 9,
+    "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-universiadi-per-lo-sport-concorso-12-posti-istruttore-amminist",
-      "nome": "Agenzia regionale Universiadi per lo Sport, concorso 12 posti istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-cavenago-di-brianza-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Cavenago di Brianza, 1 Istruttore Amministrativo Contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-universiadi-lo-sport-concorso-istruttore-amministrativo-napoli-2026",
-      "data_pubblicazione": "2026-09-07",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cavenago-di-brianza-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
+      "data_pubblicazione": "2026-09-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c9523b418395bd7796ca3d4907ad64884ef81ae4",
+      "hash_contenuto": "2e383e687bf7a224421c8fa8156c27cc4b494598",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-leno-1-istruttore-amministrativo",
-      "nome": "Comune di Leno, 1 istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-maccagno-con-pino-e-veddasca-1-istruttore-amministrativo",
+      "nome": "Comune di Maccagno con Pino e Veddasca, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-leno-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-09-20",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-maccagno-con-pino-e-veddasca-concorso-istruttore-amministrativo-varese-2026",
+      "data_pubblicazione": "2026-09-12",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0ca11507b0c351b17e1521b594bbb3d9099214e4",
+      "hash_contenuto": "3b1d6e5f2884e768644e09fce3af4f0ae81f74cf",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-piuro-1-istruttore-amministrativo",
+      "nome": "Comune di Piuro, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-piuro-concorso-istruttore-amministrativo-sondrio-2026",
+      "data_pubblicazione": "2026-09-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
+      "hash_contenuto": "3034082c2c1496a3a49f81f4c2003dffbd17d6aa",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-istruttore-amministrativo-posti-12",
-      "nome": "Località Napoli Occupazione istruttore amministrativo Posti 12",
+      "id": "gazzetta-via-concorsipubblici-istruttore-amministrativo-settore-giuridico",
+      "nome": "istruttore amministrativo settore Giuridico",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/settore-giuridico-580",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "777bca43519f576d4ac93ff2564c89ca628e5620",
+      "hash_contenuto": "9f5bf90c106415401dcedd0e19d7a0a7837eb752",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Roma Occupazione collaboratore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-istruttore-amministrativo-settore-giuridico-posti-1",
+      "nome": "Località Bologna Occupazione istruttore amministrativo settore Giuridico Posti 16",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "671b7e5ae229c98b2ba2c36db435e78a5eacb3c8",
+      "hash_contenuto": "139b092691289dad851d148941e8618b1ff45a5a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Lecce Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "361d06f097cfc2901e030fb3e8422e9d4f153b39",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Varese Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5d4d12f18f543c57e4d2fdbfc78884a0f81a660f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-regione-emilia-romagna-16-istruttore-giuridico-amministrativo",
+      "nome": "Regione Emilia Romagna, 16 Istruttore giuridico-amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-emilia-romagna-concorso-istruttore-amministrativo-settore-giuridico-bologna-2026",
+      "data_pubblicazione": "2026-09-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "02825711b7cab3e926df1d2e5db0c750c2b1081d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-valli-del-reno-lavino-e-samoggia-1-istruttore-amministrativo-c",
+      "nome": "Unione dei Comuni Valli del Reno, Lavino e Samoggia, 1 Istruttore Amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-valli-del-reno-lavino-e-samoggia-di-casalecchio-di-reno-concorso-istruttore-6",
+      "data_pubblicazione": "2026-09-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1ed0d931201a8ac578c8efb72d124b9be016e40c",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -473,6 +512,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "52bce886513cb5a9ee5f5844bbf71b91f1a44fa4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
+      "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4451525379",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "affbab656138c76d2766ea03d4c5ea080b90f6ab",
       "notifica_topics": [
         "categorie_protette"
       ]
