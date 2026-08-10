@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-08-09T18:44:47.283Z",
+  "generated_at": "2026-08-10T02:01:35.483Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "43b273e40c96191133218bd81f8e667f969e3b54",
+  "catalog_hash": "4c32a8fd74aee53718dea1891d9a22ef25611784",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 34
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -71,6 +98,19 @@
       "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-3-posti-di-assiste",
+      "nome": "Azienda Ospedaliera Ospedale «San Gerardo dei Tintori» di Monza, 3 posti di assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-concorso-assistente-amministrativo-0",
+      "data_pubblicazione": "2026-08-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "dbd85718fbc1242899b70aef2253078e1ed2e707",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -436,29 +476,16 @@
       "notifica_topics": [
         "categorie_protette"
       ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-visual-information-specialist-u-s-navy-fleet-and-family-readiness-ffr",
-      "nome": "Visual Information Specialist — U.S. Navy Fleet and Family Readiness (FFR)",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-information-specialist-at-u-s-navy-fleet-and-family-readiness-ffr-4419135456",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9478a4e2781bda9a603fa805016a5177827663a9",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
     }
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
     },
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
     }
   ]
 }
