@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-08-10T02:01:35.483Z",
+  "generated_at": "2026-08-10T07:46:57.602Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "4c32a8fd74aee53718dea1891d9a22ef25611784",
+  "catalog_hash": "eb40b91d1e4df679d1f229439716b31d4d7d6264",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 34
+    "nuovi": 3,
+    "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
+      "id": "gazzetta-via-concorsipubblici-comunita-montana-della-carnia-di-tolmezzo-1-istruttore-amministrativo",
+      "nome": "Comunità montana della Carnia di Tolmezzo, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comunita-montana-della-carnia-tolmezzo-concorso-istruttore-amministrativo-udine-2026-1",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "868641af82a5c24838d05e0dfef039fa0c3bccce",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "gazzetta-via-concorsipubblici-localita-udine-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Udine Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/udine",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "83aa8b6c3574580dc1fbd7f03f793ea724fe0a5d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -98,19 +111,6 @@
       "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-3-posti-di-assiste",
-      "nome": "Azienda Ospedaliera Ospedale «San Gerardo dei Tintori» di Monza, 3 posti di assistente amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-ospedale-san-gerardo-dei-tintori-di-monza-concorso-assistente-amministrativo-0",
-      "data_pubblicazione": "2026-08-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "dbd85718fbc1242899b70aef2253078e1ed2e707",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     },
     {
@@ -480,12 +480,8 @@
   ],
   "errori_fonti": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
