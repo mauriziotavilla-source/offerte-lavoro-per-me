@@ -1,130 +1,12 @@
 {
-  "generated_at": "2026-08-10T19:01:09.440Z",
+  "generated_at": "2026-08-11T01:56:31.076Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "170384cb17c3fff722328cd9057aa127306579c2",
+  "catalog_hash": "d177ff347ee2cce3a005cac0ddac327864a7957e",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 34
+    "nuovi": 0,
+    "aggiornati": 35
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cavenago-di-brianza-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Cavenago di Brianza, 1 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cavenago-di-brianza-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
-      "data_pubblicazione": "2026-09-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2e383e687bf7a224421c8fa8156c27cc4b494598",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-maccagno-con-pino-e-veddasca-1-istruttore-amministrativo",
-      "nome": "Comune di Maccagno con Pino e Veddasca, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-maccagno-con-pino-e-veddasca-concorso-istruttore-amministrativo-varese-2026",
-      "data_pubblicazione": "2026-09-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3b1d6e5f2884e768644e09fce3af4f0ae81f74cf",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-piuro-1-istruttore-amministrativo",
-      "nome": "Comune di Piuro, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-piuro-concorso-istruttore-amministrativo-sondrio-2026",
-      "data_pubblicazione": "2026-09-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3034082c2c1496a3a49f81f4c2003dffbd17d6aa",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istruttore-amministrativo-settore-giuridico",
-      "nome": "istruttore amministrativo settore Giuridico",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/settore-giuridico-580",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9f5bf90c106415401dcedd0e19d7a0a7837eb752",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-istruttore-amministrativo-settore-giuridico-posti-1",
-      "nome": "Località Bologna Occupazione istruttore amministrativo settore Giuridico Posti 16",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "139b092691289dad851d148941e8618b1ff45a5a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Lecce Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "361d06f097cfc2901e030fb3e8422e9d4f153b39",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Varese Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5d4d12f18f543c57e4d2fdbfc78884a0f81a660f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-regione-emilia-romagna-16-istruttore-giuridico-amministrativo",
-      "nome": "Regione Emilia Romagna, 16 Istruttore giuridico-amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-emilia-romagna-concorso-istruttore-amministrativo-settore-giuridico-bologna-2026",
-      "data_pubblicazione": "2026-09-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "02825711b7cab3e926df1d2e5db0c750c2b1081d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-valli-del-reno-lavino-e-samoggia-1-istruttore-amministrativo-c",
-      "nome": "Unione dei Comuni Valli del Reno, Lavino e Samoggia, 1 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-valli-del-reno-lavino-e-samoggia-di-casalecchio-di-reno-concorso-istruttore-6",
-      "data_pubblicazione": "2026-09-11",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1ed0d931201a8ac578c8efb72d124b9be016e40c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -521,10 +403,10 @@
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4451525379",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4443516785",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "affbab656138c76d2766ea03d4c5ea080b90f6ab",
+      "hash_contenuto": "566f1614a8830ec1ca9d940e661adf5e98fa0635",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -551,6 +433,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "bd63b156a98cc3570758082a53695d4e51a66fa5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-program-assistant-palermo-italy-world-learning",
+      "nome": "Program Assistant - Palermo, Italy — World Learning",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/program-assistant-palermo-italy-at-world-learning-4452094177",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c5e2f74ff89bae92a281d13461b34332910198eb",
       "notifica_topics": [
         "categorie_protette"
       ]

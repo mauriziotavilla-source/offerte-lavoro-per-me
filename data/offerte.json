@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-08-10",
-  "versione": 209,
+  "ultimo_aggiornamento": "2026-08-11",
+  "versione": 210,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "170384cb17c3fff722328cd9057aa127306579c2",
-  "generated_at": "2026-08-10T19:01:09.439Z",
+  "catalog_hash": "d177ff347ee2cce3a005cac0ddac327864a7957e",
+  "generated_at": "2026-08-11T01:56:31.075Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -76,7 +76,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -101,7 +101,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -327,7 +327,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -352,7 +352,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -990,7 +990,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -1253,7 +1253,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1278,7 +1278,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1430,7 +1430,7 @@
       "data_pubblicazione": "2026-09-02",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -1506,7 +1506,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1531,7 +1531,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1557,7 +1557,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1582,7 +1582,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1896,7 +1896,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1921,7 +1921,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2071,7 +2071,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2298,7 +2298,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-21",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2323,7 +2323,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-07",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2474,7 +2474,7 @@
       "data_pubblicazione": "2026-08-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -2599,7 +2599,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2624,7 +2624,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2749,7 +2749,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2774,7 +2774,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3149,7 +3149,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3174,7 +3174,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3199,7 +3199,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3224,7 +3224,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4055,7 +4055,7 @@
       "data_pubblicazione": "2026-09-08",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4311,7 +4311,7 @@
       "data_pubblicazione": "2026-09-05",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4464,7 +4464,7 @@
       "data_pubblicazione": "2026-09-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4566,7 +4566,7 @@
       "data_pubblicazione": "2026-09-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4720,7 +4720,7 @@
       "data_pubblicazione": "2026-09-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5026,7 +5026,7 @@
       "data_pubblicazione": "2026-09-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5128,7 +5128,7 @@
       "data_pubblicazione": "2026-09-12",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5179,7 +5179,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5281,7 +5281,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5383,7 +5383,7 @@
       "data_pubblicazione": "2026-09-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6148,7 +6148,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6223,7 +6223,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6248,7 +6248,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6273,7 +6273,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6298,7 +6298,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7467,7 +7467,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -7492,7 +7492,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7870,7 +7870,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -7895,7 +7895,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8021,7 +8021,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8046,7 +8046,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8222,7 +8222,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8247,7 +8247,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8472,7 +8472,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8497,7 +8497,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8522,7 +8522,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8547,7 +8547,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8572,7 +8572,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8597,7 +8597,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8672,7 +8672,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8697,7 +8697,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8999,56 +8999,6 @@
       "hash_contenuto": "b8981a7e1efd1cd67aed33ec3629a0d48ca83930"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-gestione-contabile-e-documentale-alastro-soc-coop",
-      "nome": "Gestione contabile e documentale — alastro soc coop",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-08-10",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/gestione-contabile-e-documentale-4428280145",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-26",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "b3556680574e9915d47278f4478a0327d0d4a841"
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-global-product-manager-for-augmented-operator-abb",
       "nome": "Global Product Manager for Augmented Operator — ABB",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -9242,7 +9192,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9318,7 +9268,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9343,7 +9293,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9368,7 +9318,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9393,7 +9343,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9518,7 +9468,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9543,7 +9493,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9716,7 +9666,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9741,7 +9691,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9816,7 +9766,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9841,7 +9791,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10267,7 +10217,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10292,7 +10242,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10343,7 +10293,7 @@
       "data_pubblicazione": "2026-08-14",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10497,7 +10447,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10548,7 +10498,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10599,7 +10549,7 @@
       "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10644,7 +10594,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10689,7 +10639,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11054,7 +11004,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11079,7 +11029,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11254,7 +11204,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11279,7 +11229,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11704,7 +11654,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11749,7 +11699,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11885,7 +11835,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12020,7 +11970,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12110,7 +12060,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12245,7 +12195,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12380,7 +12330,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12470,7 +12420,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12605,7 +12555,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12830,7 +12780,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12875,7 +12825,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -12965,7 +12915,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13055,7 +13005,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13190,7 +13140,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13235,7 +13185,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13325,7 +13275,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13640,7 +13590,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -13665,7 +13615,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13840,7 +13790,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -13865,7 +13815,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13990,7 +13940,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14015,7 +13965,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14061,7 +14011,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14638,7 +14588,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14663,7 +14613,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14838,7 +14788,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14863,7 +14813,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14888,7 +14838,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14913,7 +14863,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -15040,7 +14990,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -15065,7 +15015,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -15172,6 +15122,56 @@
       "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af"
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-program-assistant-palermo-italy-world-learning",
+      "nome": "Program Assistant - Palermo, Italy — World Learning",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-09-25",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/program-assistant-palermo-italy-at-world-learning-4452094177",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-08-11",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "c5e2f74ff89bae92a281d13461b34332910198eb"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-programma-p-talent-pitagora-spa",
       "nome": "Programma P-TALENT — Pitagora Spa",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -15240,7 +15240,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -15265,7 +15265,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -15519,7 +15519,7 @@
       "data_pubblicazione": "2026-09-15",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15544,7 +15544,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -15569,7 +15569,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -15621,7 +15621,7 @@
       "data_pubblicazione": "2026-09-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15697,7 +15697,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -15722,7 +15722,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16042,7 +16042,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16067,7 +16067,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16392,7 +16392,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16417,7 +16417,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16993,7 +16993,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17018,7 +17018,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17043,7 +17043,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17068,7 +17068,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17243,7 +17243,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17268,61 +17268,11 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-tecnico-di-produzione-fiorillo-srl",
-      "nome": "Tecnico di produzione — FIORILLO SRL",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Maierato, Calabria, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-08-10",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-di-produzione-at-fiorillo-srl-4290742335",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-06-26",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "e66076b56e9a08caa77e5c0f8d761c6edd502d88"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-tirocinio-area-ascolto-e-consulenza-infanzia-palermo-fondazione-sos-il-telefono-",
@@ -17343,7 +17293,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17368,7 +17318,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17393,7 +17343,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17418,7 +17368,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17469,7 +17419,7 @@
       "data_pubblicazione": "2026-09-11",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -17595,7 +17545,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-22",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17620,7 +17570,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-08",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17645,7 +17595,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-24",
+          "data": "2026-09-25",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17670,7 +17620,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-10",
+      "rilevato_il": "2026-08-11",
       "notifica_topics": [
         "categorie_protette"
       ],
