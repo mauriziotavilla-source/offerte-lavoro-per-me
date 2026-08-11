@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-08-11T01:56:31.076Z",
+  "generated_at": "2026-08-11T07:12:14.721Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d177ff347ee2cce3a005cac0ddac327864a7957e",
+  "catalog_hash": "e4f7b90f6e785ad5099b18103f536eda413d66ba",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 35
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-porto-torres-2-istruttori-amministrativi",
+      "nome": "Comune di Porto Torres, 2 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-porto-torres-concorso-istruttore-amministrativo-sassari-2026",
+      "data_pubblicazione": "2026-08-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6f77400eba1f2fd2c6e5249a309e96c2ae729aa3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Sassari Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sassari",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "50ebe47ec00f4dfc52cd41519b042b9b74dd1d0c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -442,10 +469,10 @@
       "nome": "Program Assistant - Palermo, Italy — World Learning",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/program-assistant-palermo-italy-at-world-learning-4452094177",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/program-assistant-palermo-italy-at-world-learning-4438670565",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c5e2f74ff89bae92a281d13461b34332910198eb",
+      "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -464,5 +491,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
