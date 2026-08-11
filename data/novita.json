@@ -1,62 +1,88 @@
 {
-  "generated_at": "2026-08-11T13:11:42.250Z",
+  "generated_at": "2026-08-11T19:05:14.443Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7dacc98cb4203a884fc753fe0ebb56e7004879a6",
+  "catalog_hash": "08a15c8daf267c3e1bc30f6a9182c5a57fca2ce1",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 6,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-guasila-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Guasila, 1 istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-campagnatico-concorso-per-un-collaboratore-amministrativo-part-time-e-",
+      "nome": "Comune di Campagnatico, concorso per un collaboratore amministrativo part time e a tempo indeterminato",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-guasila-concorso-istruttore-amministrativo-contabile-cagliari-2026",
-      "data_pubblicazione": "2026-09-07",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-campagnatico-concorso-collaboratore-amministrativo-toscana-2026",
+      "data_pubblicazione": "2026-09-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8c92becab515396504a32d2d1320ec3871999cc2",
+      "hash_contenuto": "a952df08ca782606c908f368cfca9725c0c41208",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sant-anastasia-concorso-per-3-istruttori-amministrativi-a-tempo-determ",
-      "nome": "Comune di Sant'Anastasia, concorso per 3 istruttori amministrativi a tempo determinato nello staff del Sindaco",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santanastasia-concorso-istruttore-amministrativo-campania-2026",
-      "data_pubblicazione": "2026-09-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "62f36d80b3705c2dcc26ec9ddb4cba635cfd39fe",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-cagliari-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Cagliari Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cagliari",
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bb3731a4a10e218eddec7300fe3cebb070b56195",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-campania-occupazione-istruttore-amministrativo-posti-3",
-      "nome": "Località Campania Occupazione istruttore amministrativo Posti 3",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/campania",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9620e38d5b4b49560373d90e91ed9c5ebcaee099",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-sales-advisor-miroglio-group",
+      "nome": "Sales Advisor — Miroglio Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-advisor-at-miroglio-group-4339932828",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "fdb68607290c6bbb1dd5859920eb093350f2e58e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-alle-vendite-tommy-hilfiger-reggio-calabria-gifrab-italia-s-p-a",
+      "nome": "STAGE ADDETTO/A ALLE VENDITE - TOMMY HILFIGER REGGIO CALABRIA — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-alle-vendite-tommy-hilfiger-reggio-calabria-at-gifrab-italia-s-p-a-4451901217",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e02f4e2f82ad07335f5f10f2ab381cc6534a8097",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-vendite-tommy-hilfiger-taormina-gifrab-italia-s-p-a",
+      "nome": "STAGE ADDETTO/A VENDITE - TOMMY HILFIGER (TAORMINA) — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4451177763",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "27bdfa33b2488ebfd7e8633626018937d4b892d8",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -517,14 +543,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
