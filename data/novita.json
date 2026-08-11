@@ -1,34 +1,60 @@
 {
-  "generated_at": "2026-08-11T07:12:14.721Z",
+  "generated_at": "2026-08-11T13:11:42.250Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e4f7b90f6e785ad5099b18103f536eda413d66ba",
+  "catalog_hash": "7dacc98cb4203a884fc753fe0ebb56e7004879a6",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 4,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-porto-torres-2-istruttori-amministrativi",
-      "nome": "Comune di Porto Torres, 2 istruttori amministrativi",
+      "id": "gazzetta-via-concorsipubblici-comune-di-guasila-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Guasila, 1 istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-porto-torres-concorso-istruttore-amministrativo-sassari-2026",
-      "data_pubblicazione": "2026-08-10",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-guasila-concorso-istruttore-amministrativo-contabile-cagliari-2026",
+      "data_pubblicazione": "2026-09-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6f77400eba1f2fd2c6e5249a309e96c2ae729aa3",
+      "hash_contenuto": "8c92becab515396504a32d2d1320ec3871999cc2",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Sassari Occupazione istruttore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-comune-di-sant-anastasia-concorso-per-3-istruttori-amministrativi-a-tempo-determ",
+      "nome": "Comune di Sant'Anastasia, concorso per 3 istruttori amministrativi a tempo determinato nello staff del Sindaco",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sassari",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santanastasia-concorso-istruttore-amministrativo-campania-2026",
+      "data_pubblicazione": "2026-09-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "62f36d80b3705c2dcc26ec9ddb4cba635cfd39fe",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-cagliari-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Cagliari Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cagliari",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "50ebe47ec00f4dfc52cd41519b042b9b74dd1d0c",
+      "hash_contenuto": "bb3731a4a10e218eddec7300fe3cebb070b56195",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-campania-occupazione-istruttore-amministrativo-posti-3",
+      "nome": "Località Campania Occupazione istruttore amministrativo Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/campania",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9620e38d5b4b49560373d90e91ed9c5ebcaee099",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -492,10 +518,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
