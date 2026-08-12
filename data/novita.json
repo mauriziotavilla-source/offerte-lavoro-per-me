@@ -1,23 +1,88 @@
 {
-  "generated_at": "2026-08-12T07:37:03.420Z",
+  "generated_at": "2026-08-12T13:16:01.074Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "51dc6a92b75f3d90259136fd23206d1a08a9ec92",
+  "catalog_hash": "82a5f922e6669635ccd042c725a26c118c38a936",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 6,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-cabin-crew-recruitment-day-catania-4-september-2026-wizz-air",
-      "nome": "Cabin Crew Recruitment Day - Catania - 4 September 2026 — Wizz Air",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vanzago-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Vanzago , 1 istruttore amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vanzago-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "data_pubblicazione": "2026-08-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a8d918738f152eedcc11883f7895a843e7f3ed77",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/cabin-crew-recruitment-day-catania-4-september-2026-at-wizz-air-4451483983",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f5e0460c676b2005429a701bc273f6ebfec945c1",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-director-of-human-resources-ihg-hotels-resorts",
+      "nome": "Director of Human Resources — IHG Hotels & Resorts",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-human-resources-at-ihg-hotels-resorts-4450138125",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f633ec269636bc42ec8c1539cae5bf7e0b016199",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-collaboratore-amministrativo-posti-2",
+      "nome": "Località Roma Occupazione collaboratore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4a6f6721f911e5bfc1d9fcc81d1cb1a7fe3f193d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Toscana Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/toscana",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9a9e6fe23cde6e251b79124d6ddef245233013f1",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -478,5 +543,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
