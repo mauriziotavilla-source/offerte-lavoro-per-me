@@ -1,86 +1,203 @@
 {
-  "generated_at": "2026-08-11T19:05:14.443Z",
+  "generated_at": "2026-08-12T02:09:17.910Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "08a15c8daf267c3e1bc30f6a9182c5a57fca2ce1",
+  "catalog_hash": "74117aa48adeb73dfae5cdafd2c1f6caf5b3e6a3",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 15,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-campagnatico-concorso-per-un-collaboratore-amministrativo-part-time-e-",
-      "nome": "Comune di Campagnatico, concorso per un collaboratore amministrativo part time e a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-campagnatico-concorso-collaboratore-amministrativo-toscana-2026",
-      "data_pubblicazione": "2026-09-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a952df08ca782606c908f368cfca9725c0c41208",
+      "id": "linkedin-orfani-guerra-sicilia-account-manager-alleanza-assicurazioni-s-p-a",
+      "nome": "Account manager — ALLEANZA ASSICURAZIONI S.P.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-at-alleanza-assicurazioni-s-p-a-4443287456",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "be741d5f8d56f3fc514da8e08efb3a371a296240",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-professionista-cam-colori",
+      "nome": "Agente di commercio professionista — Cam Colori",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-professionista-4448148447",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d8ce819e090bf79f80c9e4908f1b641d2c3d336b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-professionista-marco-mantione-rappresentanze",
+      "nome": "Agente di commercio professionista — Marco Mantione Rappresentanze",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-professionista-4448427091",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "dc228139d2979baf435a7e8164e85f86cedebf30",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-plurimandatario-settore-healthcare-palermo-e-trapani-uriach-italy",
+      "nome": "Agente plurimandatario | Settore healthcare - Palermo e Trapani — Uriach Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-plurimandatario-settore-healthcare-palermo-e-trapani-at-uriach-italy-4443146423",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a637dfb2b2a5d27567495809ded00b1a8461ea12",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-di-successo-finanziario-piramide-srl",
+      "nome": "Consulente di successo Finanziario — Piramide srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-di-successo-finanziario-at-piramide-srl-4187030231",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ff9cdae1f08e22214a0993f47a1e27d653e88652",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-direttore-tecnico-di-cantiere-palazzo-parigi-hotel-grand-spa",
+      "nome": "DIRETTORE TECNICO DI CANTIERE — Palazzo Parigi Hotel & Grand Spa",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-tecnico-di-cantiere-at-palazzo-parigi-hotel-grand-spa-4430424255",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "1e10c5cb279200f3196be3d2a9a7c03c3cb3f0f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-muratore-operaio-edile-messina-acrobatica",
+      "nome": "Muratore/Operaio Edile Messina — Acrobatica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-messina-at-acrobatica-4150862696",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d9badd82c71350a004b681eb24c0e90d6b7e8c55",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-muratore-operaio-edile-reggio-calabria-acrobatica",
+      "nome": "Muratore/Operaio Edile Reggio Calabria — Acrobatica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-reggio-calabria-at-acrobatica-4132275348",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "69e9e6af36a446056a5dc2be8c306f5c0d97cd5f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-sales-advisor-miroglio-group",
-      "nome": "Sales Advisor — Miroglio Group",
+      "id": "linkedin-orfani-guerra-messina-opera-ricerca-agente-di-vendita-opera-adesivi",
+      "nome": "Opera ricerca Agente di Vendita — Opera Adesivi",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-advisor-at-miroglio-group-4339932828",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/opera-ricerca-agente-di-vendita-at-opera-adesivi-4435975690",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fdb68607290c6bbb1dd5859920eb093350f2e58e",
+      "hash_contenuto": "d9ef2591475d70f975d94117b55d129f19d7fcbe",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-alle-vendite-tommy-hilfiger-reggio-calabria-gifrab-italia-s-p-a",
-      "nome": "STAGE ADDETTO/A ALLE VENDITE - TOMMY HILFIGER REGGIO CALABRIA — Gifrab Italia S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-sales-assistant-categoria-protetta-vibo-valentia-c-c-vibo-center-greenlever",
+      "nome": "Sales Assistant Categoria Protetta \"VIBO VALENTIA\" - C.C. Vibo Center — Greenlever",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-alle-vendite-tommy-hilfiger-reggio-calabria-at-gifrab-italia-s-p-a-4451901217",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-categoria-protetta-vibo-valentia-c-c-vibo-center-at-greenlever-4446146682",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "e02f4e2f82ad07335f5f10f2ab381cc6534a8097",
+      "hash_contenuto": "a66ac784ec47a13fe39405706b48d43f202f0cdc",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-vendite-tommy-hilfiger-taormina-gifrab-italia-s-p-a",
-      "nome": "STAGE ADDETTO/A VENDITE - TOMMY HILFIGER (TAORMINA) — Gifrab Italia S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-sales-assistant-categoria-protetta-vibo-valentia-c-c-vibo-center-jd-sports-fashi",
+      "nome": "Sales Assistant Categoria Protetta \"VIBO VALENTIA\" - C.C. Vibo Center — JD Sports Fashion",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4451177763",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-categoria-protetta-vibo-valentia-c-c-vibo-center-at-jd-sports-fashion-4442208102",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "27bdfa33b2488ebfd7e8633626018937d4b892d8",
+      "hash_contenuto": "607ff0d94c7a0b9a0de3ae50e46fc64ca614f6e0",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-sviluppatore-php-fonarcom",
+      "nome": "Sviluppatore php — FonARCom",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sviluppatore-php-at-fonarcom-4436361285",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7864d062750a50625dd4f11babc4eb29a2bb565d",
       "notifica_topics": [
         "categorie_protette"
       ]
