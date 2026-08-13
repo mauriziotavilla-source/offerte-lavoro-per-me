@@ -1,12 +1,182 @@
 {
-  "generated_at": "2026-08-13T07:38:33.173Z",
+  "generated_at": "2026-08-13T13:17:37.455Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a989aec799396ad68cecb3049a565b015c37c57e",
+  "catalog_hash": "26b9e6874e575bb9925d92c9fbd01f972e72fb47",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 37
+    "nuovi": 13,
+    "aggiornati": 39
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-avviso-pubblico-di-mobilita-volontaria-compartimentale-regionale-ed-interregiona",
+      "nome": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA COMPARTIMENTALE, REGIONALE ED INTERREGIONALE,PER TITOLI E COLLOQUIO, A TEMPO PIENO E INDETERMINATO N.18 POSTI TECNICO DELLA PREVENZIONE PER LE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-mobilita%E2%80%99-volontaria-compartimentale-regionale-ed-interregionale-per-titoli-e-colloquio-a-tempo-pieno-e-indeterminato-n-18-posti-tecnico-della-prevenzione-per-le-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4444786306",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "59354ecac52994b7cb1e1c23da114473e17c8338",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-francofonte-1-revisore-contabile",
+      "nome": "Comune di Francofonte, 1 revisore contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-francofonte-concorso-revisore-contabile-frosinone-2026",
+      "data_pubblicazione": "2026-09-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4cca5df00d2d932791fd32e8c6ff1476726c357c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ruoti-2-posti-di-istruttore-amministrativo-contabile",
+      "nome": "Comune di Ruoti, 2 posti di istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ruoti-concorso-istruttore-amministrativo-contabile-potenza-2026",
+      "data_pubblicazione": "2026-09-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "818ca08a121da9395ec9ff8e999700fffceced7f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-saracena-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Saracena, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-saracena-concorso-istruttore-amministrativo-contabile-cosenza-2026",
+      "data_pubblicazione": "2026-09-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "cded97f9a0476286216eb6a38ce36fae616b161a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-data-analyst-junior-xdevel-s-r-l",
+      "nome": "Data Analyst (Junior) — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/data-analyst-junior-at-xdevel-s-r-l-4444568443",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "993fffec607e71d4ef6bd110a9d6eb4b56b05934",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-educatore-professionale-cooperativa-sociale-etnos",
+      "nome": "Educatore professionale — Cooperativa Sociale Etnos",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatore-professionale-at-cooperativa-sociale-etnos-4453699809",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "aa32c8354b4bac356aafd5edef85e1163871918b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-impiegato-a-area-amministrativo-contabile-siculabriosce",
+      "nome": "Impiegato/a Area Amministrativo-Contabile — SiculaBriosce",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-area-amministrativo-contabile-at-siculabriosce-4453684867",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "6956c9e4affc864b9204449f590db5a7ca18389e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Cosenza Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cosenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e04acd680cb2d340d6570b7099bfa530daa6bb76",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-revisore-contabile-posti-1",
+      "nome": "Località Frosinone Occupazione revisore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "cc7839b3a520b9a7d0ac6d0ae866dd2457e096f0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Palermo Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "979c307536c128dc0222e916c3cdfd7c926a3694",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-potenza-occupazione-istruttore-amministrativo-contabile-posti-2",
+      "nome": "Località Potenza Occupazione istruttore amministrativo contabile Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/potenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6eaaadffd1e1b9251b4473b5899fc81760c9679f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
+      "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-at-pandora-4431960216",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "fecca6d4ae095fb407f8fd1abe978461813c3db2",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
@@ -360,6 +530,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-lavora-negli-eventi-e-nel-marketing-part-time-full-time-jteam-srls",
+      "nome": "Lavora negli Eventi e nel Marketing – Part Time / Full Time — Jteam SRLS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-negli-eventi-e-nel-marketing-%E2%80%93-part-time-full-time-at-jteam-srls-4449018461",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "be1aac525c0213558e9c732826b7a5213465ef5b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-operatore-di-linea-settore-detergenza-fiorillo-detergenza",
       "nome": "Operatore di linea- Settore Detergenza — Fiorillo Detergenza",
       "tipo": "categoria_protetta",
@@ -377,10 +560,10 @@
       "nome": "Operatore/trice di Front-office/Back-office — Adecco",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4450448820",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4433188731",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "0222e6ec7fedda4e1698d4990fae99edb62da3ef",
+      "hash_contenuto": "7c6f3be18938c892deddfd638cce12ca4606ff33",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -455,10 +638,23 @@
       "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4453668292",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4449683709",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c1fd96527a07c3db6b24e773e7477c28afc4e1b7",
+      "hash_contenuto": "a2c03c325c8c5cfe3f91b4c9cf85d458d54a8a92",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
+      "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-mobilit%C3%A0-volontaria-per-l%E2%80%99immissione-nel-ruolo-unico-del-ministero-dell%E2%80%99economia-e-delle-finanze-di-n-122-funzionari-at-dipartimento-della-funzione-pubblica-4448785783",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ccf45c95a2c41826cc364e2d8170684df1046e26",
       "notifica_topics": [
         "categorie_protette"
       ]
