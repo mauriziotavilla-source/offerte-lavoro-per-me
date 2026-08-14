@@ -1,137 +1,59 @@
 {
-  "generated_at": "2026-08-14T13:12:25.998Z",
+  "generated_at": "2026-08-14T18:58:19.839Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e01c89ecb46d1d7bad1e1ed291a5a7b9b758e2f6",
+  "catalog_hash": "69ef7502c570121952f9fb65ed13e8e506d0cf16",
   "counts": {
-    "nuovi": 10,
+    "nuovi": 4,
     "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
-      "nome": "Addetto all’accoglienza e promozione-Aeroporto ed Eventi -Part time/full time — Vimik Marketing srls",
+      "id": "linkedin-orfani-guerra-sicilia-accoglienza-e-supporto-clienti-ambiente-giovane-part-full-time-catania-jteam-srl",
+      "nome": "Accoglienza e Supporto Clienti – Ambiente Giovane - Part/Full Time - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-all%E2%80%99accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-at-vimik-marketing-srls-4451315207",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/accoglienza-e-supporto-clienti-%E2%80%93-ambiente-giovane-part-full-time-catania-at-jteam-srls-4451580971",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c11a0ca0361e68617ef44cc6a6d6f83287b0b9fc",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9449573c6e5d056b9c1cfe0473e43d8e692e7051",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
-      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "id": "linkedin-orfani-guerra-sicilia-advisory-specialist-acceleration-center-palermo-adv-pwc-italy",
+      "nome": "Advisory - Specialist - Acceleration Center - Palermo [ADV] — PwC Italy",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4450934124",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/advisory-specialist-acceleration-center-palermo-adv-at-pwc-italy-4266642303",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "197180824bf94b0fe64dadcd1d21692e4425fed6",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c9fed51cfcf56351a297afe2995da64545e49224",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-carmiano-5-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Carmiano, 5 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-carmiano-concorso-istruttore-amministrativo-contabile-lecce-2026",
-      "data_pubblicazione": "2026-09-14",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c88d05f6eb556fe23e82f8e884c19040500524e8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-illasi-1-istruttore-amministrativo",
-      "nome": "Comune di Illasi, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-illasi-concorso-istruttore-amministrativo-verona-2026",
-      "data_pubblicazione": "2026-09-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e4fece4ea7edf9262de43e09432858146f23b7cd",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
+      "id": "linkedin-orfani-guerra-messina-i-know-they-love-me-when-re-balance-org",
+      "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
+      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-lidl-2-your-career-apprendista-assistant-store-manager-lidl-italia",
-      "nome": "Lidl 2 your career - Apprendista Assistant Store Manager — Lidl Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lidl-2-your-career-apprendista-assistant-store-manager-at-lidl-italia-4435463340",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "17c9e9e242d909604c8aeda454c6c4f3bd9a375b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-contabile-posti-5",
-      "nome": "Località Lecce Occupazione istruttore amministrativo contabile Posti 5",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0139f3df38c798183f0b25b9aea4d246a359cd34",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Verona Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "63b46bb935bcafe70bafd72f45d1a25d68a25b1d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
