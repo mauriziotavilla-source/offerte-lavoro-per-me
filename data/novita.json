@@ -1,99 +1,73 @@
 {
-  "generated_at": "2026-08-15T01:22:33.119Z",
+  "generated_at": "2026-08-15T06:42:28.294Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a187a813dfb9ca87e869ad846b0efb34fb53b54e",
+  "catalog_hash": "d3566807ce6e8b1320638156b3176c3ff5f5a2d0",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 35
+    "nuovi": 5,
+    "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-vendita-reparto-ortofrutta-conad-casteldaccia-giaconia-s-r-l",
+      "nome": "ADDETTO VENDITA REPARTO ORTOFRUTTA CONAD CASTELDACCIA — GIACONIA S.R.L.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-vendita-reparto-ortofrutta-conad-casteldaccia-at-giaconia-s-r-l-4436319419",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "hash_contenuto": "924db96c3c2f302e267928f70b47486dc6326315",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-co",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATODI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICAper a.a. 2026/2027 - DPR 83/2024 AFAM006 VIOLINO — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-conservatori-di-musicaper-a-a-2026-2027-dpr-83-2024-afam006-violino-at-dipartimento-della-funzione-pubblica-4451262748",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "hash_contenuto": "c97c3083cda40e33f99cef394f2d58d156327dc4",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-fabian-schafer-oracle-law-global-azerbaijan",
-      "nome": "Fabian Schäfer — Oracle Law Global Azerbaijan",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/fabian-sch%C3%A4fer-at-oracle-law-global-azerbaijan-4449172435",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8e2290d5a97dc4ce009ac739c2bfc584a58f45df",
+      "id": "gazzetta-via-concorsipubblici-comune-di-bergamo-1-istruttore-amministrativo",
+      "nome": "Comune di Bergamo, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bergamo-concorso-istruttore-amministrativo-bergamo-2026",
+      "data_pubblicazione": "2026-08-14",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f27bcf4117de5831800c5938ebf904c671d40229",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-pasticcere-rosticcere-giuseppe-barone-artigiano-del-gusto",
-      "nome": "Pasticcere rosticcere — Giuseppe Barone - Artigiano del Gusto",
+      "id": "linkedin-orfani-guerra-messina-consulenti-in-smart-working-con-esperienza-specializzazione-lingua-francese-tede",
+      "nome": "Consulenti in smart working con esperienza specializzazione lingua francese/tedesca — Fides S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pasticcere-rosticcere-4425734911",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7371a6c8f82af372752e7b0f63a85fb2b2011eb8",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-programma-campus-ottici-abilitati-prima-esperienza-marsala-tp-grandvision-italy",
-      "nome": "PROGRAMMA CAMPUS - ottici abilitati prima esperienza Marsala (TP) — GrandVision Italy",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/programma-campus-ottici-abilitati-prima-esperienza-marsala-tp-at-grandvision-italy-4446426436",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bef390aeabb2921d88375fcff5724e944b5c2e7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-stage-addetto-a-alle-vendite-agrigento-c-c-citta-dei-templi-original-marines-s-p",
-      "nome": "Stage Addetto/a alle vendite - Agrigento C.C. Città dei Templi — Original Marines S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-alle-vendite-agrigento-c-c-citt%C3%A0-dei-templi-at-original-marines-s-p-a-4425652193",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "e911070cd8199d9a0e1f5a7159a7eda3155757bf",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulenti-in-smart-working-con-esperienza-specializzazione-lingua-francese-tedesca-at-fides-s-p-a-4446908597",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "hash_contenuto": "450c0eec10f39f7ebfaf11b9fb4038f747415990",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -153,6 +127,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-incarico",
+      "nome": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA-AZIENDA ZERO-INCARICO QUINQUENNALE DIREZIONE STRUTTURA COMPLESSA SERVIZIO PSCHIATRICO DIAGNOSI E CURA SPOKE LOCRI - ASP REGGIO CALABRIA — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanit%C3%A0-della-regione-calabria-azienda-zero-incarico-quinquennale-direzione-struttura-complessa-servizio-pschiatrico-diagnosi-e-cura-spoke-locri-asp-reggio-calabria-at-dipartimento-della-funzione-pubblica-4447315620",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7805cbb11f5493506472aa221f04e6511f5452c9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-buyer-impiegato-a-ufficio-acquisti-archimede-agenzia-per-il-lavoro-filiale-di-ud",
       "nome": "BUYER - IMPIEGATO /A UFFICIO ACQUISTI — Archimede - Agenzia per il lavoro -filiale di Udine",
       "tipo": "categoria_protetta",
@@ -200,6 +187,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "36f9a5bfaf527de8c940902e8531812ea3afba43",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
+      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO DI MUSICA V. BELLINI DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM010 CORNO — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-di-musica-v-bellini-di-caltanissetta-settore-artistico-disciplinare-afam010-corno-at-dipartimento-della-funzione-pubblica-4449248942",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c8cbb921b1f40373324beb8bc84dd39cfce9e225",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -358,6 +358,19 @@
       "hash_contenuto": "b50d8cdae4fc27089e32c1a9b59bacf1d5dd4576",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-irccs-centro-neurolesi-bonino-pulejo-1-collaboratore-amministrativo",
+      "nome": "Irccs Centro Neurolesi Bonino Pulejo, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/irccs-centro-neurolesi-bonino-pulejo-di-messina-concorso-collaboratore-amministrativo-messina-2026",
+      "data_pubblicazione": "2026-08-14",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "a7f78423f7c0ccddc9fe941fcc1bb23463aad686",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
