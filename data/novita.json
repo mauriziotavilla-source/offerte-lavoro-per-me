@@ -1,59 +1,98 @@
 {
-  "generated_at": "2026-08-14T18:58:19.839Z",
+  "generated_at": "2026-08-15T01:22:33.119Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "69ef7502c570121952f9fb65ed13e8e506d0cf16",
+  "catalog_hash": "a187a813dfb9ca87e869ad846b0efb34fb53b54e",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 38
+    "nuovi": 7,
+    "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-accoglienza-e-supporto-clienti-ambiente-giovane-part-full-time-catania-jteam-srl",
-      "nome": "Accoglienza e Supporto Clienti – Ambiente Giovane - Part/Full Time - Catania — Jteam SRLS",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/accoglienza-e-supporto-clienti-%E2%80%93-ambiente-giovane-part-full-time-catania-at-jteam-srls-4451580971",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9449573c6e5d056b9c1cfe0473e43d8e692e7051",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-advisory-specialist-acceleration-center-palermo-adv-pwc-italy",
-      "nome": "Advisory - Specialist - Acceleration Center - Palermo [ADV] — PwC Italy",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/advisory-specialist-acceleration-center-palermo-adv-at-pwc-italy-4266642303",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c9fed51cfcf56351a297afe2995da64545e49224",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
+      "id": "linkedin-orfani-guerra-sicilia-fabian-schafer-oracle-law-global-azerbaijan",
+      "nome": "Fabian Schäfer — Oracle Law Global Azerbaijan",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/fabian-sch%C3%A4fer-at-oracle-law-global-azerbaijan-4449172435",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8e2290d5a97dc4ce009ac739c2bfc584a58f45df",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-pasticcere-rosticcere-giuseppe-barone-artigiano-del-gusto",
+      "nome": "Pasticcere rosticcere — Giuseppe Barone - Artigiano del Gusto",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pasticcere-rosticcere-4425734911",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7371a6c8f82af372752e7b0f63a85fb2b2011eb8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-programma-campus-ottici-abilitati-prima-esperienza-marsala-tp-grandvision-italy",
+      "nome": "PROGRAMMA CAMPUS - ottici abilitati prima esperienza Marsala (TP) — GrandVision Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/programma-campus-ottici-abilitati-prima-esperienza-marsala-tp-at-grandvision-italy-4446426436",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bef390aeabb2921d88375fcff5724e944b5c2e7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-stage-addetto-a-alle-vendite-agrigento-c-c-citta-dei-templi-original-marines-s-p",
+      "nome": "Stage Addetto/a alle vendite - Agrigento C.C. Città dei Templi — Original Marines S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-alle-vendite-agrigento-c-c-citt%C3%A0-dei-templi-at-original-marines-s-p-a-4425652193",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e911070cd8199d9a0e1f5a7159a7eda3155757bf",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -61,19 +100,6 @@
     }
   ],
   "aggiornati": [
-    {
-      "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
-      "nome": "Account manager — ALLEANZA ASSICURAZIONI S.P.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-at-alleanza-assicurazioni-s-p-a-4430487309",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "92ae0ec5c696cf5c3856fd4822ba8e9684db2c6e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
@@ -161,19 +187,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "a091c8aacde73c4ab2b0550d38f6da33812cf49b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-commerciale-reggio-calabria-m-f-vitalaire",
-      "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4418951383",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "78e7c2e35194b983cfb1923ed3a75c31b093e9d1",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -382,19 +395,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "3681a68bca1d661baa51178aa11515be4ad8bacd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-lavora-negli-eventi-e-nel-marketing-part-time-full-time-jteam-srls",
-      "nome": "Lavora negli Eventi e nel Marketing – Part Time / Full Time — Jteam SRLS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-negli-eventi-e-nel-marketing-%E2%80%93-part-time-full-time-at-jteam-srls-4431327030",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9b1a2287a3e30522597e06710e358d19afca4856",
       "notifica_topics": [
         "categorie_protette"
       ]
