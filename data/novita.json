@@ -1,72 +1,33 @@
 {
-  "generated_at": "2026-08-15T06:42:28.294Z",
+  "generated_at": "2026-08-15T12:41:54.449Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d3566807ce6e8b1320638156b3176c3ff5f5a2d0",
+  "catalog_hash": "1ca0d4f098297a7b97ab1d57ef432619298ee999",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 38
+    "nuovi": 2,
+    "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-vendita-reparto-ortofrutta-conad-casteldaccia-giaconia-s-r-l",
-      "nome": "ADDETTO VENDITA REPARTO ORTOFRUTTA CONAD CASTELDACCIA — GIACONIA S.R.L.",
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-vendita-reparto-ortofrutta-conad-casteldaccia-at-giaconia-s-r-l-4436319419",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "924db96c3c2f302e267928f70b47486dc6326315",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-co",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATODI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICAper a.a. 2026/2027 - DPR 83/2024 AFAM006 VIOLINO — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-conservatori-di-musicaper-a-a-2026-2027-dpr-83-2024-afam006-violino-at-dipartimento-della-funzione-pubblica-4451262748",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c97c3083cda40e33f99cef394f2d58d156327dc4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bergamo-1-istruttore-amministrativo",
-      "nome": "Comune di Bergamo, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bergamo-concorso-istruttore-amministrativo-bergamo-2026",
-      "data_pubblicazione": "2026-08-14",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f27bcf4117de5831800c5938ebf904c671d40229",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-consulenti-in-smart-working-con-esperienza-specializzazione-lingua-francese-tede",
-      "nome": "Consulenti in smart working con esperienza specializzazione lingua francese/tedesca — Fides S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulenti-in-smart-working-con-esperienza-specializzazione-lingua-francese-tedesca-at-fides-s-p-a-4446908597",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "450c0eec10f39f7ebfaf11b9fb4038f747415990",
+      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
       "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
         "categorie_protette"
@@ -361,19 +322,6 @@
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-irccs-centro-neurolesi-bonino-pulejo-1-collaboratore-amministrativo",
-      "nome": "Irccs Centro Neurolesi Bonino Pulejo, 1 collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/irccs-centro-neurolesi-bonino-pulejo-di-messina-concorso-collaboratore-amministrativo-messina-2026",
-      "data_pubblicazione": "2026-08-14",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "a7f78423f7c0ccddc9fe941fcc1bb23463aad686",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-geofisica-e-vulcanologia-ingv-1-collaboratore-amministrati",
       "nome": "Istituto Nazionale di Geofisica e Vulcanologia – INGV, 1 collaboratore amministrativo",
       "tipo": "concorso",
@@ -569,5 +517,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
