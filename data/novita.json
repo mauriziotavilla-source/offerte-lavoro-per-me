@@ -1,72 +1,111 @@
 {
-  "generated_at": "2026-08-16T12:43:43.737Z",
+  "generated_at": "2026-08-16T18:32:56.856Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9c59af5e26b60dcbf0a707df2569832629f0bae7",
+  "catalog_hash": "be64ccae1b309d6be7b6a6cffdd0b594e34eee96",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 39
+    "nuovi": 8,
+    "aggiornati": 40
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "id": "linkedin-orfani-guerra-sicilia-assistente-tecnico-impianti-tecnologici-catania-ali-professional",
+      "nome": "Assistente Tecnico Impianti Tecnologici - Catania — Ali Professional",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-tecnico-impianti-tecnologici-catania-at-ali-professional-4445723951",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e486684844274ac4d0f19b1db70a33bb712dd811",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-commerciale-leotta-rappresentanze",
+      "nome": "Consulente commerciale — Leotta Rappresentanze",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-commerciale-4453004490",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "cf3d946b0faf07c75ac709297caf1e32eeb86993",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
       "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-primaria-s-p-a-ricerca-su-tutto-il-territorio-nazionale-energy-account-inserimen",
-      "nome": "Primaria S.p.A. ricerca su tutto il territorio Nazionale Energy Account - inserimento immediato — Primaria SpA",
+      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
+      "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/primaria-s-p-a-ricerca-su-tutto-il-territorio-nazionale-energy-account-inserimento-immediato-at-primaria-spa-4426507708",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a861bce7685f92479b57a6c7ae4ba138ed86e08f",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
-      "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
+      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Bologna Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2054fe15e1adb6c272fee104268e5038129ae3a0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-at-pandora-4431960216",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fecca6d4ae095fb407f8fd1abe978461813c3db2",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -322,14 +361,27 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-ente-parco-delle-madonie-dipartimento-della-funzione-pubblica",
+      "nome": "ENTE PARCO DELLE MADONIE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ente-parco-delle-madonie-at-dipartimento-della-funzione-pubblica-4449571671",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "6f578587374a2d270fe579bd5768e2d9afed7fe4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-event-sales-executive-season-2026-grand-hotel-timeo-a-belmond-hotel-belmond",
       "nome": "Event Sales Executive | season 2026 | Grand Hotel Timeo, a Belmond Hotel — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-sales-executive-season-2026-grand-hotel-timeo-a-belmond-hotel-at-belmond-4442467201",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-sales-executive-season-2026-grand-hotel-timeo-a-belmond-hotel-at-belmond-4430439795",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b7e2740086f7d5aeb6ded4f63d5c25d9b7629f10",
+      "hash_contenuto": "b8981a7e1efd1cd67aed33ec3629a0d48ca83930",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -352,10 +404,10 @@
       "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
+      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -584,7 +636,11 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-sicilia",
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     }
   ]
