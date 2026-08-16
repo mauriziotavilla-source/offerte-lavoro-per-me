@@ -1,91 +1,12 @@
 {
-  "generated_at": "2026-08-15T18:33:23.893Z",
+  "generated_at": "2026-08-16T01:28:25.798Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "4b1f7ef58f237d6f3badc8f7ca9e56c51f59256c",
+  "catalog_hash": "41a5f3a6084b921c961324201dd12a952f2cd285",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 0,
     "aggiornati": 38
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetti-alla-vendita-assistita-gioielli-di-valenza-s-p-a",
-      "nome": "Addetti alla vendita assistita — GIOIELLI DI VALENZA S.P.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetti-alla-vendita-assistita-at-gioielli-di-valenza-s-p-a-4442775841",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2b18d8111f88c656b54f55078c4f069dd2e27c1a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-agente-immobiliare-agrigento-engel-volkers-italia-palermo-mondello",
-      "nome": "Agente immobiliare - Agrigento — Engel & Volkers Italia - Palermo Mondello",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-immobiliare-agrigento-at-engel-volkers-italia-palermo-mondello-4417482576",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "01a9674d20ae370ba448145373c71e20c945701c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
-      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-associate-positions-erise",
-      "nome": "ASSOCIATE POSITIONS — Erise",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/associate-positions-at-erise-4454888715",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b71987536fad01aff0af8900bcd61466131d5592",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
-      "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-at-pandora-4431960216",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "fecca6d4ae095fb407f8fd1abe978461813c3db2",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -582,5 +503,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
