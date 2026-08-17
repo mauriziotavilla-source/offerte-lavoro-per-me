@@ -1,140 +1,75 @@
 {
-  "generated_at": "2026-08-17T12:49:29.799Z",
+  "generated_at": "2026-08-17T18:42:44.746Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d4e398303ea4614d5ab384f4b960d79a3d815e68",
+  "catalog_hash": "5962f439b1dc20e4dae877db2095727ef7dc92fc",
   "counts": {
-    "nuovi": 10,
+    "nuovi": 5,
     "aggiornati": 40
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-acquisti-auto-filiale-di-palermo-villabate-auto1-group",
-      "nome": "Addetto/a Acquisti Auto - Filiale di Palermo Villabate — AUTO1 Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-acquisti-auto-filiale-di-palermo-villabate-at-auto1-group-4442024411",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "0fb9e8bec160c331ffb4c7aab9cd8d2e1d53317a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-acquisti-auto-siracusa-auto1-group",
-      "nome": "Addetto/a Acquisti Auto Siracusa — AUTO1 Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-acquisti-auto-siracusa-at-auto1-group-4437385185",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9eda92cb68c8f1bcc1b5472b4ea1c59c9df8847a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-agente-immobiliare-momento-casa-s-r-l",
-      "nome": "Agente immobiliare — Momento Casa S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-immobiliare-4451215927",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "30639cdd8cb04a98ebffb669156fd55a192003c2",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sesto-san-giovanni-3-esperto-amministrativo-contabile",
-      "nome": "Comune di Sesto San Giovanni, 3 Esperto amministrativo contabile",
+      "id": "linkedin-orfani-guerra-messina-associate-account-director-retailnext",
+      "nome": "Associate Account Director — RetailNext",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/associate-account-director-at-retailnext-4443276686",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "477a3e924b3660b2e19578f515deae92b8819646",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-saltrio-1-istruttore-da-assegnare-la-servizio-finanziario",
+      "nome": "Comune di Saltrio, 1 istruttore da assegnare la servizio finanziario",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sesto-san-giovanni-concorso-esperto-amministrativo-contabile-milano-2026",
-      "data_pubblicazione": "2026-09-21",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-saltrio-concorso-istruttore-amministrativo-contabile-varese-2026-0",
+      "data_pubblicazione": "2026-09-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "df1839febc1521b0e2e4ae8bf1cc8af0e7d17943",
+      "hash_contenuto": "b55413ab10ae152f500d2dbe961a110c5cabe584",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
+      "id": "linkedin-orfani-guerra-messina-credit-collector-messina-otis-elevator-co",
+      "nome": "CREDIT COLLECTOR - MESSINA — Otis Elevator Co.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/credit-collector-messina-at-otis-elevator-co-4443899873",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "804c1737392be1a31e69db98000187cff589051a",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-3",
-      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 3",
+      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-istruttore-direttivo-amministrativo-contabile-posti",
+      "nome": "Località Bologna Occupazione istruttore direttivo amministrativo contabile Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8aa8d6c8a83500a693a56c44f5059411b766a96d",
+      "hash_contenuto": "1c401889a06caeaf652f569c8b5bc88190a0c9de",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-parrucchiere-titolare-g-hair-lab",
-      "nome": "Parrucchiere — Titolare G Hair Lab",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/parrucchiere-4404646265",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8e5ef4351b4cb4bc31539e2e745ecc6daf51e404",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -209,10 +144,10 @@
       "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATODI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICAper a.a. 2026/2027 - DPR 83/2024 AFAM006 VIOLINO — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-conservatori-di-musicaper-a-a-2026-2027-dpr-83-2024-afam006-violino-at-dipartimento-della-funzione-pubblica-4451262749",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-conservatori-di-musicaper-a-a-2026-2027-dpr-83-2024-afam006-violino-at-dipartimento-della-funzione-pubblica-4451262748",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "56e9d09adfd8f98f7da3023d9e1d6565f525f71e",
+      "hash_contenuto": "c97c3083cda40e33f99cef394f2d58d156327dc4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -430,10 +365,10 @@
       "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
+      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -660,5 +595,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
