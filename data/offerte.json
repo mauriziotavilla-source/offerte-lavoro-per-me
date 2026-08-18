@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-08-18",
-  "versione": 240,
+  "versione": 241,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "d69a2af338b37cb789249f1b5de96c7c4585cc24",
-  "generated_at": "2026-08-18T12:51:26.184Z",
+  "catalog_hash": "d630bcf4c86929a3d82ddcc0dd0e42b19b6d6ea0",
+  "generated_at": "2026-08-18T18:41:18.052Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -807,6 +807,57 @@
         "categorie_protette"
       ],
       "hash_contenuto": "cb65aef97e8c1640136253d8427073a243b43958"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-buste-paga-studio-artale",
+      "nome": "Addetto/a buste paga — studio artale",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "paghe"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Alcamo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-10-02",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-buste-paga-4452580927",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-08-18",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "cc48f80b381c56c9087983e38360ae28bd15a077"
     },
     {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
@@ -2052,7 +2103,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-28",
+          "data": "2026-10-02",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2077,7 +2128,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-14",
+      "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2134,7 +2185,7 @@
       "hash_contenuto": "e7f122e3ad321a57cbdf1138a0b47a4423f147c0"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -2149,7 +2200,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -2177,7 +2228,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
@@ -2285,6 +2336,56 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "cb69cc964e7f50e64397bb696a0c771c4cabb5bf"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-assistant-de-service-social-educateur-specialise-h-f-ecole-pratique-de-service-s",
+      "nome": "Assistant de Service Social / Éducateur Spécialisé (H/F) — École Pratique de Service Social (EPSS)",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Caltagirone, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-10-02",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-de-service-social-%C3%A9ducateur-sp%C3%A9cialis%C3%A9-h-f-at-%C3%A9cole-pratique-de-service-social-epss-4450078162",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-08-18",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "7cbb7d88ff0280633ab13a6340917aa9d3387272"
     },
     {
       "id": "linkedin-orfani-guerra-messina-assistant-department-manager-milazzo-ikea",
@@ -3498,7 +3599,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-01",
+          "data": "2026-10-02",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3523,7 +3624,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-17",
+      "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5868,6 +5969,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "52a90cbede2aa218ac64ad951e3b8cbbc861bbe2"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-erba-1-istruttore-amministrativo",
+      "nome": "Comune di Erba, 1 Istruttore Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Erba, 1 Istruttore Amministrativo Ente Comune di Erba Scadenza 17/09/2026 Dettagli Località Como Occupazione istruttore amministrativo Posti 1 Comune di Erba (CO) – Concorso per assunzione di N. 1 Istruttore Amministrativo, area Istruttori, CCNL Funz",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-09-17",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-erba-concorso-istruttore-amministrativo-como-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-09-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-18",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "1c2561c5bf44e62a1cdfda3a52b63356f17b1430"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-francofonte-1-revisore-contabile",
@@ -9101,7 +9253,7 @@
       "hash_contenuto": "cef40f1ead295d590f23fb94d6d3b2c628c94731"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
       "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -9115,7 +9267,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -9143,7 +9295,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
@@ -9470,7 +9622,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-01",
+          "data": "2026-10-02",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9495,7 +9647,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-17",
+      "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11400,7 +11552,7 @@
       "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-i-know-they-love-me-when-re-balance-org",
+      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
       "nome": "I Know They Love Me When… — Re-Balance.org",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -11414,7 +11566,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -11442,7 +11594,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
@@ -13627,8 +13779,8 @@
       "hash_contenuto": "42e319bb64d1400b7afa9ce44280259f4980601d"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -13665,11 +13817,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-02",
+      "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "7526e2446c7efe27a644a81fee57e08daf098d75"
+      "hash_contenuto": "0a9bd3d73bbd8711d342c26a7a773fa4d56de074"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-1",
@@ -13986,6 +14138,51 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "ddb6060099c67a654f6dbfa85d6438ec18c9dd87"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Como Occupazione istruttore amministrativo Posti 1",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Como",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-18",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "629254100bd3aed0c173e41b8337f2d2f3fe8d49"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-amministrativo-contabile-posti-1",
@@ -14439,8 +14636,8 @@
       "hash_contenuto": "737cae39f7a4578246bae79237c1490acc0f87a3"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-3",
-      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 3",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -14481,7 +14678,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "8aa8d6c8a83500a693a56c44f5059411b766a96d"
+      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-istruttore-amministrativo-posti-12",
@@ -15249,8 +15446,8 @@
       "hash_contenuto": "9683f3dabd18cccc4a45f7de81d43512e73a3bb7"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Varese Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Varese Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -15291,7 +15488,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "5d4d12f18f543c57e4d2fdbfc78884a0f81a660f"
+      "hash_contenuto": "c8628866188daceec1c7574c99fee5bc0272f70a"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-venezia-occupazione-istruttore-amministrativo-posti-1",
@@ -17691,7 +17888,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-27",
+          "data": "2026-10-02",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17716,7 +17913,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-13",
+      "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19594,7 +19791,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-01",
+          "data": "2026-10-02",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19619,7 +19816,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-17",
+      "rilevato_il": "2026-08-18",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20379,6 +20576,57 @@
       "hash_contenuto": "788f462f3008c2bd462eefd0aba4c4baba381698"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Unione Montana Feltrina, 1 istruttore amministrativo Ente Unione montana feltrina - Feltre Scadenza 16/09/2026 Dettagli Località Belluno Occupazione istruttore amministrativo Posti 1 concorso per soli esami per l'assunzione a tempo indeterminato e parziale (24",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-09-16",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-1",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-09-16",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-18",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "b6d8ab5a4abb43605411b60c875a4d7212a98b40"
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-visitor-experience-associate-my-museum",
       "nome": "Visitor Experience Associate — My Museum",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -20530,10 +20778,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "source_errors": []
 }

@@ -1,138 +1,151 @@
 {
-  "generated_at": "2026-08-18T12:51:26.184Z",
+  "generated_at": "2026-08-18T18:41:18.053Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d69a2af338b37cb789249f1b5de96c7c4585cc24",
+  "catalog_hash": "d630bcf4c86929a3d82ddcc0dd0e42b19b6d6ea0",
   "counts": {
-    "nuovi": 10,
+    "nuovi": 11,
     "aggiornati": 40
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-buste-paga-studio-artale",
+      "nome": "Addetto/a buste paga — studio artale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-buste-paga-4452580927",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "cc48f80b381c56c9087983e38360ae28bd15a077",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-messo-notificatore",
-      "nome": "collaboratore amministrativo messo notificatore",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/messo-notificatore-790",
+      "id": "linkedin-orfani-guerra-sicilia-assistant-de-service-social-educateur-specialise-h-f-ecole-pratique-de-service-s",
+      "nome": "Assistant de Service Social / Éducateur Spécialisé (H/F) — École Pratique de Service Social (EPSS)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-de-service-social-%C3%A9ducateur-sp%C3%A9cialis%C3%A9-h-f-at-%C3%A9cole-pratique-de-service-social-epss-4450078162",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "32e733573a699ac124f9be523c9969d0d2943305",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7cbb7d88ff0280633ab13a6340917aa9d3387272",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-mesola-1-collaboratore-amministrativo",
-      "nome": "Comune di Mesola, 1 Collaboratore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-erba-1-istruttore-amministrativo",
+      "nome": "Comune di Erba, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mesola-concorso-collaboratore-amministrativo-messo-notificatore-ferrara-2026",
-      "data_pubblicazione": "2026-09-14",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-erba-concorso-istruttore-amministrativo-como-2026",
+      "data_pubblicazione": "2026-09-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "de76bcf70304ed530da7e8dd6ee3823825f8fc4d",
+      "hash_contenuto": "1c2561c5bf44e62a1cdfda3a52b63356f17b1430",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-simaxis-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Simaxis, 2 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-simaxis-concorso-istruttore-amministrativo-contabile-oristano-2026",
-      "data_pubblicazione": "2026-09-16",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1d64b9e270dc82b0377952f9f87c0323da851176",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
       "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-graduate-program-generazione-talenti-vendite-sicilia-orientale-lidl-italia",
-      "nome": "Graduate Program Generazione Talenti Vendite Sicilia Orientale — Lidl Italia",
+      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
+      "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/graduate-program-generazione-talenti-vendite-sicilia-orientale-at-lidl-italia-4454709473",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "edfa86e48e70c62e6cbd41bdeccc26802d9df725",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-hotel-general-manager-tui",
-      "nome": "Hotel General Manager — TUI",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/hotel-general-manager-at-tui-4455708350",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "973b5c815abb57927cc8f21546883c7e076e1a10",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-ferrara-occupazione-collaboratore-amministrativo-messo-notificatore-pos",
-      "nome": "Località Ferrara Occupazione collaboratore amministrativo messo notificatore Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ferrara",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "adebdcfd5740d16c8f2c07c0733abac675e27125",
+      "hash_contenuto": "0a9bd3d73bbd8711d342c26a7a773fa4d56de074",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-oristano-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Oristano Occupazione istruttore amministrativo contabile Posti 2",
+      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Como Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/oristano",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b525bf53bf409f7a91206f1769274364bed14281",
+      "hash_contenuto": "629254100bd3aed0c173e41b8337f2d2f3fe8d49",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Verona Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2eef9bada42fad4e991c0244eb983ebc6e9b8faf",
+      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Varese Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c8628866188daceec1c7574c99fee5bc0272f70a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-1",
+      "data_pubblicazione": "2026-09-16",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b6d8ab5a4abb43605411b60c875a4d7212a98b40",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -144,10 +157,10 @@
       "nome": "Addetto all’accoglienza e promozione-Aeroporto ed Eventi -Part time/full time — Vimik Marketing srls",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-all%E2%80%99accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-at-vimik-marketing-srls-4447228285",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-all%E2%80%99accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-at-vimik-marketing-srls-4451315207",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "6ee392a0598ba85a9c71cbfd0994690521701376",
+      "hash_contenuto": "c11a0ca0361e68617ef44cc6a6d6f83287b0b9fc",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -430,10 +443,10 @@
       "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
+      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -660,10 +673,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
