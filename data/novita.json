@@ -1,75 +1,49 @@
 {
-  "generated_at": "2026-08-17T18:42:44.746Z",
+  "generated_at": "2026-08-18T01:22:05.958Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5962f439b1dc20e4dae877db2095727ef7dc92fc",
+  "catalog_hash": "188fd0f9877b1c37e9b94275a0e7a39f34442776",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 40
+    "nuovi": 3,
+    "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-associate-account-director-retailnext",
-      "nome": "Associate Account Director — RetailNext",
+      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
+      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/associate-account-director-at-retailnext-4443276686",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "477a3e924b3660b2e19578f515deae92b8819646",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-saltrio-1-istruttore-da-assegnare-la-servizio-finanziario",
-      "nome": "Comune di Saltrio, 1 istruttore da assegnare la servizio finanziario",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-saltrio-concorso-istruttore-amministrativo-contabile-varese-2026-0",
-      "data_pubblicazione": "2026-09-19",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b55413ab10ae152f500d2dbe961a110c5cabe584",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-credit-collector-messina-otis-elevator-co",
-      "nome": "CREDIT COLLECTOR - MESSINA — Otis Elevator Co.",
+      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
+      "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/credit-collector-messina-at-otis-elevator-co-4443899873",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "804c1737392be1a31e69db98000187cff589051a",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-istruttore-direttivo-amministrativo-contabile-posti",
-      "nome": "Località Bologna Occupazione istruttore direttivo amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1c401889a06caeaf652f569c8b5bc88190a0c9de",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     }
   ],
@@ -287,19 +261,6 @@
       "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4420195380",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ea03e630ecc35c002be4cf654f28d7f2db8138a3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-lega-del-fi",
-      "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4432775206",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
@@ -317,19 +278,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "3f4625e22e5ed0adfca82b563e7c3ae2e2b42535",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-ente-parco-delle-madonie-dipartimento-della-funzione-pubblica",
-      "nome": "ENTE PARCO DELLE MADONIE — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/ente-parco-delle-madonie-at-dipartimento-della-funzione-pubblica-4432747925",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "0e0988d6fb48afe1769600cd6e3c7c8743b21a5a",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -365,10 +313,10 @@
       "nome": "I Know They Love Me When… — Re-Balance.org",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
+      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -447,6 +395,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "03d41b012b1bbe1c0d1bb4367ad3159db7deb372",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-legal-manager-gifrab-italia-s-p-a",
+      "nome": "LEGAL MANAGER — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-manager-at-gifrab-italia-s-p-a-4454412656",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "367653ff1281e30aec983a3c35f8b1175fbd6cbc",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -580,25 +541,12 @@
       "notifica_topics": [
         "categorie_protette"
       ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-responsabile-ufficio-stile-e-prodotto-head-of-product-style-gifrab-italia-s-p-a",
-      "nome": "RESPONSABILE UFFICIO STILE E PRODOTTO / HEAD OF PRODUCT & STYLE — Gifrab Italia S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-ufficio-stile-e-prodotto-head-of-product-style-at-gifrab-italia-s-p-a-4412779860",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d99d41c7ecdb0ef939a89ef2cdd7b134d5b86403",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
     }
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 500"
     }
   ]
 }
