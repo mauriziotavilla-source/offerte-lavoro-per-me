@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-08-18T01:22:05.958Z",
+  "generated_at": "2026-08-18T06:48:02.806Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "188fd0f9877b1c37e9b94275a0e7a39f34442776",
+  "catalog_hash": "071e022e28371eb77d8accfdb2d5c40833cec5db",
   "counts": {
     "nuovi": 3,
     "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
-      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
+      "id": "gazzetta-via-concorsipubblici-comune-di-veglie-2-posti-di-istruttore-amministrativo",
+      "nome": "Comune di Veglie, 2 posti di istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-veglie-concorso-riservato-istruttore-amministrativo-lecce-2026",
+      "data_pubblicazione": "2026-08-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "15b967701d37bf494a739413be3e262c10a7fc4e",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
+      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Lecce Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "55e3c5fbcc5b50aa9b78e6fd9c2a806fac774f28",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
+      "id": "linkedin-orfani-guerra-messina-mapping-data-collection-driver-tsmg-holding",
+      "nome": "Mapping Data Collection Driver — TSMG Holding",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/mapping-data-collection-driver-at-tsmg-holding-4429206742",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b8ee21171bccc6ca7007c7d1f77eb50f9dfa9715",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -122,6 +122,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "c97c3083cda40e33f99cef394f2d58d156327dc4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
+      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4425554110",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "681791e3a5584a30414d5d66a9d45590f7c1cee4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -309,19 +322,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4445650794",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "48b5221ea480cf9da4536452ab4cdd5d6f9a8e4f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
       "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
       "tipo": "categoria_protetta",
@@ -404,10 +404,10 @@
       "nome": "LEGAL MANAGER — Gifrab Italia S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-manager-at-gifrab-italia-s-p-a-4454412656",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/legal-manager-at-gifrab-italia-s-p-a-4422892469",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "367653ff1281e30aec983a3c35f8b1175fbd6cbc",
+      "hash_contenuto": "0a18794c32a3385d77e36fb1343cc5a9f5dbe81f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -543,10 +543,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 500"
-    }
-  ]
+  "errori_fonti": []
 }
