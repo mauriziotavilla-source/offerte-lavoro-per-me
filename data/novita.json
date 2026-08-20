@@ -1,49 +1,62 @@
 {
-  "generated_at": "2026-08-19T18:38:53.970Z",
+  "generated_at": "2026-08-20T01:22:34.200Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9f0290bb2a23d6ef57e7d61b64a72297f54927c6",
+  "catalog_hash": "592c4527114f7426798cd3c9d4778529d55de84c",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 38
+    "nuovi": 4,
+    "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-usl-di-parma-5-collaboratore-amministrativo-professionale",
-      "nome": "Azienda USL di Parma, 5 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-sanitaria-locale-di-parma-concorso-collaboratore-amministrativo-professionale-parma-2026",
-      "data_pubblicazione": "2026-09-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b1ca49fd718905ac170b514781a2c4f3607e3b9b",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Lecce Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "361d06f097cfc2901e030fb3e8422e9d4f153b39",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-parma-occupazione-collaboratore-amministrativo-professionale-posti-5",
-      "nome": "Località Parma Occupazione collaboratore amministrativo professionale Posti 5",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/parma",
+      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "31b8bcd1a431d3985bec786926ce573786b4baa8",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -443,19 +456,6 @@
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4434000175",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f76295c94a5b5702e93ff65db1cad8f78de4391d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
-      "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/part-full-time-accoglienza-clienti-catania-at-jteam-srls-4438281226",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
@@ -545,11 +545,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
