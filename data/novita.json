@@ -1,127 +1,88 @@
 {
-  "generated_at": "2026-08-20T12:54:34.521Z",
+  "generated_at": "2026-08-20T18:42:41.519Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "0529efe4d12501f9af69f10b6909e54d757cbe1d",
+  "catalog_hash": "f0b365894a6e03ebac61435f6998a05c25512a2c",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 37
+    "nuovi": 6,
+    "aggiornati": 39
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-gruppo-salute-e-vita",
+      "nome": "Assistente amministrativo — Gruppo Salute e Vita",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4456712742",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "hash_contenuto": "e3508554501a06d8950af36d3b266549d6abd573",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "id": "gazzetta-via-concorsipubblici-comune-di-abbiategrasso-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Abbiategrasso, 1 Istruttore Amministrativo-Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-abbiategrasso-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "data_pubblicazione": "2026-09-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "32ccd60b1fd064b753e1cbff66006be344a7baaf",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "id": "linkedin-orfani-guerra-sicilia-lavora-come-accompagnatore-trice-scolastico-a-e-educatore-trice-per-l-infanzia-l",
+      "nome": "Lavora come Accompagnatore/trice Scolastico/a e Educatore/trice per l’Infanzia — Letuelezioni",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-barman-stagione-2026-monaci-delle-terre-nere-relais-chateaux",
-      "nome": "Barman- Stagione 2026- Monaci delle Terre Nere — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barman-stagione-2026-monaci-delle-terre-nere-at-relais-ch%C3%A2teaux-4443282925",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-come-accompagnatore-trice-scolastico-a-e-educatore-trice-per-l%E2%80%99infanzia-at-letuelezioni-4456712610",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "25046ae259c1d765abd63d6a0e7e5718e94610cc",
+      "hash_contenuto": "a9af58cbfd11a7c04d7dc803e19c749f2f76c443",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-educatore-comunita-alloggio-minori-comunita-beato-luigi-monti",
-      "nome": "Educatore comunitá alloggio minori — Comunitá Beato Luigi Monti",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatore-comunit%C3%A1-alloggio-minori-4453859555",
+      "id": "gazzetta-via-concorsipubblici-localita-trieste-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Trieste Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/trieste",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8a795cd6007d2c6cac7c8ce6c4892b27f410473e",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "519b82fb77014944f4fbe2ca2407ad46c567db81",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
-      "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-at-pandora-4431960216",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fecca6d4ae095fb407f8fd1abe978461813c3db2",
+      "id": "gazzetta-via-concorsipubblici-scuola-internazionale-superiore-di-studi-avanzati-1-collaboratore-settore-ammini",
+      "nome": "Scuola Internazionale Superiore di Studi Avanzati, 1 Collaboratore – settore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore",
+      "data_pubblicazione": "2026-09-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ae2d9b4f49f024c50499663e3c78e9a7571e66ae",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -582,6 +543,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
+      "nome": "Payroll Specialist — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4456784017",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0ebf526e07ea089d1fb5b3df9ab5516c4daa4022",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
       "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -605,6 +579,19 @@
       "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-2",
+      "data_pubblicazione": "2026-09-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ae9ae1aae8c01eda5feb0f9e288e8a89fb581549",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
