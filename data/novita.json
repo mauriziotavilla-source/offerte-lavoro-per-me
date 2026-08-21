@@ -1,36 +1,166 @@
 {
-  "generated_at": "2026-08-21T06:52:07.614Z",
+  "generated_at": "2026-08-21T12:53:20.634Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "dfc85e29b2a7fc1a0cf9422960bfbeb1f2e27627",
+  "catalog_hash": "12fa11875c0591c3d8eb7e563f8d4efc80ffb423",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 12,
     "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
-      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
+      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
+      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "id": "gazzetta-via-concorsipubblici-comune-di-acquafredda-1-istruttore-amministrativo",
+      "nome": "Comune di Acquafredda, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-acquafredda-concorso-istruttore-amministrativo-brescia-2026",
+      "data_pubblicazione": "2026-09-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "dd958873186a94b41d349274af81e7df3123adc8",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-agrate-brianza-1-istruttore-amministrativo",
+      "nome": "Comune di Agrate Brianza, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-agrate-brianza-concorso-istruttore-amministrativo-monza-e-brianza-2026",
+      "data_pubblicazione": "2026-09-21",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "926f942d1d1352c28567b19eda29afe4272232f5",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-cogoleto-1-istruttore-contabile",
+      "nome": "Comune di Cogoleto, 1 Istruttore Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cogoleto-concorso-istruttore-contabile-genova-2026",
+      "data_pubblicazione": "2026-09-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e90d98e5ad543b9a5557aadd3336bc81a9afde1c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-concesio-2-istruttore-amministrativo",
+      "nome": "Comune di Concesio, 2 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-concesio-concorso-istruttore-amministrativo-brescia-2026-0",
+      "data_pubblicazione": "2026-09-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c2711d4a39f7b1db7b7997e51d506b446fce23b2",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-montu-beccaria-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Montu’ Beccaria, 1 istruttore amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montu-beccaria-concorso-istruttore-amministrativo-contabile-pavia-2026",
+      "data_pubblicazione": "2026-09-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d8d380b17b7e1aa77044f2655a2590dac2261990",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-collaboratore-amministrativo-posti-4",
+      "nome": "Località Brescia Occupazione collaboratore amministrativo Posti 4",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c424a6301e9b1dcaf910c5784c3ae71e90c3090a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Genova Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/genova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e130712d184ef06bb809099479d8285a94c0de2f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pavia-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Pavia Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pavia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2a764514e80d087c19817e2e9563680260c950d1",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-4",
+      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 4",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "53e6054748a177de9aac091b7094c2aeb2f25acf",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-sondrio-4-istruttore-amministrativo",
+      "nome": "Provincia di Sondrio, 4 Istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-sondrio-concorso-istruttore-amministrativo-sondrio-2026-0",
+      "data_pubblicazione": "2026-09-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3dc56cd1d206e50866cdb655c3ce62790a8b2bd6",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
