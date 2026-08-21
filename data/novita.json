@@ -1,21 +1,34 @@
 {
-  "generated_at": "2026-08-21T01:26:17.462Z",
+  "generated_at": "2026-08-21T06:52:07.614Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7ffaaeb54229fd18cceb9d1cb7d136c99d192746",
+  "catalog_hash": "dfc85e29b2a7fc1a0cf9422960bfbeb1f2e27627",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 2,
     "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
         "categorie_protette"
       ]
