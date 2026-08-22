@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-08-22",
-  "versione": 254,
+  "versione": 255,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "545ee995942b520a274ff176ed67a87bc1674354",
-  "generated_at": "2026-08-22T12:43:40.364Z",
+  "catalog_hash": "356bb819d2a939f279bd66f3b01bd3647a72bf65",
+  "generated_at": "2026-08-22T18:34:21.706Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1012,7 +1012,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1037,7 +1037,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1062,7 +1062,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1087,7 +1087,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4150,7 +4150,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4175,7 +4175,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5126,7 +5126,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5151,7 +5151,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16575,7 +16575,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16600,7 +16600,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16625,7 +16625,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16650,7 +16650,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16807,7 +16807,7 @@
       "hash_contenuto": "488d1fedbb93076722b99e2cc7b166d9e19939a6"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -16821,7 +16821,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -16849,7 +16849,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
@@ -19677,7 +19677,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19702,7 +19702,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19727,7 +19727,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-05",
+          "data": "2026-10-06",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19752,7 +19752,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-21",
+      "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20761,7 +20761,7 @@
       "hash_contenuto": "7864d062750a50625dd4f11babc4eb29a2bb565d"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -20775,7 +20775,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -20803,7 +20803,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-08-22",
       "notifica_topics": [
         "categorie_protette"
