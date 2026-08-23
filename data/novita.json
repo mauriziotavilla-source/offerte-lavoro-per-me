@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-23T01:35:05.351Z",
+  "generated_at": "2026-08-23T06:45:17.625Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e4ec0c6c813eca417b8cca47cea95a037b44d597",
+  "catalog_hash": "4dbcc4d91f88f7077aaad6e04215ec1c8f6673b0",
   "counts": {
     "nuovi": 2,
     "aggiornati": 40
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-castelliri-1-collaboratore-amministrativo",
-      "nome": "Comune di Castelliri, 1 collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castelliri-concorso-riservato-collaboratore-amministrativo-frosinone-2026",
-      "data_pubblicazione": "2026-08-22",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "68ceb0a8313a1e2382aba13e38b517582672ea54",
+      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Frosinone Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "459b46e66957685e7cb71b723d81a333821a11d9",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -557,14 +557,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
