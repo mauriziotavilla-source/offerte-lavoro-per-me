@@ -1,12 +1,143 @@
 {
-  "generated_at": "2026-08-23T12:44:30.968Z",
+  "generated_at": "2026-08-23T18:33:15.117Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "4dbcc4d91f88f7077aaad6e04215ec1c8f6673b0",
+  "catalog_hash": "57d180c0d246b53b0faac5342867bf426746b22a",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 40
+    "nuovi": 10,
+    "aggiornati": 42
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-buronzo-1-istruttore-amministrativo",
+      "nome": "Comune di Buronzo, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-buronzo-concorso-istruttore-amministrativo-vercelli-2026",
+      "data_pubblicazione": "2026-09-21",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1b08d24ca322eeaad039edd5765a6b831ebae58d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-pietro-in-gu-1-istruttore-amministrativo",
+      "nome": "Comune di San Pietro In Gu, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-pietro-gu-concorso-istruttore-amministrativo-padova-2026",
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "14d36ec99883aad61c6efeb21209c63d794fc16f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-pietro-in-gu-1-istruttore-amministrativo",
+      "nome": "Comune di San Pietro In Gu, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-pietro-gu-concorso-istruttore-amministrativo-padova-2026-0",
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "aa4f3b5baf855f3cf50a56a0dcef3785d0ae1b50",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-pietro-in-gu-1-istruttore-contabile-amministrativo",
+      "nome": "Comune di San Pietro In Gu, 1 Istruttore Contabile Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-pietro-gu-concorso-istruttore-contabile-istruttore-amministrativo-contabile-padova",
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2e10e4922c0b7bfd76d53d718465fcab86a580b5",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Padova Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9b9fe7b67604c51a5ed12ebc877a4f23e35463fb",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-vercelli-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Vercelli Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vercelli",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "469f73914972f4dce33f84353063840ee0d9b88d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
+      "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-at-pandora-4431960216",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fecca6d4ae095fb407f8fd1abe978461813c3db2",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -108,6 +239,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "197180824bf94b0fe64dadcd1d21692e4425fed6",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
+      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4426197234",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "2402dadad77ede23db90603debc311fe4dedfdea",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -490,6 +634,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
+      "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-mobilit%C3%A0-volontaria-per-l%E2%80%99immissione-nel-ruolo-unico-del-ministero-dell%E2%80%99economia-e-delle-finanze-di-n-122-funzionari-at-dipartimento-della-funzione-pubblica-4449200311",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "52f7d41864efe3e7a2928976f3e4a049a39b698e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-program-assistant-palermo-italy-world-learning",
       "nome": "Program Assistant - Palermo, Italy — World Learning",
       "tipo": "categoria_protetta",
@@ -529,10 +686,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }

@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-08-23",
-  "versione": 257,
+  "versione": 258,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "4dbcc4d91f88f7077aaad6e04215ec1c8f6673b0",
-  "generated_at": "2026-08-23T12:44:30.968Z",
+  "catalog_hash": "57d180c0d246b53b0faac5342867bf426746b22a",
+  "generated_at": "2026-08-23T18:33:15.117Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -277,7 +277,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -302,7 +302,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -527,7 +527,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -552,7 +552,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -577,7 +577,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -602,7 +602,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -627,7 +627,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -652,7 +652,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1344,7 +1344,7 @@
       "hash_contenuto": "c9fed51cfcf56351a297afe2995da64545e49224"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1358,7 +1358,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -1386,7 +1386,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
@@ -1512,7 +1512,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1537,7 +1537,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1612,7 +1612,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1637,7 +1637,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1865,7 +1865,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-09-30",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1890,7 +1890,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-16",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2947,7 +2947,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2972,7 +2972,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3097,7 +3097,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3122,7 +3122,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3950,7 +3950,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3975,7 +3975,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4182,6 +4182,56 @@
       "hash_contenuto": "681791e3a5584a30414d5d66a9d45590f7c1cee4"
     },
     {
+      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
+      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Messina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-10-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4426197234",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "2402dadad77ede23db90603debc311fe4dedfdea"
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-barman-stagione-2026-monaci-delle-terre-nere-relais-chateaux",
       "nome": "Barman- Stagione 2026- Monaci delle Terre Nere — Relais & Châteaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -4200,7 +4250,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4225,7 +4275,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4651,7 +4701,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4676,7 +4726,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5126,7 +5176,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5151,7 +5201,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5665,6 +5715,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "687a1bd7587bc5dd29c53466fcb8417818d378c5"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-buronzo-1-istruttore-amministrativo",
+      "nome": "Comune di Buronzo, 1 Istruttore Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Buronzo, 1 Istruttore Amministrativo Ente Comune di Buronzo Scadenza 21/09/2026 Dettagli Località Vercelli Occupazione istruttore amministrativo Posti 1 Concorso Pubblico, per soli esami, per la copertura a tempo pieno e indeterminato di n.1 posto di",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-09-21",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-buronzo-concorso-istruttore-amministrativo-vercelli-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-09-21",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "1b08d24ca322eeaad039edd5765a6b831ebae58d"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-campagnatico-concorso-per-un-collaboratore-amministrativo-part-time-e-",
@@ -7199,6 +7300,159 @@
       "hash_contenuto": "e2097b7335a2800794e6480461f5646cac08b4c0"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-pietro-in-gu-1-istruttore-amministrativo",
+      "nome": "Comune di San Pietro In Gu, 1 Istruttore Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di San Pietro In Gu, 1 Istruttore Amministrativo Ente Comune di San Pietro In Gu Scadenza 20/09/2026 Dettagli Località Padova Occupazione istruttore amministrativo Posti 1 concorso pubblico per soli esami per la copertura, a tempo pieno e indeterminato,",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-09-20",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-pietro-gu-concorso-istruttore-amministrativo-padova-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "14d36ec99883aad61c6efeb21209c63d794fc16f"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-pietro-in-gu-1-istruttore-amministrativo",
+      "nome": "Comune di San Pietro In Gu, 1 Istruttore Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di San Pietro In Gu, 1 Istruttore Amministrativo Ente Comune di San Pietro In Gu Scadenza 20/09/2026 Dettagli Località Padova Occupazione istruttore amministrativo Posti 1 concorso pubblico per soli esami per la copertura, a tempo parziale 24h e indeter",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-09-20",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-pietro-gu-concorso-istruttore-amministrativo-padova-2026-0",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "aa4f3b5baf855f3cf50a56a0dcef3785d0ae1b50"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-pietro-in-gu-1-istruttore-contabile-amministrativo",
+      "nome": "Comune di San Pietro In Gu, 1 Istruttore Contabile Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di San Pietro In Gu, 1 Istruttore Contabile Amministrativo Ente Comune di San Pietro In Gu Scadenza 20/09/2026 Dettagli Località Padova Occupazione istruttore contabile istruttore amministrativo contabile Posti 1 concorso pubblico per soli esami per la ",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-09-20",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-pietro-gu-concorso-istruttore-contabile-istruttore-amministrativo-contabile-padova",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "2e10e4922c0b7bfd76d53d718465fcab86a580b5"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-sant-anastasia-concorso-per-3-istruttori-amministrativi-a-tempo-determ",
       "nome": "Comune di Sant'Anastasia, concorso per 3 istruttori amministrativi a tempo determinato nello staff del Sindaco",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -7777,7 +8031,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -7802,7 +8056,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7827,7 +8081,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -7852,7 +8106,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -7877,7 +8131,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -7902,7 +8156,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -8684,7 +8938,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -8709,7 +8963,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9475,7 +9729,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9500,7 +9754,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10127,7 +10381,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10152,7 +10406,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10377,7 +10631,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10402,7 +10656,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10427,7 +10681,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10452,7 +10706,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10527,7 +10781,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10552,7 +10806,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11123,7 +11377,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11148,7 +11402,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -15061,6 +15315,51 @@
       "hash_contenuto": "b525bf53bf409f7a91206f1769274364bed14281"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Padova Occupazione istruttore amministrativo Posti 1",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Padova",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "9b9fe7b67604c51a5ed12ebc877a4f23e35463fb"
+    },
+    {
       "id": "concorsipubblici-sicilia-localita-palermo-occupazione-assistente-amministrativo-posti-1",
       "nome": "Località Palermo Occupazione assistente amministrativo Posti 1",
       "ente": "ConcorsiPubblici.com - Sicilia",
@@ -15871,6 +16170,51 @@
       "hash_contenuto": "bcd9597f506ac8b5357d87efee6334d142f4278b"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-localita-vercelli-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Vercelli Occupazione istruttore amministrativo Posti 1",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Vercelli",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vercelli",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "469f73914972f4dce33f84353063840ee0d9b88d"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-contabile-posti-1",
       "nome": "Località Verona Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -16024,7 +16368,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16049,7 +16393,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16074,7 +16418,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16099,7 +16443,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16206,7 +16550,7 @@
       "hash_contenuto": "ad4dd28fbef1e260ac0f42d12ee8db28ee81456a"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -16220,7 +16564,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -16248,7 +16592,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
@@ -16474,7 +16818,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -16499,7 +16843,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -16756,7 +17100,7 @@
       "hash_contenuto": "488d1fedbb93076722b99e2cc7b166d9e19939a6"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -16770,7 +17114,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -16798,7 +17142,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
@@ -17672,7 +18016,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17697,7 +18041,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -18072,7 +18416,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18097,7 +18441,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -18152,6 +18496,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "ccf45c95a2c41826cc364e2d8170684df1046e26"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
+      "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Vibo Valentia, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-10-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-mobilit%C3%A0-volontaria-per-l%E2%80%99immissione-nel-ruolo-unico-del-ministero-dell%E2%80%99economia-e-delle-finanze-di-n-122-funzionari-at-dipartimento-della-funzione-pubblica-4449200311",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "52f7d41864efe3e7a2928976f3e4a049a39b698e"
     },
     {
       "id": "linkedin-orfani-guerra-messina-procedura-di-stabilizzazione-per-la-copertura-di-n-2-unita-di-personale-a-tempo-",
@@ -18474,7 +18868,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18499,7 +18893,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -18574,7 +18968,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18599,7 +18993,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19031,7 +19425,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19056,7 +19450,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19276,7 +19670,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19301,7 +19695,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20209,7 +20603,7 @@
       "hash_contenuto": "27bdfa33b2488ebfd7e8633626018937d4b892d8"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
+      "id": "linkedin-orfani-guerra-sicilia-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
       "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -20223,7 +20617,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Milazzo, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -20251,7 +20645,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
@@ -20327,7 +20721,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20352,7 +20746,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20628,7 +21022,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20653,7 +21047,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20828,7 +21222,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-10-06",
+          "data": "2026-10-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20853,7 +21247,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -21214,11 +21608,6 @@
       "hash_contenuto": "572c3e2d22ead0ef9fe5d75152ba8ab134afec31"
     }
   ],
-  "changed": false,
-  "source_errors": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "changed": true,
+  "source_errors": []
 }
