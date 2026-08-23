@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-08-23T06:45:17.625Z",
+  "generated_at": "2026-08-23T12:44:30.968Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "4dbcc4d91f88f7077aaad6e04215ec1c8f6673b0",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 40
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
