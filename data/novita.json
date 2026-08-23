@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-22T18:34:21.706Z",
+  "generated_at": "2026-08-23T01:35:05.351Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "356bb819d2a939f279bd66f3b01bd3647a72bf65",
+  "catalog_hash": "e4ec0c6c813eca417b8cca47cea95a037b44d597",
   "counts": {
     "nuovi": 2,
     "aggiornati": 40
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "id": "gazzetta-via-concorsipubblici-comune-di-castelliri-1-collaboratore-amministrativo",
+      "nome": "Comune di Castelliri, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castelliri-concorso-riservato-collaboratore-amministrativo-frosinone-2026",
+      "data_pubblicazione": "2026-08-22",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "68ceb0a8313a1e2382aba13e38b517582672ea54",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Frosinone Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "459b46e66957685e7cb71b723d81a333821a11d9",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -556,5 +556,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }

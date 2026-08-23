@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-08-22",
-  "versione": 255,
+  "ultimo_aggiornamento": "2026-08-23",
+  "versione": 256,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "356bb819d2a939f279bd66f3b01bd3647a72bf65",
-  "generated_at": "2026-08-22T18:34:21.706Z",
+  "catalog_hash": "e4ec0c6c813eca417b8cca47cea95a037b44d597",
+  "generated_at": "2026-08-23T01:35:05.351Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -757,56 +757,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "ca94598abb98aa278ca62dc715e80577e140e7ef"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-back-office-per-area-commerciale-healtyct",
-      "nome": "Addetto/a Back Office per Area Commerciale — healtyct",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Acireale, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-08-22",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-back-office-per-area-commerciale-at-healtyct-4436878547",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-07-08",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "cb65aef97e8c1640136253d8427073a243b43958"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-addetto-a-buste-paga-studio-artale",
@@ -2381,7 +2331,7 @@
       "data_pubblicazione": "2026-09-02",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3322,7 +3272,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3925,7 +3875,7 @@
       "data_pubblicazione": "2026-09-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -4956,7 +4906,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5352,7 +5302,7 @@
       "data_pubblicazione": "2026-09-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5454,7 +5404,7 @@
       "data_pubblicazione": "2026-09-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5505,7 +5455,7 @@
       "data_pubblicazione": "2026-09-21",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5710,7 +5660,7 @@
       "data_pubblicazione": "2026-09-05",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5870,6 +5820,57 @@
       "hash_contenuto": "c88d05f6eb556fe23e82f8e884c19040500524e8"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-castelliri-1-collaboratore-amministrativo",
+      "nome": "Comune di Castelliri, 1 collaboratore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Castelliri, 1 collaboratore amministrativo Ente Comune di Castelliri Scadenza 22/08/2026 Scaduto Dettagli Località Frosinone Occupazione collaboratore amministrativo Posti 1 Collaboratore amministrativo (area degli operatori esperti) – ex profilo col",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-08-22",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castelliri-concorso-riservato-collaboratore-amministrativo-frosinone-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-08-22",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "68ceb0a8313a1e2382aba13e38b517582672ea54"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-porto-2-posti-di-istruttore-amministrativo-contabile",
       "nome": "Comune di Castelnuovo di Porto, 2 posti di istruttore amministrativo contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -5965,7 +5966,7 @@
       "data_pubblicazione": "2026-09-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6118,7 +6119,7 @@
       "data_pubblicazione": "2026-09-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6169,7 +6170,7 @@
       "data_pubblicazione": "2026-09-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6220,62 +6221,11 @@
       "data_pubblicazione": "2026-09-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "c2711d4a39f7b1db7b7997e51d506b446fce23b2"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-crespadoro-concorso-per-istruttore-amministrativo",
-      "nome": "Comune di Crespadoro, concorso per istruttore amministrativo",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Crespadoro, concorso per istruttore amministrativo Ente Comune di Crespadoro Scadenza 21/08/2026 Scaduto Dettagli Località Vicenza Occupazione istruttore amministrativo Posti 1 bando di concorso pubblico per esami per la copertura di un posto part ti",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-08-21",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-crespadoro-concorso-istruttore-amministrativo-vicenza-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-08-21",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "a577e9265e939afefdacb2d177ae03f46ffe412b"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-erba-1-istruttore-amministrativo",
@@ -6322,7 +6272,7 @@
       "data_pubblicazione": "2026-09-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6630,7 +6580,7 @@
       "data_pubblicazione": "2026-09-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7038,7 +6988,7 @@
       "data_pubblicazione": "2026-09-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7191,7 +7141,7 @@
       "data_pubblicazione": "2026-09-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7549,7 +7499,7 @@
       "data_pubblicazione": "2026-09-21",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10948,7 +10898,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11498,7 +11448,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "url_origine": "https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-famiglia-politiche-sociali-lavoro/dipartimento-lavoro-impiego-orientamento-servizi-attivita-formative/2026-avviamenti-enti-pubblici-legge-n-681999",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -12848,7 +12798,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14068,7 +14018,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14203,7 +14153,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14339,7 +14289,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14429,7 +14379,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14519,7 +14469,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14616,14 +14566,13 @@
       "hash_contenuto": "8b55544c3922f80ac0edd00d1063eddb138e6136"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-revisore-contabile-posti-1",
-      "nome": "Località Frosinone Occupazione revisore contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Frosinone Occupazione collaboratore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
         "contabilita",
-        "amministrazione",
-        "revisione"
+        "amministrazione"
       ],
       "stato": "aperto",
       "sede": "Italia",
@@ -14655,11 +14604,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-14",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "cc7839b3a520b9a7d0ac6d0ae866dd2457e096f0"
+      "hash_contenuto": "459b46e66957685e7cb71b723d81a333821a11d9"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-contabile-posti-1",
@@ -14700,7 +14649,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14790,7 +14739,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14970,7 +14919,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15150,7 +15099,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15195,7 +15144,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15555,7 +15504,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15780,7 +15729,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15870,7 +15819,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15960,7 +15909,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16996,7 +16945,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -17251,56 +17200,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "dc194fedc80b26ad94294ff39dc21599583c09da"
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-operatore-servizi-di-ascolto-ed-emergenza-infanzia-palermo-fondazione-sos-il-tel",
-      "nome": "Operatore Servizi di Ascolto ed Emergenza Infanzia - Palermo — Fondazione SOS il Telefono Azzurro ETS",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-08-22",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-servizi-di-ascolto-ed-emergenza-infanzia-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4430488947",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-07-08",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "f7de21a5a55dfac0e71996b24f50d74300d7a37a"
     },
     {
       "id": "linkedin-orfani-guerra-messina-operatore-socio-sanitario-residenza-sanitaria-assistenziale",
@@ -19005,7 +18904,7 @@
       "data_pubblicazione": "2026-09-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -19853,7 +19752,7 @@
       "data_pubblicazione": "2026-09-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -21158,7 +21057,7 @@
       "data_pubblicazione": "2026-09-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-22",
+      "rilevato_il": "2026-08-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -21316,5 +21215,18 @@
     }
   ],
   "changed": true,
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
