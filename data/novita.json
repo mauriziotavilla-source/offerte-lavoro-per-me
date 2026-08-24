@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-24T01:26:41.754Z",
+  "generated_at": "2026-08-24T07:03:13.656Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "226ca2f5c43c2db97ecad5632857b58437275c5c",
+  "catalog_hash": "e318ae99b1cdd8c0993d6de93bbcbc42335052ac",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 43
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-pandora",
-      "nome": "STAGE/TIROCINIO ADDETTA/O VENDITA 30H-MILAZZO CC PARCO COROLLA — Pandora",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-tirocinio-addetta-o-vendita-30h-milazzo-cc-parco-corolla-at-pandora-4431960216",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fecca6d4ae095fb407f8fd1abe978461813c3db2",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -582,5 +568,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
