@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-08-24T12:55:16.592Z",
+  "generated_at": "2026-08-24T18:43:47.756Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e7cffe109d797e4314824fff58f9bf8bc2f4e425",
+  "catalog_hash": "7fa210ce2e5ded28d773b8a42e442dd51c66ebc7",
   "counts": {
     "nuovi": 5,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-front-office-negozio-di-ceramiche",
-      "nome": "Front office — negozio di ceramiche",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-4458196258",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "312625c2acc4e4483013561781edbd698688041b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-comune-di-brugherio-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Brugherio, 1 Istruttore amministrativo-contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-brugherio-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
+      "data_pubblicazione": "2026-09-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7abd21e8157f5e8773f36c0af1f99f05fda6daca",
+      "hash_contenuto": "7d09f319b63a9220c0e782d424ec040a5ea9c803",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-primo-ufficiale-di-coperta-ferrovie-dello-stato-italiane-s-p-a",
-      "nome": "Primo Ufficiale di Coperta — Ferrovie dello Stato Italiane S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/primo-ufficiale-di-coperta-at-ferrovie-dello-stato-italiane-s-p-a-4458197543",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "3f04b6d0558da1f8a9528fe13a5c92f6540be5c8",
+      "id": "gazzetta-via-concorsipubblici-comune-di-sarcedo-1-istruttore-servizi-amministrativo-contabili",
+      "nome": "Comune di Sarcedo, 1 Istruttore servizi amministrativo- contabili",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarcedo-concorso-istruttore-amministrativo-contabile-vicenza-2026",
+      "data_pubblicazione": "2026-09-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8cd2ab4b79ab3fbf4aa6a28e33000965ccabb40c",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-social-media-content-creator-studio-legale-leone-fell-c",
-      "nome": "Social Media Content Creator — Studio Legale Leone Fell & C.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-content-creator-at-studio-legale-leone-fell-c-4455864234",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-3",
+      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "cd2dd0bf7ac4e72e4335d372133805c6fbd7f04d",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8aa8d6c8a83500a693a56c44f5059411b766a96d",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "gazzetta-via-concorsipubblici-localita-vicenza-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Vicenza Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vicenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e704415414e073cd843ad914e193c6252008e6af",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -634,5 +634,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
