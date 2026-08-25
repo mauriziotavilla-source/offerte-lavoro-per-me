@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-08-25T01:23:50.145Z",
+  "generated_at": "2026-08-25T06:52:25.916Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f836dcea4c5f796af6904411c07d32763b729ae5",
+  "catalog_hash": "36b8c24f2fa5a285e414a4ef7a80273f30ae30c3",
   "counts": {
     "nuovi": 3,
     "aggiornati": 41
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addett-reparto-ortofrutta-orteria-palermo-gruppo-romano",
-      "nome": "Addett* reparto Ortofrutta - Orteria Palermo — Gruppo Romano",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addett-reparto-ortofrutta-orteria-palermo-at-gruppo-romano-4457376857",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7c9ce5bff446e285d47ef51d4c36793eb51bb30a",
+      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-2-posti-di-co",
+      "nome": "Agenzia di tutela della salute della città metropolitana di Milano, 2 posti di collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-concorso-collaboratore-1",
+      "data_pubblicazione": "2026-08-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7439fbc3fd94550e8ae5cf45214bfd852b3ffc24",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-2",
+      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "60244dd0569d58b66635c55495f2197ff701f6e0",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -582,5 +582,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
