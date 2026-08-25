@@ -1,49 +1,75 @@
 {
-  "generated_at": "2026-08-25T06:52:25.916Z",
+  "generated_at": "2026-08-25T12:52:02.929Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "36b8c24f2fa5a285e414a4ef7a80273f30ae30c3",
+  "catalog_hash": "870922e87d165a02cfdb2379931f4d297a1a3559",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 41
+    "nuovi": 5,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-2-posti-di-co",
-      "nome": "Agenzia di tutela della salute della città metropolitana di Milano, 2 posti di collaboratore amministrativo professionale",
+      "id": "gazzetta-via-concorsipubblici-comune-di-altare-1-istruttore-amministrativo",
+      "nome": "Comune di Altare, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-concorso-collaboratore-1",
-      "data_pubblicazione": "2026-08-24",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-altare-concorso-istruttore-amministrativo-savona-2026",
+      "data_pubblicazione": "2026-09-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7439fbc3fd94550e8ae5cf45214bfd852b3ffc24",
+      "hash_contenuto": "a5a593c7c51df1292a25a83c8fcde6a614a0b25e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-savona-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Savona Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/savona",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
+      "hash_contenuto": "97dc1f5228798be7a737e5ba44eee814c2544835",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-2",
-      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "60244dd0569d58b66635c55495f2197ff701f6e0",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -189,6 +215,19 @@
       "hash_contenuto": "36f9a5bfaf527de8c940902e8531812ea3afba43",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-brugherio-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Brugherio, 1 Istruttore amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-brugherio-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026-0",
+      "data_pubblicazione": "2026-09-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e6675dc2b3b63cea91ee3f1df3906d65e917c1ff",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -582,10 +621,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
