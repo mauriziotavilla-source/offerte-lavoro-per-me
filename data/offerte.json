@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-08-26",
-  "versione": 267,
+  "versione": 268,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "a7d0e3b43e57120373b7ec9f3995f34a1b4d4e17",
-  "generated_at": "2026-08-26T01:27:11.227Z",
+  "catalog_hash": "77c94e5ef8a366eff48d68e2f1e83917567e560c",
+  "generated_at": "2026-08-26T06:53:53.958Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1692,57 +1692,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "a637dfb2b2a5d27567495809ded00b1a8461ea12"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-2-posti-di-co",
-      "nome": "Agenzia di tutela della salute della città metropolitana di Milano, 2 posti di collaboratore amministrativo professionale",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Agenzia di tutela della salute della città metropolitana di Milano, 2 posti di collaboratore amministrativo professionale Ente Agenzia di tutela della salute della citta' metropolitana di Milano Scadenza 24/08/2026 Scaduto Dettagli Località Milano Occupazione ",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-08-24",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-citta-metropolitana-di-milano-concorso-collaboratore-1",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-08-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-08-26",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "7439fbc3fd94550e8ae5cf45214bfd852b3ffc24"
     },
     {
       "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-la-protezione-dell-ambiente-del-piemonte-concorso-riservat",
@@ -15289,8 +15238,8 @@
       "hash_contenuto": "737cae39f7a4578246bae79237c1490acc0f87a3"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-2",
-      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 2",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -15331,7 +15280,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "60244dd0569d58b66635c55495f2197ff701f6e0"
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-istruttore-amministrativo-posti-12",
@@ -17894,6 +17843,57 @@
         "categorie_protette"
       ],
       "hash_contenuto": "8a37accf14e0e71a7e368edf0d32e2e43eb91212"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-parco-delle-groane-1-istruttore-amministrativo-contabile",
+      "nome": "Parco Delle Groane, 1 Istruttore Amministrativo-Contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Parco Delle Groane, 1 Istruttore Amministrativo-Contabile Ente Parco delle Groane Scadenza 25/08/2026 Scaduto Dettagli Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-08-25",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/parco-delle-groane-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-08-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-08-26",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "5359bedc548483d0bf5b0097d7ac698f66d3133e"
     },
     {
       "id": "linkedin-orfani-guerra-messina-parrucchiere-titolare-g-hair-lab",
@@ -21708,6 +21708,14 @@
   ],
   "changed": true,
   "source_errors": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
