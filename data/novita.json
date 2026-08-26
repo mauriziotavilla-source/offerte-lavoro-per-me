@@ -1,34 +1,60 @@
 {
-  "generated_at": "2026-08-26T06:53:53.959Z",
+  "generated_at": "2026-08-26T12:57:08.401Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "77c94e5ef8a366eff48d68e2f1e83917567e560c",
+  "catalog_hash": "53d15d3cc3d938a152cd1fb291e88d1735258024",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 42
+    "nuovi": 4,
+    "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-parco-delle-groane-1-istruttore-amministrativo-contabile",
-      "nome": "Parco Delle Groane, 1 Istruttore Amministrativo-Contabile",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-assistente-sociale-fondazione-cirino-la-rosa-ets",
+      "nome": "Assistente sociale — FONDAZIONE CIRINO LA ROSA ETS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-sociale-at-fondazione-cirino-la-rosa-ets-4457256064",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "edde50d4cfec45b5f8588df4d47db1d6189c59e7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-contabile-istruttore-amministrativo-conta",
+      "nome": "Località Padova Occupazione istruttore contabile istruttore amministrativo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/parco-delle-groane-concorso-istruttore-amministrativo-contabile-milano-2026",
-      "data_pubblicazione": "2026-08-25",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5359bedc548483d0bf5b0097d7ac698f66d3133e",
+      "hash_contenuto": "4fd1424ed81148564d7b5eeb4bdec8a222bc5d12",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -439,6 +465,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-operatore-trice-di-front-office-back-office-adecco",
+      "nome": "Operatore/trice di Front-office/Back-office — Adecco",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4457222472",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "51afd90d1089e2940e2a4fdc714d731b1628cc57",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-part-full-time-accoglienza-clienti-catania-jteam-srls",
       "nome": "Part/Full Time - Accoglienza Clienti - Catania — Jteam SRLS",
       "tipo": "categoria_protetta",
@@ -584,15 +623,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
       "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
