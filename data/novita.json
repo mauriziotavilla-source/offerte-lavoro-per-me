@@ -1,62 +1,88 @@
 {
-  "generated_at": "2026-08-26T12:57:08.401Z",
+  "generated_at": "2026-08-26T19:49:34.561Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "53d15d3cc3d938a152cd1fb291e88d1735258024",
+  "catalog_hash": "249107742c05189e3f77b5635ea8b43d4fb606f3",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 6,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-sociale-fondazione-cirino-la-rosa-ets",
-      "nome": "Assistente sociale — FONDAZIONE CIRINO LA ROSA ETS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-sociale-at-fondazione-cirino-la-rosa-ets-4457256064",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "edde50d4cfec45b5f8588df4d47db1d6189c59e7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-contabile-istruttore-amministrativo-conta",
-      "nome": "Località Padova Occupazione istruttore contabile istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-foligno-2-posti-di-istruttore-amministrativo",
+      "nome": "Comune di Foligno, 2 posti di istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-foligno-concorso-istruttore-amministrativo-perugia-2026",
+      "data_pubblicazione": "2026-09-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4fd1424ed81148564d7b5eeb4bdec8a222bc5d12",
+      "hash_contenuto": "2899d4495def47c59f906adea7e7db3da9ad11e5",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-junior-account-ict-telecomunicazioni-aryaplus",
+      "nome": "Junior Account ICT & Telecomunicazioni — Aryaplus",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-account-ict-telecomunicazioni-at-aryaplus-4457224336",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b9f2e92ccdee9982b0df168243a828b3857ea20c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Perugia Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2b4909100b3ee1e2b63d81316f63efd4e5dbd0f7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-officina-meleca",
+      "nome": "Magazziniere — Officina Meleca",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-at-officina-meleca-4459140952",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "fa828b24152b04cbfd78493a5675f90820715398",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-responsabile-vendite-de-masi-macchine-agricole-e-servizi",
+      "nome": "Responsabile vendite — De Masi Macchine Agricole e Servizi",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-vendite-4457239732",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86a633dd48fe13d1c4000b9ea25885cae068ed58",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-sales-assistant-rocca-reggio-calabria",
+      "nome": "Sales Assistant — Rocca Reggio Calabria",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-4457910855",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0bceb3820063bec2d86605cc634d5e0f21b4cc01",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -469,10 +495,10 @@
       "nome": "Operatore/trice di Front-office/Back-office — Adecco",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4457222472",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4450448820",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "51afd90d1089e2940e2a4fdc714d731b1628cc57",
+      "hash_contenuto": "0222e6ec7fedda4e1698d4990fae99edb62da3ef",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -623,8 +649,8 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 500"
     }
   ]
 }
