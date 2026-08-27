@@ -1,60 +1,177 @@
 {
-  "generated_at": "2026-08-27T08:16:19.588Z",
+  "generated_at": "2026-08-27T21:58:54.164Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e1952d5a97cf161fdc73f57d8966a2b93aadcab2",
+  "catalog_hash": "25534b232948c75a61f339d1c06a3e436b0b58c1",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 43
+    "nuovi": 13,
+    "aggiornati": 44
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-3",
-      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 3",
+      "id": "gazzetta-via-concorsipubblici-comune-di-bressanvido-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Bressanvido, 1 Istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bressanvido-concorso-istruttore-amministrativo-contabile-vicenza-2026",
+      "data_pubblicazione": "2026-09-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8aa8d6c8a83500a693a56c44f5059411b766a96d",
+      "hash_contenuto": "5846ded177c21c16162e33575aa075f78e414a5c",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
+      "id": "gazzetta-via-concorsipubblici-comune-di-fontanelle-1-collaboratore-amministrativo",
+      "nome": "Comune di Fontanelle, 1 Collaboratore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-fontanelle-concorso-riservato-collaboratore-amministrativo-treviso-2026",
+      "data_pubblicazione": "2026-09-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9cce4eca912d7e9946097cfafd8e531746a552c6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-martellago-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Martellago, 1 ISTRUTTORE AMMINISTRATIVO CONTABILE",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-martellago-avviso-istruttore-amministrativo-contabile-venezia-2026",
+      "data_pubblicazione": "2026-09-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "64c8adeda3e263ce2d650ef04fe4d9c65960d5bf",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-tito-1-istruttore-amministrativo",
+      "nome": "Comune di Tito, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-tito-concorso-istruttore-amministrativo-potenza-2026",
+      "data_pubblicazione": "2026-09-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9cb1a0427a20e8fa265e57416f8b6f44457d51b1",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-tito-1-istruttore-contabile",
+      "nome": "Comune di Tito, 1 istruttore contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-tito-concorso-istruttore-contabile-potenza-2026",
+      "data_pubblicazione": "2026-09-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "aab9fd12b3fd56edc82cee7c7b554aaa7c874a39",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-integrazione-gm24-ddg-2575-2023-dipartimento-della-funzione-pubblica",
+      "nome": "Integrazione GM24 - DDG 2575/2023 — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/integrazione-gm24-ddg-2575-2023-at-dipartimento-della-funzione-pubblica-4452597809",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "147207e5e7916e47aca1106512eef4ba31c061af",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-junior-account-ict-telecomunicazioni-aryaplus",
+      "nome": "Junior Account ICT & Telecomunicazioni — Aryaplus",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-account-ict-telecomunicazioni-at-aryaplus-4457224336",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b9f2e92ccdee9982b0df168243a828b3857ea20c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-potenza-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Potenza Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/potenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "72185255e50002d39fe35f58731568d84387d589",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Treviso Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/treviso",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c46b90370da3688fab8f2ab367e64f6a6ed28783",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-venezia-occupazione-collaboratore-amministrativo-posti-2",
+      "nome": "Località Venezia Occupazione collaboratore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/venezia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7ff305b5160045108faa538e4a60df5eb8ce2d87",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-procurement-associate-strathmore-university-institute-for-family-studies-and-eth",
+      "nome": "Procurement Associate — Strathmore University Institute for Family Studies and Ethics",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/procurement-associate-at-strathmore-university-institute-for-family-studies-and-ethics-4460101818",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "15181871636c085da4117313d33a92e8b9850021",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-security-specialist-naval-supply-systems-command-navsup",
+      "nome": "SECURITY SPECIALIST — Naval Supply Systems Command (NAVSUP)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/security-specialist-at-naval-supply-systems-command-navsup-4458669777",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "0641b9acd031bbd2c9e8c5de4916991e26dea2e6",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-work-and-family-life-specialist-u-s-navy-fleet-and-family-readiness-ffr",
+      "nome": "Work and Family Life Specialist — U.S. Navy Fleet and Family Readiness (FFR)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/work-and-family-life-specialist-at-u-s-navy-fleet-and-family-readiness-ffr-4459803833",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "61da7b500ca5c3ec71b723cd8a1184300db84919",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -109,6 +226,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "hash_contenuto": "bcc2ffbb91cac3dfefc677fb734c7333983e4f0b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-per-candidati-idonei-non-assunti-e-utilmente-collocati-in-gr",
+      "nome": "AVVISO DI SELEZIONE PER CANDIDATI IDONEI NON ASSUNTI E UTILMENTE COLLOCATI IN GRADUATORIE DI MERITO DI ALTRI ENTI -ASSISTENTE SOCIALE N.2 UNITA' A TEMPO PIENO E INDETERMINATO — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-per-candidati-idonei-non-assunti-e-utilmente-collocati-in-graduatorie-di-merito-di-altri-enti-assistente-sociale-n-2-unita-a-tempo-pieno-e-indeterminato-at-dipartimento-della-funzione-pubblica-4458004241",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "6b93bdf546b4e2780492dfa29dac31210667789f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -621,10 +751,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
