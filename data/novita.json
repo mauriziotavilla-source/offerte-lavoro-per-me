@@ -1,86 +1,60 @@
 {
-  "generated_at": "2026-08-26T19:49:34.561Z",
+  "generated_at": "2026-08-27T08:16:19.588Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "249107742c05189e3f77b5635ea8b43d4fb606f3",
+  "catalog_hash": "e1952d5a97cf161fdc73f57d8966a2b93aadcab2",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 4,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-foligno-2-posti-di-istruttore-amministrativo",
-      "nome": "Comune di Foligno, 2 posti di istruttore amministrativo",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-esperto-amministrativo-contabile-posti-3",
+      "nome": "Località Milano Occupazione esperto amministrativo contabile Posti 3",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-foligno-concorso-istruttore-amministrativo-perugia-2026",
-      "data_pubblicazione": "2026-09-25",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2899d4495def47c59f906adea7e7db3da9ad11e5",
+      "hash_contenuto": "8aa8d6c8a83500a693a56c44f5059411b766a96d",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-junior-account-ict-telecomunicazioni-aryaplus",
-      "nome": "Junior Account ICT & Telecomunicazioni — Aryaplus",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-account-ict-telecomunicazioni-at-aryaplus-4457224336",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b9f2e92ccdee9982b0df168243a828b3857ea20c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Perugia Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2b4909100b3ee1e2b63d81316f63efd4e5dbd0f7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-officina-meleca",
-      "nome": "Magazziniere — Officina Meleca",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-at-officina-meleca-4459140952",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fa828b24152b04cbfd78493a5675f90820715398",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-responsabile-vendite-de-masi-macchine-agricole-e-servizi",
-      "nome": "Responsabile vendite — De Masi Macchine Agricole e Servizi",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-vendite-4457239732",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86a633dd48fe13d1c4000b9ea25885cae068ed58",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-sales-assistant-rocca-reggio-calabria",
-      "nome": "Sales Assistant — Rocca Reggio Calabria",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-4457910855",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "0bceb3820063bec2d86605cc634d5e0f21b4cc01",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -649,8 +623,8 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 500"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
