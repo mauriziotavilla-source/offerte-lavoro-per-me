@@ -1,46 +1,176 @@
 {
-  "generated_at": "2026-08-28T10:18:18.487Z",
+  "generated_at": "2026-08-28T21:53:23.603Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8a3e33e70c619fe9b0582192f601f6373eade244",
+  "catalog_hash": "c8a7ace287b1028707a0007de9f2a1357e7a5c16",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 46
+    "nuovi": 13,
+    "aggiornati": 45
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "id": "gazzetta-via-concorsipubblici-comune-di-albairate-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Albairate, 1 Istruttore Amministrativo-Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-albairate-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "data_pubblicazione": "2026-09-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ddeba69b6261a7a2bde8399483278c43a89b66d3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-brusimpiano-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Brusimpiano, 1 Istruttore Amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-brusimpiano-concorso-istruttore-amministrativo-contabile-varese-2026",
+      "data_pubblicazione": "2026-09-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1a638e60c0bf81cbd6c68f0aa72f2fcb2880d91a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-santa-maria-di-sala-2-operatore-amministrativo-esperto",
+      "nome": "Comune di Santa Maria di Sala, 2 Operatore Amministrativo Esperto",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-maria-di-sala-concorso-operatore-amministrativo-venezia-2026",
+      "data_pubblicazione": "2026-09-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6ad0ee522c35ce87086b9709f41e660eb9df0844",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-treviglio-2-istruttore-amministrativo-contabile",
+      "nome": "Comune di Treviglio, 2 Istruttore Amministrativo-Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-treviglio-concorso-istruttore-amministrativo-contabile-bergamo-2026",
+      "data_pubblicazione": "2026-09-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9a6eeea43ca2f92448f6a2c2bab4383983e3117e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-gestione-patrimoniale-antonino-reale",
+      "nome": "Consulente gestione patrimoniale — Antonino Reale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-gestione-patrimoniale-4458526607",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "hash_contenuto": "f7007b171b3884647373226e77220becb27a8e3e",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-sicilia-contabile-rindone-associati",
+      "nome": "Contabile — Rindone & Associati",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4458222039",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "hash_contenuto": "188a6df8a1b6fd85e19d8a26f43ccfe82e9a5f9c",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7adb90aa886466ab309d3042b4426aefecb2448e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-contabile-posti-2",
+      "nome": "Località Bergamo Occupazione istruttore amministrativo contabile Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2f669ca13a02e4070d4261c7f6810db4f2f3029c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-operativo-di-azienda-agricola-e-vitivinicola-pianogrillo",
+      "nome": "Responsabile Operativo di Azienda Agricola e Vitivinicola — Pianogrillo",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-operativo-di-azienda-agricola-e-vitivinicola-at-pianogrillo-4460351536",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5f85fc177d1795d6d1334235bf877be385d7cf1a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -213,19 +343,6 @@
       "data_pubblicazione": "2026-09-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "7d09f319b63a9220c0e782d424ec040a5ea9c803",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-lula-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Lula, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-lula-concorso-istruttore-amministrativo-contabile-nuoro-2026",
-      "data_pubblicazione": "2026-08-27",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "735c98d7eb74ce63f51c68fc21a526697cdedace",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -573,10 +690,10 @@
       "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4460302199",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4456784017",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "3585e9bb0ce0eb67c72e4ce8fb6ed04a0a3fefea",
+      "hash_contenuto": "0ebf526e07ea089d1fb5b3df9ab5516c4daa4022",
       "notifica_topics": [
         "categorie_protette"
       ]
