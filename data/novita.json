@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-29T06:18:09.837Z",
+  "generated_at": "2026-08-29T16:25:38.106Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "2bc2bb6071fbbf7433847cf2179d162df9d318ac",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 43
+    "nuovi": 0,
+    "aggiornati": 42
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-2",
-      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "60244dd0569d58b66635c55495f2197ff701f6e0",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -59,19 +45,6 @@
       "hash_contenuto": "f73c1133b27fd2e8fbdc561283a354e18af2dc06",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-2-c",
-      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 2 Collaboratore Amministrativo Professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-18",
-      "data_pubblicazione": "2026-08-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6cdade3aeb6782fc2b266a49c527e51daf2b08b9",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     },
     {
@@ -582,5 +555,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
