@@ -1,179 +1,23 @@
 {
-  "generated_at": "2026-08-28T21:53:23.603Z",
+  "generated_at": "2026-08-29T06:18:09.837Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c8a7ace287b1028707a0007de9f2a1357e7a5c16",
+  "catalog_hash": "2bc2bb6071fbbf7433847cf2179d162df9d318ac",
   "counts": {
-    "nuovi": 13,
-    "aggiornati": 45
+    "nuovi": 1,
+    "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-albairate-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Albairate, 1 Istruttore Amministrativo-Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-albairate-concorso-istruttore-amministrativo-contabile-milano-2026",
-      "data_pubblicazione": "2026-09-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ddeba69b6261a7a2bde8399483278c43a89b66d3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-brusimpiano-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Brusimpiano, 1 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-brusimpiano-concorso-istruttore-amministrativo-contabile-varese-2026",
-      "data_pubblicazione": "2026-09-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1a638e60c0bf81cbd6c68f0aa72f2fcb2880d91a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-santa-maria-di-sala-2-operatore-amministrativo-esperto",
-      "nome": "Comune di Santa Maria di Sala, 2 Operatore Amministrativo Esperto",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-maria-di-sala-concorso-operatore-amministrativo-venezia-2026",
-      "data_pubblicazione": "2026-09-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6ad0ee522c35ce87086b9709f41e660eb9df0844",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-treviglio-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Treviglio, 2 Istruttore Amministrativo-Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-treviglio-concorso-istruttore-amministrativo-contabile-bergamo-2026",
-      "data_pubblicazione": "2026-09-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9a6eeea43ca2f92448f6a2c2bab4383983e3117e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-consulente-gestione-patrimoniale-antonino-reale",
-      "nome": "Consulente gestione patrimoniale — Antonino Reale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-gestione-patrimoniale-4458526607",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f7007b171b3884647373226e77220becb27a8e3e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-contabile-rindone-associati",
-      "nome": "Contabile — Rindone & Associati",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4458222039",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "188a6df8a1b6fd85e19d8a26f43ccfe82e9a5f9c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Belluno Occupazione assistente amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7adb90aa886466ab309d3042b4426aefecb2448e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Bergamo Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2f669ca13a02e4070d4261c7f6810db4f2f3029c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-2",
+      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "hash_contenuto": "60244dd0569d58b66635c55495f2197ff701f6e0",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-responsabile-operativo-di-azienda-agricola-e-vitivinicola-pianogrillo",
-      "nome": "Responsabile Operativo di Azienda Agricola e Vitivinicola — Pianogrillo",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-operativo-di-azienda-agricola-e-vitivinicola-at-pianogrillo-4460351536",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "5f85fc177d1795d6d1334235bf877be385d7cf1a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -215,6 +59,19 @@
       "hash_contenuto": "f73c1133b27fd2e8fbdc561283a354e18af2dc06",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-2-c",
+      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 2 Collaboratore Amministrativo Professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-18",
+      "data_pubblicazione": "2026-08-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6cdade3aeb6782fc2b266a49c527e51daf2b08b9",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -400,19 +257,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pien",
-      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N.5 POSTI A TEMPO PIENO E INDETERMINATO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, PROFILO “EDUCATORE ASILI NIDO”. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n-5-posti-a-tempo-pieno-e-indeterminato-area-dei-funzionari-e-dell%E2%80%99elevata-qualificazione-profilo-%E2%80%9Ceducatore-asili-nido%E2%80%9D-at-dipartimento-della-funzione-pubblica-4436180806",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "962e61ac1274cd7d6c5f2a3b604b38b19c58fb92",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-37-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 37 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 11 giugno 2026 e successive modifiche. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -491,19 +335,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-ass",
-      "nome": "IOM AR 007/2020 GE-Selezione per titoli e colloquio per il conferimento di 1 Assegno di Ricerca PROFESSIONALIZZANTE — Ethical Journal of Research",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/iom-ar-007-2020-ge-selezione-per-titoli-e-colloquio-per-il-conferimento-di-1-assegno-di-ricerca-professionalizzante-at-ethical-journal-of-research-4438363553",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b50d8cdae4fc27089e32c1a9b59bacf1d5dd4576",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-geofisica-e-vulcanologia-ingv-1-collaboratore-amministrati",
       "nome": "Istituto Nazionale di Geofisica e Vulcanologia – INGV, 1 collaboratore amministrativo",
       "tipo": "concorso",
@@ -577,19 +408,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "367653ff1281e30aec983a3c35f8b1175fbd6cbc",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-operatore-trice-di-front-office-back-office-adecco",
-      "nome": "Operatore/trice di Front-office/Back-office — Adecco",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operatore-trice-di-front-office-back-office-at-adecco-4433188731",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7c6f3be18938c892deddfd638cce12ca4606ff33",
       "notifica_topics": [
         "categorie_protette"
       ]
