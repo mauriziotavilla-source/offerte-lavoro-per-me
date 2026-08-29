@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-08-29T16:25:38.106Z",
+  "generated_at": "2026-08-29T20:38:58.504Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2bc2bb6071fbbf7433847cf2179d162df9d318ac",
+  "catalog_hash": "9e7cacff21b419f2a511eb03d5332f3436b53ccb",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 4,
     "aggiornati": 42
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-ed-esami-per-l-assunzione-a-tempo-pieno-e-indetermi",
+      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE – SETTORE PROFESSIONALE AMMINISTRATIVO/GESTIONALE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-l%E2%80%99assunzione-a-tempo-pieno-e-indeterminato-di-n-1-assistente-%E2%80%93-settore-professionale-amministrativo-gestionale-at-dipartimento-della-funzione-pubblica-4458496176",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ed83dfb88e5bd1c36fcc7e9a2ec8ec240d037e89",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -555,14 +608,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
