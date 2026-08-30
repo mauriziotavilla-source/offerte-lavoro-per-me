@@ -1,60 +1,47 @@
 {
-  "generated_at": "2026-08-29T20:38:58.504Z",
+  "generated_at": "2026-08-30T04:26:51.346Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9e7cacff21b419f2a511eb03d5332f3436b53ccb",
+  "catalog_hash": "f263c2dd8651bc6b72ae59e7dce8d92615476145",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 42
+    "nuovi": 3,
+    "aggiornati": 40
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-ed-esami-per-l-assunzione-a-tempo-pieno-e-indetermi",
-      "nome": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE – SETTORE PROFESSIONALE AMMINISTRATIVO/GESTIONALE — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-sicilia-esperto-di-comunicazioni-fondazione-emblema",
+      "nome": "Esperto di comunicazioni — Fondazione Emblema",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-ed-esami-per-l%E2%80%99assunzione-a-tempo-pieno-e-indeterminato-di-n-1-assistente-%E2%80%93-settore-professionale-amministrativo-gestionale-at-dipartimento-della-funzione-pubblica-4458496176",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ed83dfb88e5bd1c36fcc7e9a2ec8ec240d037e89",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-di-comunicazioni-at-fondazione-emblema-4458206223",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "hash_contenuto": "dc1737ced43f9326e7bd5112be2ffece38ae4328",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -205,19 +192,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-commerciale-reggio-calabria-m-f-vitalaire",
-      "nome": "Commerciale - Reggio Calabria (m/f) — VitalAire",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commerciale-reggio-calabria-m-f-at-vitalaire-4435841959",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "36f9a5bfaf527de8c940902e8531812ea3afba43",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-brugherio-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Brugherio, 1 Istruttore amministrativo-contabile",
       "tipo": "concorso",
@@ -317,19 +291,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "fd5df4ad1cc5c0fd354d38a0dfea6391d30ec0c3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-lega-del-fi",
-      "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4432775206",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d788f5417779cc767631bd91e6667fe74a74a4c4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -608,5 +569,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
