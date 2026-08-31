@@ -1,153 +1,179 @@
 {
-  "generated_at": "2026-08-31T13:04:42.563Z",
+  "generated_at": "2026-08-31T22:38:14.022Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1a853bb235803789133d32da0a00e589479c5fdf",
+  "catalog_hash": "fcb01f5d4898768b8753b3e4be82e0fb672d94d5",
   "counts": {
-    "nuovi": 11,
-    "aggiornati": 40
+    "nuovi": 13,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-all-amministrazione-contabile-burlington-english-italy",
-      "nome": "Addetto all’amministrazione contabile — Burlington English Italy",
+      "id": "linkedin-orfani-guerra-sicilia-assistente-di-segreteria-associazione-diplomatici",
+      "nome": "Assistente di Segreteria — Associazione Diplomatici",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-all%E2%80%99amministrazione-contabile-at-burlington-english-italy-4461045830",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "0a18a0d3c59c54fcc4582692d51bab94b01d0841",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-ufficio-tecnico-studio-pergolizzi",
-      "nome": "Addetto Ufficio Tecnico — STUDIO PERGOLIZZI",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-ufficio-tecnico-at-studio-pergolizzi-4461079602",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8979e43919c297b59fa47549a3982fc88ff34bc7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-designer-d-interni-aran-cucine-modica",
-      "nome": "Designer d’interni — Aran cucine modica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/designer-d%E2%80%99interni-4458888831",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-di-segreteria-at-associazione-diplomatici-4461203813",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f34b7ded7388dfe25b78808d9a0365e087ee706a",
+      "hash_contenuto": "fddd371241aa759e08d1617ec80ef487f8d2a765",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-impiegato-amministrativo-contabile-hubform",
-      "nome": "Impiegato amministrativo contabile — hubform",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-contabile-at-hubform-4461084535",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "57b7bd5ea915a101cd5fa41d04bacac53d13d602",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-insegnanti-di-musica-alchemia-advanced-music-lab",
-      "nome": "Insegnanti di Musica — Alchèmia advanced music lab",
+      "id": "linkedin-orfani-guerra-sicilia-cabin-crew-recruitment-day-palermo-28-september-2026-wizz-air",
+      "nome": "Cabin Crew Recruitment Day - Palermo - 28 September 2026 — Wizz Air",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/insegnanti-di-musica-at-alch%C3%A8mia-advanced-music-lab-4461082354",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/cabin-crew-recruitment-day-palermo-28-september-2026-at-wizz-air-4458857743",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "fcdf8c7aa6fc895341c7564b56d3e925b10ed890",
+      "hash_contenuto": "ee55c65f8c9374bedc282aed50c7f61e16bea1dd",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-junior-account-ict-telecomunicazioni-aryaplus",
+      "id": "gazzetta-via-concorsipubblici-comune-di-busto-arsizio-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Busto Arsizio, 1 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-busto-arsizio-concorso-istruttore-amministrativo-contabile-varese-2026",
+      "data_pubblicazione": "2026-09-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d270c74e679eadfc5cd4403dff4bc2b898b198d3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-casirate-d-adda-1-istruttore-amministrativo",
+      "nome": "Comune di Casirate D’Adda, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casirate-dadda-concorso-istruttore-amministrativo-bergamo-2026",
+      "data_pubblicazione": "2026-09-29",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a53e21ee052549f957f8a39282c5b4c142eeef8d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-cibiana-di-cadore-1-istruttore-amministrativo",
+      "nome": "Comune di Cibiana di Cadore, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cibiana-di-cadore-concorso-istruttore-amministrativo-belluno-2026",
+      "data_pubblicazione": "2026-09-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5ef8631f1d5d57dbb0bd85f446acdec5704e0cff",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-consulente-di-sviluppo-commerciale-sigra-srl",
+      "nome": "Consulente di sviluppo commerciale — SIGRA srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-di-sviluppo-commerciale-at-sigra-srl-4461205930",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f5e022f379bf21d8b1af88f1dac44997b39ed977",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-junior-account-ict-telecomunicazioni-aryaplus",
       "nome": "Junior Account ICT & Telecomunicazioni — Aryaplus",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-account-ict-telecomunicazioni-at-aryaplus-4457224336",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "b9f2e92ccdee9982b0df168243a828b3857ea20c",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-manutentore-kernel-srl",
-      "nome": "Manutentore — Kernel SRL",
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0a9bd3d73bbd8711d342c26a7a773fa4d56de074",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Modena Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/modena",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ae3e4a4035e9b44310944254542a61d1ee933992",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-venezia-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Venezia Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/venezia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1eb4d70a15dc3eac2f0904d65b2f717cf631bf1b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/manutentore-at-kernel-srl-4461062826",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "55df7d7489fcea0eda981acb5a6128095c3cf6e6",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-responsabile-front-office-ripel-srl",
-      "nome": "Responsabile front office — Ripel srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-front-office-4461085866",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9c0376ef2bb683af4c87b6bb20783f2ce403a13b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-tecnico-per-rilievi-ordini-e-cantiere-corrado-serramenti",
-      "nome": "Tecnico per rilievi, ordini e cantiere — CORRADO SERRAMENTI",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-per-rilievi-ordini-e-cantiere-at-corrado-serramenti-4459209258",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "665b19eee1efdc5a1d92c384eaa247e7d01a49a4",
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-del-distretto-ceramico-1-istruttore-contabile",
+      "nome": "Unione Dei Comuni del Distretto Ceramico , 1 istruttore contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-del-distretto-ceramico-concorso-istruttore-contabile-modena-2026-1",
+      "data_pubblicazione": "2026-09-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "00e1a3ee34c8d2ba64e8f2607489d9c9b99ffab9",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-tirocinante-addetto-addetta-vendita-abbigliamento-agrigento-openjobmetis-spa",
-      "nome": "Tirocinante Addetto/Addetta Vendita abbigliamento Agrigento — Openjobmetis SpA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tirocinante-addetto-addetta-vendita-abbigliamento-agrigento-at-openjobmetis-spa-4458973586",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "88d3c1692138b40a63a04a469aaa4e9cd1afd0d4",
-      "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -283,6 +309,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
+      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4450925734",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4b41f936822402be54441fe0fc3fdf9dd74f1ef9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-professionale",
       "nome": "collaboratore amministrativo professionale",
       "tipo": "concorso",
@@ -382,6 +421,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "9f06dcebe0d30a1c552e5391460b21f9d0391dd4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-contabile-studio-associato-lubiana",
+      "nome": "Contabile — Studio Associato Lubiana",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-studio-associato-lubiana-4459234738",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "dda1b180fb4473348ee7ecbd1e5202a9565c9d50",
       "notifica_topics": [
         "categorie_protette"
       ]
