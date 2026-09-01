@@ -1,60 +1,112 @@
 {
-  "generated_at": "2026-09-01T04:14:08.700Z",
+  "generated_at": "2026-09-01T11:19:55.298Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8cf9ccf7010f85c52f74f75acae0fdf2550b9de1",
+  "catalog_hash": "ca1d78905182bce92a2551cea6a431997f1ba336",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 38
+    "nuovi": 8,
+    "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-oristano-occupazione-istruttore-amministrativo-contabile-posti-3",
-      "nome": "Località Oristano Occupazione istruttore amministrativo contabile Posti 3",
+      "id": "linkedin-orfani-guerra-messina-impiegato-drbroker-spa",
+      "nome": "Impiegato — DRBROKER SPA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-4461713452",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0273cbe88cc2adcdf88f457c9a1cb643ca6ee5dc",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-junior-account-ict-telecomunicazioni-aryaplus",
+      "nome": "Junior Account ICT & Telecomunicazioni — Aryaplus",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-account-ict-telecomunicazioni-at-aryaplus-4457224336",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b9f2e92ccdee9982b0df168243a828b3857ea20c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-litigation-associate-gordon-davis-johnson-shane-pc",
+      "nome": "LITIGATION ASSOCIATE — GORDON DAVIS JOHNSON & SHANE PC",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/litigation-associate-at-gordon-davis-johnson-shane-pc-4461547935",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "df3d58b42011d1dd2f5d07b69c931d15895847ed",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Bergamo Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/oristano",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "38ac2ec67e98ca5ea5c641a7f244d70f4e7a0be6",
+      "hash_contenuto": "dde0c0fbf59f29e433dc360ba082f2fad78a4826",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "id": "gazzetta-via-concorsipubblici-localita-potenza-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Potenza Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/potenza",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bee065de7780b20850207b6a56bcd7652670f2bc",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-procedura-selettiva-pubblica-per-titoli-per-n-1-contratto-a-tempo-determinato-af",
-      "nome": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI, PER N. 1 CONTRATTO A TEMPO DETERMINATO – AFAM 055 – TEORIA E TECNICA DELL'INTERPRETAZIONE SCENICA — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-selettiva-pubblica-per-titoli-per-n-1-contratto-a-tempo-determinato-%E2%80%93-afam-055-%E2%80%93-teoria-e-tecnica-dell-interpretazione-scenica-at-dipartimento-della-funzione-pubblica-4445504798",
+      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5c21f4170be1d4d7281177f070131de63426664b",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fa5df3a1f43b60ea5c622dafac715c23757feea6",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-segretaria-studio-legale-bolognino",
-      "nome": "Segretaria — Studio legale Bolognino",
+      "id": "gazzetta-via-concorsipubblici-localita-venezia-occupazione-operatore-amministrativo-posti-2",
+      "nome": "Località Venezia Occupazione operatore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/venezia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "677944c4e38527264a37ee4404658ba79db9c084",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/segretaria-4461217914",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "3687944a4d1683cdc423f7cee28bc9bc25f52949",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -504,27 +556,14 @@
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-oristano-3-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Provincia di Oristano, 3 posti di Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-oristano-concorso-istruttore-amministrativo-contabile-oristano-2026",
-      "data_pubblicazione": "2026-08-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b8843df90f9839beffe4c3f37407e1b637e42a46",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-stage-addetto-a-vendite-tommy-hilfiger-taormina-gifrab-italia-s-p-a",
       "nome": "STAGE ADDETTO/A VENDITE - TOMMY HILFIGER (TAORMINA) — Gifrab Italia S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4460022403",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4451177763",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "692cfa4ecaae7ab6a66637c309d047be2eff4512",
+      "hash_contenuto": "27bdfa33b2488ebfd7e8633626018937d4b892d8",
       "notifica_topics": [
         "categorie_protette"
       ]
