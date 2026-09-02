@@ -1,62 +1,23 @@
 {
-  "generated_at": "2026-09-02T03:36:41.572Z",
+  "generated_at": "2026-09-02T10:54:04.754Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "10eb7b3d01c163961731f682a92b39593845ed9d",
+  "catalog_hash": "cffb966b9b5ed4829c3fef0860e0f19751cf68eb",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 1,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-d",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA-AZIENDA ZERO-AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 32 POSTI DI OSTETRICO/A,DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-di-mobilita%E2%80%99-volontaria-per-la-copertura-di-n-32-posti-di-ostetrico-a-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4459595324",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5a1c0f7ba747f2dc4855fc295ad3a2580a73f3a8",
+      "id": "gazzetta-via-concorsipubblici-conservatorio-musica-vibo-valentia-1-assistente-amministrativo",
+      "nome": "Conservatorio Musica Vibo Valentia, 1 assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/conservatorio-musica-vibo-valentia-concorso-assistente-amministrativo-vibo-valentia-2026",
+      "data_pubblicazione": "2026-09-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f2ce1b042f85fb7c18bd076cc74cbad505b7ae93",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -543,5 +504,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
