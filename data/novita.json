@@ -1,72 +1,59 @@
 {
-  "generated_at": "2026-09-01T20:45:31.819Z",
+  "generated_at": "2026-09-02T03:36:41.572Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f36ae07b37675c8ce5e6d1eaccabafd17c9f4237",
+  "catalog_hash": "10eb7b3d01c163961731f682a92b39593845ed9d",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 4,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-caselle-lurani-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Caselle Lurani, 1 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-caselle-lurani-concorso-istruttore-amministrativo-contabile-lodi-2026",
-      "data_pubblicazione": "2026-09-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ac0380cb6e734db79c8ddf2cbacb14c499b73999",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lodi-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Lodi Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lodi",
+      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-d",
+      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA-AZIENDA ZERO-AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 32 POSTI DI OSTETRICO/A,DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-di-mobilita%E2%80%99-volontaria-per-la-copertura-di-n-32-posti-di-ostetrico-a-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4459595324",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7acf3d934e2edaabe65c033d4813a07a4f651579",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5a1c0f7ba747f2dc4855fc295ad3a2580a73f3a8",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -556,10 +543,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
