@@ -1,101 +1,153 @@
 {
-  "generated_at": "2026-09-03T16:02:33.299Z",
+  "generated_at": "2026-09-03T20:42:40.213Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f00d384dbda0f5af461baf094d733e274b6de47b",
+  "catalog_hash": "2a640023ed91e15e02b490cd46609d486a5b2228",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 36
+    "nuovi": 11,
+    "aggiornati": 38
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-augusta-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita PT 20 ore - Augusta — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-augusta-at-gens-aurea-s-p-a-4462807948",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "1cbcc358cdf7235a310b0076eb976237af7094ed",
+      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-bando-di-concorso-pubblico-per-esami-per-la-copertura-a-tempo-pieno-e-indetermin",
-      "nome": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 (DUE) UNITÀ DI PERSONALE - AREA DEI FUNZIONARI - PROFILO “ASSISTENTE SOCIALE” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-di-concorso-pubblico-per-esami-per-la-copertura-a-tempo-pieno-e-indeterminato-di-n-2-due-unit%C3%A0-di-personale-area-dei-funzionari-profilo-%E2%80%9Cassistente-sociale%E2%80%9D-at-dipartimento-della-funzione-pubblica-4460720223",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "1042830970d14aa4e8194acab308fc621140f4e8",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-impiegato-a-area-commerciale-amministrativa-siculabriosce",
-      "nome": "Impiegato/a Area Commerciale-Amministrativa — SiculaBriosce",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-area-commerciale-amministrativa-at-siculabriosce-4462846510",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "849c797625464bbc34d6c40c811a312202eb7595",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istituti-di-santa-maria-in-aquiro-2-posti-di-istruttore-amministrativo",
-      "nome": "Istituti di Santa Maria in Aquiro, 2 posti di istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-corte-franca-1-istruttore-amministrativo",
+      "nome": "Comune di Corte Franca , 1 Istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituti-di-s-maria-aquiro-di-roma-concorso-istruttore-amministrativo-roma-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-corte-franca-concorso-istruttore-amministrativo-brescia-2026",
       "data_pubblicazione": "2026-10-02",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1d3deb118a215f034bd15fbeacfb96631564c9e4",
+      "hash_contenuto": "da5ec06c8c9617a7d0373ff78d0bf0e448763d94",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Belluno Occupazione assistente amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-cuneo-1-istruttore-amministrativo",
+      "nome": "Comune di Cuneo, 1 Istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cuneo-concorso-istruttore-amministrativo-cuneo-2026-1",
+      "data_pubblicazione": "2026-10-02",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7adb90aa886466ab309d3042b4426aefecb2448e",
+      "hash_contenuto": "935017f55797a6c3dad7e126112dca78efe5cd0e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Roma Occupazione istruttore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-comune-di-orio-canavese-1-istruttore-amministrativo",
+      "nome": "Comune di Orio Canavese, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-orio-canavese-concorso-istruttore-amministrativo-torino-2026",
+      "data_pubblicazione": "2026-10-01",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9550384e1e4a820e81a1318a7bdece3b56eacbee",
+      "hash_contenuto": "5dd03b1eb7b79d68c4f65df229fe04574dc68261",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "id": "gazzetta-via-concorsipubblici-ente-regionale-per-l-abitazione-pubblica-delle-marche-1-assistente-amministrativ",
+      "nome": "Ente Regionale per L’Abitazione Pubblica Delle Marche, 1 ASSISTENTE AMMINISTRATIVO",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/ente-regionale-labitazione-pubblica-delle-marche-concorso-riservato-assistente-amministrativo",
+      "data_pubblicazione": "2026-10-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d261c81bbfa4d40557fb4da2cdf02769f4d96242",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-ancona-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Ancona Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ancona",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bf37f7ce6127906d9c2994559095ad2ea02a40da",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-cuneo-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Cuneo Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cuneo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4f007aa5f00fea309f6a6fa8a9e9e063f20a6bb8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
       "nome": "Pizzaiolo — Villa Zuccaro Group",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-cuneo-1-istruttore-amministrativo",
+      "nome": "Provincia di Cuneo, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-cuneo-concorso-istruttore-amministrativo-cuneo-2026",
+      "data_pubblicazione": "2026-10-02",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d918a25c4519f4f2b0ec0136f7455b1bf2fc5f85",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -527,6 +579,32 @@
       "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-amministrativo-gi-group",
+      "nome": "Responsabile amministrativo — Gi Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-gi-group-4460724378",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "acdd4b08f83537938576742d185d940d91044f0a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-scuola-internazionale-superiore-di-studi-avanzati-1-collaboratore-settore-ammini",
+      "nome": "Scuola Internazionale Superiore di Studi Avanzati, 1 Collaboratore – settore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore-0",
+      "data_pubblicazione": "2026-10-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "839ce68111f3d348a92c779c8e7d26988f6d0294",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
