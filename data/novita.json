@@ -1,86 +1,47 @@
 {
-  "generated_at": "2026-09-02T20:44:23.488Z",
+  "generated_at": "2026-09-03T03:36:05.737Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "96393800b085399f8825dc23828bfdcf9cde5545",
+  "catalog_hash": "162a038af8195724afd24da34147123d235808fc",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 3,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-006-aicsbeirut-2025-esperto-di-programma-progetto-livello-mi",
+      "nome": "Avviso di Selezione 006/AICSBEIRUT/2025_Esperto di Programma/Progetto (livello Middle) Ufficio di Damasco — AICS Beirut",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-011-aicsbeirut-2025-esperto-amministrativo-contabile-low-per",
-      "nome": "Avviso di Selezione 011/AICSBEIRUT/2025_Esperto Amministrativo Contabile Low (Personale di Concetto) — AICS Beirut",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-011-aicsbeirut-2025-esperto-amministrativo-contabile-low-personale-di-concetto-at-aics-beirut-4462114199",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-006-aicsbeirut-2025-esperto-di-programma-progetto-livello-middle-ufficio-di-damasco-at-aics-beirut-4462101498",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "85305ec4445c704cc2d2c643426796f92a68ab52",
+      "hash_contenuto": "1b0a5f1e471fcd2a8462c2424d864fc5fb6d5170",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bonate-sopra-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Bonate Sopra , 2 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bonate-sopra-concorso-istruttore-amministrativo-contabile-bergamo-2026",
-      "data_pubblicazione": "2026-09-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "905c6b250933d053a9e7ac3f86632cb70738136a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-lurago-d-erba-1-istruttore-amministrativo",
-      "nome": "Comune di Lurago D’erba, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-lurago-derba-concorso-istruttore-amministrativo-como-2026",
-      "data_pubblicazione": "2026-09-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f95a9ff32edaf83d5cb27f5623a5f0326601354a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-muratore-operaio-edile-ragusa-acrobatica",
-      "nome": "Muratore/Operaio Edile Ragusa — Acrobatica",
+      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-007-aicsbeirut-2025-esperto-di-programma-progetto-low-siria-",
+      "nome": "Avviso di Selezione 007/AICSBEIRUT/2025_Esperto di programma/progetto Low Siria_Ufficio di Damasco — AICS Beirut",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/muratore-operaio-edile-ragusa-at-acrobatica-4152632255",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-007-aicsbeirut-2025-esperto-di-programma-progetto-low-siria-ufficio-di-damasco-at-aics-beirut-4462717402",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8fcb1b3f270ea4fe721610c618c0ab8d5c6b020b",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ac27c1bfe70afbbda9fa1e40760a18289695684f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-english-language-teacher-multilingual-giarre",
+      "nome": "English Language Teacher — Multilingual Giarre",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/english-language-teacher-at-multilingual-giarre-4441893763",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "100e86a33c1403882fbef8da20decedba5d3a460",
       "notifica_topics": [
         "categorie_protette"
       ]
