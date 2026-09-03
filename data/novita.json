@@ -1,47 +1,60 @@
 {
-  "generated_at": "2026-09-03T03:36:05.737Z",
+  "generated_at": "2026-09-03T10:53:33.047Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "162a038af8195724afd24da34147123d235808fc",
+  "catalog_hash": "ec965f7492e38c7e16e9bdeac04404e8f027c1ba",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 4,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-006-aicsbeirut-2025-esperto-di-programma-progetto-livello-mi",
-      "nome": "Avviso di Selezione 006/AICSBEIRUT/2025_Esperto di Programma/Progetto (livello Middle) Ufficio di Damasco — AICS Beirut",
+      "id": "linkedin-orfani-guerra-sicilia-consulente-didattico-universita-degli-studi-ecampus",
+      "nome": "CONSULENTE DIDATTICO — Università degli Studi eCampus",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-006-aicsbeirut-2025-esperto-di-programma-progetto-livello-middle-ufficio-di-damasco-at-aics-beirut-4462101498",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-didattico-at-universit%C3%A0-degli-studi-ecampus-4462772155",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "1b0a5f1e471fcd2a8462c2424d864fc5fb6d5170",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8b800dfd741d69936536f5ebb9cb7860766b6d69",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-007-aicsbeirut-2025-esperto-di-programma-progetto-low-siria-",
-      "nome": "Avviso di Selezione 007/AICSBEIRUT/2025_Esperto di programma/progetto Low Siria_Ufficio di Damasco — AICS Beirut",
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Palermo Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "b59ab6f213b073a264ef265f5253afd242840614",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-payroll-specialist-costa-degli-ulivi-hotels-s-p-a",
+      "nome": "Payroll Specialist — Costa degli Ulivi Hotels S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-007-aicsbeirut-2025-esperto-di-programma-progetto-low-siria-ufficio-di-damasco-at-aics-beirut-4462717402",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-costa-degli-ulivi-hotels-s-p-a-4460494990",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ac27c1bfe70afbbda9fa1e40760a18289695684f",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "eaa90c3c358efb8d8de4282d9324ca24af149f3b",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-english-language-teacher-multilingual-giarre",
-      "nome": "English Language Teacher — Multilingual Giarre",
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/english-language-teacher-at-multilingual-giarre-4441893763",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "100e86a33c1403882fbef8da20decedba5d3a460",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -72,6 +85,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-assemblea-territoriale-idrica-palermo-1-istruttore-amministrativo-contabile",
+      "nome": "Assemblea Territoriale Idrica Palermo, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/assemblea-territoriale-idrica-palermo-concorso-istruttore-amministrativo-contabile-palermo-2026",
+      "data_pubblicazione": "2026-09-02",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "bf58b241d90bc4ea053d6872f067fbdd197e27e4",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -109,19 +135,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-incarico",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA-AZIENDA ZERO-INCARICO QUINQUENNALE DIREZIONE STRUTTURA COMPLESSA SERVIZIO PSCHIATRICO DIAGNOSI E CURA SPOKE LOCRI - ASP REGGIO CALABRIA — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanit%C3%A0-della-regione-calabria-azienda-zero-incarico-quinquennale-direzione-struttura-complessa-servizio-pschiatrico-diagnosi-e-cura-spoke-locri-asp-reggio-calabria-at-dipartimento-della-funzione-pubblica-4447315620",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7805cbb11f5493506472aa221f04e6511f5452c9",
       "notifica_topics": [
         "categorie_protette"
       ]
