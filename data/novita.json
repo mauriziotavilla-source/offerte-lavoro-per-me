@@ -1,12 +1,143 @@
 {
-  "generated_at": "2026-09-04T15:59:16.884Z",
+  "generated_at": "2026-09-04T20:29:11.006Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "813e8acae042e26306d57dafed4d401f752d9452",
+  "catalog_hash": "276b67a63d1cb984fb9195c169868bbf523ee643",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 40
+    "nuovi": 10,
+    "aggiornati": 41
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-le-politiche-attive-del-lavoro-arpal-calabria-2-posti-di-i",
+      "nome": "Agenzia Regionale per le Politiche Attive del Lavoro – ARPAL Calabria, 2 posti di istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-le-politiche-attive-del-lavoro-arpal-calabria-concorso-riservato-istruttore-0",
+      "data_pubblicazione": "2026-10-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7b684e1adf704a0a4c37a7c285d827c5018f4c5f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-le-politiche-attive-del-lavoro-arpal-calabria-5-posti-di-i",
+      "nome": "Agenzia Regionale per le Politiche Attive del Lavoro – ARPAL Calabria, 5 posti di istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-le-politiche-attive-del-lavoro-arpal-calabria-concorso-riservato-istruttore",
+      "data_pubblicazione": "2026-10-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9c312ef0a4e0550432f72efafc40998f9efa3a90",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-asst-lariana-di-como-1-collaboratore-amministrativo-professionale",
+      "nome": "ASST Lariana di Como, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-lariana-di-como-concorso-collaboratore-amministrativo-como-0",
+      "data_pubblicazione": "2026-10-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f25055e4f30756c0bd9c5d3992236bd23a75f067",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-cantiniere-azienda-agricola-arianna-occhipinti",
+      "nome": "CANTINIERE — Azienda Agricola Arianna Occhipinti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/cantiniere-at-azienda-agricola-arianna-occhipinti-4463308890",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "37e716250e15ac4f08a4df76c06a752c7155d936",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-impiegato-a-contabile-studio",
+      "nome": "IMPIEGATO/A CONTABILE — Studio",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-contabile-4461170637",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d40ec4c023da3e2a75f2ef753a6cd1f4f61e8763",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Como Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9282cc9ad179dc02f26553491178cd15360aab47",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-recreation-aid-assistant-theater-flexible-commander-navy-installations-command",
+      "nome": "Recreation Aid/Assistant (Theater) - Flexible — Commander, Navy Installations Command",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/recreation-aid-assistant-theater-flexible-4461693255",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "628829582af5b33be6872c93d9b57a8bb07184db",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -412,6 +543,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-payroll-specialist-jet-hr",
+      "nome": "Payroll Specialist — Jet HR",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4463603808",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "76a536b2a93ef732ca09c94600c13a44775bcb39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
       "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -529,18 +673,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
