@@ -1,153 +1,88 @@
 {
-  "generated_at": "2026-09-03T20:42:40.213Z",
+  "generated_at": "2026-09-04T03:40:53.495Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2a640023ed91e15e02b490cd46609d486a5b2228",
+  "catalog_hash": "c6ab1f9b8bcd7f81adf13ac0216cca0caf5ce3f7",
   "counts": {
-    "nuovi": 11,
-    "aggiornati": 38
+    "nuovi": 6,
+    "aggiornati": 39
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
-      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-corte-franca-1-istruttore-amministrativo",
-      "nome": "Comune di Corte Franca , 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-corte-franca-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-10-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "da5ec06c8c9617a7d0373ff78d0bf0e448763d94",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cuneo-1-istruttore-amministrativo",
-      "nome": "Comune di Cuneo, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cuneo-concorso-istruttore-amministrativo-cuneo-2026-1",
-      "data_pubblicazione": "2026-10-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "935017f55797a6c3dad7e126112dca78efe5cd0e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-orio-canavese-1-istruttore-amministrativo",
-      "nome": "Comune di Orio Canavese, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-orio-canavese-concorso-istruttore-amministrativo-torino-2026",
-      "data_pubblicazione": "2026-10-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5dd03b1eb7b79d68c4f65df229fe04574dc68261",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-ente-regionale-per-l-abitazione-pubblica-delle-marche-1-assistente-amministrativ",
-      "nome": "Ente Regionale per L’Abitazione Pubblica Delle Marche, 1 ASSISTENTE AMMINISTRATIVO",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/ente-regionale-labitazione-pubblica-delle-marche-concorso-riservato-assistente-amministrativo",
-      "data_pubblicazione": "2026-10-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d261c81bbfa4d40557fb4da2cdf02769f4d96242",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-ancona-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Ancona Occupazione assistente amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ancona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bf37f7ce6127906d9c2994559095ad2ea02a40da",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-cuneo-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Cuneo Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cuneo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4f007aa5f00fea309f6a6fa8a9e9e063f20a6bb8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-cuneo-1-istruttore-amministrativo",
-      "nome": "Provincia di Cuneo, 1 Istruttore Amministrativo",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-002-aicsbeirut-2026-esperto-di-programma-progetto-con-funzio",
+      "nome": "Avviso di Selezione 002/AICSBEIRUT/2026_Esperto di Programma/Progetto con funzioni di Monitoraggio, Valutazione e Data Management - Esperto Low — AICS Beirut",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-002-aicsbeirut-2026-esperto-di-programma-progetto-con-funzioni-di-monitoraggio-valutazione-e-data-management-esperto-low-at-aics-beirut-4462119033",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "850da912f97a3ff3df6eb7928192afe0baca1367",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istruttore-amministrativo-contabile",
+      "nome": "istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-cuneo-concorso-istruttore-amministrativo-cuneo-2026",
-      "data_pubblicazione": "2026-10-02",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-amministrativo-contabile-334",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d918a25c4519f4f2b0ec0136f7455b1bf2fc5f85",
+      "hash_contenuto": "83a35ddf8263c941cc47a4e9b68e8e646f12fc1b",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-assistente-amministrativo-posti-3",
+      "nome": "Località Palermo Occupazione assistente amministrativo Posti 3",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "d578b85410171ed2ddb583beee3df5fbc5b30332",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -176,6 +111,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -586,10 +534,10 @@
       "nome": "Responsabile amministrativo — Gi Group",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-gi-group-4460724378",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-gi-group-4445509813",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "acdd4b08f83537938576742d185d940d91044f0a",
+      "hash_contenuto": "4c8ad4cccc4305b24ba0af7013b1c6e300c29014",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -599,10 +547,10 @@
       "nome": "Scuola Internazionale Superiore di Studi Avanzati, 1 Collaboratore – settore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore-0",
-      "data_pubblicazione": "2026-10-01",
+      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore",
+      "data_pubblicazione": "2026-09-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "839ce68111f3d348a92c779c8e7d26988f6d0294",
+      "hash_contenuto": "ae2d9b4f49f024c50499663e3c78e9a7571e66ae",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -647,5 +595,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
