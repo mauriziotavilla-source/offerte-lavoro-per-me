@@ -1,138 +1,73 @@
 {
-  "generated_at": "2026-09-04T20:29:11.006Z",
+  "generated_at": "2026-09-05T03:36:54.209Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "276b67a63d1cb984fb9195c169868bbf523ee643",
+  "catalog_hash": "85e2f98afd1e3516ea32293bfef3decb041c06da",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 41
+    "nuovi": 5,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-le-politiche-attive-del-lavoro-arpal-calabria-2-posti-di-i",
-      "nome": "Agenzia Regionale per le Politiche Attive del Lavoro – ARPAL Calabria, 2 posti di istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-le-politiche-attive-del-lavoro-arpal-calabria-concorso-riservato-istruttore-0",
-      "data_pubblicazione": "2026-10-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7b684e1adf704a0a4c37a7c285d827c5018f4c5f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-le-politiche-attive-del-lavoro-arpal-calabria-5-posti-di-i",
-      "nome": "Agenzia Regionale per le Politiche Attive del Lavoro – ARPAL Calabria, 5 posti di istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-le-politiche-attive-del-lavoro-arpal-calabria-concorso-riservato-istruttore",
-      "data_pubblicazione": "2026-10-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9c312ef0a4e0550432f72efafc40998f9efa3a90",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-asst-lariana-di-como-1-collaboratore-amministrativo-professionale",
-      "nome": "ASST Lariana di Como, 1 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-lariana-di-como-concorso-collaboratore-amministrativo-como-0",
-      "data_pubblicazione": "2026-10-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f25055e4f30756c0bd9c5d3992236bd23a75f067",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-cantiniere-azienda-agricola-arianna-occhipinti",
-      "nome": "CANTINIERE — Azienda Agricola Arianna Occhipinti",
+      "id": "linkedin-orfani-guerra-messina-agente-vendita-serramenti-qfort-italia",
+      "nome": "AGENTE VENDITA SERRAMENTI — QFORT Italia",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/cantiniere-at-azienda-agricola-arianna-occhipinti-4463308890",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "37e716250e15ac4f08a4df76c06a752c7155d936",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-impiegato-a-contabile-studio",
-      "nome": "IMPIEGATO/A CONTABILE — Studio",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-contabile-4461170637",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-vendita-serramenti-at-qfort-italia-4463306179",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d40ec4c023da3e2a75f2ef753a6cd1f4f61e8763",
+      "hash_contenuto": "184a2f392768a45f4d28285287c682243a6de7ef",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Como Occupazione collaboratore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-frosinone-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Frosinone Occupazione istruttore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/frosinone",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9282cc9ad179dc02f26553491178cd15360aab47",
+      "hash_contenuto": "164d178aa4c1d9e3335e1bc156fd50bd40b33977",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-recreation-aid-assistant-theater-flexible-commander-navy-installations-command",
-      "nome": "Recreation Aid/Assistant (Theater) - Flexible — Commander, Navy Installations Command",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/recreation-aid-assistant-theater-flexible-4461693255",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "628829582af5b33be6872c93d9b57a8bb07184db",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -163,6 +98,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -387,19 +335,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-junior-categorie-protette-articolo-1-legge-68-99-public-business-transformation-",
-      "nome": "Junior – Categorie Protette Articolo 1 Legge 68/99 - Public Business Transformation — Deloitte",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/junior-%E2%80%93-categorie-protette-articolo-1-legge-68-99-public-business-transformation-at-deloitte-4432586112",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "858fc84af9eb3aa95884eb15be3e2b3133fcb0dc",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-junior-auditor-kpmg-italy",
       "nome": "Junior Auditor — KPMG Italy",
       "tipo": "categoria_protetta",
@@ -408,19 +343,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "3681a68bca1d661baa51178aa11515be4ad8bacd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-lavora-negli-eventi-e-nel-marketing-part-time-full-time-jteam-srls",
-      "nome": "Lavora negli Eventi e nel Marketing – Part Time / Full Time — Jteam SRLS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/lavora-negli-eventi-e-nel-marketing-%E2%80%93-part-time-full-time-at-jteam-srls-4440967414",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "03d41b012b1bbe1c0d1bb4367ad3159db7deb372",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -447,6 +369,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "367653ff1281e30aec983a3c35f8b1175fbd6cbc",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-mapping-data-collection-driver-tsmg-holding",
+      "nome": "Mapping Data Collection Driver — TSMG Holding",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/mapping-data-collection-driver-at-tsmg-holding-4430400613",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e27835e2cd5e74b1a1fd2ea34f4c23d6ae6976da",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -547,10 +482,10 @@
       "nome": "Payroll Specialist — Jet HR",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4463603808",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/payroll-specialist-at-jet-hr-4460302199",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "76a536b2a93ef732ca09c94600c13a44775bcb39",
+      "hash_contenuto": "3585e9bb0ce0eb67c72e4ce8fb6ed04a0a3fefea",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -592,6 +527,19 @@
       "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-frosinone-2-istruttori-amministrativi",
+      "nome": "Provincia di Frosinone, 2 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-frosinone-concorso-istruttore-amministrativo-frosinone-2026",
+      "data_pubblicazione": "2026-09-04",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ae5d20383ac087a8ccda16dee6059461963f3d8e",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -673,5 +621,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
