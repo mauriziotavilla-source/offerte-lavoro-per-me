@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-09-06T15:09:14.161Z",
+  "generated_at": "2026-09-06T20:10:06.131Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6fc464cf2112d96ca13cd02f93009294dcb2d6e5",
+  "catalog_hash": "b3cfe1ecc9467f210ec5538de72e96a0e4c255f7",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 40
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -529,18 +556,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
