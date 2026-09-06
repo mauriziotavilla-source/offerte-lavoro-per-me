@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-09-05T20:05:46.303Z",
+  "generated_at": "2026-09-06T03:38:22.567Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8c6f8061a5968fa8919adf79c22c839c26ed0146",
+  "catalog_hash": "7b34c10354f4ab85132671676728c42207c8d1ee",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 42
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-progettista-meccanico-forma-quadra",
-      "nome": "Progettista meccanico — Forma Quadra",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/progettista-meccanico-at-forma-quadra-4460305939",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "51be9ffa2561f6e00e222ca712124d4bf6830a7d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
@@ -92,10 +39,10 @@
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
+      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -105,10 +52,10 @@
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
+      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -122,19 +69,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
       "hash_contenuto": "bcc2ffbb91cac3dfefc677fb734c7333983e4f0b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-avviso-di-selezione-per-candidati-idonei-non-assunti-e-utilmente-collocati-in-gr",
-      "nome": "AVVISO DI SELEZIONE PER CANDIDATI IDONEI NON ASSUNTI E UTILMENTE COLLOCATI IN GRADUATORIE DI MERITO DI ALTRI ENTI -ASSISTENTE SOCIALE N.2 UNITA' A TEMPO PIENO E INDETERMINATO — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-di-selezione-per-candidati-idonei-non-assunti-e-utilmente-collocati-in-graduatorie-di-merito-di-altri-enti-assistente-sociale-n-2-unita-a-tempo-pieno-e-indeterminato-at-dipartimento-della-funzione-pubblica-4432786801",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b12c2c0cd233f17c7594918b5795ff6456a2a272",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -595,6 +529,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-dei-comuni-del-mugello-concorso-istruttore-amministrativo",
+      "nome": "Unione Montana Dei Comuni del Mugello, concorso istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-dei-comuni-del-mugello-concorso-riservato-istruttore-amministrativo-firenze-2026",
+      "data_pubblicazione": "2026-09-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9258babb7b54a837963af14628d0cfdb0bf57347",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
       "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
       "tipo": "concorso",
@@ -610,12 +557,16 @@
   ],
   "errori_fonti": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
     },
     {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
