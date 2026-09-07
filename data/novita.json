@@ -1,138 +1,34 @@
 {
-  "generated_at": "2026-09-07T11:56:29.145Z",
+  "generated_at": "2026-09-07T17:37:36.798Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "cea7994b889cc66c18c86749bc526cb7d95599ee",
+  "catalog_hash": "7a6bee8e977e7bedc668f6dfad5ab1ca30b07997",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 42
+    "nuovi": 2,
+    "aggiornati": 41
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-montagna-di-sondrio",
-      "nome": "AGENZIA DI TUTELA DELLA SALUTE DELLA MONTAGNA DI SONDRIO",
+      "id": "gazzetta-via-concorsipubblici-comune-di-clavesana-1-istruttore-contabile",
+      "nome": "Comune di Clavesana, 1 istruttore contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-montagna-di-sondrio-concorso-collaboratore-amministrativo",
-      "data_pubblicazione": "2026-10-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a4c918a8be00b03a46a1ca39387117bd06e25caf",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-altavita-istituzioni-riunite-di-assistenza-i-r-a-collaboratore-amministrativo",
-      "nome": "Altavita -istituzioni Riunite di Assistenza- I.R.A., Collaboratore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/altavita-istituzioni-riunite-di-assistenza-ira-di-padova-concorso-collaboratore-amministrativo-0",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-clavesana-concorso-istruttore-contabile-cuneo-2026",
       "data_pubblicazione": "2026-10-04",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e7070defca42a8539dcb2a4b29892b58b3c9d9c1",
+      "hash_contenuto": "8a3f017b114f74b8b00d5cb70a4b9ce3fded867a",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
-      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-momo-1-istruttore-amministrativo",
-      "nome": "Comune di Momo, 1 Istruttore Amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-veduggio-con-colzano-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Veduggio Con Colzano, 1 Istruttore Amministrativo Contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-momo-concorso-istruttore-amministrativo-novara-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-veduggio-con-colzano-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
       "data_pubblicazione": "2026-10-05",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "07f94181db33b43e7dc25f956800a267e3a84d75",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-ferrara-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Ferrara Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ferrara",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "edbaeba8a1fe9ae15e65d1e5e28e1f2061193344",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-novara-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Novara Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/novara",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c1f1214df775cb628bd3c59d4d7f7dfb538505ce",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Padova Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "393064dcc6bc2344f634d20fdc58bc5e1b831773",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-collaboratore-amministrativo-professionale-posti-1",
-      "nome": "Località Sondrio Occupazione collaboratore amministrativo professionale Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6eaf621875a2bbbbb4c9cdafc5807c62d0bdfb76",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-tirocinante-addetto-a-alla-segreteria-e-amministrazione-drive-point-milazzo",
-      "nome": "Tirocinante Addetto/a alla Segreteria e Amministrazione — Drive Point - Milazzo",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tirocinante-addetto-a-alla-segreteria-e-amministrazione-at-drive-point-milazzo-4461888232",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "bd196d0e3921660e602854ca759e11a054b564bb",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-valli-e-delizie-2-istruttore-amministrativo-contabile",
-      "nome": "Unione Dei Comuni Valli e Delizie, 2 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-valli-e-delizie-concorso-istruttore-amministrativo-contabile-ferrara-2026",
-      "data_pubblicazione": "2026-10-04",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0d417de5631f44d0067f4204560fb9c25f541e20",
+      "hash_contenuto": "03949637f1c670fd177587e4334bc06c6ca0c73c",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -174,19 +70,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
-      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -365,10 +248,10 @@
       "nome": "Coordinatore Centro Territoriale - PALERMO — Fondazione SOS il Telefono Azzurro ETS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/coordinatore-centro-territoriale-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4464068185",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/coordinatore-centro-territoriale-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4439736727",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "eeede3794f6f6856350095027f9425372466fcd0",
+      "hash_contenuto": "f3b34f9a8d25536bb7899aa38bf95c07434a5ada",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -688,7 +571,15 @@
   ],
   "errori_fonti": [
     {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
       "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
