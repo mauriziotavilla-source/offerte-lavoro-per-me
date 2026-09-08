@@ -1,125 +1,203 @@
 {
-  "generated_at": "2026-09-08T10:52:37.778Z",
+  "generated_at": "2026-09-08T16:16:54.607Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7f13d3b8f7c30482dbe43718684be6d98196d353",
+  "catalog_hash": "360c0783ddec4989ef1db33f3e5dbbec6d2329b7",
   "counts": {
-    "nuovi": 9,
+    "nuovi": 15,
     "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-a-s-s-t-rhodense-garbagnate-milanese-1-collaboratore-amministrativo-professional",
-      "nome": "A.s.s.t. Rhodense Garbagnate Milanese, 1 collaboratore amministrativo professionale",
+      "id": "gazzetta-via-concorsipubblici-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-41-posti",
+      "nome": "Azienda per il Governo della Sanità della Regione Calabria_Azienda_Zero, 41 posti di assistente amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/asst-rhodense-garbagnate-milanese-concorso-collaboratore-amministrativo-professionale-milano-2026-0",
-      "data_pubblicazione": "2026-10-05",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-assistente",
+      "data_pubblicazione": "2026-10-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3eb947eb1a496faffd70ce6c4b7d58471bf967f8",
+      "hash_contenuto": "bb98fc3e841abd412eb8f1310b6aa4ef46284b48",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-universiadi-per-lo-sport-concorso-12-posti-istruttore-amminist",
-      "nome": "Agenzia regionale Universiadi per lo Sport, concorso 12 posti istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-universiadi-lo-sport-concorso-istruttore-amministrativo-napoli-2026",
-      "data_pubblicazione": "2026-09-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d1fea5199b65f2b54f9ef28d9331d18e5b244d30",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-cleaner-edv-2026-ccc-98137-neale-wade-academy",
-      "nome": "Cleaner EDV/2026/CCC/98137 — Neale-Wade Academy",
+      "id": "linkedin-orfani-guerra-sicilia-computista-e-responsabile-contabilita-lavori-lo-monaco-costruzioni-s-r-l",
+      "nome": "Computista e responsabile contabilità lavori — Lo Monaco Costruzioni S.r.l.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/cleaner%0Aedv-2026-ccc-98137-at-neale-wade-academy-4462228622",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/computista-e-responsabile-contabilit%C3%A0-lavori-at-lo-monaco-costruzioni-s-r-l-4464463287",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7924ce867c5b2342d24899f588e132f0e8b3b412",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fe0e6907709f7aa6ec6f01c9d18ac05ac805856b",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-montelupo-fiorentino-concorso-istruttore-amministrativo",
-      "nome": "Comune di Montelupo Fiorentino, concorso istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-camerano-1-istruttore-direttivo-contabile",
+      "nome": "Comune di Camerano , 1 istruttore direttivo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montelupo-fiorentino-concorso-istruttore-amministrativo-firenze-2026",
-      "data_pubblicazione": "2026-09-07",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-camerano-concorso-istruttore-direttivo-contabile-ancona-2026",
+      "data_pubblicazione": "2026-10-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b878033fbe6652e88c70e038a652a26a6bcfa416",
+      "hash_contenuto": "c612414418b9eb6c665cd01a51fc0c3177ec8ec4",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-fondazione-per-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pis",
-      "nome": "Fondazione per la Ricerca Medica e di Sanità Pubblica «Gabriele Monasterio» di Pisa, 6 posti per assistente amministrativo e assistente informatico",
+      "id": "gazzetta-via-concorsipubblici-fondazione-irccs-ca-granda-ospedale-maggiore-policlinico-20-posti-di-assistente-",
+      "nome": "Fondazione IRCCS Ca'Granda Ospedale Maggiore Policlinico, 20 posti di assistente amministrativo (riapertura termini)",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pisa-concorso-riservato",
-      "data_pubblicazione": "2026-10-04",
+      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-irccs-cagranda-ospedale-maggiore-policlinico-concorso-assistente-amministrativo-milano-2",
+      "data_pubblicazione": "2026-10-05",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a1ebc7ce2ea927faf5daa35a51ba47621151e6f0",
+      "hash_contenuto": "8c94b08dcd123f6decd1a15dd708ed840e0acc1e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-1",
-      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-ancona-occupazione-istruttore-direttivo-contabile-posti-1",
+      "nome": "Località Ancona Occupazione istruttore direttivo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ancona",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ef3aeb9cf9f73ad4e7d6140914105139beb5d21a",
+      "hash_contenuto": "4b30654f398a77cbb8bc2823f771faac9aa65f06",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-assistente-amministrativo-assistente-informatico-posti",
-      "nome": "Località Pisa Occupazione assistente amministrativo assistente informatico Posti 6",
+      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-assistente-amministrativo-posti-41",
+      "nome": "Località Cosenza Occupazione assistente amministrativo Posti 41",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cosenza",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "71539e11991a80b7cd82335f7cce02301a48fe5e",
+      "hash_contenuto": "01b1f6c3f3007af539900669baafda9d86747545",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "id": "gazzetta-via-concorsipubblici-localita-cuneo-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Cuneo Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cuneo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d087aae812eaa93cb71a62d3b7ec1e8438256ed1",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
       "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "id": "linkedin-orfani-guerra-messina-ricerca-assistente-amministrativo-a-e-contabile-innovaction-ets",
+      "nome": "RICERCA ASSISTENTE AMMINISTRATIVO/A E CONTABILE — InnovAction ETS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ricerca-assistente-amministrativo-a-e-contabile-at-innovaction-ets-4464494091",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "hash_contenuto": "4b8cb5a463a95731384c79b3575f361e0b5a6b59",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-di-comuni-lombarda-adda-martesana-1-collaboratore-amministrativo",
+      "nome": "Unione di Comuni Lombarda Adda Martesana, 1 Collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-di-comuni-lombarda-adda-martesana-concorso-riservato-collaboratore-amministrativo-milano",
+      "data_pubblicazione": "2026-10-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4fc235d8dffa60fa6014bf5de13a7112fe35960f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-di-comuni-lombarda-adda-martesana-1-collaboratore-amministrativo",
+      "nome": "Unione di Comuni Lombarda Adda Martesana, 1 Collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-di-comuni-lombarda-adda-martesana-concorso-collaboratore-amministrativo-milano-2026",
+      "data_pubblicazione": "2026-10-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3cc876c3f4ec8505438e7e0c58309eccc2c7439f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-vice-store-manager-action",
+      "nome": "Vice Store Manager — Action",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/vice-store-manager-at-action-4463503267",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "1a2ba0d94bed236a0249ee2b3ceb781aea7008e9",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -183,10 +261,10 @@
       "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4453161154",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
+      "hash_contenuto": "401c2db7508b943516c2610a0cb4ff30cd6ba9a8",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -673,10 +751,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
