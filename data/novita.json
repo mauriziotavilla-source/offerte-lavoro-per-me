@@ -1,12 +1,131 @@
 {
-  "generated_at": "2026-09-08T03:43:10.749Z",
+  "generated_at": "2026-09-08T10:52:37.778Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "eeb3c85e215cace9bab7ea925f1d5db1f4d0f639",
+  "catalog_hash": "7f13d3b8f7c30482dbe43718684be6d98196d353",
   "counts": {
     "nuovi": 9,
-    "aggiornati": 40
+    "aggiornati": 42
   },
   "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-a-s-s-t-rhodense-garbagnate-milanese-1-collaboratore-amministrativo-professional",
+      "nome": "A.s.s.t. Rhodense Garbagnate Milanese, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/asst-rhodense-garbagnate-milanese-concorso-collaboratore-amministrativo-professionale-milano-2026-0",
+      "data_pubblicazione": "2026-10-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3eb947eb1a496faffd70ce6c4b7d58471bf967f8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-universiadi-per-lo-sport-concorso-12-posti-istruttore-amminist",
+      "nome": "Agenzia regionale Universiadi per lo Sport, concorso 12 posti istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-universiadi-lo-sport-concorso-istruttore-amministrativo-napoli-2026",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d1fea5199b65f2b54f9ef28d9331d18e5b244d30",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-cleaner-edv-2026-ccc-98137-neale-wade-academy",
+      "nome": "Cleaner EDV/2026/CCC/98137 — Neale-Wade Academy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/cleaner%0Aedv-2026-ccc-98137-at-neale-wade-academy-4462228622",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7924ce867c5b2342d24899f588e132f0e8b3b412",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-montelupo-fiorentino-concorso-istruttore-amministrativo",
+      "nome": "Comune di Montelupo Fiorentino, concorso istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montelupo-fiorentino-concorso-istruttore-amministrativo-firenze-2026",
+      "data_pubblicazione": "2026-09-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b878033fbe6652e88c70e038a652a26a6bcfa416",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-fondazione-per-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pis",
+      "nome": "Fondazione per la Ricerca Medica e di Sanità Pubblica «Gabriele Monasterio» di Pisa, 6 posti per assistente amministrativo e assistente informatico",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pisa-concorso-riservato",
+      "data_pubblicazione": "2026-10-04",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a1ebc7ce2ea927faf5daa35a51ba47621151e6f0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-professionale-posti-1",
+      "nome": "Località Milano Occupazione collaboratore amministrativo professionale Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ef3aeb9cf9f73ad4e7d6140914105139beb5d21a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-assistente-amministrativo-assistente-informatico-posti",
+      "nome": "Località Pisa Occupazione assistente amministrativo assistente informatico Posti 6",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "71539e11991a80b7cd82335f7cce02301a48fe5e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
+  "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
       "nome": "Accademia di Belle Arti di Reggio Calabria - BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO E DEFINITO DI DOCENTI DI PRIMA FASCIA - AFAM095 TEORIE E TECNICHE COMPUTAZIONALI — Dipartimento della Funzione Pubblica",
@@ -20,112 +139,6 @@
         "categorie_protette"
       ]
     },
-    {
-      "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
-      "nome": "Accademia di Belle Arti di Reggio Calabria - BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO E DEFINITO DI DOCENTI DI PRIMA FASCIA - settore AFAM 113 Fotografia — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-indeterminato-e-definito-di-docenti-di-prima-fascia-settore-afam-113-fotografia-at-dipartimento-della-funzione-pubblica-4461880440",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4b731b2f5694227941ef108ad065dc2b19709c58",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-profilo-junior-full-time-lun-ven-c-m-s-r-l",
-      "nome": "Assistente alla Direzione Tecnica (profilo junior) | Full time (lun–ven) — C & M S.R.L.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-profilo-junior-full-time-lun%E2%80%93ven-at-c-m-s-r-l-4446619891",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d76aeb266d075666dbd023088f5993f3f6cd3ad1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA- AZIENDA ZERO- AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-pubblico-di-mobilita%E2%80%99-volontaria-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462264249",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "3cac3422a18d3413f360794ec43dab465a14c54a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA- AZIENDA ZERO- AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-pubblico-di-mobilita%E2%80%99-volontaria-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462265260",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4d8de7456dd88c3f060a9f5f44ac00f4ca7ece34",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-pianificatore-campagne-ooh-alessi-spa",
-      "nome": "Pianificatore Campagne OOH — Alessi Spa",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pianificatore-campagne-ooh-at-alessi-spa-4464095579",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "50912855e6283d6ee58e65f6386287fe82c0ccb0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
-  "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
       "nome": "Addetto all’accoglienza e promozione-Aeroporto ed Eventi -Part time/full time — Vimik Marketing srls",
@@ -161,6 +174,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-asacom-citta-metropolitana-messina-aldia-cooperativa-sociale",
+      "nome": "ASACOM CITTA' METROPOLITANA MESSINA — Aldia Cooperativa Sociale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-citta-metropolitana-messina-at-aldia-cooperativa-sociale-4462869450",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -647,5 +673,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
