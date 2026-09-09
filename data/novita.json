@@ -1,202 +1,59 @@
 {
-  "generated_at": "2026-09-09T10:57:46.250Z",
+  "generated_at": "2026-09-09T16:11:25.142Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bdb00224272f2afafba878dcd0a1133f3d93e022",
+  "catalog_hash": "fffa0079c656f28c12f42eed2f78b0bef55ea3f5",
   "counts": {
-    "nuovi": 15,
+    "nuovi": 4,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-ufficio-tecnico-sede-milazzo-me-studio-pergolizzi",
-      "nome": "Addetto Ufficio Tecnico - sede MILAZZO (ME) — STUDIO PERGOLIZZI",
+      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-ufficio-tecnico-sede-milazzo-me-at-studio-pergolizzi-4461079602",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "17a40e00ed3a1c4fa71e3aed81b9efac452e5a2b",
+      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-asacom-ash-gangi-pa-aldia-cooperativa-sociale",
-      "nome": "ASACOM ASH GANGI (PA) — Aldia Cooperativa Sociale",
+      "id": "linkedin-orfani-guerra-messina-commis-de-rang-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-belmond",
+      "nome": "Commis de Rang | Sostituzione Malattia | Villa Sant'Andrea. a Belmond Hotel — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/asacom-ash-gangi-pa-at-aldia-cooperativa-sociale-4464364248",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commis-de-rang-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-at-belmond-4440529263",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9f11ceb677f6e64c833e3683eaa05c5bbda9800e",
+      "hash_contenuto": "251fb91456f7b19bdafe2b7ca8bc9bfb0982885c",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-messo-comunale",
-      "nome": "collaboratore amministrativo messo comunale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/messo-comunale-345",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7817251d949a8b9711559e44c0b65064949f3e9d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bresso-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Bresso, 2 Istruttore Amministrativo-Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bresso-concorso-istruttore-amministrativo-contabile-milano-2026",
-      "data_pubblicazione": "2026-10-08",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "41f7f3f9b1e0f914f66dd6205f2433243dd41998",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-minervino-murge-1-messo-comunale-collaboratore-amministrativo",
-      "nome": "Comune di Minervino Murge, 1 messo comunale collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-minervino-murge-concorso-riservato-collaboratore-amministrativo-messo-comunale-barletta",
-      "data_pubblicazione": "2026-10-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0b534f1989bb5b4a646b0372eb9759cc1f8b842e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-pietra-ligure-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Pietra Ligure, 2 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-pietra-ligure-concorso-istruttore-amministrativo-contabile-savona-2026",
-      "data_pubblicazione": "2026-10-08",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "69fa1f98ea4eb8512bef0cb9233de25ebfc9328d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-lucido-1-esecutore-amministrativo",
-      "nome": "Comune di San Lucido, 1 Esecutore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-lucido-concorso-esecutore-amministrativo-cosenza-2026",
-      "data_pubblicazione": "2026-10-07",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e685335ead4797121003422fe0cec8cff9f59246",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-coordinatore-coordinatrice-del-parco-openjobmetis-spa",
-      "nome": "COORDINATORE/COORDINATRICE DEL PARCO — Openjobmetis SpA",
+      "id": "linkedin-orfani-guerra-messina-incarico-di-componenti-esterni-della-commissione-esaminatrice-per-il-concorso-pu",
+      "nome": "INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/coordinatore-coordinatrice-del-parco-at-openjobmetis-spa-4463268024",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "e70632dc05557d431264842f07c76a7a39e2501b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatoria-definitiva-azienda-ospedaliera-papardo-per-addetti-allimmissione-dat",
-      "nome": "graduatoria_definitiva_azienda_ospedaliera_papardo_per_addetti_allimmissione_dati_signed.pdf (CPI Messina)",
-      "tipo": "categoria_protetta",
-      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
-      "link_ufficiale": "https://www.regione.sicilia.it/system/files/2026-09/graduatoria_definitiva_azienda_ospedaliera_papardo_per_addetti_allimmissione_dati_signed.pdf",
-      "data_pubblicazione": "",
-      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
-      "hash_contenuto": "92274d890365cc149afe501362aa99439429b88c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-savona-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Savona Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/savona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3ab40677c4e7978b3d323edd01ea961bedbc2626",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/incarico-di-componenti-esterni-della-commissione-esaminatrice-per-il-concorso-pubblico-at-dipartimento-della-funzione-pubblica-4462518542",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "hash_contenuto": "ef1b4a2611ed79624d71e31a51952de96e8cb014",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
-      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
       "nome": "Team Manager — Louis Vuitton",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
       "notifica_topics": [
         "categorie_protette"
@@ -764,5 +621,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
