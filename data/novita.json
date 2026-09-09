@@ -1,60 +1,86 @@
 {
-  "generated_at": "2026-09-09T16:11:25.142Z",
+  "generated_at": "2026-09-09T20:40:33.036Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "fffa0079c656f28c12f42eed2f78b0bef55ea3f5",
+  "catalog_hash": "d374de2a32c6792c1971a8a4764a1d5b541ad770",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 43
+    "nuovi": 6,
+    "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "id": "gazzetta-via-concorsipubblici-asst-di-mantova-1-assistente-amministrativo",
+      "nome": "ASST di Mantova, 1 assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-di-mantova-concorso-assistente-amministrativo-mantova-2026",
+      "data_pubblicazione": "2026-10-08",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "372c7adf68f99da17e09c202db8a04f7b850c848",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-mantova-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Mantova Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/mantova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bab1b669341c50c95c2202753d7b15982f66e61a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-commis-de-rang-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-belmond",
-      "nome": "Commis de Rang | Sostituzione Malattia | Villa Sant'Andrea. a Belmond Hotel — Belmond",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commis-de-rang-sostituzione-malattia-villa-sant-andrea-a-belmond-hotel-at-belmond-4440529263",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "251fb91456f7b19bdafe2b7ca8bc9bfb0982885c",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-incarico-di-componenti-esterni-della-commissione-esaminatrice-per-il-concorso-pu",
-      "nome": "INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/incarico-di-componenti-esterni-della-commissione-esaminatrice-per-il-concorso-pubblico-at-dipartimento-della-funzione-pubblica-4462518542",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ef1b4a2611ed79624d71e31a51952de96e8cb014",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -101,14 +127,27 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
+      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -148,6 +187,32 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "d06083431957d70b0b64e5102d364c5d6188005e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
+      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA- AZIENDA ZERO- AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-pubblico-di-mobilita%E2%80%99-volontaria-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462264249",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cbffe3cacb6ef4475c2c38c8a3d8bc9712facc71",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso",
+      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA-AZIENDA ZERO-CONCORSO PUBBLICO, PER TITOLI ED ESAMI, DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-pubblico-per-titoli-ed-esami-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462271234",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0ea216aa63fc632f3e96710a212584d9a9071fdd",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -621,10 +686,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
