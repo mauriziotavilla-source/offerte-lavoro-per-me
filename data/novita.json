@@ -1,75 +1,23 @@
 {
-  "generated_at": "2026-09-08T20:53:18.900Z",
+  "generated_at": "2026-09-09T03:48:09.191Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5ef9f324f3f73d5b52d630fd05cb53cb4c025fd7",
+  "catalog_hash": "a4efcb1767ca98014fec9700f91d3d54c8f8b157",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 1,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "id": "linkedin-lavoro-messina-contabile-studio-bonarrigo-commercialista-revisore",
+      "nome": "Contabile — STUDIO BONARRIGO COMMERCIALISTA-REVISORE",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-studio-bonarrigo-commercialista-revisore-4464695235",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "eb5d53f62b03d34441fccabf868e68a14b4e11d3",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-24-ore-messina-at-gens-aurea-s-p-a-4451595406",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA-AZIENDA ZERO-CONCORSO PUBBLICO, PER TITOLI ED ESAMI, DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-pubblico-per-titoli-ed-esami-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462255270",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a1bc4f229ff679575de46d840864c7214a935f47",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-riordinatore-gustibus-alimentari",
-      "nome": "Riordinatore — Gustibus Alimentari",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/riordinatore-at-gustibus-alimentari-4464327113",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8a5208f77a7a71bda678650539332dc47a0425c9",
-      "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -634,5 +582,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
