@@ -1,151 +1,47 @@
 {
-  "generated_at": "2026-09-10T16:03:29.693Z",
+  "generated_at": "2026-09-10T20:35:38.774Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "65362f03ebf37b611aefdafe5209afb8cdc55f70",
+  "catalog_hash": "65888d8ae672dc4c2b81e1b23fa91b032884b46c",
   "counts": {
-    "nuovi": 11,
-    "aggiornati": 47
+    "nuovi": 3,
+    "aggiornati": 48
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-alla-vendita-al-banco-martino-ricambi-auto",
-      "nome": "Addetto Alla Vendita al Banco — Martino Ricambi Auto",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-alla-vendita-al-banco-4464551055",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c65f3f6578711886474e5a7537ffe27e86b7e00c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-studio-impresa-soc-coop",
-      "nome": "Assistente amministrativo — Studio Impresa Soc. Coop.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-4464543183",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5bb75951256bf52c3bf17a88be5ba1797114271a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-buggerru-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Buggerru, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-buggerru-concorso-istruttore-amministrativo-contabile-sulcis-iglesiente-2026",
-      "data_pubblicazione": "2026-10-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7b37071ac2564b426d1f2e8d716334f89a4e2da3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vicenza-3-istruttori-amministrativo-contabili",
-      "nome": "Comune di Vicenza, 3 Istruttori amministrativo-contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vicenza-concorso-istruttore-amministrativo-contabile-vicenza-2026-0",
-      "data_pubblicazione": "2026-10-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bbecec1f5ecb446db86984fe8e9606fc303e1ffb",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-vicenza-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Vicenza Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vicenza",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a0288c89ae311af985960e35de5227a3626b9d4e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
+      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
       "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stabilizzazione-n-6-unita-con-profilo-assistente-sociale-dipartimento-della-funz",
-      "nome": "STABILIZZAZIONE N. 6 UNITA' CON PROFILO ASSISTENTE SOCIALE — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stabilizzazione-n-6-unita-con-profilo-assistente-sociale-at-dipartimento-della-funzione-pubblica-4461130728",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "359c35d1cdea9d19438f3c4592bbe8bfd37d9e43",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-stabilizzazione-n-6-unita-con-profilo-assistente-sociale-dipartimento-della-funz",
-      "nome": "STABILIZZAZIONE N. 6 UNITA' CON PROFILO ASSISTENTE SOCIALE — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stabilizzazione-n-6-unita-con-profilo-assistente-sociale-at-dipartimento-della-funzione-pubblica-4461123798",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4c3a5e68ea029bdac736a37ea86e285c69652905",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-team-manager-louis-vuitton",
-      "nome": "Team Manager — Louis Vuitton",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -196,10 +92,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -699,6 +595,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-stabilizzazione-n-6-unita-con-profilo-assistente-sociale-dipartimento-della-funz",
+      "nome": "STABILIZZAZIONE N. 6 UNITA' CON PROFILO ASSISTENTE SOCIALE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stabilizzazione-n-6-unita-con-profilo-assistente-sociale-at-dipartimento-della-funzione-pubblica-4461130728",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "359c35d1cdea9d19438f3c4592bbe8bfd37d9e43",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-stage-addetto-a-vendite-tommy-hilfiger-taormina-gifrab-italia-s-p-a",
       "nome": "STAGE ADDETTO/A VENDITE - TOMMY HILFIGER (TAORMINA) — Gifrab Italia S.p.A.",
       "tipo": "categoria_protetta",
@@ -716,10 +625,10 @@
       "nome": "STAGE ADDETTO/A VENDITE - TOMMY HILFIGER (TAORMINA) — Gifrab Italia S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4464527897",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4460022403",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a2cdb3b202596d7c362f4d94c7ed716cb86ce5b0",
+      "hash_contenuto": "692cfa4ecaae7ab6a66637c309d047be2eff4512",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -764,5 +673,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }

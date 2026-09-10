@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-09-10",
-  "versione": 316,
+  "versione": 317,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "65362f03ebf37b611aefdafe5209afb8cdc55f70",
-  "generated_at": "2026-09-10T16:03:29.693Z",
+  "catalog_hash": "65888d8ae672dc4c2b81e1b23fa91b032884b46c",
+  "generated_at": "2026-09-10T20:35:38.773Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1344,7 +1344,7 @@
       "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1358,7 +1358,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Bronte, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -1386,7 +1386,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-10",
       "notifica_topics": [
         "categorie_protette"
@@ -19660,7 +19660,7 @@
       "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -19674,7 +19674,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -19702,7 +19702,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-10",
       "notifica_topics": [
         "categorie_protette"
@@ -21009,7 +21009,7 @@
       "hash_contenuto": "76a536b2a93ef732ca09c94600c13a44775bcb39"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
+      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
       "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -21023,7 +21023,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Giarre, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -21051,7 +21051,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-10",
       "notifica_topics": [
         "categorie_protette"
@@ -21159,7 +21159,7 @@
       "hash_contenuto": "cee3eca452a1e644550d9722c12df827e4a8cfa0"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
       "nome": "Pizzaiolo — Villa Zuccaro Group",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -21173,7 +21173,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -21201,7 +21201,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-10",
       "notifica_topics": [
         "categorie_protette"
@@ -25769,5 +25769,10 @@
     }
   ],
   "changed": true,
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
