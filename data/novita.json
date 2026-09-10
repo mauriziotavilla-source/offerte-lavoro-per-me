@@ -1,12 +1,208 @@
 {
-  "generated_at": "2026-09-10T03:46:21.114Z",
+  "generated_at": "2026-09-10T10:54:29.749Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a65b43625177f3ff5d113e99ef4456de1c310562",
+  "catalog_hash": "851270802f028a64f4ba491f3b9fc440453bdb92",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 15,
     "aggiornati": 46
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-zambrone-1-istruttore-amministrativo",
+      "nome": "Comune di Zambrone, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-zambrone-concorso-istruttore-amministrativo-vibo-valentia-2026",
+      "data_pubblicazione": "2026-10-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "faad6ecd14131ccc9ec162b265f98af54689a4f7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-educatore-trice-professionale-marisaorienta",
+      "nome": "Educatore/trice professionale — Marisaorienta",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatore-trice-professionale-at-marisaorienta-4465324955",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "1e0326598a029fb4aa4e627597befa83b5a7f777",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istituzioni-pubbliche-di-assistenza-veneziane-2-istruttore-amministrativo",
+      "nome": "Istituzioni Pubbliche di Assistenza Veneziane, 2 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituzioni-pubbliche-di-assistenza-veneziane-di-venezia-concorso-istruttore-amministrativo-0",
+      "data_pubblicazione": "2026-09-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1108b24d5013a6ce01e2a4332eaf4d2a664a74e8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-assistente-amministrativo-posti-20",
+      "nome": "Località Milano Occupazione assistente amministrativo Posti 20",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fe9048c9aa8b15db1c0e3be965f0bcbd8434b160",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-ragioniere-posti-1",
+      "nome": "Località Treviso Occupazione Ragioniere Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/treviso",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9d5114f6172fa5748110860def47d20b67cfcc67",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-venezia-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Venezia Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/venezia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "676c14af3e66b57f18db063938910f557d856b5f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-operations-planning-specialist-medicasa-italia",
+      "nome": "Operations & Planning Specialist — Medicasa Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operations-planning-specialist-at-medicasa-italia-4461096125",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a07ad9a9e05e537cc0fe1b5fb97c61cd31ade7b1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-opere-pie-d-onigo-di-pederobba-1-ragioniere-area-amministrazione",
+      "nome": "Opere Pie d'Onigo di Pederobba, 1 ragioniere, area amministrazione",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/opere-pie-donigo-di-pederobba-concorso-ragioniere-treviso-2026",
+      "data_pubblicazione": "2026-10-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "34351c9dd0e6ef898fd28ab936a79d6897dd75a2",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-opere-pie-d-onigo-di-pederobba-1-ragioniere-area-personale",
+      "nome": "Opere Pie d'Onigo di Pederobba, 1 ragioniere, area personale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/opere-pie-donigo-di-pederobba-concorso-ragioniere-treviso-2026-0",
+      "data_pubblicazione": "2026-10-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "57b62ca9a1a2c53013c52cff56c0ae57f179b370",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-school-manager-catania-kids-us-language-school",
+      "nome": "School Manager - Catania — Kids&Us Language School",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/school-manager-catania-at-kids-us-language-school-4447603306",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "88fcb1953fe2c57e0740a79c160e2b1c9a31b4b9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-social-media-manager-studio-verticale",
+      "nome": "Social media manager — Studio Verticale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-manager-at-studio-verticale-4465080887",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9ed499a3736cc4db2156902686917096b10fbf35",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-team-manager-louis-vuitton",
+      "nome": "Team Manager — Louis Vuitton",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/team-manager-at-louis-vuitton-4442702300",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "86d99088491e8065400a16f9d4eb4553d6d379f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -607,14 +803,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
