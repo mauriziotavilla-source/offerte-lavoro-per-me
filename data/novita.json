@@ -1,23 +1,101 @@
 {
-  "generated_at": "2026-09-12T15:14:25.207Z",
+  "generated_at": "2026-09-12T20:20:09.824Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a85c3f2baeec95e5d0d22de03b48019bb7e02100",
+  "catalog_hash": "f14d3d8239c6bf012bdc1c4f0f4b698f017be973",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 7,
     "aggiornati": 48
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-arquata-del-tronto-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Arquata del Tronto, 1 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-arquata-del-tronto-concorso-istruttore-amministrativo-contabile-ascoli-piceno-2026",
-      "data_pubblicazione": "2026-09-11",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f31cbdec9700f8591755a113d1a591c21f586723",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-capo-manutentore-hotel-panoram-hotel-management",
+      "nome": "Capo Manutentore Hotel — Panoram Hotel Management",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/capo-manutentore-hotel-at-panoram-hotel-management-4459208030",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "12423ec9d100fd5f35cfd4f91b018b6403bd786b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-designer-d-interni-jordano-studio",
+      "nome": "Designer d’interni — Jordano studio",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/designer-d%E2%80%99interni-4464293655",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f3c821a21d73ee325beb47edc93646db2622e0f7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -647,10 +725,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
