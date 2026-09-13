@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-09-13T15:50:18.517Z",
+  "generated_at": "2026-09-13T20:30:10.043Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "79ebe94b472c4eba3315cb54a242600608353d98",
+  "catalog_hash": "a2b85d0f19cab52ea1780cbbdd179284e4d8dbcb",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 47
+    "nuovi": 4,
+    "aggiornati": 48
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -45,6 +98,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -621,10 +687,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
