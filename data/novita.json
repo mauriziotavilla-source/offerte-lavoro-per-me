@@ -1,99 +1,21 @@
 {
-  "generated_at": "2026-09-12T20:20:09.824Z",
+  "generated_at": "2026-09-13T03:55:36.309Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f14d3d8239c6bf012bdc1c4f0f4b698f017be973",
+  "catalog_hash": "fb3a4543e13979e0b044cadb2fb6a576dffb9477",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 48
+    "nuovi": 1,
+    "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-addett-vendite-acireale-gruppo-romano",
+      "nome": "Addett* Vendite Acireale — Gruppo Romano",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addett-vendite-acireale-at-gruppo-romano-4440592589",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-capo-manutentore-hotel-panoram-hotel-management",
-      "nome": "Capo Manutentore Hotel — Panoram Hotel Management",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/capo-manutentore-hotel-at-panoram-hotel-management-4459208030",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "12423ec9d100fd5f35cfd4f91b018b6403bd786b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-designer-d-interni-jordano-studio",
-      "nome": "Designer d’interni — Jordano studio",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/designer-d%E2%80%99interni-4464293655",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f3c821a21d73ee325beb47edc93646db2622e0f7",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
-      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
-      "nome": "Pizzaiolo — Villa Zuccaro Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cdd1550cdc4732198a8fb3017adf1d385e72ddfc",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -137,19 +59,6 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
