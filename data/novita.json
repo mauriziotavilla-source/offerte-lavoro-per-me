@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-09-13T11:20:14.777Z",
+  "generated_at": "2026-09-13T15:50:18.517Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "79ebe94b472c4eba3315cb54a242600608353d98",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 47
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-maccagno-con-pino-e-veddasca-1-istruttore-amministrativo",
-      "nome": "Comune di Maccagno con Pino e Veddasca, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-maccagno-con-pino-e-veddasca-concorso-istruttore-amministrativo-varese-2026",
-      "data_pubblicazione": "2026-09-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a0d0b82cf61324792f44bdbda57d90779b51ec26",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istituto-nazionale-di-geofisica-e-vulcanologia-ingv-2-collaboratori-amministrati",
-      "nome": "Istituto Nazionale di Geofisica e Vulcanologia – INGV, 2 collaboratori amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituto-nazionale-di-geofisica-e-vulcanologia-concorso-riservato-collaboratore-amministrativo-0",
-      "data_pubblicazione": "2026-10-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "825da5b3dc162cebf4c0d7f09595d07308d60fb4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-collaboratore-amministrativo-posti-2",
-      "nome": "Località Roma Occupazione collaboratore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4a6f6721f911e5bfc1d9fcc81d1cb1a7fe3f193d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Varese Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5d4d12f18f543c57e4d2fdbfc78884a0f81a660f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -673,5 +620,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
