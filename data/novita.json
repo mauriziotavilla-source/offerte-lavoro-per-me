@@ -1,138 +1,138 @@
 {
-  "generated_at": "2026-09-14T12:11:43.769Z",
+  "generated_at": "2026-09-14T21:38:19.984Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "fe89809d191112a1145f3a6089f0a3444aceb967",
+  "catalog_hash": "a4ad0a16b2160ae3acfea5ce34a5a13fba117d4b",
   "counts": {
     "nuovi": 10,
     "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-toscana-per-l-impiego-1-operatore-esperto-amministrativo",
-      "nome": "Agenzia Regionale Toscana per l’impiego , 1 Operatore Esperto Amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-mirandola-1-istruttore-amministrativo",
+      "nome": "Comune di Mirandola, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-regionale-toscana-limpiego-di-firenze-avviso-di-mobilita-operatore-amministrativo-pisa-2026",
-      "data_pubblicazione": "2026-10-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "358ebc6ab61811155a7c3f0a13a67c94fd910b19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-pogno-1-istruttore-amministrativo",
-      "nome": "Comune di Pogno, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-pogno-concorso-istruttore-amministrativo-novara-2026",
-      "data_pubblicazione": "2026-10-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "41c7d88b034321909ca8dd04f26a4ec96924d58d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-salo-1-istruttore-amministrativo",
-      "nome": "Comune di Salo’, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-salo-concorso-istruttore-amministrativo-brescia-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mirandola-concorso-istruttore-amministrativo-modena-2026",
       "data_pubblicazione": "2026-10-14",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e0b9dc14c4762cd7005e7c98b0864f65ffc54e22",
+      "hash_contenuto": "4136de3d6f9e9786c3a3d1169378b63099be7e2b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-operatore-amministrativo-posti-1",
-      "nome": "Località Pisa Occupazione operatore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Modena Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/modena",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2fc56624a53925db31e1e3260a597bf9d622e399",
+      "hash_contenuto": "b7f49fd6366cd5038abc3efb8ab97cac1eb8896a",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Varese Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c8628866188daceec1c7574c99fee5bc0272f70a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
       "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
       "nome": "Pizzaiolo — Villa Zuccaro Group",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-pavia-1-istruttore-amministrativo",
+      "nome": "Provincia di Pavia, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-pavia-concorso-istruttore-amministrativo-pavia-2026",
+      "data_pubblicazione": "2026-10-13",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "891cbca34c53a62da571d085993f11798d30235e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-senior-enterprise-account-executive-italy-orchard",
+      "nome": "Senior Enterprise Account Executive [Italy] — Orchard",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-enterprise-account-executive-italy-at-orchard-4465717465",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7838791f4906334d792adf111f2cf6e04b39d7a8",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-social-media-menager-i-fiori-dell-etna",
+      "nome": "social media menager — I FIORI DELL'ETNA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/social-media-menager-at-i-fiori-dell-etna-4465217636",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "6e30356c333b1cdca6ff498756885bf8a4a152e8",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -183,10 +183,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -196,10 +196,10 @@
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4448356722",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
+      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -738,10 +738,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
