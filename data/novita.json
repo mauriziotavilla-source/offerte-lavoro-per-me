@@ -1,59 +1,72 @@
 {
-  "generated_at": "2026-09-13T20:30:10.043Z",
+  "generated_at": "2026-09-14T04:02:35.782Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a2b85d0f19cab52ea1780cbbdd179284e4d8dbcb",
+  "catalog_hash": "9c45b09da5c1759d7f896235845aa2a1dd8f63db",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 48
+    "nuovi": 5,
+    "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
       "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-pizzaiolo-villa-zuccaro-group",
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
       "nome": "Pizzaiolo — Villa Zuccaro Group",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4462159999",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "d667c82777745980a7dc78a7a7f0389627f510ed",
       "notifica_topics": [
         "categorie_protette"
@@ -105,10 +118,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -322,19 +335,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-contabile-studio-associato-lubiana",
-      "nome": "Contabile — Studio Associato Lubiana",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-studio-associato-lubiana-4290370793",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "afb875d169869d32f7f19fca9842de7986189012",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-coordinatore-centro-territoriale-palermo-fondazione-sos-il-telefono-azzurro-ets",
       "nome": "Coordinatore Centro Territoriale - PALERMO — Fondazione SOS il Telefono Azzurro ETS",
       "tipo": "categoria_protetta",
@@ -343,19 +343,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "f3b34f9a8d25536bb7899aa38bf95c07434a5ada",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-lega-del-fi",
-      "nome": "Direttore/Direttrice dei Servizi Educativi_Centro di Termini Imerese — Lega del Filo d'Oro - Onlus",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-direttrice-dei-servizi-educativi-centro-di-termini-imerese-at-lega-del-filo-d-oro-onlus-4438080185",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3f4625e22e5ed0adfca82b563e7c3ae2e2b42535",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -686,10 +673,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
