@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-09-15T04:01:27.605Z",
+  "generated_at": "2026-09-15T11:21:57.084Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "792dd1c112bf60fed885089afd404068008838d9",
+  "catalog_hash": "6c3781e7430231d5f5cc005269da0926239c46f6",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 43
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-professionista-calogero-vincenzo",
+      "nome": "Agente di commercio professionista — CALOGERO VINCENZO",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-professionista-at-calogero-vincenzo-4460019646",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5ed64123ec5b946224af1e07e42aa2aede7e1aad",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-umana-spa",
+      "nome": "Assistente amministrativo — UMANA SPA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-umana-spa-4465216391",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "aa1dc25b2688060f08cfbba9b0f0bf96814dfd23",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-graduatoria-definitiva-azienda-ospedaliera-papardo-per-portantini-e-professioni-",
+      "nome": "graduatoria_definitiva_azienda_ospedaliera_papardo_per_portantini_e_professioni_assimilate_signed.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/system/files/2026-09/graduatoria_definitiva_azienda_ospedaliera_papardo_per_portantini_e_professioni_assimilate_signed.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "9c9798475d9317a998b630f529923a6b80c9291b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -568,18 +608,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
