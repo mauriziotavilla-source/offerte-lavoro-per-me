@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-09-15T21:00:17.943Z",
+  "generated_at": "2026-09-16T03:59:06.380Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6c3781e7430231d5f5cc005269da0926239c46f6",
+  "catalog_hash": "3f182697cec35302c40385f3e37dc7d2c5dc07c1",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 43
+    "nuovi": 4,
+    "aggiornati": 42
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-vendita-settore-arredamento-palermo-arredissima",
+      "nome": "ADDETTO/A VENDITA SETTORE ARREDAMENTO PALERMO — ArredissimA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-vendita-settore-arredamento-palermo-at-arredissima-4394341573",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "3dff19de2a098c56bbc78b6fef8e5e00daf25fc3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-avviso-pubblico-di-selezione-comparativa-per-la-nomina-di-n-3-componenti-di-cui-",
+      "nome": "AVVISO PUBBLICO DI SELEZIONE COMPARATIVA PER LA NOMINA DI N. 3 COMPONENTI, DI CUI UNO CON FUNZIONI DI PRESIDENTE O.I.V. DELL’ASP DI AGRIGENTO PER IL TRIENNIO 2026-2028 — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-selezione-comparativa-per-la-nomina-di-n-3-componenti-di-cui-uno-con-funzioni-di-presidente-o-i-v-dell%E2%80%99asp-di-agrigento-per-il-triennio-2026-2028-at-dipartimento-della-funzione-pubblica-4459955549",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "21de3242fb783774998256a4685d8a14e56bfd74",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-n-1-incarico-di-ricerca-ai-sensi-dell-art-22-ter-della-legge-240-2010-della-dura",
+      "nome": "n. 1 incarico di ricerca, ai sensi dell’art. 22-ter della legge 240/2010, della durata di n. 12 mesi TUTOR prof. Mario Licata- Codice Concorso: I-RIC 20-2026 — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/n-1-incarico-di-ricerca-ai-sensi-dell%E2%80%99art-22-ter-della-legge-240-2010-della-durata-di-n-12-mesi-tutor-prof-mario-licata-codice-concorso-i-ric-20-2026-at-dipartimento-della-funzione-pubblica-4465536875",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "cbb0b024c6170cc0448517b6d764b85afcb3b8bb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-n-1-incarico-di-ricerca-ai-sensi-dell-art-22-ter-della-legge-240-2010-della-dura",
+      "nome": "n. 1 incarico di ricerca, ai sensi dell’art. 22-ter della legge 240/2010, della durata di n. 12 mesi TUTOR prof. Mauro Sarno- Codice Concorso: I-RIC 1-2026 — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/n-1-incarico-di-ricerca-ai-sensi-dell%E2%80%99art-22-ter-della-legge-240-2010-della-durata-di-n-12-mesi-tutor-prof-mauro-sarno-codice-concorso-i-ric-1-2026-at-dipartimento-della-funzione-pubblica-4465535968",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "93ecf6600381d1cc4b4117886eacdeb898ea7496",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -433,19 +486,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "bcad22df5488ad9f091185efa305cee5f3fa63af",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-responsabile-amministrativo-gi-group",
-      "nome": "Responsabile amministrativo — Gi Group",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-at-gi-group-4445509813",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "4c8ad4cccc4305b24ba0af7013b1c6e300c29014",
       "notifica_topics": [
         "categorie_protette"
       ]
