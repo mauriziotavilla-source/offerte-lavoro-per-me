@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-09-16T11:05:48.817Z",
+  "generated_at": "2026-09-16T16:25:53.541Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "cb132c53a118b04a41a6c9873f588feb78d40d51",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 43
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-alla-vendite-part-time-i-grani-del-nonno",
-      "nome": "Addetto/a alla vendite Part Time — I Grani del Nonno",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alla-vendite-part-time-at-i-grani-del-nonno-4465975155",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "32330697c2af7c06d0ab9428ed7ce7f6cbfa18c8",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -92,10 +78,10 @@
       "nome": "AVVISO PUBBLICO DI SELEZIONE COMPARATIVA PER LA NOMINA DI N. 3 COMPONENTI, DI CUI UNO CON FUNZIONI DI PRESIDENTE O.I.V. DELL’ASP DI AGRIGENTO PER IL TRIENNIO 2026-2028 — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-selezione-comparativa-per-la-nomina-di-n-3-componenti-di-cui-uno-con-funzioni-di-presidente-o-i-v-dell%E2%80%99asp-di-agrigento-per-il-triennio-2026-2028-at-dipartimento-della-funzione-pubblica-4459973050",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-selezione-comparativa-per-la-nomina-di-n-3-componenti-di-cui-uno-con-funzioni-di-presidente-o-i-v-dell%E2%80%99asp-di-agrigento-per-il-triennio-2026-2028-at-dipartimento-della-funzione-pubblica-4459955549",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c1fa47086a31480823283b33e8d294a5adafb525",
+      "hash_contenuto": "21de3242fb783774998256a4685d8a14e56bfd74",
       "notifica_topics": [
         "categorie_protette"
       ]
