@@ -1,182 +1,12 @@
 {
-  "generated_at": "2026-09-18T16:03:44.830Z",
+  "generated_at": "2026-09-18T20:37:13.039Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "2b4e754f97dda620be47380eb294de173a6f6ac0",
   "counts": {
-    "nuovi": 13,
-    "aggiornati": 44
+    "nuovi": 0,
+    "aggiornati": 43
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-agente-commerciale-reggio-calabria-per-camera-di-mediazione-nazionale-camera-di-",
-      "nome": "Agente Commerciale Reggio Calabria per Camera di Mediazione Nazionale — Camera di Mediazione Nazionale",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-commerciale-reggio-calabria-per-camera-di-mediazione-nazionale-at-camera-di-mediazione-nazionale-4466688116",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "36cf0dfd01d6f40f90ef867ff7f14b6ca1e6d0a6",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
-      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-azienda-unita-sanitaria-locale-umbria-2-5-assistenti-amministrativi",
-      "nome": "Azienda Unità Sanitaria Locale Umbria 2, 5 assistenti amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-unita-sanitaria-locale-umbria-2-concorso-riservato-assistente-amministrativo-perugia-2026",
-      "data_pubblicazione": "2026-10-15",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e4f2ba0b0faaeed103aec482efd2aeeb3ff73f90",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-casoria-concorso-per-un-istruttore-multimediale-a-tempo-indeterminato",
-      "nome": "Comune di Casoria, concorso per un istruttore multimediale a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casoria-concorso-istruttore-amministrativo-istruttore-amministrativo-contabile-napoli",
-      "data_pubblicazione": "2026-10-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a40cad377134e08b17be672ef4e99274ebe916bc",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-ospitaletto-1-istruttore-amministrativo",
-      "nome": "Comune di Ospitaletto, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ospitaletto-concorso-istruttore-amministrativo-brescia-2026",
-      "data_pubblicazione": "2026-10-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8b233e7c65a344d821fc2950ddbe506c1052c322",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
-      "nome": "Event & Business Development — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-istruttore-amministrativo-istruttore-amministrativo-",
-      "nome": "Località Napoli Occupazione istruttore amministrativo istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7db08eb0ece1382e91166fd7729d586888f2fc65",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-assistente-amministrativo-posti-5",
-      "nome": "Località Perugia Occupazione assistente amministrativo Posti 5",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5639cb0373486170cd0785ee5b6b3309a3ba5a58",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-personal-trainer-fitactive-il-fitness-per-tutti",
-      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-responsabile-commerciale-orografie",
-      "nome": "Responsabile commerciale — Orografie",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-commerciale-at-orografie-4467711516",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "fdb478bfbb05c57e20796ea635688024d7606696",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -215,19 +45,6 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -751,5 +568,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
