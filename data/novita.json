@@ -1,21 +1,34 @@
 {
-  "generated_at": "2026-09-18T03:51:31.231Z",
+  "generated_at": "2026-09-18T10:48:20.585Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b9283626fa23125e3973c24bde91d3d401198e19",
+  "catalog_hash": "b58cdb3d254b36bfb0cf0775f2ff985fca755e6a",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 45
+    "nuovi": 2,
+    "aggiornati": 44
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Como Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-spotorno-1-istruttore-amministrativo",
+      "nome": "Comune di Spotorno, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-spotorno-concorso-riservato-istruttore-amministrativo-savona-2026",
+      "data_pubblicazione": "2026-10-17",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a512fe0ed69142ad27e983497492942c1644dc24",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-savona-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Savona Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/savona",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "629254100bd3aed0c173e41b8337f2d2f3fe8d49",
+      "hash_contenuto": "97dc1f5228798be7a737e5ba44eee814c2544835",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -226,19 +239,6 @@
       "data_pubblicazione": "2026-09-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "7d09f319b63a9220c0e782d424ec040a5ea9c803",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-erba-1-istruttore-amministrativo",
-      "nome": "Comune di Erba, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-erba-concorso-istruttore-amministrativo-como-2026",
-      "data_pubblicazione": "2026-09-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6a4b6c3f80c6ce04831b8015e16424c21b1cd791",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
