@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T20:37:13.039Z",
+  "generated_at": "2026-09-19T03:48:23.516Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2b4e754f97dda620be47380eb294de173a6f6ac0",
+  "catalog_hash": "eb672d335c0b526a0953e44ce9c9d5c8c9e38508",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 43
+    "aggiornati": 42
   },
   "nuovi": [],
   "aggiornati": [
@@ -474,19 +474,6 @@
       "hash_contenuto": "1ffac83b595bd747a437b8d1042249543480716e",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-scuola-internazionale-superiore-di-studi-avanzati-1-collaboratore-settore-ammini",
-      "nome": "Scuola Internazionale Superiore di Studi Avanzati, 1 Collaboratore – settore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore",
-      "data_pubblicazione": "2026-09-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ae2d9b4f49f024c50499663e3c78e9a7571e66ae",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     },
     {
