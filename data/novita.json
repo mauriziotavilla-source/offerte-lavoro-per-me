@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-19T10:32:10.242Z",
+  "generated_at": "2026-09-19T15:36:40.857Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "eb672d335c0b526a0953e44ce9c9d5c8c9e38508",
+  "catalog_hash": "37aa76febad9b69f26be3cf9c65880ab00b6c444",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 42
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-instructor-jrotc-po-navy-department-of-war-education-activity-dowea",
+      "nome": "Instructor JROTC PO NAVY. — Department of War Education Activity (DOWEA)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/instructor-jrotc-po-navy-at-department-of-war-education-activity-dowea-4469520424",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "940914f3be42a97b8433ba340e3b52db0fd601ba",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
