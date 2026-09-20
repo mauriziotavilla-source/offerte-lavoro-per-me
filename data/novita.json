@@ -1,21 +1,73 @@
 {
-  "generated_at": "2026-09-20T15:42:25.382Z",
+  "generated_at": "2026-09-20T20:31:09.879Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "89413f257095da58839aa9c5964c5670bc53774f",
+  "catalog_hash": "5f66a6b14bfe6d3abfcfe21b04624d7106d6a7ad",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 41
+    "nuovi": 5,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-tecnico-della-manutenzione-jefferson-wells-italia",
-      "nome": "Tecnico della manutenzione — Jefferson Wells Italia",
+      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
+      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-della-manutenzione-at-jefferson-wells-italia-4467968549",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "4c2e6f261a1e7f482a3e65f63fb7ee4f3735ef63",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
+      "nome": "Event & Business Development — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-personal-trainer-fitactive-il-fitness-per-tutti",
+      "nome": "Personal Trainer — FitActive - il Fitness per Tutti",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/personal-trainer-at-fitactive-il-fitness-per-tutti-4461846492",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "073ab708e96ac8299888e233d9818fc934c3b8f1",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -59,6 +111,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -556,5 +621,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
