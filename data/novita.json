@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-20T10:54:57.347Z",
+  "generated_at": "2026-09-20T15:42:25.382Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "4065664d9d8d2e6175bfba5a853d16cc27e81b1f",
+  "catalog_hash": "89413f257095da58839aa9c5964c5670bc53774f",
   "counts": {
     "nuovi": 1,
     "aggiornati": 41
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-school-information-assistant-office-automation-department-of-war-education-activ",
-      "nome": "School Information Assistant (Office Automation) — Department of War Education Activity",
+      "id": "linkedin-orfani-guerra-sicilia-tecnico-della-manutenzione-jefferson-wells-italia",
+      "nome": "Tecnico della manutenzione — Jefferson Wells Italia",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/school-information-assistant-office-automation-4468419156",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-della-manutenzione-at-jefferson-wells-italia-4467968549",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8c058f3a3babaf3fe3e4400cf789ab5684011d5d",
+      "hash_contenuto": "4c2e6f261a1e7f482a3e65f63fb7ee4f3735ef63",
       "notifica_topics": [
         "categorie_protette"
       ]
