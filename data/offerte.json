@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-09-20",
-  "versione": 347,
+  "versione": 348,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "74841c1ab3d99e62cc9c832642e250814cea8b98",
-  "generated_at": "2026-09-20T04:04:31.709Z",
+  "catalog_hash": "4065664d9d8d2e6175bfba5a853d16cc27e81b1f",
+  "generated_at": "2026-09-20T10:54:57.347Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -18706,7 +18706,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-03",
+          "data": "2026-11-04",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18731,7 +18731,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-19",
+      "rilevato_il": "2026-09-20",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -22787,6 +22787,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "e3ccf979fa3ecc9fd9e583510841246765630fd7"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-school-information-assistant-office-automation-department-of-war-education-activ",
+      "nome": "School Information Assistant (Office Automation) — Department of War Education Activity",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Lentini, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-04",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/school-information-assistant-office-automation-4468419156",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-09-20",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "8c058f3a3babaf3fe3e4400cf789ab5684011d5d"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-school-manager-catania-kids-us-language-school",
