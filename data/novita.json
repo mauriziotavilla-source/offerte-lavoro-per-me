@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-09-22T03:59:19.202Z",
+  "generated_at": "2026-09-22T11:11:53.774Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ad166f636a56a4aa5574cd387e7d6315a593f5c6",
+  "catalog_hash": "4d5df562c1efb607335ff1721a55be33b737f7ae",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 40
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-messina-addetto-amministrativo-contabile-junior-mobilificio-marchese",
+      "nome": "Addetto Amministrativo Contabile Junior — Mobilificio Marchese",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-amministrativo-contabile-junior-at-mobilificio-marchese-4468555413",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "178925b8d560747c4f524f9db17a3b2e4e75b069",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ariccia-1-collaboratore-amministrativo",
+      "nome": "Comune di Ariccia, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ariccia-concorso-riservato-collaboratore-amministrativo-roma-2026",
+      "data_pubblicazione": "2026-10-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3c34643c790081a9a019ea36d64b08547df1a8d2",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Roma Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "671b7e5ae229c98b2ba2c36db435e78a5eacb3c8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -529,14 +569,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
