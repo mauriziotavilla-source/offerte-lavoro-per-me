@@ -1,104 +1,12 @@
 {
-  "generated_at": "2026-09-22T16:34:00.787Z",
+  "generated_at": "2026-09-22T21:01:32.736Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "29d21169b4eafbb55286df4c3383d231f3f5f0c1",
   "counts": {
-    "nuovi": 7,
+    "nuovi": 0,
     "aggiornati": 40
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-segreteria-id-110236-afol-milano-agenzia-per-la-formazione-l-orientame",
-      "nome": "ADDETTO/A SEGRETERIA (ID-110236) — AFOL Milano -Agenzia per la formazione, l'orientamento e il lavoro",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-segreteria-id-110236-at-afol-milano-agenzia-per-la-formazione-l-orientamento-e-il-lavoro-4468798888",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9c876397a236a6648ddb0c3111b2cb1ef12fbda4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-mantova-2-istruttore-delle-attivita-amministrative-e-contabili",
-      "nome": "Comune di Mantova, 2 Istruttore delle Attività Amministrative e Contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mantova-concorso-istruttore-amministrativo-contabile-mantova-2026-0",
-      "data_pubblicazione": "2026-10-22",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e63f94676ff5ee54375e439f0d398e81688d11af",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-mantova-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Mantova Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/mantova",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "57ce5c7b15c21a6eb1761dc8399349343a4c1081",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Padova Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "61b93406ab397210902754f42f8fb1fe0dbb6f53",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-trento-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Trento Occupazione assistente amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/trento",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c85b94d4f1374b7190c10312117e2e42565fb2f6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-padova-2-istruttore-amministrativo",
-      "nome": "Provincia di Padova , 2 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-padova-concorso-riservato-istruttore-amministrativo-padova-2026",
-      "data_pubblicazione": "2026-10-22",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f13ac7629dca9e2e038a81f42a30758d2013e238",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-responsabile-customer-service-e-back-office-amministrativo-con-inglese-fluente-m",
-      "nome": "Responsabile Customer Service e Back Office Amministrativo, con inglese fluente. — Manpower",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-customer-service-e-back-office-amministrativo-con-inglese-fluente-at-manpower-4459914824",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "112d2467e8608b997bbd2ad69fb6241d35cb0e07",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -621,5 +529,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
