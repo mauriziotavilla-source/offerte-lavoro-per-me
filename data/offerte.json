@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-09-23",
-  "versione": 359,
+  "versione": 360,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "d027bf83afdf283c720a9e2171389af283493ac0",
-  "generated_at": "2026-09-23T16:24:10.917Z",
+  "catalog_hash": "da5fa377efa78a107199a2a03b0a0476d24216df",
+  "generated_at": "2026-09-23T21:16:17.660Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1531,6 +1531,56 @@
       "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748"
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Messina — GENS AUREA S.p.A.",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Messina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-messina-at-gens-aurea-s-p-a-4470979945",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "f1fa816b8bb18a51fb8e3c02f2bd79ab25558d7b"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-24-ore-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 24 ore) - Messina — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -1581,7 +1631,7 @@
       "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1595,7 +1645,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -1623,7 +1673,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "categorie_protette"
@@ -2430,6 +2480,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "a637dfb2b2a5d27567495809ded00b1a8461ea12"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-plurimandatario-settore-healthcare-palermo-e-trapani-uriach-italy",
+      "nome": "Agente plurimandatario | Settore healthcare - Palermo e Trapani — Uriach Italy",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-plurimandatario-settore-healthcare-palermo-e-trapani-at-uriach-italy-4468763864",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "41fb6b4b98c8e22e7424fc73181f44711e7602c8"
     },
     {
       "id": "linkedin-orfani-guerra-messina-agente-vendita-serramenti-qfort-italia",
@@ -3380,7 +3480,7 @@
       "hash_contenuto": "877f062fe53bb5b7807f24b4a187e8496a47f4e5"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
+      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
       "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -3394,7 +3494,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -3422,7 +3522,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "categorie_protette"
@@ -5314,6 +5414,49 @@
       "hash_contenuto": "36135ce0601e4169449ff7ec208af32d7aaaa964"
     },
     {
+      "id": "linkedin-lavoro-messina-back-office-amministrativo-e-operativo-mepa-marketplace-logistics-da-inserire-ne",
+      "nome": "Back Office Amministrativo e Operativo – MEPA, Marketplace & Logistics da inserire nel proprio team. — Metamorfosi - Rete di imprese",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Reggio di Calabria, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/back-office-amministrativo-e-operativo-%E2%80%93-mepa-marketplace-logistics-da-inserire-nel-proprio-team-at-metamorfosi-rete-di-imprese-4469306645",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "08cdaf7c63680ba3957a799ad20d07d729ac4f8d"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-bando-di-concorso-pubblico-per-esami-per-la-copertura-a-tempo-pieno-e-indetermin",
       "nome": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 (DUE) UNITÀ DI PERSONALE - AREA DEI FUNZIONARI - PROFILO “ASSISTENTE SOCIALE” — Dipartimento della Funzione Pubblica",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -5412,6 +5555,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "70d8828c12e40135785dcf5bf829ef3886506f98"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-di-accompagnatori-al-pianoforte-",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI ACCOMPAGNATORI AL PIANOFORTE (Art. 164 del CCNL Istruzione e Ricerca 18/01/2024) — Dipartimento della Funzione Pubblica",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Messina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-di-accompagnatori-al-pianoforte-art-164-del-ccnl-istruzione-e-ricerca-18-01-2024-at-dipartimento-della-funzione-pubblica-4469360274",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "ae1104da5b3715aaa1063882dd7a8b4ad358fa81"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-co",
@@ -5782,7 +5975,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-01",
+          "data": "2026-11-07",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5807,7 +6000,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-09-17",
+      "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9528,6 +9721,57 @@
       "hash_contenuto": "e685335ead4797121003422fe0cec8cff9f59246"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sansepolcro-concorso-per-un-operatore-amministrativo-esperto-a-tempo-i",
+      "nome": "Comune di Sansepolcro, concorso per un operatore amministrativo esperto a tempo indeterminato",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Sansepolcro, concorso per un operatore amministrativo esperto a tempo indeterminato Ente Comune di Sansepolcro Scadenza 22/10/2026 Dettagli Località Arezzo Occupazione operatore amministrativo Posti 1 Concorso pubblico, per soli ed esami, per l’assun",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-10-22",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sansepolcro-concorso-operatore-amministrativo-arezzo-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-10-22",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "143ca0427494e3ba1c60107d6807d0b177f5c55b"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-santa-maria-di-sala-2-operatore-amministrativo-esperto",
       "nome": "Comune di Santa Maria di Sala, 2 Operatore Amministrativo Esperto",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -11175,6 +11419,56 @@
         "offerte_lavoro"
       ],
       "hash_contenuto": "eb5d53f62b03d34441fccabf868e68a14b4e11d3"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-contabile-amministrativo-oranfresh-s-r-l",
+      "nome": "Contabile amministrativo — Oranfresh s.r.l.",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Catania, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-oranfresh-s-r-l-4469308850",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "5537a4c439d5786f0c893c535ed313f036b5d9eb"
     },
     {
       "id": "linkedin-orfani-guerra-messina-contabile-di-cantiere-s-you-italia",
@@ -13029,7 +13323,7 @@
       "hash_contenuto": "dc1737ced43f9326e7bd5112be2ffece38ae4328"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
+      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
       "nome": "Event & Business Development — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -13043,7 +13337,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -13071,7 +13365,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "categorie_protette"
@@ -15804,6 +16098,51 @@
       "hash_contenuto": "4b30654f398a77cbb8bc2823f771faac9aa65f06"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-localita-arezzo-occupazione-operatore-amministrativo-posti-1",
+      "nome": "Località Arezzo Occupazione operatore amministrativo Posti 1",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Arezzo",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/arezzo",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "628a767d386deb808e048bbed10b9b924928c5a8"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-localita-asti-occupazione-istruttore-amministrativo-posti-1",
       "nome": "Località Asti Occupazione istruttore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -17424,8 +17763,8 @@
       "hash_contenuto": "15ea7444be1f50323bb40f07f62130d7370a2502"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-operatore-amministrativo-posti-1",
-      "nome": "Località Pisa Occupazione operatore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Pisa Occupazione collaboratore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -17462,11 +17801,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-16",
+      "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "2fc56624a53925db31e1e3260a597bf9d622e399"
+      "hash_contenuto": "ebea8b915e60252e0caabbbf189e7bcfcd168cf3"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-pordenone-occupazione-collaboratore-amministrativo-professionale-posti-",
@@ -18614,7 +18953,7 @@
       "hash_contenuto": "fa828b24152b04cbfd78493a5675f90820715398"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -18628,7 +18967,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -18656,7 +18995,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "categorie_protette"
@@ -19364,7 +19703,7 @@
       "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -19378,7 +19717,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -19406,7 +19745,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-09-23",
       "notifica_topics": [
         "categorie_protette"
@@ -23261,6 +23600,57 @@
       "hash_contenuto": "839ce68111f3d348a92c779c8e7d26988f6d0294"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-scuola-superiore-sant-anna-di-pisa-concorso-per-un-collaboratore-amministrativo-",
+      "nome": "Scuola Superiore Sant'Anna di Pisa, concorso per un collaboratore amministrativo appartenente alle categorie protette",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Scuola Superiore Sant'Anna di Pisa, concorso per un collaboratore amministrativo appartenente alle categorie protette Ente Scuola Superiore «Sant'Anna» di Pisa Scadenza 23/10/2026 Dettagli Località Pisa Occupazione collaboratore amministrativo Posti 1 Selezion",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-10-23",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/scuola-superiore-santanna-di-pisa-concorso-collaboratore-amministrativo-pisa-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-10-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "9e47b6f0b5f4894a4f3e27b7fbed77584ed29266"
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-security-specialist-naval-supply-systems-command-navsup",
       "nome": "SECURITY SPECIALIST — Naval Supply Systems Command (NAVSUP)",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -23459,6 +23849,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "7838791f4906334d792adf111f2cf6e04b39d7a8"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-social-media-content-creator-di-martino-group",
@@ -24755,6 +25195,56 @@
       "hash_contenuto": "b53f71b1e6698a81d269dfd14dc5c5f667f91c79"
     },
     {
+      "id": "linkedin-orfani-guerra-messina-titolare-dell-azienda-studio-diemme",
+      "nome": "Titolare dell'azienda — STUDIO DIEMME",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Reggio di Calabria, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-07",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/titolare-dell-azienda-4471118058",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-09-23",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "e3eae8f936788477c5ce54d2bd4edbda4e3cb322"
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-tricare-beneficiary-services-representative-sigonella-italy-leidos",
       "nome": "TRICARE Beneficiary Services Representative - Sigonella, Italy — Leidos",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -25413,18 +25903,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "source_errors": []
 }

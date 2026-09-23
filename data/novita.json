@@ -1,23 +1,205 @@
 {
-  "generated_at": "2026-09-23T16:24:10.918Z",
+  "generated_at": "2026-09-23T21:16:17.661Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d027bf83afdf283c720a9e2171389af283493ac0",
+  "catalog_hash": "da5fa377efa78a107199a2a03b0a0476d24216df",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 41
+    "nuovi": 15,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sindia-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Sindia, 1 istruttore amministrativo contabile",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-messina-at-gens-aurea-s-p-a-4470979945",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f1fa816b8bb18a51fb8e3c02f2bd79ab25558d7b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
+      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-back-office-amministrativo-e-operativo-mepa-marketplace-logistics-da-inserire-ne",
+      "nome": "Back Office Amministrativo e Operativo – MEPA, Marketplace & Logistics da inserire nel proprio team. — Metamorfosi - Rete di imprese",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/back-office-amministrativo-e-operativo-%E2%80%93-mepa-marketplace-logistics-da-inserire-nel-proprio-team-at-metamorfosi-rete-di-imprese-4469306645",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "08cdaf7c63680ba3957a799ad20d07d729ac4f8d",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-di-accompagnatori-al-pianoforte-",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI ACCOMPAGNATORI AL PIANOFORTE (Art. 164 del CCNL Istruzione e Ricerca 18/01/2024) — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-di-accompagnatori-al-pianoforte-art-164-del-ccnl-istruzione-e-ricerca-18-01-2024-at-dipartimento-della-funzione-pubblica-4469360274",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ae1104da5b3715aaa1063882dd7a8b4ad358fa81",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sansepolcro-concorso-per-un-operatore-amministrativo-esperto-a-tempo-i",
+      "nome": "Comune di Sansepolcro, concorso per un operatore amministrativo esperto a tempo indeterminato",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sindia-concorso-istruttore-amministrativo-contabile-nuoro-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sansepolcro-concorso-operatore-amministrativo-arezzo-2026",
       "data_pubblicazione": "2026-10-22",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9e2d7ff46de15fd9b885f6711e2ed7b79c51997d",
+      "hash_contenuto": "143ca0427494e3ba1c60107d6807d0b177f5c55b",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-contabile-amministrativo-oranfresh-s-r-l",
+      "nome": "Contabile amministrativo — Oranfresh s.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-oranfresh-s-r-l-4469308850",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5537a4c439d5786f0c893c535ed313f036b5d9eb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
+      "nome": "Event & Business Development — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-arezzo-occupazione-operatore-amministrativo-posti-1",
+      "nome": "Località Arezzo Occupazione operatore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/arezzo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "628a767d386deb808e048bbed10b9b924928c5a8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Pisa Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ebea8b915e60252e0caabbbf189e7bcfcd168cf3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-scuola-superiore-sant-anna-di-pisa-concorso-per-un-collaboratore-amministrativo-",
+      "nome": "Scuola Superiore Sant'Anna di Pisa, concorso per un collaboratore amministrativo appartenente alle categorie protette",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/scuola-superiore-santanna-di-pisa-concorso-collaboratore-amministrativo-pisa-2026",
+      "data_pubblicazione": "2026-10-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9e47b6f0b5f4894a4f3e27b7fbed77584ed29266",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-titolare-dell-azienda-studio-diemme",
+      "nome": "Titolare dell'azienda — STUDIO DIEMME",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/titolare-dell-azienda-4471118058",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e3eae8f936788477c5ce54d2bd4edbda4e3cb322",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -83,6 +265,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "e9ecd60f3552843e44550704d1f2f7005ef546d7",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-plurimandatario-settore-healthcare-palermo-e-trapani-uriach-italy",
+      "nome": "Agente plurimandatario | Settore healthcare - Palermo e Trapani — Uriach Italy",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-plurimandatario-settore-healthcare-palermo-e-trapani-at-uriach-italy-4468763864",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "41fb6b4b98c8e22e7424fc73181f44711e7602c8",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -556,18 +751,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
