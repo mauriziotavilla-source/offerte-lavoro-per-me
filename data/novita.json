@@ -1,114 +1,23 @@
 {
-  "generated_at": "2026-09-23T11:03:09.923Z",
+  "generated_at": "2026-09-23T16:24:10.918Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6651280108bf8b89c08dca23367d074b2176aafb",
+  "catalog_hash": "d027bf83afdf283c720a9e2171389af283493ac0",
   "counts": {
-    "nuovi": 8,
+    "nuovi": 1,
     "aggiornati": 41
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-addetta-paghe-e-contributi-ridolfo-fausto",
-      "nome": "Addetta paghe e contributi — Ridolfo Fausto",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetta-paghe-e-contributi-4470905489",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "13f027f8704cb87e5003ee02f746d6e3204f1bfe",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
-      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-paterno-2-istruttori-amministrativi",
-      "nome": "Comune di Paterno’, 2 istruttori amministrativi",
+      "id": "gazzetta-via-concorsipubblici-comune-di-sindia-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Sindia, 1 istruttore amministrativo contabile",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paterno-concorso-istruttore-amministrativo-catania-2026",
-      "data_pubblicazione": "2026-10-06",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "5639f6824b47cf9f6e26b9461a56672d24458c24",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sindia-concorso-istruttore-amministrativo-contabile-nuoro-2026",
+      "data_pubblicazione": "2026-10-22",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9e2d7ff46de15fd9b885f6711e2ed7b79c51997d",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
-      "nome": "Event & Business Development — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-localita-catania-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Catania Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/catania",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "925d5b17d41c8eb4c38940f77222d14bdd8b5989",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -157,10 +66,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -648,6 +557,14 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
