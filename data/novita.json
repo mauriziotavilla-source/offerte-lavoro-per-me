@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-09-25T16:50:52.864Z",
+  "generated_at": "2026-09-25T21:15:23.381Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "84333cfaddb7519c6396e6ab9bdc3dfa7a248fe1",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 39
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-alzate-brianza-2-istruttore-amministrativo",
-      "nome": "Comune di Alzate Brianza , 2 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-alzate-brianza-concorso-riservato-istruttore-amministrativo-como-2026",
-      "data_pubblicazione": "2026-10-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1708c3f65337d2a5d073fe1c713713bd9c5b22d7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Como Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5680e4690acabfe2c4f41cca6a0fe308f3be6027",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-organizzazione-fiere-e-convegni-id-110355-afol-milano-agenzia-pe",
-      "nome": "STAGE ADDETTO/A ORGANIZZAZIONE FIERE E CONVEGNI (ID-110355) — AFOL Milano -Agenzia per la formazione, l'orientamento e il lavoro",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-organizzazione-fiere-e-convegni-id-110355-at-afol-milano-agenzia-per-la-formazione-l-orientamento-e-il-lavoro-4470318246",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "904c7891a2f58fc2f3ca4067caf5a7d516d13ece",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -556,5 +516,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
