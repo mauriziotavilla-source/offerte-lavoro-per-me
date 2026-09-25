@@ -1,229 +1,47 @@
 {
-  "generated_at": "2026-09-25T11:26:42.265Z",
+  "generated_at": "2026-09-25T16:50:52.864Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f0c019f50032a9c134e653a8ec7469fed7baff32",
+  "catalog_hash": "84333cfaddb7519c6396e6ab9bdc3dfa7a248fe1",
   "counts": {
-    "nuovi": 17,
+    "nuovi": 3,
     "aggiornati": 39
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-messina-at-gens-aurea-s-p-a-4470979945",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f1fa816b8bb18a51fb8e3c02f2bd79ab25558d7b",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
-      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-colturano-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Colturano, 1 Istruttore amministrativo-contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-alzate-brianza-2-istruttore-amministrativo",
+      "nome": "Comune di Alzate Brianza , 2 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-colturano-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-alzate-brianza-concorso-riservato-istruttore-amministrativo-como-2026",
       "data_pubblicazione": "2026-10-24",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "008bf3709014f217635246912cfd7cdfa7846abb",
+      "hash_contenuto": "1708c3f65337d2a5d073fe1c713713bd9c5b22d7",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-morbegno-1-istruttore-amministrativo",
-      "nome": "Comune di Morbegno, 1 Istruttore Amministrativo",
+      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Como Occupazione istruttore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-morbegno-concorso-istruttore-amministrativo-sondrio-2026",
-      "data_pubblicazione": "2026-10-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "536b7af1e97993367fd1ca79987a7e7b8ffd84a8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-rovato-2-istruttore-amministrativo-culturale",
-      "nome": "Comune di Rovato, 2 Istruttore Amministrativo-culturale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-rovato-concorso-istruttore-culturale-brescia-2026",
-      "data_pubblicazione": "2026-10-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3ef5e840abafa1f07f19bd241a9e3392fa459fc5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-contabile-ls-medical",
-      "nome": "Contabile — LS MEDICAL",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-ls-medical-4471879264",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "34adac31180214c01a7167e4dab1f24cf2589bb2",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
-      "nome": "Event & Business Development — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-istituto-di-alta-formazione-artistica-e-musicale-1-assistente-amministrativo",
-      "nome": "Istituto di Alta Formazione Artistica e Musicale, 1 assistente amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituto-di-alta-formazione-artistica-e-musicale-concorso-assistente-amministrativo-catania-2026-0",
-      "data_pubblicazione": "2026-10-24",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "94f4e4bbff0b020b7d354621180d07c52ae11a8d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fa5df3a1f43b60ea5c622dafac715c23757feea6",
+      "hash_contenuto": "5680e4690acabfe2c4f41cca6a0fe308f3be6027",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Varese Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8e09880bf0120fb2638af0a9e42c02bece77138c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-organizzazione-fiere-e-convegni-id-110355-afol-milano-agenzia-pe",
+      "nome": "STAGE ADDETTO/A ORGANIZZAZIONE FIERE E CONVEGNI (ID-110355) — AFOL Milano -Agenzia per la formazione, l'orientamento e il lavoro",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-organizzazione-fiere-e-convegni-id-110355-at-afol-milano-agenzia-per-la-formazione-l-orientamento-e-il-lavoro-4470318246",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
-      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4471620699",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "64824659e2bd188d4cf72672dc1dd4234e748ca0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
-      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "904c7891a2f58fc2f3ca4067caf5a7d516d13ece",
       "notifica_topics": [
         "categorie_protette"
       ]
