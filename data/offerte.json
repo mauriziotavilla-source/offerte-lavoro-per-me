@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-09-26",
-  "versione": 369,
+  "versione": 370,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "03f7160b206fe7c4ae06892bd84bbd17498dfab0",
-  "generated_at": "2026-09-26T11:02:00.843Z",
+  "catalog_hash": "2ea5483c8528f8c9bdbfdf7a20160cbb1d6c61d8",
+  "generated_at": "2026-09-26T16:01:38.547Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1581,7 +1581,7 @@
       "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1595,7 +1595,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -1623,7 +1623,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -3480,7 +3480,7 @@
       "hash_contenuto": "877f062fe53bb5b7807f24b4a187e8496a47f4e5"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
+      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
       "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -3494,7 +3494,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -3522,7 +3522,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -4928,7 +4928,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-08",
+          "data": "2026-11-10",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4953,7 +4953,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-24",
+      "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5128,7 +5128,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-08",
+          "data": "2026-11-10",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5153,7 +5153,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-24",
+      "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6457,7 +6457,7 @@
       "hash_contenuto": "ae92ad942b7905e010e82e170d3a306b0a536352"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6471,7 +6471,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -6499,7 +6499,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -6507,7 +6507,7 @@
       "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Relais & Châteaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6521,7 +6521,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Malfa, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -6549,7 +6549,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -10398,7 +10398,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-08",
+          "data": "2026-11-10",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10423,7 +10423,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-24",
+      "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13160,7 +13160,7 @@
       "hash_contenuto": "dc1737ced43f9326e7bd5112be2ffece38ae4328"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
+      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
       "nome": "Event & Business Development — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -13174,7 +13174,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -13202,7 +13202,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -18791,7 +18791,7 @@
       "hash_contenuto": "fa828b24152b04cbfd78493a5675f90820715398"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -18805,7 +18805,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -18833,7 +18833,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -19541,7 +19541,7 @@
       "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -19555,7 +19555,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -19583,7 +19583,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -22687,7 +22687,7 @@
       "hash_contenuto": "c3d1ad4fd713f46a484502d50d1770d759e916c7"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-restaurant-manager-capofaro-resort-relais-chateaux",
       "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -22701,7 +22701,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -22729,7 +22729,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -23639,7 +23639,7 @@
       "hash_contenuto": "7838791f4906334d792adf111f2cf6e04b39d7a8"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "id": "linkedin-orfani-guerra-messina-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
       "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -23653,7 +23653,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -23681,7 +23681,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-26",
       "notifica_topics": [
         "categorie_protette"
@@ -25792,5 +25792,10 @@
     }
   ],
   "changed": true,
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
