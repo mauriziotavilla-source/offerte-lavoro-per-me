@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-09-27T04:25:06.117Z",
+  "generated_at": "2026-09-27T11:40:45.427Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "aa239443195e709103f765d6bc018ab325a84c28",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 40
+    "nuovi": 0,
+    "aggiornati": 39
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fa5df3a1f43b60ea5c622dafac715c23757feea6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Varese Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8e09880bf0120fb2638af0a9e42c02bece77138c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -239,19 +212,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-tito-1-istruttore-amministrativo",
-      "nome": "Comune di Tito, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-tito-concorso-istruttore-amministrativo-potenza-2026",
-      "data_pubblicazione": "2026-09-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b39fe51788f48d8d0a65033553753381f4211e6b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
