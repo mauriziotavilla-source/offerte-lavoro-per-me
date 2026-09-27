@@ -1,12 +1,156 @@
 {
-  "generated_at": "2026-09-27T11:40:45.427Z",
+  "generated_at": "2026-09-27T16:38:54.183Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "aa239443195e709103f765d6bc018ab325a84c28",
+  "catalog_hash": "5468b9d46554e7b9f4a15d5b70b85e87d335cba1",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 11,
     "aggiornati": 39
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-messina-at-gens-aurea-s-p-a-4470979945",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "f1fa816b8bb18a51fb8e3c02f2bd79ab25558d7b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
+      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-di-vendita-a19-lime-light-energy-telco-specialist",
+      "nome": "Consulente di vendita — A19 Lime LIGHT 💡 Energy & Telco Specialist",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-di-vendita-at-a19-lime-light-%F0%9F%92%A1-energy-telco-specialist-4467389743",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a9943c095baa770f6f94a64a9d92b7c0d6f643cb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
+      "nome": "Event & Business Development — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
+      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4471620699",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "64824659e2bd188d4cf72672dc1dd4234e748ca0",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -516,10 +660,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
