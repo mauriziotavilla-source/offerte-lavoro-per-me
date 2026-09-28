@@ -1,138 +1,99 @@
 {
-  "generated_at": "2026-09-28T13:16:45.586Z",
+  "generated_at": "2026-09-28T23:03:26.061Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c6e35efdc4e4a4b0f76c4f4301184ad3459f7c14",
+  "catalog_hash": "5fbaaf964f170c3f25a198517fdf8f4c657be426",
   "counts": {
-    "nuovi": 10,
+    "nuovi": 7,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
+      "nome": "ABARC -Selezione pubblica, per titoli, per la formulazione della graduatoria d’Istituto per l’A.A. 2025/2026 per contratti a TD - AFAM082 Tecniche artistiche per la scultura — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d%E2%80%99istituto-per-l%E2%80%99a-a-2025-2026-per-contratti-a-td-afam082-tecniche-artistiche-per-la-scultura-at-dipartimento-della-funzione-pubblica-4471203653",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "fbbc9636b9e226a2f111bfc84d3872e8ad3b5597",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
-      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
+      "id": "linkedin-lavoro-messina-contabile-amministrativo-camera-di-mediazione-nazionale",
+      "nome": "Contabile amministrativo — Camera di Mediazione Nazionale",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-camera-di-mediazione-nazionale-4471511414",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "dc5ce4f0fbfe00bd18ddbc1d1bb16290e1d6970a",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cumiana-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Cumiana, 1 Istruttore Amministrativo Contabile",
+      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Bergamo Occupazione collaboratore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cumiana-concorso-istruttore-amministrativo-contabile-torino-2026",
-      "data_pubblicazione": "2026-10-25",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5f579bb6ff44b9e2693c95b15f5a94776e561a29",
+      "hash_contenuto": "e12b27db1f969c6c1021e9788eb8eb1d1d493a7c",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
-      "nome": "Event & Business Development — Caporem Srl",
+      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Bologna Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7cff63c82e56a1fc5b077563f9e60a423732fbdd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-coadiutore-amministrativo-assistente-amministrativo",
+      "nome": "Località Palermo Occupazione coadiutore amministrativo assistente amministrativo Posti 12",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "6f896283111277f4d5aca021b79a5a6581b626fc",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-receptionist-amministrazione-hotel-villa-paradiso-taormina",
+      "nome": "Receptionist amministrazione — Hotel Villa Paradiso Taormina",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/receptionist-amministrazione-at-hotel-villa-paradiso-taormina-4472279979",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "1e767080414530272dfd5d18dde59009f5d6de35",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "id": "linkedin-orfani-guerra-sicilia-ufficio-tecnico-aircon",
+      "nome": "Ufficio tecnico — AIRCON",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ufficio-tecnico-at-aircon-4472498941",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
-      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4471620699",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "64824659e2bd188d4cf72672dc1dd4234e748ca0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
-      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
+      "hash_contenuto": "c49da72ddad17e6ccf00d70bb670e264463607aa",
       "notifica_topics": [
         "categorie_protette"
       ]
