@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-09-29",
-  "versione": 377,
+  "versione": 378,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "60774eaf645aa47173eb491ba313986d03c0f7c7",
-  "generated_at": "2026-09-29T12:23:57.320Z",
+  "catalog_hash": "e5c10aff119bd5d54be50d813feeef499255c96c",
+  "generated_at": "2026-09-29T22:00:56.808Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1531,7 +1531,7 @@
       "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1545,7 +1545,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -1573,7 +1573,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -3230,7 +3230,7 @@
       "hash_contenuto": "877f062fe53bb5b7807f24b4a187e8496a47f4e5"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
+      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
       "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -3244,7 +3244,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -3272,7 +3272,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -5173,7 +5173,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-12",
+          "data": "2026-11-13",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5198,7 +5198,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-28",
+      "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6207,7 +6207,7 @@
       "hash_contenuto": "ae92ad942b7905e010e82e170d3a306b0a536352"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6221,7 +6221,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -6249,7 +6249,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -6257,7 +6257,7 @@
       "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Relais & Châteaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6271,7 +6271,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Malfa, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -6299,7 +6299,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -6768,6 +6768,49 @@
         "offerte_lavoro"
       ],
       "hash_contenuto": "740bdfccb809a91f99e25d9ae3b616cbdead5bbd"
+    },
+    {
+      "id": "linkedin-lavoro-messina-commercialista-interdata-cuzzola-srl",
+      "nome": "Commercialista — Interdata Cuzzola srl",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Reggio di Calabria, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commercialista-at-interdata-cuzzola-srl-4471731820",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "rilevato_il": "2026-09-29",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "b5461d7a0b7ae845202c30bc9cacae739bab513b"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-commessa-ottica-domenico-lauria",
@@ -8705,6 +8748,57 @@
       "hash_contenuto": "41c7d88b034321909ca8dd04f26a4ec96924d58d"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-portobuffole-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Portobuffole', 1 Istruttore Amministrativo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Portobuffole', 1 Istruttore Amministrativo contabile Ente Comune di Portobuffole' Scadenza 29/10/2026 Dettagli Località Treviso Occupazione istruttore amministrativo contabile Posti 1 Bando di concorso pubblico per soli esami per l’assunzione a tempo",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-10-29",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-portobuffole-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-10-29",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-09-29",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "c26b67f6364298990538b6c3e856e03413ac8c7e"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-praia-a-mare-1-istruttore-amministrativo",
       "nome": "Comune di Praia a Mare, 1 istruttore amministrativo",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -9264,6 +9358,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "9e2d7ff46de15fd9b885f6711e2ed7b79c51997d"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sordio-1-istruttore-direttivo-contabile",
+      "nome": "Comune di Sordio, 1 istruttore direttivo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Sordio, 1 istruttore direttivo contabile Ente Comune di Sordio Scadenza 28/10/2026 Dettagli Località Lodi Occupazione istruttore direttivo contabile Posti 1 Concorso per solo esami per l’assunzione a tempieno e indeterminato di n. 1 posto di istrutto",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-10-28",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sordio-concorso-istruttore-direttivo-contabile-lodi-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-10-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-09-29",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "90042689a1b457261381c9e481c05bb12c279971"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-spotorno-1-istruttore-amministrativo",
@@ -12546,7 +12691,7 @@
       "hash_contenuto": "dc1737ced43f9326e7bd5112be2ffece38ae4328"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
+      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
       "nome": "Event & Business Development — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -12560,7 +12705,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -12588,7 +12733,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -14563,7 +14708,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-11",
+      "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16250,8 +16395,8 @@
       "hash_contenuto": "e1ae50d5d644d8fbe1060407961708b285069c59"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-lodi-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Lodi Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-lodi-occupazione-istruttore-direttivo-contabile-posti-1",
+      "nome": "Località Lodi Occupazione istruttore direttivo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -16288,11 +16433,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-04",
+      "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "7acf3d934e2edaabe65c033d4813a07a4f651579"
+      "hash_contenuto": "cd32846fccea11974de2c6cebdef075408c81df9"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-mantova-occupazione-istruttore-amministrativo-contabile-posti-2",
@@ -17510,8 +17655,8 @@
       "hash_contenuto": "c85b94d4f1374b7190c10312117e2e42565fb2f6"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Treviso Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Treviso Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -17548,11 +17693,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-21",
+      "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "d9bd854cf09f1f267353f31f744fd897a7c0de5a"
+      "hash_contenuto": "75a88413fd7cb6ef6def856b0cb13e9d57415581"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-trieste-occupazione-collaboratore-amministrativo-posti-1",
@@ -18065,7 +18210,7 @@
       "hash_contenuto": "fa828b24152b04cbfd78493a5675f90820715398"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -18079,7 +18224,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -18107,7 +18252,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -18815,7 +18960,7 @@
       "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -18829,7 +18974,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -18857,7 +19002,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -21860,7 +22005,7 @@
       "hash_contenuto": "c3d1ad4fd713f46a484502d50d1770d759e916c7"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-restaurant-manager-capofaro-resort-relais-chateaux",
       "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -21874,7 +22019,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -21902,7 +22047,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -22812,7 +22957,7 @@
       "hash_contenuto": "7838791f4906334d792adf111f2cf6e04b39d7a8"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "id": "linkedin-orfani-guerra-messina-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
       "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -22826,7 +22971,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -22854,7 +22999,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-09-29",
       "notifica_topics": [
         "categorie_protette"
@@ -24864,5 +25009,10 @@
     }
   ],
   "changed": true,
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
