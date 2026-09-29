@@ -1,104 +1,12 @@
 {
-  "generated_at": "2026-09-28T23:03:26.061Z",
+  "generated_at": "2026-09-29T04:55:51.933Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5fbaaf964f170c3f25a198517fdf8f4c657be426",
+  "catalog_hash": "dcda4d7e8a5883defab3e39983788cc9d5df4176",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 37
+    "nuovi": 0,
+    "aggiornati": 36
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
-      "nome": "ABARC -Selezione pubblica, per titoli, per la formulazione della graduatoria d’Istituto per l’A.A. 2025/2026 per contratti a TD - AFAM082 Tecniche artistiche per la scultura — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d%E2%80%99istituto-per-l%E2%80%99a-a-2025-2026-per-contratti-a-td-afam082-tecniche-artistiche-per-la-scultura-at-dipartimento-della-funzione-pubblica-4471203653",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "fbbc9636b9e226a2f111bfc84d3872e8ad3b5597",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-contabile-amministrativo-camera-di-mediazione-nazionale",
-      "nome": "Contabile amministrativo — Camera di Mediazione Nazionale",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-camera-di-mediazione-nazionale-4471511414",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "dc5ce4f0fbfe00bd18ddbc1d1bb16290e1d6970a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Bergamo Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e12b27db1f969c6c1021e9788eb8eb1d1d493a7c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-bologna-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Bologna Occupazione assistente amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bologna",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7cff63c82e56a1fc5b077563f9e60a423732fbdd",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-coadiutore-amministrativo-assistente-amministrativo",
-      "nome": "Località Palermo Occupazione coadiutore amministrativo assistente amministrativo Posti 12",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "6f896283111277f4d5aca021b79a5a6581b626fc",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-receptionist-amministrazione-hotel-villa-paradiso-taormina",
-      "nome": "Receptionist amministrazione — Hotel Villa Paradiso Taormina",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/receptionist-amministrazione-at-hotel-villa-paradiso-taormina-4472279979",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "1e767080414530272dfd5d18dde59009f5d6de35",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-ufficio-tecnico-aircon",
-      "nome": "Ufficio tecnico — AIRCON",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/ufficio-tecnico-at-aircon-4472498941",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c49da72ddad17e6ccf00d70bb670e264463607aa",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -109,19 +17,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "9b0d17d67c7c1520c032336984eff4d88016680a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-all-accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-vim",
-      "nome": "Addetto all’accoglienza e promozione-Aeroporto ed Eventi -Part time/full time — Vimik Marketing srls",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-all%E2%80%99accoglienza-e-promozione-aeroporto-ed-eventi-part-time-full-time-at-vimik-marketing-srls-4451315207",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c11a0ca0361e68617ef44cc6a6d6f83287b0b9fc",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -582,5 +477,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
