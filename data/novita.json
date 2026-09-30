@@ -1,192 +1,36 @@
 {
-  "generated_at": "2026-09-29T22:00:56.809Z",
+  "generated_at": "2026-09-30T04:42:18.457Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e5c10aff119bd5d54be50d813feeef499255c96c",
+  "catalog_hash": "2368e69631b8a1c6c562978ef68545132cf12709",
   "counts": {
-    "nuovi": 14,
-    "aggiornati": 36
+    "nuovi": 2,
+    "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
-      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-commercialista-interdata-cuzzola-srl",
-      "nome": "Commercialista — Interdata Cuzzola srl",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commercialista-at-interdata-cuzzola-srl-4471731820",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "b5461d7a0b7ae845202c30bc9cacae739bab513b",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-portobuffole-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Portobuffole', 1 Istruttore Amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-paderno-dugnano-2-istruttori-amministrativi",
+      "nome": "Comune di Paderno Dugnano, 2 Istruttori Amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-portobuffole-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "data_pubblicazione": "2026-10-29",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paderno-dugnano-concorso-istruttore-amministrativo-milano-2026",
+      "data_pubblicazione": "2026-09-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c26b67f6364298990538b6c3e856e03413ac8c7e",
+      "hash_contenuto": "c86c341d2371ca78907c6860214dca9789da4e0b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sordio-1-istruttore-direttivo-contabile",
-      "nome": "Comune di Sordio, 1 istruttore direttivo contabile",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Milano Occupazione istruttore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sordio-concorso-istruttore-direttivo-contabile-lodi-2026",
-      "data_pubblicazione": "2026-10-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "90042689a1b457261381c9e481c05bb12c279971",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
-      "nome": "Event & Business Development — Caporem Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lodi-occupazione-istruttore-direttivo-contabile-posti-1",
-      "nome": "Località Lodi Occupazione istruttore direttivo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lodi",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cd32846fccea11974de2c6cebdef075408c81df9",
+      "hash_contenuto": "c32d5cba3bcfa1bbf6863dbc920e667238fdea5c",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Treviso Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/treviso",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "75a88413fd7cb6ef6def856b0cb13e9d57415581",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-restaurant-manager-capofaro-resort-relais-chateaux",
-      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4471620699",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "64824659e2bd188d4cf72672dc1dd4234e748ca0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
-      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -397,19 +241,6 @@
       "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO DI MUSICA V. BELLINI DI CALTANISSETTA AFAM018 “PIANOFORTE” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-di-musica-v-bellini-di-caltanissetta-afam018-%E2%80%9Cpianoforte%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449267080",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "e4d180e3ac11110af93fdb9e12d02e58c816b4d9",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -661,6 +492,14 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
