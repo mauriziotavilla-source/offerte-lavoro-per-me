@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-09-30T04:42:18.457Z",
+  "generated_at": "2026-09-30T12:08:52.783Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "2368e69631b8a1c6c562978ef68545132cf12709",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 0,
     "aggiornati": 35
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-paderno-dugnano-2-istruttori-amministrativi",
-      "nome": "Comune di Paderno Dugnano, 2 Istruttori Amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paderno-dugnano-concorso-istruttore-amministrativo-milano-2026",
-      "data_pubblicazione": "2026-09-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c86c341d2371ca78907c6860214dca9789da4e0b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Milano Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c32d5cba3bcfa1bbf6863dbc920e667238fdea5c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -492,10 +465,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"

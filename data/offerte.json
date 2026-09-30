@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "2368e69631b8a1c6c562978ef68545132cf12709",
-  "generated_at": "2026-09-30T04:42:18.456Z",
+  "generated_at": "2026-09-30T12:08:52.782Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -396,7 +396,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-09-29",
+      "rilevato_il": "2026-09-30",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -4848,7 +4848,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-09-29",
+      "rilevato_il": "2026-09-30",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -6606,7 +6606,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-09-29",
+      "rilevato_il": "2026-09-30",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -10582,7 +10582,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-09-29",
+      "rilevato_il": "2026-09-30",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -13623,7 +13623,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-09-29",
+      "rilevato_il": "2026-09-30",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -24357,12 +24357,8 @@
       "hash_contenuto": "61da7b500ca5c3ec71b723cd8a1184300db84919"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
