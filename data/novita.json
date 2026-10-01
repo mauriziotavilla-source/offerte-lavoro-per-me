@@ -1,86 +1,34 @@
 {
-  "generated_at": "2026-09-30T22:00:07.741Z",
+  "generated_at": "2026-10-01T04:54:23.815Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "42186f9895572226d2c497c12d341909dbaab3f6",
+  "catalog_hash": "5681c9fcae08601a815c176d946f7506eab7015c",
   "counts": {
-    "nuovi": 6,
-    "aggiornati": 35
+    "nuovi": 2,
+    "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-belvedere-marittimo-1-istruttore-contabile",
-      "nome": "Comune di Belvedere Marittimo, 1 istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-belvedere-marittimo-concorso-istruttore-contabile-cosenza-2026",
-      "data_pubblicazione": "2026-10-29",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3c17ac0a6bb617c04d378f1dc06a9fc33b3cc9c7",
+      "id": "linkedin-orfani-guerra-messina-eletricista-municipio-de-ararica",
+      "nome": "ELETRICISTA — Município de Araricá",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/eletricista-at-munic%C3%ADpio-de-araric%C3%A1-4473991564",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7de9196ed6fe129161e0a560f161aae9ad6a287c",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-notaresco-1-istruttore-amministrativo",
-      "nome": "Comune di Notaresco, 1 istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-notaresco-concorso-istruttore-amministrativo-teramo-2026",
-      "data_pubblicazione": "2026-10-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0914eecd0740ec729ab81d5642f59ecbf7545a50",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-floriano-del-collio-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di San Floriano del Collio, 1 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-floriano-del-collio-concorso-istruttore-amministrativo-contabile-gorizia-2026",
-      "data_pubblicazione": "2026-11-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b99abe090b5c47d86ca7a862f6d26d668c4df52a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-contabile-posti-1",
-      "nome": "Località Cosenza Occupazione istruttore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cosenza",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e6c909ad002da984e03f4eeaa1589e475d746e9d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-gorizia-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Gorizia Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/gorizia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "581ab0fc4d19a443b12939b663c427c6b01239d6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-teramo-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Teramo Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/teramo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "938e53302e7135e36089a6e29f8cffda107187fc",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -291,6 +239,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-castrignano-del-capo-1-istruttore-amministrativo",
+      "nome": "Comune di Castrignano Del Capo, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castrignano-del-capo-concorso-istruttore-amministrativo-lecce-2026",
+      "data_pubblicazione": "2026-09-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "41251d49571e906db685496fd1ca7a5eca2b9839",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -545,7 +506,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-lavoro-messina",
       "message": "HTTP 429"
     },
     {
