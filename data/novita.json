@@ -1,216 +1,86 @@
 {
-  "generated_at": "2026-10-02T12:07:13.569Z",
+  "generated_at": "2026-10-02T21:57:41.002Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ea469e69f57d0aaaba8ac0b2c1ab1b7bb66d6cf0",
+  "catalog_hash": "4855b875c11b2a45d55fde10786ca43ccde826ae",
   "counts": {
-    "nuovi": 16,
+    "nuovi": 6,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-sicilia-account-manager-ag-dueggi-sas-mandato-first-barilla",
+      "nome": "Account manager — Ag dueggi sas Mandato First Barilla",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-4474591791",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
+      "hash_contenuto": "6dddeb5916bba9b574a6bc59d63c89d382ec6a7c",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
-      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
+      "id": "linkedin-orfani-guerra-messina-amministrativo-cooperativa-orsa-maggiore",
+      "nome": "Amministrativo — Cooperativa Orsa Maggiore",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-4475045164",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "c214988ff36340012d48e8d5eb1426ce055e669e",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-melzo-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Melzo, 1 Istruttore Amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-comune-di-montorso-vicentino-1-istruttore-amministrativo",
+      "nome": "Comune di Montorso Vicentino, 1 Istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-melzo-concorso-istruttore-amministrativo-contabile-milano-2026-0",
-      "data_pubblicazione": "2026-10-31",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montorso-vicentino-concorso-istruttore-amministrativo-vicenza-2026",
+      "data_pubblicazione": "2026-11-01",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "49c89a7a131233dc1ba121aa7802f802c5794cc1",
+      "hash_contenuto": "53797d12c454f0b0dcec2a0ca15bdaa80151606d",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-morbegno-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Morbegno, 1 Istruttore Amministrativo Contabile",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-morbegno-concorso-istruttore-amministrativo-contabile-sondrio-2026",
-      "data_pubblicazione": "2026-11-03",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "14e452261138dd63d3b3d0ab5a4cd250994d78a3",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-pubbl-per-titoli-ed-esami-per-il-reclutamento-n-170-mm-aa-potenziamento",
-      "nome": "Concorso pubbl, per titoli ed esami, per il reclutamento n. 170 MM.AA. potenziamento del settore informatico, dell’innov. tecnolog., tecnico-logistico, aeronautico, navale e sanitario della Gdf - 2026 — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-messina-store-manager-action",
+      "nome": "Store Manager — Action",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubbl-per-titoli-ed-esami-per-il-reclutamento-n-170-mm-aa-potenziamento-del-settore-informatico-dell%E2%80%99innov-tecnolog-tecnico-logistico-aeronautico-navale-e-sanitario-della-gdf-2026-at-dipartimento-della-funzione-pubblica-4472920980",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-at-action-4473348262",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "30a11226ba8b73c63d20d0f9014b064f6d3ca7fd",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "e6062ee68a9a7edbcc3532f2fdd95d2fdeeb1e88",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-consorzio-le-valli-1-istruttore-amministrativo",
-      "nome": "Consorzio Le Valli, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/consorzio-le-valli-concorso-istruttore-amministrativo-verona-2026",
-      "data_pubblicazione": "2026-10-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1bc187e611f671ddf6c08825f9ba389c7ddbf15b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
-      "nome": "Event & Business Development — Caporem Srl",
+      "id": "linkedin-orfani-guerra-sicilia-tecnico-manutentore-impianti-led-dooh-alessi-spa",
+      "nome": "Tecnico manutentore impianti LED DOOH — Alessi Spa",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-manutentore-impianti-led-dooh-at-alessi-spa-4474723628",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-contabile-posti-4",
-      "nome": "Località Bergamo Occupazione istruttore amministrativo contabile Posti 4",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "27c25ac36a7ef7089548bf09552ef92b9175b776",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Sondrio Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0aade9b39b5d3c22772f987f1837f30e85f334d9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Verona Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "63b46bb935bcafe70bafd72f45d1a25d68a25b1d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
-      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
-      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4471620699",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "64824659e2bd188d4cf72672dc1dd4234e748ca0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
-      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
+      "hash_contenuto": "e673f015bdbe0a96489e4ca4e00acf68b57e7136",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -274,10 +144,10 @@
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4474180450",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "efe219ac6956e8227dbf11145f075f8c1c3f0ed2",
+      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -518,13 +388,13 @@
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-n-1-incarico-di-ricerca-ai-sensi-dell-art-22-ter-della-legge-240-2010-della-dura",
-      "nome": "n. 1 incarico di ricerca, ai sensi dell’art. 22-ter della legge 240/2010, della durata di n. 12 mesi TUTOR prof. Roberta Coglitore- Codice Concorso: I-RIC 23-2026 — Dipartimento della Funzione Pubblica",
+      "nome": "n. 1 incarico di ricerca, ai sensi dell’art. 22-ter della legge 240/2010, della durata di n. 12 mesi TUTOR prof. Mauro Sarno- Codice Concorso: I-RIC 1-2026 — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/n-1-incarico-di-ricerca-ai-sensi-dell%E2%80%99art-22-ter-della-legge-240-2010-della-durata-di-n-12-mesi-tutor-prof-roberta-coglitore-codice-concorso-i-ric-23-2026-at-dipartimento-della-funzione-pubblica-4472181879",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/n-1-incarico-di-ricerca-ai-sensi-dell%E2%80%99art-22-ter-della-legge-240-2010-della-durata-di-n-12-mesi-tutor-prof-mauro-sarno-codice-concorso-i-ric-1-2026-at-dipartimento-della-funzione-pubblica-4465535968",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b93dc0d14638ba0676a335783851f4cb46c2d5e1",
+      "hash_contenuto": "93ecf6600381d1cc4b4117886eacdeb898ea7496",
       "notifica_topics": [
         "categorie_protette"
       ]

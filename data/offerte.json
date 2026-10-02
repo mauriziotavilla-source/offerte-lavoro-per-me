@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-10-02",
-  "versione": 384,
+  "versione": 385,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "ea469e69f57d0aaaba8ac0b2c1ab1b7bb66d6cf0",
-  "generated_at": "2026-10-02T12:07:13.568Z",
+  "catalog_hash": "4855b875c11b2a45d55fde10786ca43ccde826ae",
+  "generated_at": "2026-10-02T21:57:41.002Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -257,6 +257,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "9449573c6e5d056b9c1cfe0473e43d8e692e7051"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-account-manager-ag-dueggi-sas-mandato-first-barilla",
+      "nome": "Account manager — Ag dueggi sas Mandato First Barilla",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Capaci, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-16",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-4474591791",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-02",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "6dddeb5916bba9b574a6bc59d63c89d382ec6a7c"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-addett-reparto-ortofrutta-orteria-palermo-gruppo-romano",
@@ -2635,6 +2685,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "e7070defca42a8539dcb2a4b29892b58b3c9d9c1"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-amministrativo-cooperativa-orsa-maggiore",
+      "nome": "Amministrativo — Cooperativa Orsa Maggiore",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita",
+        "fiscale"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Aci Catena, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-16",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministrativo-4475045164",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-10-02",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "c214988ff36340012d48e8d5eb1426ce055e669e"
     },
     {
       "id": "linkedin-lavoro-messina-amministrativo-contabile-startfound-srl",
@@ -7834,6 +7935,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "07f94181db33b43e7dc25f956800a267e3a84d75"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-montorso-vicentino-1-istruttore-amministrativo",
+      "nome": "Comune di Montorso Vicentino, 1 Istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Montorso Vicentino, 1 Istruttore amministrativo Ente Comune di Montorso Vicentino Scadenza 01/11/2026 Dettagli Località Vicenza Occupazione istruttore amministrativo Posti 1 E’ indetto un concorso pubblico per soli esami al fine di assumere n. 1 Istr",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-11-01",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montorso-vicentino-concorso-istruttore-amministrativo-vicenza-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-11-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-02",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "53797d12c454f0b0dcec2a0ca15bdaa80151606d"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-morbegno-1-istruttore-amministrativo",
@@ -15472,8 +15624,8 @@
       "hash_contenuto": "737cae39f7a4578246bae79237c1490acc0f87a3"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-direttivo-contabile-posti-1",
-      "nome": "Località Milano Occupazione istruttore direttivo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -15514,7 +15666,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "71357beb312a9f9fd9bc191abfbba7fb0b9185c8"
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-amministrativo-posti-1",
@@ -16950,7 +17102,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-23",
+      "rilevato_il": "2026-10-02",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -22498,6 +22650,56 @@
       "hash_contenuto": "8d78837068a2893a941fe822e86368e77fb67589"
     },
     {
+      "id": "linkedin-orfani-guerra-messina-store-manager-action",
+      "nome": "Store Manager — Action",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Siderno, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-16",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-at-action-4473348262",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-10-02",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "e6062ee68a9a7edbcc3532f2fdd95d2fdeeb1e88"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-store-manager-trainee-ovs-spa-calabria-ovs-georgia",
       "nome": "Store Manager Trainee OVS SpA (Calabria) — OVS Georgia",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -22746,6 +22948,56 @@
         "categorie_protette"
       ],
       "hash_contenuto": "4c2e6f261a1e7f482a3e65f63fb7ee4f3735ef63"
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-tecnico-manutentore-impianti-led-dooh-alessi-spa",
+      "nome": "Tecnico manutentore impianti LED DOOH — Alessi Spa",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Palermo, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-11-16",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-manutentore-impianti-led-dooh-at-alessi-spa-4474723628",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-02",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "e673f015bdbe0a96489e4ca4e00acf68b57e7136"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-tecnico-per-rilievi-ordini-e-cantiere-corrado-serramenti",
