@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-10-03",
-  "versione": 386,
+  "versione": 387,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "148cf11e0891124343808307f31f062a86655894",
-  "generated_at": "2026-10-03T04:27:26.821Z",
+  "catalog_hash": "a2d62b13e6824ef314b2904fb561214b6f89621f",
+  "generated_at": "2026-10-03T11:18:23.720Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -18003,7 +18003,7 @@
       "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -18017,11 +18017,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-17",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18045,8 +18045,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-10-03",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -21266,7 +21266,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-17",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -21291,7 +21291,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-03",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -22517,7 +22517,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-17",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -22542,7 +22542,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-03",
       "notifica_topics": [
         "categorie_protette"
       ],
