@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-10-03T11:18:23.721Z",
+  "generated_at": "2026-10-03T15:56:15.573Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "a2d62b13e6824ef314b2904fb561214b6f89621f",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 37
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
-      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
