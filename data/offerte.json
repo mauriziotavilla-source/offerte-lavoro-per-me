@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-10-03",
-  "versione": 387,
+  "ultimo_aggiornamento": "2026-10-04",
+  "versione": 388,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "a2d62b13e6824ef314b2904fb561214b6f89621f",
-  "generated_at": "2026-10-03T20:45:34.475Z",
+  "catalog_hash": "eafa474543192cea5d0fcd92c94db200b1ea24f6",
+  "generated_at": "2026-10-04T04:58:21.379Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -77,7 +77,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -102,7 +102,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -177,7 +177,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -202,7 +202,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1046,57 +1046,6 @@
       "hash_contenuto": "32330697c2af7c06d0ab9428ed7ce7f6cbfa18c8"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-buste-paga-studio-artale",
-      "nome": "Addetto/a buste paga — studio artale",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita",
-        "paghe"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Alcamo, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-buste-paga-4452580927",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "cc48f80b381c56c9087983e38360ae28bd15a077"
-    },
-    {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "ente": "LinkedIn",
@@ -1431,7 +1380,7 @@
       "hash_contenuto": "a31a04f2637daaa260d134a0e621ea2de66bbb70"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1445,11 +1394,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1473,8 +1422,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1549,7 +1498,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1574,7 +1523,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1599,7 +1548,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1624,7 +1573,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1699,7 +1648,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1724,7 +1673,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1900,7 +1849,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1925,7 +1874,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2050,7 +1999,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2075,7 +2024,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2504,7 +2453,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2529,7 +2478,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3029,56 +2978,6 @@
       "hash_contenuto": "493be9b64447cb1e32a55ea02ca34824a1a4fe82"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-assistant-de-service-social-educateur-specialise-h-f-ecole-pratique-de-service-s",
-      "nome": "Assistant de Service Social / Éducateur Spécialisé (H/F) — École Pratique de Service Social (EPSS)",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Caltagirone, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistant-de-service-social-%C3%A9ducateur-sp%C3%A9cialis%C3%A9-h-f-at-%C3%A9cole-pratique-de-service-social-epss-4450078162",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "7cbb7d88ff0280633ab13a6340917aa9d3387272"
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-assistant-financial-controller-various-italian-locations-belmond",
       "nome": "Assistant Financial Controller - Various Italian locations — Belmond",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -3181,7 +3080,7 @@
       "hash_contenuto": "877f062fe53bb5b7807f24b4a187e8496a47f4e5"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-alla-direzione-tecnica-caporem-srl",
+      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
       "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -3195,11 +3094,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3223,8 +3122,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3774,7 +3673,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -3799,7 +3698,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4478,7 +4377,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4503,7 +4402,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4578,7 +4477,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4603,7 +4502,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5907,7 +5806,7 @@
       "hash_contenuto": "ae92ad942b7905e010e82e170d3a306b0a536352"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -5921,11 +5820,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5949,15 +5848,15 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Relais & Châteaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -5971,11 +5870,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Malfa, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5999,8 +5898,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6395,7 +6294,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6420,7 +6319,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6506,7 +6405,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "offerte_lavoro"
       ],
@@ -6809,7 +6708,7 @@
       "data_pubblicazione": "2026-10-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7064,7 +6963,7 @@
       "data_pubblicazione": "2026-10-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7275,57 +7174,6 @@
       "hash_contenuto": "008bf3709014f217635246912cfd7cdfa7846abb"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-corte-franca-1-istruttore-amministrativo",
-      "nome": "Comune di Corte Franca , 1 Istruttore amministrativo",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Corte Franca , 1 Istruttore amministrativo Ente Comune di Corte Franca Scadenza 02/10/2026 Scaduto Dettagli Località Brescia Occupazione istruttore amministrativo Posti 1 CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO PIENO (36 ORE SETTIMANAL",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-10-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-corte-franca-concorso-istruttore-amministrativo-brescia-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-10-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "80fc374e54246639b6a830bb2175fd9b62f0a5e4"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-cumiana-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Cumiana, 1 Istruttore Amministrativo Contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -7477,6 +7325,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "c8dd5231efc47b2b9588a8c6739cf5aaae4c7b03"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ginosa-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Ginosa, 1 istruttore amministrativo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Ginosa, 1 istruttore amministrativo contabile Ente Comune di Ginosa Scadenza 03/10/2026 Scaduto Dettagli Località Taranto Occupazione istruttore amministrativo contabile Posti 1 Avviso di selezione per il conferimento di un incarico di collaborazione",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-10-03",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ginosa-concorso-istruttore-amministrativo-contabile-taranto-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-10-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "b6f15c4750ca88a82b5333ca8b00a727ed792bdc"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-lauro-concorso-per-2-istruttori-amministrativi-a-tempo-indeterminato",
@@ -7676,7 +7575,7 @@
       "data_pubblicazione": "2026-10-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7880,7 +7779,7 @@
       "data_pubblicazione": "2026-11-01",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7982,7 +7881,7 @@
       "data_pubblicazione": "2026-11-03",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8033,7 +7932,7 @@
       "data_pubblicazione": "2026-10-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8186,7 +8085,7 @@
       "data_pubblicazione": "2026-10-06",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8339,7 +8238,7 @@
       "data_pubblicazione": "2026-10-29",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8507,12 +8406,12 @@
         "contabilita",
         "amministrazione"
       ],
-      "stato": "aperto",
+      "stato": "chiuso",
       "sede": "Italia",
       "modalita": "",
       "contratto": "",
       "retribuzione": "",
-      "descrizione_breve": "Comune di Rivignano Teor, 1 Istruttore amministrativo contabile Ente Comune di Rivignano Teor Scadenza 03/10/2026 Dettagli Località Udine Occupazione istruttore amministrativo contabile Posti 1 che è indetto un concorso pubblico, per soli esami, per la copertu",
+      "descrizione_breve": "Comune di Rivignano Teor, 1 Istruttore amministrativo contabile Ente Comune di Rivignano Teor Scadenza 03/10/2026 Scaduto Dettagli Località Udine Occupazione istruttore amministrativo contabile Posti 1 che è indetto un concorso pubblico, per soli esami, per la",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
       "scadenze": [
         {
@@ -8543,11 +8442,11 @@
       "data_pubblicazione": "2026-10-03",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-08",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "a27986380ac2fc8483e1930cdfbad9cabe67a4d9"
+      "hash_contenuto": "422d0941ac4517710cbeb2587ac9d42c334dbabc"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-rovato-2-istruttore-amministrativo-culturale",
@@ -8798,7 +8697,7 @@
       "data_pubblicazione": "2026-11-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9484,7 +9383,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9509,7 +9408,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9611,7 +9510,7 @@
       "data_pubblicazione": "2026-10-31",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9689,7 +9588,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9714,7 +9613,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -9889,7 +9788,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -9914,7 +9813,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10643,106 +10542,6 @@
       "url_origine": "https://it.indeed.com/jobs?q=contabile&l=Messina"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-content-label-assistant-settore-musicale-xdevel-s-r-l",
-      "nome": "Content & Label Assistant – settore musicale — Xdevel S.r.l.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-label-assistant-%E2%80%93-settore-musicale-at-xdevel-s-r-l-4444574344",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "97d378e8e7e57f904474fb0e9bd25207e94b7a72"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-content-marketing-assistant-xdevel-s-r-l",
-      "nome": "Content & Marketing Assistant — Xdevel S.r.l.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/content-marketing-assistant-at-xdevel-s-r-l-4444575313",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "365c0f23508ecdb299936206d5f61667fa87380e"
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-coordinatore-centro-territoriale-palermo-fondazione-sos-il-telefono-azzurro-ets",
       "nome": "Coordinatore Centro Territoriale - PALERMO — Fondazione SOS il Telefono Azzurro ETS",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -10943,56 +10742,6 @@
       "hash_contenuto": "d5448e5327122e23f117fb07103d48c3b7978e65"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-customer-operations-process-assistant-xdevel-s-r-l",
-      "nome": "Customer Operations & Process Assistant — Xdevel S.r.l.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/customer-operations-process-assistant-at-xdevel-s-r-l-4444564918",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "779384a25150d21355acd072cd3cff08a7c5a442"
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-customer-service-specialist-agrumaria",
       "nome": "Customer Service Specialist — Agrumaria",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -11041,56 +10790,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "ffcafc6b6873495085f08cbf06409c80a7c09495"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-data-analyst-junior-xdevel-s-r-l",
-      "nome": "Data Analyst (Junior) — Xdevel S.r.l.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/data-analyst-junior-at-xdevel-s-r-l-4444568443",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "993fffec607e71d4ef6bd110a9d6eb4b56b05934"
     },
     {
       "id": "linkedin-orfani-guerra-messina-department-manager-decathlon",
@@ -11291,56 +10990,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "75bd9afa9fce7a757086644bdae20e862d0c046e"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-director-of-human-resources-ihg-hotels-resorts",
-      "nome": "Director of Human Resources — IHG Hotels & Resorts",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-human-resources-at-ihg-hotels-resorts-4450138125",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "f633ec269636bc42ec8c1539cae5bf7e0b016199"
     },
     {
       "id": "linkedin-orfani-guerra-messina-direttore-controllo-di-gestione-zenith-services-group-spa",
@@ -11594,57 +11243,6 @@
       "hash_contenuto": "8a795cd6007d2c6cac7c8ce6c4892b27f410473e"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-educatore-professionale-cooperativa-sociale-etnos",
-      "nome": "Educatore professionale — Cooperativa Sociale Etnos",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita",
-        "fiscale"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Caltanissetta, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/educatore-professionale-at-cooperativa-sociale-etnos-4453699809",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "aa32c8354b4bac356aafd5edef85e1163871918b"
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-educatore-trice-professionale-marisaorienta",
       "nome": "Educatore/trice professionale — Marisaorienta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -11763,7 +11361,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11788,7 +11386,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -12040,7 +11638,7 @@
       "hash_contenuto": "dc1737ced43f9326e7bd5112be2ffece38ae4328"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-event-business-development-caporem-srl",
+      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
       "nome": "Event & Business Development — Caporem Srl",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -12054,11 +11652,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Capo d’Orlando, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -12082,8 +11680,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -12591,56 +12189,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "73f39517ea6e70e4962efbf88ffd2822d1f5f92e"
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-i-know-they-love-me-when-re-balance-org",
-      "nome": "I Know They Love Me When… — Re-Balance.org",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/i-know-they-love-me-when%E2%80%A6-at-re-balance-org-4455199131",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "8f3d756347c8c347f893a7a33e9bb3d83ffb1ba4"
     },
     {
       "id": "linkedin-orfani-guerra-messina-imipegato-a-comtabile-studio-scalia",
@@ -13530,57 +13078,6 @@
       "hash_contenuto": "215cc3588f341a58439e1cc329db17a4ed32d27f"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-istituti-di-santa-maria-in-aquiro-2-posti-di-istruttore-amministrativo",
-      "nome": "Istituti di Santa Maria in Aquiro, 2 posti di istruttore amministrativo",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Istituti di Santa Maria in Aquiro, 2 posti di istruttore amministrativo Ente Istituti di S. Maria in Aquiro di Roma Scadenza 02/10/2026 Scaduto Dettagli Località Roma Occupazione istruttore amministrativo Posti 2 Isma – istituti di santa maria in aquiro concor",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-10-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/istituti-di-s-maria-aquiro-di-roma-concorso-istruttore-amministrativo-roma-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-10-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "7b8048b4de9a955f38ac240524fbd354005bf726"
-    },
-    {
       "id": "concorsipubblici-sicilia-istituto-di-alta-formazione-artistica-e-musicale-1-assistente-amministrativo",
       "nome": "Istituto di Alta Formazione Artistica e Musicale, 1 assistente amministrativo",
       "ente": "ConcorsiPubblici.com - Sicilia",
@@ -13625,7 +13122,7 @@
       "data_pubblicazione": "2026-10-24",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13721,7 +13218,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14181,7 +13678,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -14206,7 +13703,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -14251,7 +13748,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14476,7 +13973,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14701,7 +14198,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14836,7 +14333,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15196,7 +14693,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15511,7 +15008,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15871,7 +15368,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-08",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16411,11 +15908,56 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "0aade9b39b5d3c22772f987f1837f30e85f334d9"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-taranto-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Taranto Occupazione istruttore amministrativo contabile Posti 1",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Taranto",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/taranto",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "3be1c6146ee4fde1b0fd00aae65260f56c8011cc"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-teramo-occupazione-istruttore-amministrativo-posti-1",
@@ -16456,7 +15998,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16636,7 +16178,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16726,7 +16268,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-08",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16771,7 +16313,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16906,7 +16448,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16951,7 +16493,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -17153,7 +16695,7 @@
       "hash_contenuto": "fa828b24152b04cbfd78493a5675f90820715398"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-magazziniere-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
       "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -17167,11 +16709,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17195,8 +16737,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17521,7 +17063,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17546,7 +17088,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17571,7 +17113,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17596,7 +17138,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17621,7 +17163,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17646,7 +17188,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17671,7 +17213,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17696,7 +17238,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17771,7 +17313,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17796,7 +17338,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17821,7 +17363,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17846,7 +17388,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17871,7 +17413,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17896,7 +17438,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17953,57 +17495,7 @@
       "hash_contenuto": "b93dc0d14638ba0676a335783851f4cb46c2d5e1"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-network-system-administrator-junior-xdevel-s-r-l",
-      "nome": "Network System Administrator (Junior) — Xdevel S.r.l.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-03",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/network-system-administrator-junior-at-xdevel-s-r-l-4444577313",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-08-19",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "de519d1b29384f03a51212e0db0ecad94844adcb"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
       "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -18017,11 +17509,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18045,8 +17537,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -18669,7 +18161,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18694,7 +18186,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19622,7 +19114,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19647,7 +19139,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19798,62 +19290,11 @@
       "data_pubblicazione": "2026-11-02",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "23dddfa5ad64751a97d303a22ce25db7ddf559ce"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-cuneo-1-istruttore-amministrativo",
-      "nome": "Provincia di Cuneo, 1 Istruttore Amministrativo",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "chiuso",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Provincia di Cuneo, 1 Istruttore Amministrativo Ente Provincia di Cuneo Scadenza 02/10/2026 Scaduto Dettagli Località Cuneo Occupazione istruttore amministrativo Posti 1 Provincia di Cuneo un concorso pubblico, per esami, per la copertura di n. 1 POSTO DI ISTR",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-10-02",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-cuneo-concorso-istruttore-amministrativo-cuneo-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-10-02",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-03",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "d3944f5ef8283089260af3d8e1cac086293259c0"
     },
     {
       "id": "gazzetta-via-concorsipubblici-provincia-di-monza-e-della-brianza-9-istruttore-amministrativo-contabile",
@@ -20798,7 +20239,7 @@
       "hash_contenuto": "c3d1ad4fd713f46a484502d50d1770d759e916c7"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-restaurant-manager-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
       "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -20812,11 +20253,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20840,8 +20281,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20966,7 +20407,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20991,7 +20432,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -21266,7 +20707,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -21291,7 +20732,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -21667,7 +21108,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -21692,14 +21133,14 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "7838791f4906334d792adf111f2cf6e04b39d7a8"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "id": "linkedin-orfani-guerra-sicilia-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
       "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -21713,11 +21154,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -21741,8 +21182,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -22167,7 +21608,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -22192,7 +21633,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -22217,7 +21658,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -22242,7 +21683,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -22517,7 +21958,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -22542,7 +21983,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -22817,7 +22258,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-16",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -22842,7 +22283,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-10-02",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -23060,7 +22501,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-17",
+          "data": "2026-11-18",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -23085,7 +22526,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-03",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -23505,12 +22946,12 @@
         "contabilita",
         "amministrazione"
       ],
-      "stato": "aperto",
+      "stato": "chiuso",
       "sede": "Italia",
       "modalita": "",
       "contratto": "",
       "retribuzione": "",
-      "descrizione_breve": "Unione Pedemontana Parmense, 1 Istruttore Amministrativo contabile Ente Unione pedemontana Parmense Scadenza 03/10/2026 Dettagli Località Parma Occupazione istruttore amministrativo contabile Posti 1 il Comune di Sala Baganza un concorso per soli esami per l’a",
+      "descrizione_breve": "Unione Pedemontana Parmense, 1 Istruttore Amministrativo contabile Ente Unione pedemontana Parmense Scadenza 03/10/2026 Scaduto Dettagli Località Parma Occupazione istruttore amministrativo contabile Posti 1 il Comune di Sala Baganza un concorso per soli esami",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
       "scadenze": [
         {
@@ -23541,11 +22982,11 @@
       "data_pubblicazione": "2026-10-03",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-09-08",
+      "rilevato_il": "2026-10-04",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "e56f061ae425f98a9ca147c3fe0e5c40e6fd8712"
+      "hash_contenuto": "bb68071a1fae1f3eb453e07ee8acc7477b6866c5"
     },
     {
       "id": "linkedin-orfani-guerra-messina-vice-store-manager-action",
@@ -23698,11 +23139,6 @@
       "hash_contenuto": "61da7b500ca5c3ec71b723cd8a1184300db84919"
     }
   ],
-  "changed": false,
-  "source_errors": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "changed": true,
+  "source_errors": []
 }
