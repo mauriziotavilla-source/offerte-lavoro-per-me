@@ -1,12 +1,130 @@
 {
-  "generated_at": "2026-10-04T16:47:33.350Z",
+  "generated_at": "2026-10-04T21:01:31.898Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "eafa474543192cea5d0fcd92c94db200b1ea24f6",
+  "catalog_hash": "16c524a749c442a968c301a7eda2c838bb73904e",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 9,
     "aggiornati": 37
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-s-p-a",
+      "nome": "Account manager — ALLEANZA ASSICURAZIONI S.P.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-at-alleanza-assicurazioni-s-p-a-4474744356",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f809bed3698bf671d1f02571c5a3b00b877b8982",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-allieva-o-capo-settore-recruiting-day-palermo-21-ottobre-bricocenter-italia",
+      "nome": "Allieva/o Capo Settore 🎓 - Recruiting Day Palermo - 21 ottobre — Bricocenter Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/allieva-o-capo-settore-%F0%9F%8E%93-recruiting-day-palermo-21-ottobre-at-bricocenter-italia-4466119045",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "40e6eb4eedd67f6a014f4a59dc5317885a2882d2",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-allieva-o-capo-settore-recruiting-day-rivoli-14-ottobre-bricocenter-italia",
+      "nome": "Allieva/o Capo Settore 🎓 - Recruiting Day Rivoli - 14 ottobre — Bricocenter Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/allieva-o-capo-settore-%F0%9F%8E%93-recruiting-day-rivoli-14-ottobre-at-bricocenter-italia-4466103955",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "95df0a8263fbc1bf26029192c4143b572374435f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-consulente-assicurativo-educatore-finanziario-alleanza-assicurazioni-reggio-cala",
+      "nome": "Consulente assicurativo/ educatore finanziario — ALLEANZA ASSICURAZIONI reggio calabria",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-assicurativo-educatore-finanziario-4469872066",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f3c36e101d2054d2673e0006ebfe5b332c684372",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-consulente-finanziario-reggio-calabria-programma-mediolanum-next-banca-mediolanu",
+      "nome": "Consulente Finanziario - Reggio Calabria - Programma Mediolanum Next — Banca Mediolanum",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-finanziario-reggio-calabria-programma-mediolanum-next-at-banca-mediolanum-4473373556",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "80d60ea9be99ba0a9212b1cbb93f99d19f61df27",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-senior-sales-associate-high-watches-luxury-boutique-grafton-recruitment",
+      "nome": "Senior Sales Associate _ High Watches Luxury Boutique — Grafton Recruitment",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/senior-sales-associate-high-watches-luxury-boutique-at-grafton-recruitment-4469328614",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "29e1d849dc2e0e4038e70bfac531cae748307e7e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-store-manager-tommy-hilfiger-reggio-calabria-gifrab-italia-s-p-a",
+      "nome": "STORE MANAGER - TOMMY HILFIGER REGGIO CALABRIA — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-tommy-hilfiger-reggio-calabria-at-gifrab-italia-s-p-a-4468019161",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5a50d6b144ada59cf7cf734d6f72a78e1669f094",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -490,5 +608,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
