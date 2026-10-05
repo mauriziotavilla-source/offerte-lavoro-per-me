@@ -1,86 +1,73 @@
 {
-  "generated_at": "2026-10-05T13:59:45.357Z",
+  "generated_at": "2026-10-05T23:52:19.287Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f725e3ba6bdc37673fba6e71c774f7bfe76452b6",
+  "catalog_hash": "2d0e857e8e61e2b2e1af4f7304c9b41847734ade",
   "counts": {
-    "nuovi": 6,
-    "aggiornati": 33
+    "nuovi": 5,
+    "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-ospedaliera-s-camillo-forlanini-di-roma-7-assistenti-amministrativi",
-      "nome": "Azienda Ospedaliera «S. Camillo - Forlanini» di Roma, 7 assistenti amministrativi",
+      "id": "gazzetta-via-concorsipubblici-comune-di-roccafranca-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Roccafranca, 1 Istruttore Amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-ospedaliera-s-camillo-forlanini-di-roma-concorso-riservato-assistente-amministrativo-roma",
-      "data_pubblicazione": "2026-11-01",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-roccafranca-concorso-istruttore-amministrativo-contabile-brescia-2026",
+      "data_pubblicazione": "2026-11-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ba8d5f872fc1a8af1390480b629808c51ee48a18",
+      "hash_contenuto": "97cd4e219729b5467720b81bdbe9f73eb6862f42",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-prevalle-1-istruttore-amministrativo",
-      "nome": "Comune di Prevalle, 1 istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-localita-ferrara-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Ferrara Occupazione istruttore amministrativo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-prevalle-concorso-istruttore-amministrativo-brescia-2026-0",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ferrara",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1fbb567649266aeb6b1919d1aaefcc30339bd792",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-assistente-amministrativo-posti-20",
+      "nome": "Località Milano Occupazione assistente amministrativo Posti 20",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fe9048c9aa8b15db1c0e3be965f0bcbd8434b160",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-collaboratore-amministrativo-professionale-posti-1",
+      "nome": "Località Sondrio Occupazione collaboratore amministrativo professionale Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6eaf621875a2bbbbb4c9cdafc5807c62d0bdfb76",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-ferrara-1-istruttore-amministrativo-contabile",
+      "nome": "Provincia di Ferrara, 1 Istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-ferrara-concorso-istruttore-amministrativo-contabile-ferrara-2026",
       "data_pubblicazione": "2026-11-02",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "841a780d87b4193a8173084811300dc44edde523",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-santa-maria-capua-vetere-concorso-per-5-istruttori-amministrativi-cont",
-      "nome": "Comune di Santa Maria Capua Vetere, concorso per 5 istruttori amministrativi/contabili a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santa-maria-capua-vetere-concorso-istruttore-amministrativo-istruttore-amministrativo",
-      "data_pubblicazione": "2026-11-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cfebd97c1744abe45c460d42c924b4713f340972",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-caserta-occupazione-istruttore-amministrativo-istruttore-amministrativo",
-      "nome": "Località Caserta Occupazione istruttore amministrativo istruttore amministrativo contabile Posti 5",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/caserta",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bf0f19c31e29a9b7523efbf93a9c4c58d4bdcc09",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-assistente-amministrativo-posti-7",
-      "nome": "Località Roma Occupazione assistente amministrativo Posti 7",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "12cb2b729e617622283da8c3145310729451613c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-collaboratore-amministrativo-collaboratore-amminist",
-      "nome": "Località Salerno Occupazione collaboratore amministrativo collaboratore amministrativo professionale Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/salerno",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bcd9da4436632ade8f399067395169a4f57aac43",
+      "hash_contenuto": "d105b4486cb7ca0de5a95fd5c74fab4471c12b32",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -163,6 +150,19 @@
       "hash_contenuto": "a637dfb2b2a5d27567495809ded00b1a8461ea12",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-agenzia-di-tutela-della-salute-della-montagna-di-sondrio",
+      "nome": "AGENZIA DI TUTELA DELLA SALUTE DELLA MONTAGNA DI SONDRIO",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-di-tutela-della-salute-della-montagna-di-sondrio-concorso-collaboratore-amministrativo",
+      "data_pubblicazione": "2026-10-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "757860ce375cc9b1a256d3c9f92a8394f722ff11",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -296,6 +296,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-veduggio-con-colzano-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Veduggio Con Colzano, 1 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-veduggio-con-colzano-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
+      "data_pubblicazione": "2026-10-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2c64b9df4ac1608a7a39b1572c5081a3cf71533e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
       "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO DI MUSICA V. BELLINI DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM010 CORNO — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -332,6 +345,19 @@
       "hash_contenuto": "f3b34f9a8d25536bb7899aa38bf95c07434a5ada",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-fondazione-irccs-ca-granda-ospedale-maggiore-policlinico-20-posti-di-assistente-",
+      "nome": "Fondazione IRCCS Ca'Granda Ospedale Maggiore Policlinico, 20 posti di assistente amministrativo (riapertura termini)",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-irccs-cagranda-ospedale-maggiore-policlinico-concorso-assistente-amministrativo-milano-2",
+      "data_pubblicazione": "2026-10-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e1825a782e5eb696117696d2d950734132867191",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -518,6 +544,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
