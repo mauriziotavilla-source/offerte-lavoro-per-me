@@ -1,78 +1,12 @@
 {
-  "generated_at": "2026-10-06T22:29:09.470Z",
+  "generated_at": "2026-10-07T05:01:49.337Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9d4e125f303f7d883360c67005876bae0fb55871",
+  "catalog_hash": "cb78158114e3fda1c59b833669c3ac2d250dbe05",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 0,
     "aggiornati": 32
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cuneo-1-istruttore-amministrativo",
-      "nome": "Comune di Cuneo, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cuneo-concorso-istruttore-amministrativo-cuneo-2026-2",
-      "data_pubblicazione": "2026-11-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "32046285c738d91a0a2a025998ada107c04f5deb",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vedano-olona-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Vedano Olona, 1 Istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vedano-olona-concorso-istruttore-amministrativo-contabile-varese-2026",
-      "data_pubblicazione": "2026-11-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "34e572b442106adfe5528c007ebf9e57170f96e5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-siena-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Siena Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/siena",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5a830420c6bb3ec3ec2b98ea2aa999ecab68d2bd",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Sondrio Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0aade9b39b5d3c22772f987f1837f30e85f334d9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Varese Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c8628866188daceec1c7574c99fee5bc0272f70a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -492,10 +426,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
