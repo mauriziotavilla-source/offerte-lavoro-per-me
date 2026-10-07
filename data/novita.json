@@ -1,12 +1,338 @@
 {
-  "generated_at": "2026-10-07T05:01:49.337Z",
+  "generated_at": "2026-10-07T12:55:00.815Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "cb78158114e3fda1c59b833669c3ac2d250dbe05",
+  "catalog_hash": "2bc4b9f9cd13c3f0f99542b8950be20fc0c780b9",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 32
+    "nuovi": 25,
+    "aggiornati": 34
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-reggio-calabria",
+      "nome": "Account manager — Alleanza assicurazioni Reggio Calabria",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-4476159853",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7db28c15ce14245e2231a6d507da641e92ac0c21",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-vendite-vincenzo-dascanio-group",
+      "nome": "Addetto vendite — Vincenzo Dascanio Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-vendite-at-vincenzo-dascanio-group-4470851456",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fe8e0591ee595e5ad36b93642ed023ea2111545d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT) - Messina — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-messina-at-gens-aurea-s-p-a-4470481596",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "c4dbf38c4e6353afd81845647caa1d9ba0d9c211",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-palermo-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita PT 20 ore - Palermo — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-palermo-at-gens-aurea-s-p-a-4476342664",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "46bbb5bafb308548820243751b50e7423d952d67",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-assistente-alla-direzione-tecnica-caporem-srl",
+      "nome": "Assistente alla Direzione Tecnica — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-alla-direzione-tecnica-at-caporem-srl-4468671334",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ea1f62501c09be313b47441e58903f66afba390d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
+      "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-40-2026-avviso-di-mobilit%C3%A0-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-d-lgs-165-2001-per-la-copertura-di-1-collaboratore-ter-%E2%80%93-ccnl-istruzione-e-ricerca-presso-l-ogs-at-dipartimento-della-funzione-pubblica-4474074351",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "6bdf513b30005a048a4b551671ffa7a34b5c9db3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
+      "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-40-2026-avviso-di-mobilit%C3%A0-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-d-lgs-165-2001-per-la-copertura-di-1-collaboratore-ter-%E2%80%93-ccnl-istruzione-e-ricerca-presso-l-ogs-at-dipartimento-della-funzione-pubblica-4474063864",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "443525fd353df46d19602321b6446babff464e46",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-crespina-lorenzana-concorso-per-2-istruttori-amministrativo-contabili",
+      "nome": "Comune di Crespina Lorenzana, concorso per 2 istruttori amministrativo/contabili",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-crespina-lorenzana-concorso-istruttore-amministrativo-istruttore-amministrativo-contabile",
+      "data_pubblicazione": "2026-11-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "95d92fb2689835ff144131379748dec39a97677a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-mansue-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Mansue’ , 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mansue-concorso-istruttore-amministrativo-contabile-treviso-2026-0",
+      "data_pubblicazione": "2026-11-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5d88af2b46c08880f7ef77b109b4cdbb359ae525",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-dottore-ssa-commercialista-studio-vitale-consulenza-aziendale-e-tributaria",
+      "nome": "DOTTORE/SSA COMMERCIALISTA — Studio Vitale consulenza aziendale e tributaria",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/dottore-ssa-commercialista-4476591995",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "40b4af0e716b505ff5561ff34adf1f31764a348e",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
+      "nome": "Event & Business Development — Caporem Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/event-business-development-at-caporem-srl-4468664421",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "284094417c71ee9faf443281d23695a95c8ab50d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-capofaro-resort-relais-chateaux",
+      "nome": "Front Office Manager — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-capofaro-resort-relais-chateaux-4476338132",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2270aefe1ca9292da92c339ee3eb5a0c120ff924",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-relais-chateaux",
+      "nome": "Front Office Manager — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istruttore-economico-finanziario",
+      "nome": "istruttore economico finanziario",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-economico-finanziario-396",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d6bc1abe54b2f05bb871b758e2baffa591f75fc5",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-arezzo-occupazione-istruttore-amministrativo-istruttore-amministrativo-",
+      "nome": "Località Arezzo Occupazione istruttore amministrativo istruttore amministrativo contabile Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/arezzo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "82ca9c92d95fcee85198a7ea00e62a193e1b0bc7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-istruttore-economico-finanziario-posti-1",
+      "nome": "Località Lecce Occupazione istruttore economico finanziario Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a748ba8475926d71690426d2c779332546514005",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-istruttore-amministrativo-istruttore-amministrativo-co",
+      "nome": "Località Pisa Occupazione istruttore amministrativo istruttore amministrativo contabile Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "de7d3ae8e59c5d04641f92f5d1463c5f72e1e405",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-magazziniere-alcott-taormina-alcott",
+      "nome": "MAGAZZINIERE ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/magazziniere-alcott-taormina-at-alcott-4440014173",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "632631e60a306e7ece448716f0ff4bc3ed9b8030",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-nuova-apertura-addetti-vendita-alcott-taormina-alcott",
+      "nome": "NUOVA APERTURA - ADDETTI VENDITA ALCOTT TAORMINA — ALCOTT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/nuova-apertura-addetti-vendita-alcott-taormina-at-alcott-4440008328",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8bf2afd4cf17a4ae2c152808340b472dc5843251",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-pizzaiolo-villa-zuccaro-group",
+      "nome": "Pizzaiolo — Villa Zuccaro Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/pizzaiolo-at-villa-zuccaro-group-4473216533",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7b272dec59c25d9884a3f949630a2a338b73935c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-lecce-posti-per-istruttore-economico-finanziario",
+      "nome": "Provincia di Lecce, posti per istruttore economico finanziario",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-lecce-concorso-istruttore-economico-finanziario-lecce-2026",
+      "data_pubblicazione": "2026-11-02",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "172c07695783adf8336024f44c92342457412d4d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-store-manager-gutteridge-aeroporto-di-catania-gutteridge-1878",
+      "nome": "STORE MANAGER GUTTERIDGE - AEROPORTO DI CATANIA — Gutteridge 1878",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-gutteridge-aeroporto-di-catania-at-gutteridge-1878-4339359848",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a8c4809060d26b0469d44099f75af6280615327d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-trade-marketing-representative-messina-grafton-recruitment",
+      "nome": "TRADE MARKETING REPRESENTATIVE-Messina — Grafton Recruitment",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/trade-marketing-representative-messina-at-grafton-recruitment-4473664585",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "0726d4bcd0ab95200ed1802e0cec45134231b908",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -199,6 +525,32 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-comune-di-paterno-2-istruttori-amministrativi",
+      "nome": "Comune di Paterno’, 2 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paterno-concorso-istruttore-amministrativo-catania-2026",
+      "data_pubblicazione": "2026-10-06",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "9f0c65181f59e5917921dea32b3ce42cc52b90b1",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-dona-di-piave-1-istruttore-servizi-amministrativo-contabili",
+      "nome": "Comune di San Dona’ di Piave, 1 Istruttore Servizi Amministrativo-contabili",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-dona-di-piave-concorso-istruttore-amministrativo-contabile-venezia-2026-0",
+      "data_pubblicazione": "2026-11-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "53fc7c0a10eda4c60486bb33d9ea64819840788d",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -425,14 +777,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
