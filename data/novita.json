@@ -1,92 +1,183 @@
 {
-  "generated_at": "2026-10-08T13:02:47.276Z",
+  "generated_at": "2026-10-08T23:05:02.476Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "69510a9599747bcf94697c32d5ec07f004ea9f5b",
+  "catalog_hash": "84f05080c56ee859848508b77a126dd96f48c599",
   "counts": {
-    "nuovi": 6,
-    "aggiornati": 33
+    "nuovi": 11,
+    "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-la-prevenzione-e-protezione-ambientale-del-veneto-1-collab",
-      "nome": "Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto, 1 Collaboratore Amministrativo Professionale",
+      "id": "gazzetta-via-concorsipubblici-a-s-s-t-rhodense-1-collaboratore-amministrativo-professionale",
+      "nome": "A.S.S.T. Rhodense, 1 collaboratore amministrativo professionale",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/arpa-agenzia-regionale-la-prevenzione-e-protezione-ambientale-del-veneto-concorso-collaboratore-8",
+      "link_ufficiale": "https://www.concorsipubblici.com/asst-rhodense-garbagnate-milanese-concorso-collaboratore-amministrativo-milano-2026",
+      "data_pubblicazione": "2026-11-05",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "be2b5115c503e2a8d143a47066bb853e651b93ba",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-belmond",
+      "nome": "Chef de Partie | season 2027 | Grand Hotel Timeo, a Belmond Hotel — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-at-belmond-4475979089",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "757652cd9f17feb2fb1e93860dbba9a56e24608f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restarant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restarant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restarant-season-2027-grand-hotel-timeo-at-belmond-4475970435",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "abead1c1f7aab75d5e7061ab88970e79fa5b1675",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-ciampino-3-istruttori-amministrativi",
+      "nome": "Comune di Ciampino, 3 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ciampino-concorso-istruttore-amministrativo-roma-2026",
+      "data_pubblicazione": "2026-11-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "53f80162ad6226e0153a1c9d7d76885529b0b040",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-pordenone-2-istruttore-amministrativo-contabile",
+      "nome": "Comune di Pordenone, 2 Istruttore Amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-pordenone-concorso-istruttore-amministrativo-contabile-pordenone-2026",
       "data_pubblicazione": "2026-11-06",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fffffd87da14acab2c762606344a5de11937fbe4",
+      "hash_contenuto": "4bddfe003870fa3b9c7f62fb00ab48943e84b94e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Belluno Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "linkedin-orfani-guerra-sicilia-consulente-per-la-sicurezza-adecco",
+      "nome": "Consulente per la sicurezza — Adecco",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-per-la-sicurezza-at-adecco-4474815463",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "3ffc88ee8786140aafd21c34b3748fafc57f242c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b06283db284203a2032644f53313529a9e53d27e",
+      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Brescia Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-pordenone-occupazione-istruttore-amministrativo-contabile-posti-2",
+      "nome": "Località Pordenone Occupazione istruttore amministrativo contabile Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pordenone",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "657510db2edb87bb080e5fd506a2e18abba3830e",
+      "hash_contenuto": "a5693bf703eb8f11b986af1d33a67ce36fb4c839",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-collaboratore-amministrativo-professionale-posti-1",
-      "nome": "Località Padova Occupazione collaboratore amministrativo professionale Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-collaboratore-amministrativo-posti-2",
+      "nome": "Località Salerno Occupazione collaboratore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/salerno",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "451b2d4da09aee5a30554bd6652139faf6c9e086",
+      "hash_contenuto": "fc8e3129218a01933a1b5456fe02914f6457f97b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-3",
-      "data_pubblicazione": "2026-11-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c1d7987b61c98745a9201d0f2f96bebe98361ae7",
+      "id": "linkedin-orfani-guerra-messina-mobilita-volontaria-per-la-copertura-a-tempo-pieno-e-indeterminato-di-un-istrutt",
+      "nome": "MOBILITÀ VOLONTARIA PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI UN ISTRUTTORE DIRETTIVO TECNICO APPARTENENTE ALL’AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE PER L'AREA TECNICO-MANUTENTIVA — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/mobilit%C3%A0-volontaria-per-la-copertura-a-tempo-pieno-e-indeterminato-di-un-istruttore-direttivo-tecnico-appartenente-all%E2%80%99area-dei-funzionari-e-dell-elevata-qualificazione-per-l-area-tecnico-manutentiva-at-dipartimento-della-funzione-pubblica-4466901350",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4df8af60c09d352bd87ec5a6ce17860e6e5e76bc",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-2",
-      "data_pubblicazione": "2026-11-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1978566ffd6a480b3233a203b12e88ef4b294aa3",
+      "id": "linkedin-orfani-guerra-sicilia-tecnico-ortopedico-protesista-senior-centri-ortopedici-aliotta",
+      "nome": "Tecnico Ortopedico | Protesista Senior — Centri Ortopedici Aliotta",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-ortopedico-protesista-senior-at-centri-ortopedici-aliotta-4474820350",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "edaa27181f5c296abdb6941fd2b460d904eb475b",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
   "aggiornati": [
+    {
+      "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
+      "nome": "ABARC - Selezione pubblica, per titoli, per la formulazione della graduatoria d’Istituto per l’A.A. 2026/2027 per contratti a TD - AFAM 119 Teoria, storia e metodo dei Mass Media — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d%E2%80%99istituto-per-l%E2%80%99a-a-2026-2027-per-contratti-a-td-afam-119-teoria-storia-e-metodo-dei-mass-media-at-dipartimento-della-funzione-pubblica-4471202708",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "a1ef4d3771cc25d751d9364a19fb29981a19ad1c",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
+      "nome": "ABARC - Selezione pubblica, per titoli, per la formulazione della graduatoria d’Istituto per l’A.A. 2026/2027 per contratti a TD - AFAM087 Design del prodotto — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d%E2%80%99istituto-per-l%E2%80%99a-a-2026-2027-per-contratti-a-td-afam087-design-del-prodotto-at-dipartimento-della-funzione-pubblica-4471214363",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4279cbcab707e11cbd808715d3bf6dd90c231528",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
       "nome": "Accademia di Belle Arti di Reggio Calabria - BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO E DEFINITO DI DOCENTI DI PRIMA FASCIA - AFAM095 TEORIE E TECNICHE COMPUTAZIONALI — Dipartimento della Funzione Pubblica",
@@ -515,20 +606,20 @@
       "notifica_topics": [
         "categorie_protette"
       ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-3",
+      "data_pubblicazione": "2026-11-06",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c1d7987b61c98745a9201d0f2f96bebe98361ae7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
