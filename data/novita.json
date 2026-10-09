@@ -1,34 +1,112 @@
 {
-  "generated_at": "2026-10-09T12:49:27.224Z",
+  "generated_at": "2026-10-09T22:25:22.087Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "ff6d2e9f4fc51917e9509c30b0aa569b498418b0",
+  "catalog_hash": "68b4e58374069edff255582e0a76faa32fb98799",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 8,
     "aggiornati": 37
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Belluno Occupazione assistente amministrativo Posti 1",
+      "id": "linkedin-orfani-guerra-messina-agente-immobiliare-recasamia-immobiliare",
+      "nome": "Agente immobiliare — ReCasaMia Immobiliare",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-immobiliare-4474339638",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4da0c55f8228e50599476fdc88e5df176d5c5c70",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restarant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restarant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restarant-season-2027-grand-hotel-timeo-at-belmond-4475970435",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "abead1c1f7aab75d5e7061ab88970e79fa5b1675",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-goro-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Goro, 1 Istruttore amministrativo-contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-goro-concorso-istruttore-amministrativo-contabile-ferrara-2026",
+      "data_pubblicazione": "2026-11-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7adb90aa886466ab309d3042b4426aefecb2448e",
+      "hash_contenuto": "7074fe2e0a240aa13d1c25674a75a3668378080f",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-responsabile-attivita-di-cantiere-ediltur-s-r-l",
-      "nome": "Responsabile attività di cantiere — Ediltur s.r.l.",
+      "id": "gazzetta-via-concorsipubblici-comune-di-pieve-a-nievole-concorso-per-un-istruttore-amministrativo-a-tempo-inde",
+      "nome": "Comune di Pieve a Nievole, concorso per un istruttore amministrativo a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-pieve-nievole-concorso-istruttore-amministrativo-pistoia-2026",
+      "data_pubblicazione": "2026-11-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "35eff97447a54b79a8df4b142500bd186593ce2d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-rapallo-4-istruttori-amministrativi",
+      "nome": "Comune di Rapallo, 4 Istruttori Amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-rapallo-concorso-riservato-istruttore-amministrativo-genova-2026",
+      "data_pubblicazione": "2026-11-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "647b51de5644fe34ebddceb5bad219c293e81970",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-4",
+      "nome": "Località Genova Occupazione istruttore amministrativo Posti 4",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/genova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d803d51b3ab4449f157f7e17b6d182c620732e15",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pistoia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Pistoia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pistoia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4918047d7b8921d91afcad0b1c22650f3d0d3245",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-sales-manager-adecco",
+      "nome": "Sales Manager — Adecco",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-attivit%C3%A0-di-cantiere-at-ediltur-s-r-l-4474899783",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-manager-at-adecco-4474055803",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f43dbf66d024d02007f01fcc3342288ad06b847d",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a4b5b78b4e5d350d45aa7bbcca698e51c98d2159",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -144,10 +222,10 @@
       "nome": "AIUTO ENOLOGO - Azienda Agricola Arianna Occhipinti — Azienda Agricola Arianna Occhipinti",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/aiuto-enologo-azienda-agricola-arianna-occhipinti-at-azienda-agricola-arianna-occhipinti-4474043271",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/aiuto-enologo-azienda-agricola-arianna-occhipinti-at-azienda-agricola-arianna-occhipinti-4472261722",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "749aaffb3f8299cd8b8a5d5791e6af12ce952253",
+      "hash_contenuto": "a1c22cf5e4cfa7df3b7c8c52847b38a9d84d3257",
       "notifica_topics": [
         "categorie_protette"
       ]
