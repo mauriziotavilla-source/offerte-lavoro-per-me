@@ -12,9 +12,10 @@
  * Copyright © 2026 Maurizio Tavilla
  */
 
+const { cert, getApps, initializeApp } = require('firebase-admin/app');
+const { getMessaging } = require('firebase-admin/messaging');
 const path = require('path');
 const fs = require('fs');
-const admin = require('firebase-admin');
 const { readJson } = require('./lib/io');
 
 const ROOT = path.join(__dirname, '..', '..');
@@ -108,8 +109,8 @@ async function main() {
     return;
   }
 
-  if (!admin.apps.length) {
-    admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
+  if (!getApps().length) {
+    initializeApp({ credential: cert(serviceAccount) });
   }
 
   const grouped = groupByTopic(novita.nuovi);
@@ -128,7 +129,7 @@ async function main() {
       android: { priority: 'high', notification: { channelId: 'offerte_nuove', defaultSound: true } },
       topic,
     };
-    const messageId = await admin.messaging().send(payload);
+    const messageId = await getMessaging().send(payload);
     console.log(`Push inviata a ${topic}: ${messageId}`);
   }
 }
