@@ -1,112 +1,138 @@
 {
-  "generated_at": "2026-10-28T04:44:52.542Z",
+  "generated_at": "2026-10-28T12:22:11.257Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c9c0a0f8a043a408fce2fd95c0cdf4730f4eaba7",
+  "catalog_hash": "0255cd5d8db99086d4e9a621644d7e0885e7aec8",
   "counts": {
-    "nuovi": 8,
-    "aggiornati": 36
+    "nuovi": 10,
+    "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-agenzia-forestale-regionale-1-istruttore-amministrativo",
-      "nome": "Agenzia Forestale Regionale, 1 istruttore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-1-c",
+      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 1 collaboratore amministrativo professionale",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-forestale-regionale-umbria-di-perugia-concorso-istruttore-amministrativo-perugia-2026",
-      "data_pubblicazione": "2026-10-27",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-22",
+      "data_pubblicazione": "2026-11-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c4d56de2450fc4eedd5945032fb931706e3b6796",
+      "hash_contenuto": "162629fbadd216ba42e50ce435c7bea220f6d6b1",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-commesso-commessa-in-stage-reggio-di-calabria-clayton-italia",
-      "nome": "Commesso/Commessa in Stage Reggio di Calabria — Clayton Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/commesso-commessa-in-stage-reggio-di-calabria-at-clayton-italia-4484093934",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "273eebf08afc8dba42f613e07ff0b246631c3b72",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-capofaro-resort-relais-chateaux",
-      "nome": "Front Office Manager — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-capofaro-resort-relais-chateaux-4476338132",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2270aefe1ca9292da92c339ee3eb5a0c120ff924",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-relais-chateaux",
-      "nome": "Front Office Manager — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Perugia Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-avigliano-2-istruttori-amministrativi",
+      "nome": "Comune di Avigliano, 2 istruttori amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-avigliano-concorso-istruttore-amministrativo-potenza-2026",
+      "data_pubblicazione": "2026-11-27",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "56a28e30235acd51c8d5e680aadf5c7cc35b1ee7",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-inverigo-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Inverigo, 1 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-inverigo-concorso-istruttore-amministrativo-contabile-como-2026",
+      "data_pubblicazione": "2026-11-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4a004ef6483d3b3cf1a072ca909f00c28139d8bc",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-famiglia-pata-olio-extra-vergine-di-oliva",
+      "nome": "𝑬𝑿𝑷𝑶𝑹𝑻 𝑺𝑨𝑳𝑬𝑺 𝑴𝑨𝑵𝑨𝑮𝑬𝑹 𝒔𝒆𝒕𝒕𝒐𝒓𝒆 𝑭𝑶𝑶𝑫 — Famiglia Pata - Olio Extra Vergine di Oliva",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/%F0%9D%91%AC%F0%9D%91%BF%F0%9D%91%B7%F0%9D%91%B6%F0%9D%91%B9%F0%9D%91%BB-%F0%9D%91%BA%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%AC%F0%9D%91%BA-%F0%9D%91%B4%F0%9D%91%A8%F0%9D%91%B5%F0%9D%91%A8%F0%9D%91%AE%F0%9D%91%AC%F0%9D%91%B9-%F0%9D%92%94%F0%9D%92%86%F0%9D%92%95%F0%9D%92%95%F0%9D%92%90%F0%9D%92%93%F0%9D%92%86-%F0%9D%91%AD%F0%9D%91%B6%F0%9D%91%B6%F0%9D%91%AB-at-famiglia-pata-olio-extra-vergine-di-oliva-4482518177",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "03f060218e1d70225929f343a8b702e416d8c403",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-ferrovia-circumetnea-1-collaboratore-amministrativo",
+      "nome": "Ferrovia Circumetnea, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/ministero-delle-infrastrutture-e-dei-trasporti-gestione-governativa-ferrovia-circumetnea-concorso-9",
+      "data_pubblicazione": "2026-11-26",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "a6df1170919dcb363a74265c01684ae1295a5784",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8b0eb3baa55fa39c73447429a9aaa18cd86ec71a",
+      "hash_contenuto": "22b463def771e2b52ae614b6b05b3384ccd3ff7d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-como-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Como Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/como",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4f6abd600cc79da4f75bdd00d3ae3ade3e5b8493",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-potenza-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Potenza Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/potenza",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "83e9aeb4d26f6ae9661d33738834efdf6937ce03",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-collaboratore-amministrativo",
+      "nome": "Unione Montana Feltrina, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-collaboratore-amministrativo-belluno-2026-0",
+      "data_pubblicazione": "2026-11-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "815d2f07d0cc075fea87aead8ae18edc970362fa",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -189,19 +215,6 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -404,10 +417,10 @@
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4483287704",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4450925734",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c342e66fd2bcf1ec95eaa31b9afac686d20f42c8",
+      "hash_contenuto": "4b41f936822402be54441fe0fc3fdf9dd74f1ef9",
       "notifica_topics": [
         "categorie_protette"
       ]
