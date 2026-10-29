@@ -1,62 +1,75 @@
 {
-  "generated_at": "2026-10-29T04:56:37.450Z",
+  "generated_at": "2026-10-29T12:31:29.299Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bc1acb351aea934a34ab10bb3e9dfe7ed87055cc",
+  "catalog_hash": "acedd7874f0850f341216598eb9d205f440e92b6",
   "counts": {
-    "nuovi": 4,
-    "aggiornati": 39
+    "nuovi": 5,
+    "aggiornati": 41
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-professionista-il-golosone-s-r-l",
-      "nome": "Agente di commercio professionista — Il Golosone S.r.l.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-professionista-at-il-golosone-s-r-l-4478040620",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "aacd4e35b680c844ce72e8de8429f0d0de8c5670",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-induno-olona-1-istruttore-amministrativo",
-      "nome": "Comune di Induno Olona, 1 Istruttore Amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-alghero-1-collaboratore-amministrativo",
+      "nome": "Comune di Alghero, 1 collaboratore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-induno-olona-concorso-istruttore-amministrativo-varese-2026",
-      "data_pubblicazione": "2026-10-28",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-alghero-concorso-riservato-collaboratore-amministrativo-sassari-2026",
+      "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "68939417961bf86300e1e13d2d8a8e6628fb493c",
+      "hash_contenuto": "e74a06c8cc7b37e9610a92875d4d96d0f9b7f6a5",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Varese Occupazione istruttore amministrativo Posti 1",
+      "id": "concorsipubblici-sicilia-comune-di-niscemi-1-istruttore-direttivo-contabile",
+      "nome": "Comune di Niscemi, 1 istruttore direttivo contabile",
       "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5d4d12f18f543c57e4d2fdbfc78884a0f81a660f",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-niscemi-concorso-istruttore-direttivo-contabile-caltanissetta-2026",
+      "data_pubblicazione": "2026-11-11",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "6e4c5a058ef6a3eb024f0025b625cdec6b04e3ae",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-istruttore-direttivo-contabile",
+      "nome": "istruttore direttivo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-contabile-393",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "fdfdfa214fd3ff427cb7a452d6c431ba614e7d0f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Sassari Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sassari",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "37caf720ce1f9122964dea8e0d73651d8dd26af8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-operaio-edile-qualificato-l-c-lavori-e-costruzioni",
+      "nome": "Operaio edile qualificato — L&C - Lavori e Costruzioni",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-edile-qualificato-at-l-c-lavori-e-costruzioni-4480656937",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "91c56a73058d527bbef6405138745af4d5905b6e",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -313,10 +326,10 @@
       "nome": "BANDO DI CONCORSO PUBBLICO IN FORMA ASSOCIATA, PER N. 2 POSTI DI \"FUN AMMINISTRATIVO-CONTABILE\"A TEMPO PIENO E INDETERMINATO — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-di-concorso-pubblico-in-forma-associata-per-n-2-posti-di-fun-amministrativo-contabile-a-tempo-pieno-e-indeterminato-at-dipartimento-della-funzione-pubblica-4482541144",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-di-concorso-pubblico-in-forma-associata-per-n-2-posti-di-fun-amministrativo-contabile-a-tempo-pieno-e-indeterminato-at-dipartimento-della-funzione-pubblica-4482524821",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8ab0f69f57a4633725337fd14f7d8823db3800d0",
+      "hash_contenuto": "4d6f85e3d7e02d46b00d44cb4faf5aa313c3e7a1",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -374,14 +387,27 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
+      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4426197234",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "2402dadad77ede23db90603debc311fe4dedfdea",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-belmond",
       "nome": "Chef de Partie | season 2027 | Grand Hotel Timeo, a Belmond Hotel — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-at-belmond-4484101215",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-at-belmond-4475979089",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ef6a21bc71e55638b98d95690f4fd28542fcacb6",
+      "hash_contenuto": "757652cd9f17feb2fb1e93860dbba9a56e24608f",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -434,6 +460,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "3eb0fbb483b3a65dc6436937fa770423c2ae1217",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-42-atleti-nei-gruppi-sportivi-p",
+      "nome": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 22 ottobre 2026. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-42-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-22-ottobre-2026-at-dipartimento-della-funzione-pubblica-4482538287",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "756aec4bae34597c45df8f116e33c4ce21e14494",
       "notifica_topics": [
         "categorie_protette"
       ]
