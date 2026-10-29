@@ -1,75 +1,140 @@
 {
-  "generated_at": "2026-10-29T12:31:29.299Z",
+  "generated_at": "2026-10-29T22:33:39.482Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "acedd7874f0850f341216598eb9d205f440e92b6",
+  "catalog_hash": "5b1e2a0dec5cfe5a84b906fd766de51636f90734",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 41
+    "nuovi": 10,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-alghero-1-collaboratore-amministrativo",
-      "nome": "Comune di Alghero, 1 collaboratore amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-tirano-1-istruttore-direttivo-amministrativo-contabile",
+      "nome": "Comune di Tirano, 1 istruttore direttivo amministrativo – contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-alghero-concorso-riservato-collaboratore-amministrativo-sassari-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-tirano-concorso-istruttore-direttivo-amministrativo-contabile-sondrio-2026",
+      "data_pubblicazione": "2026-11-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f1173e15e5e5a5aadc18b0776fc054441376f3d3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-vecchiano-concorso-per-un-istruttore-amministrativo-contabile-a-tempo-",
+      "nome": "Comune di Vecchiano, concorso per un istruttore amministrativo/contabile a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vecchiano-concorso-istruttore-amministrativocontabile-pisa-2026",
       "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e74a06c8cc7b37e9610a92875d4d96d0f9b7f6a5",
+      "hash_contenuto": "65d6d184c469166081c283f57476dd88c5b08acb",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-niscemi-1-istruttore-direttivo-contabile",
-      "nome": "Comune di Niscemi, 1 istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-niscemi-concorso-istruttore-direttivo-contabile-caltanissetta-2026",
-      "data_pubblicazione": "2026-11-11",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "6e4c5a058ef6a3eb024f0025b625cdec6b04e3ae",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-istruttore-direttivo-contabile",
-      "nome": "istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-contabile-393",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "fdfdfa214fd3ff427cb7a452d6c431ba614e7d0f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Sassari Occupazione collaboratore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vignate-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Vignate, 1 Istruttore Amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sassari",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vignate-concorso-istruttore-amministrativo-contabile-milano-2026-0",
+      "data_pubblicazione": "2026-11-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "37caf720ce1f9122964dea8e0d73651d8dd26af8",
+      "hash_contenuto": "9561b9a3cffe60bcbdf9d2a5a44ba1605e677018",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-operaio-edile-qualificato-l-c-lavori-e-costruzioni",
-      "nome": "Operaio edile qualificato — L&C - Lavori e Costruzioni",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Vigonza, 1 Istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-riservato-istruttore-amministrativo-contabile-padova-2026",
+      "data_pubblicazione": "2026-11-27",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "201580b1864b31623d51e8e406d41ecdce0d3167",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-edile-qualificato-at-l-c-lavori-e-costruzioni-4480656937",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "91c56a73058d527bbef6405138745af4d5905b6e",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Padova Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d86402cd5638be2d564c870e281af77191179ea3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Pisa Occupazione istruttore amministrativo/contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "03e5b7da1d114a0b8133e1ad36525788daccc4ce",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-direttivo-amministrativo-contabile-posti",
+      "nome": "Località Sondrio Occupazione istruttore direttivo amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "245392bb00903e63b3408e63eda35a11aff11c1f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-specialista-amministrativo-dragflow-sud",
+      "nome": "Specialista amministrativo — DragFlow Sud",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/specialista-amministrativo-at-dragflow-sud-4485202975",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "08730d412853e3b21f8ceb6a590b8b13031fb6d6",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     }
   ],
@@ -150,6 +215,19 @@
       "hash_contenuto": "d768736d17b12397d3ded66036a0e87d8803ba77",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -391,10 +469,10 @@
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4426197234",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4483287704",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "2402dadad77ede23db90603debc311fe4dedfdea",
+      "hash_contenuto": "c342e66fd2bcf1ec95eaa31b9afac686d20f42c8",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -469,10 +547,10 @@
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 22 ottobre 2026. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-42-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-22-ottobre-2026-at-dipartimento-della-funzione-pubblica-4482538287",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-pubblico-per-titoli-per-l%E2%80%99assunzione-di-42-atleti-nei-gruppi-sportivi-%E2%80%9Cpolizia-di-stato%E2%80%93fiamme-oro%E2%80%9D-indetto-in-data-22-ottobre-2026-at-dipartimento-della-funzione-pubblica-4482525764",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "756aec4bae34597c45df8f116e33c4ce21e14494",
+      "hash_contenuto": "372e92581b65f525b4c89c336377dd2628efe732",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -608,5 +686,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
