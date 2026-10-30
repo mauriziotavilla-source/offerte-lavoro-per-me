@@ -1,101 +1,49 @@
 {
-  "generated_at": "2026-10-30T12:23:15.809Z",
+  "generated_at": "2026-10-30T22:02:26.575Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8e03fa8939d6d7c3a53c9d9f02356161dab6ec6d",
+  "catalog_hash": "540ae20591c141d5a67f2d402f4d577d5c1398ac",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 42
+    "nuovi": 3,
+    "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-val-masino-1-istruttore-amministrativo",
-      "nome": "Comune di Val Masino, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-val-masino-concorso-istruttore-amministrativo-sondrio-2026",
-      "data_pubblicazione": "2026-11-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c93450779c1f6bdaf389c352d8f99a780d03ce28",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-impiegato-a-amministrativo-a-mediterranean-health-innovation-hub",
-      "nome": "Impiegato/a amministrativo/a — Mediterranean Health Innovation Hub",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-a-amministrativo-a-at-mediterranean-health-innovation-hub-4483056210",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "14e9c465f3222e8e4ec4b46abbb8e249d74a94df",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lecco-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Lecco Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecco",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0336b6853afe203fc39b7e3af4404303961a741d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "fa5df3a1f43b60ea5c622dafac715c23757feea6",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-marescialli-nomina-diretta-ei-2026-dipartimento-della-funzione-pubblica",
-      "nome": "Marescialli nomina diretta EI 2026 — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/marescialli-nomina-diretta-ei-2026-at-dipartimento-della-funzione-pubblica-4483419090",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3f72ad6ea9294e51aacc688efcdb480d4b513d8b",
+      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-lecco-2-istruttori-amministrativi-contabili",
-      "nome": "Provincia di Lecco, 2 Istruttori amministrativi contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-lecco-concorso-istruttore-amministrativo-contabile-lecco-2026",
-      "data_pubblicazione": "2026-11-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1f9cb48af74c271e8ecc36c52b8de9d2b98de0ae",
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483469735",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ce0961906734913fda7f769fe992ff3deb6bcb0c",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-052-teoria-ritmica-e-percez",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 052 - TEORIA RITMICA E PERCEZIONE MUSICALE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-052-teoria-ritmica-e-percezione-musicale-at-dipartimento-della-funzione-pubblica-4483475552",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "174314d6973d75ecbd414adc620c795e10c889b6",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -603,6 +551,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "29df2d6aee43127e187c430d1e092971f2a1e3f1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-tecnico-a-di-laboratorio-metalmeccanico-archimede-agenzia-per-il-lavoro-filiale-",
+      "nome": "TECNICO/a DI LABORATORIO METALMECCANICO — Archimede - Agenzia per il lavoro -filiale di Udine",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-a-di-laboratorio-metalmeccanico-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4485216909",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5cdd644d650fdd0776cdf2381bcb8af01e753a9c",
       "notifica_topics": [
         "categorie_protette"
       ]
