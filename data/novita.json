@@ -1,138 +1,99 @@
 {
-  "generated_at": "2026-10-29T22:33:39.482Z",
+  "generated_at": "2026-10-30T04:56:08.882Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "5b1e2a0dec5cfe5a84b906fd766de51636f90734",
+  "catalog_hash": "c8e94af4f8f6ee4ee46d07237ab16240cd9ab9e6",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 42
+    "nuovi": 7,
+    "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-tirano-1-istruttore-direttivo-amministrativo-contabile",
-      "nome": "Comune di Tirano, 1 istruttore direttivo amministrativo – contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-tirano-concorso-istruttore-direttivo-amministrativo-contabile-sondrio-2026",
-      "data_pubblicazione": "2026-11-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f1173e15e5e5a5aadc18b0776fc054441376f3d3",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vecchiano-concorso-per-un-istruttore-amministrativo-contabile-a-tempo-",
-      "nome": "Comune di Vecchiano, concorso per un istruttore amministrativo/contabile a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vecchiano-concorso-istruttore-amministrativocontabile-pisa-2026",
-      "data_pubblicazione": "2026-11-27",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "65d6d184c469166081c283f57476dd88c5b08acb",
+      "id": "linkedin-orfani-guerra-sicilia-amministratore-di-sistema-italkali",
+      "nome": "Amministratore di sistema — Italkali",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/amministratore-di-sistema-at-italkali-4483057747",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2f6d51c06a6390c078ec3a2012ce73f0e9328420",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vignate-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Vignate, 1 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vignate-concorso-istruttore-amministrativo-contabile-milano-2026-0",
-      "data_pubblicazione": "2026-11-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9561b9a3cffe60bcbdf9d2a5a44ba1605e677018",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Vigonza, 1 Istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-riservato-istruttore-amministrativo-contabile-padova-2026",
-      "data_pubblicazione": "2026-11-27",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "201580b1864b31623d51e8e406d41ecdce0d3167",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
       "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-padova-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Padova Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/padova",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d86402cd5638be2d564c870e281af77191179ea3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Pisa Occupazione istruttore amministrativo/contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "03e5b7da1d114a0b8133e1ad36525788daccc4ce",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-direttivo-amministrativo-contabile-posti",
-      "nome": "Località Sondrio Occupazione istruttore direttivo amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "245392bb00903e63b3408e63eda35a11aff11c1f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-specialista-amministrativo-dragflow-sud",
-      "nome": "Specialista amministrativo — DragFlow Sud",
+      "id": "linkedin-lavoro-messina-direttore-controllo-di-gestione-zenith-services-group-spa",
+      "nome": "Direttore Controllo di Gestione — Zenith Services Group SpA",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/specialista-amministrativo-at-dragflow-sud-4485202975",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-controllo-di-gestione-at-zenith-services-group-spa-4483029458",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "08730d412853e3b21f8ceb6a590b8b13031fb6d6",
+      "hash_contenuto": "bedea00a3b45b60f1b05f040b577dfbe07ba50a9",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-catania-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Catania Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/catania",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "4a090d59c628c227888c7aeb49132d9f97164a51",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-ricerca-e-selezione-per-impiegato-tecnico-morfu-srl",
+      "nome": "Ricerca e Selezione per Impiegato Tecnico — Morfù Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ricerca-e-selezione-per-impiegato-tecnico-at-morf%C3%B9-srl-4483027169",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7cb72e3ea07f216d845a59e0a1986c50db683a38",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-specialista-amministrativo-messina",
+      "nome": "Specialista amministrativo — MESSINA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/specialista-amministrativo-at-messina-4483410079",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "0ad239cfd3d59f5524969f8c194b475d3007eed5",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -205,6 +166,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-addett-vendite-cx-team-member-foot-locker",
+      "nome": "Addett* Vendite (CX Team Member) — Foot Locker",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addett-vendite-cx-team-member-at-foot-locker-4421148764",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "247a1c4a66e9977a76a633297d046df439ce5a30",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-lavoro-sicilia-addetto-a-paghe-e-contributi-full-remote-jet-hr",
       "nome": "Addetto/a paghe e contributi - Full Remote — Jet HR",
       "tipo": "lavoro",
@@ -222,10 +196,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -686,10 +660,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
