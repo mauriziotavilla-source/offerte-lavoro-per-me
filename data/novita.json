@@ -1,49 +1,23 @@
 {
-  "generated_at": "2026-10-30T22:02:26.575Z",
+  "generated_at": "2026-10-31T04:42:47.433Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "540ae20591c141d5a67f2d402f4d577d5c1398ac",
+  "catalog_hash": "75b22d1e2787f2ffeef814c963bc661059b68796",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 43
+    "nuovi": 1,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
+      "id": "gazzetta-via-concorsipubblici-comune-di-genova-1-istruttore-amministrativo",
+      "nome": "Comune di Genova, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-genova-concorso-istruttore-amministrativo-genova-2026",
+      "data_pubblicazione": "2026-10-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "80941d2aec6fa94481286f2ef65890a21db2a051",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483469735",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ce0961906734913fda7f769fe992ff3deb6bcb0c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-052-teoria-ritmica-e-percez",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 052 - TEORIA RITMICA E PERCEZIONE MUSICALE — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-052-teoria-ritmica-e-percezione-musicale-at-dipartimento-della-funzione-pubblica-4483475552",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "174314d6973d75ecbd414adc620c795e10c889b6",
-      "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -322,6 +296,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
@@ -410,32 +397,6 @@
       "hash_contenuto": "32a2b9b3092981e18b4af1eff9e004452759bc9a",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO DI MUSICA V. BELLINI DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM010 CORNO — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-di-musica-v-bellini-di-caltanissetta-settore-artistico-disciplinare-afam010-corno-at-dipartimento-della-funzione-pubblica-4449248942",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "c8cbb921b1f40373324beb8bc84dd39cfce9e225",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449269048",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "cea6f9c8eaab4556ddcee3a1e5dca48716cf3ebd",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -560,10 +521,10 @@
       "nome": "TECNICO/a DI LABORATORIO METALMECCANICO — Archimede - Agenzia per il lavoro -filiale di Udine",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-a-di-laboratorio-metalmeccanico-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4485216909",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-a-di-laboratorio-metalmeccanico-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4480332978",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5cdd644d650fdd0776cdf2381bcb8af01e753a9c",
+      "hash_contenuto": "6ff444f136deff1dc5f75a7e460c617de7a6d7a5",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -608,5 +569,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }

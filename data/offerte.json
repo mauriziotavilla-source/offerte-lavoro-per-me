@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-10-30",
-  "versione": 466,
+  "ultimo_aggiornamento": "2026-10-31",
+  "versione": 467,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "540ae20591c141d5a67f2d402f4d577d5c1398ac",
-  "generated_at": "2026-10-30T22:02:26.574Z",
+  "catalog_hash": "75b22d1e2787f2ffeef814c963bc661059b68796",
+  "generated_at": "2026-10-31T04:42:47.433Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -3570,7 +3570,7 @@
       "data_pubblicazione": "2026-11-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -5289,56 +5289,6 @@
       "hash_contenuto": "ae1104da5b3715aaa1063882dd7a8b4ad358fa81"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-co",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATODI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICAper a.a. 2026/2027 - DPR 83/2024 AFAM006 VIOLINO — Dipartimento della Funzione Pubblica",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-30",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminatodi-docenti-di-prima-fascia-nei-conservatori-di-musicaper-a-a-2026-2027-dpr-83-2024-afam006-violino-at-dipartimento-della-funzione-pubblica-4451262748",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-09-15",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "c97c3083cda40e33f99cef394f2d58d156327dc4"
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -6503,7 +6453,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6885,7 +6835,7 @@
       "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -6987,7 +6937,7 @@
       "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7298,57 +7248,6 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "92cf7e4b9fd0c856b3a4a5f06ef2e0211c7b9d9e"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-camerata-picena-1-istruttore-contabile",
-      "nome": "Comune di Camerata Picena, 1 Istruttore Contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Camerata Picena, 1 Istruttore Contabile Ente Comune di Camerata Picena Scadenza 30/10/2026 Dettagli Località Ancona Occupazione istruttore contabile Posti 1 È indetto un concorso pubblico, per soli esami, per la copertura a tempo pieno e indeterminat",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-10-30",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-camerata-picena-concorso-istruttore-contabile-ancona-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-10-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-05",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "b191571976c1767a944c40a7c842ec2278e4c7af"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-caorle-1-istruttore-amministrativo-contabile",
@@ -7810,6 +7709,57 @@
       "hash_contenuto": "32046285c738d91a0a2a025998ada107c04f5deb"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-genova-1-istruttore-amministrativo",
+      "nome": "Comune di Genova, 1 Istruttore Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "chiuso",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Genova, 1 Istruttore Amministrativo Ente Comune di Genova Scadenza 30/10/2026 Scaduto Dettagli Località Genova Occupazione istruttore amministrativo Posti 1 COMUNE DI GENOVA_SELEZIONE PUBBLICA, PER ESAMI, PER LA FORMAZIONE DI UNA GRADUATORIA PER L’AS",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-10-30",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-genova-concorso-istruttore-amministrativo-genova-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-10-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-31",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "80941d2aec6fa94481286f2ef65890a21db2a051"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-gorizia-2-istruttore-amministrativo-contabile",
       "nome": "Comune di Gorizia, 2 istruttore amministrativo contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -7956,7 +7906,7 @@
       "data_pubblicazione": "2026-11-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8211,7 +8161,7 @@
       "data_pubblicazione": "2026-11-02",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8620,7 +8570,7 @@
       "data_pubblicazione": "2026-11-11",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9335,7 +9285,7 @@
       "data_pubblicazione": "2026-11-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9641,7 +9591,7 @@
       "data_pubblicazione": "2026-11-28",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9845,7 +9795,7 @@
       "data_pubblicazione": "2026-11-28",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9896,7 +9846,7 @@
       "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10049,161 +9999,11 @@
       "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "201580b1864b31623d51e8e406d41ecdce0d3167"
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO DI MUSICA V. BELLINI DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM010 CORNO — Dipartimento della Funzione Pubblica",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Caltanissetta, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-30",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-di-musica-v-bellini-di-caltanissetta-settore-artistico-disciplinare-afam010-corno-at-dipartimento-della-funzione-pubblica-4449248942",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-09-15",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "c8cbb921b1f40373324beb8bc84dd39cfce9e225"
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-30",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449269048",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-09-15",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "cea6f9c8eaab4556ddcee3a1e5dca48716cf3ebd"
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA V. BELLINI DI CALTANISSETTA AFAM007 “VIOLONCELLO” — Dipartimento della Funzione Pubblica",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Caltanissetta, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-10-30",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-presso-il-conservatorio-statale-di-musica-v-bellini-di-caltanissetta-afam007-%E2%80%9Cvioloncello%E2%80%9D-at-dipartimento-della-funzione-pubblica-4449248943",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-09-15",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "99ec130a80e23161178cbf605139717e131c6618"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-concorso-pubbl-per-titoli-ed-esami-per-il-reclutamento-n-170-mm-aa-potenziamento",
@@ -12330,7 +12130,7 @@
       "data_pubblicazione": "2026-11-26",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13198,7 +12998,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13288,7 +13088,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13333,7 +13133,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13378,7 +13178,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13698,7 +13498,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14013,7 +13813,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14103,7 +13903,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14508,7 +14308,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-27",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14553,7 +14353,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14733,7 +14533,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14913,7 +14713,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14958,7 +14758,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15228,7 +15028,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15273,7 +15073,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15498,7 +15298,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15633,7 +15433,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15858,7 +15658,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15993,7 +15793,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -18174,7 +17974,7 @@
       "data_pubblicazione": "2026-11-30",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -20750,7 +20550,7 @@
       "data_pubblicazione": "2026-11-26",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-30",
+      "rilevato_il": "2026-10-31",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -21266,5 +21066,14 @@
     }
   ],
   "changed": true,
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
