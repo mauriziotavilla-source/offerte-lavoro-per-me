@@ -1,130 +1,12 @@
 {
-  "generated_at": "2026-10-31T11:53:31.508Z",
+  "generated_at": "2026-10-31T16:59:46.029Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "14b6d5c28e49d632b36f51d5a27b19633cf7ec34",
   "counts": {
-    "nuovi": 9,
+    "nuovi": 0,
     "aggiornati": 42
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-019-strumenti-a-percussione",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 019 - STRUMENTI A PERCUSSIONE — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-019-strumenti-a-percussione-at-dipartimento-della-funzione-pubblica-4483905531",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "611a1326250dd9a6468bd975d21af2ed4098afa6",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-047-tecnologie-del-suono-e-",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 047 - TECNOLOGIE DEL SUONO E DELLA MULTIMEDIALITA' PROFILO ELETTROACUSTICA — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-047-tecnologie-del-suono-e-della-multimedialita-profilo-elettroacustica-at-dipartimento-della-funzione-pubblica-4483481324",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a3a71a1b36ed55efb6fbe55412c42a141c8266f3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-050-lettura-della-partitura",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 050 LETTURA DELLA PARTITURA — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-050-lettura-della-partitura-at-dipartimento-della-funzione-pubblica-4483902579",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b0021709b94896b9016a6667c10cc6a3f5214c75",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
-      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-front-office-manager-capofaro-resort-relais-chateaux",
-      "nome": "Front Office Manager — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-capofaro-resort-relais-chateaux-4476338132",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "2270aefe1ca9292da92c339ee3eb5a0c120ff924",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-front-office-manager-relais-chateaux",
-      "nome": "Front Office Manager — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -222,10 +104,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
       "notifica_topics": [
         "categorie_protette"
       ]
