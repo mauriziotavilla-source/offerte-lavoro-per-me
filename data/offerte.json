@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "503ab43c4ea4a3da4e988624c7391d5cf712ffe1",
-  "generated_at": "2026-11-01T12:52:50.027Z",
+  "generated_at": "2026-11-01T21:49:26.421Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -21271,6 +21271,10 @@
     },
     {
       "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
