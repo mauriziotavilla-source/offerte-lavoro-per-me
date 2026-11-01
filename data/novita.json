@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-11-01T05:03:16.547Z",
+  "generated_at": "2026-11-01T12:52:50.028Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "503ab43c4ea4a3da4e988624c7391d5cf712ffe1",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 44
+    "nuovi": 0,
+    "aggiornati": 43
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-casale-monferrato-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Casale Monferrato, 1 Istruttore Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casale-monferrato-concorso-istruttore-amministrativo-contabile-alessandria-2026-0",
-      "data_pubblicazione": "2026-10-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "52be8c1bd79a5a3500898770d79b67f0265a64ce",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Verona Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "63b46bb935bcafe70bafd72f45d1a25d68a25b1d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -439,19 +412,6 @@
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-consorzio-le-valli-1-istruttore-amministrativo",
-      "nome": "Consorzio Le Valli, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/consorzio-le-valli-concorso-istruttore-amministrativo-verona-2026",
-      "data_pubblicazione": "2026-10-31",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "48ca76c1a28d15f4b759b3f21845609183fbd626",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "linkedin-lavoro-messina-contabile-ls-medical",
       "nome": "Contabile — LS MEDICAL",
       "tipo": "lavoro",
@@ -611,6 +571,10 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     }
   ]
