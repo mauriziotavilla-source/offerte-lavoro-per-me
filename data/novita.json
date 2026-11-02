@@ -1,21 +1,47 @@
 {
-  "generated_at": "2026-11-02T05:03:58.584Z",
+  "generated_at": "2026-11-02T15:05:31.479Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c70ebb04ce08fc36d0ab9e9b1397f3b9b2606624",
+  "catalog_hash": "2ab0eda9055343d6c41676d14a75ae7ca3bdf3d5",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 44
+    "nuovi": 3,
+    "aggiornati": 42
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-vicenza-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Vicenza Occupazione istruttore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-leggiuno-1-istruttore-amministrativo",
+      "nome": "Comune di Leggiuno, 1 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/vicenza",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-leggiuno-concorso-istruttore-amministrativo-varese-2026",
+      "data_pubblicazione": "2026-12-01",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "44508ce606d2a0ee00e62284c2c8eb48b529d3c4",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-paitone-1-istruttore-amministrativo",
+      "nome": "Comune di Paitone, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paitone-concorso-istruttore-amministrativo-brescia-2026-0",
+      "data_pubblicazione": "2026-11-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ff89a30c388a5b22a4769106c0adeb5d80a2fa91",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9a850147637ca6208502a5cece5c751c915a2b77",
+      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -218,19 +244,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-avviso-pubblico-di-selezione-comparativa-per-la-nomina-di-n-3-componenti-di-cui-",
-      "nome": "AVVISO PUBBLICO DI SELEZIONE COMPARATIVA PER LA NOMINA DI N. 3 COMPONENTI, DI CUI UNO CON FUNZIONI DI PRESIDENTE O.I.V. DELL’ASP DI AGRIGENTO PER IL TRIENNIO 2026-2028 — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-selezione-comparativa-per-la-nomina-di-n-3-componenti-di-cui-uno-con-funzioni-di-presidente-o-i-v-dell%E2%80%99asp-di-agrigento-per-il-triennio-2026-2028-at-dipartimento-della-funzione-pubblica-4459955549",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "21de3242fb783774998256a4685d8a14e56bfd74",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
       "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA- AZIENDA ZERO- AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -395,19 +408,6 @@
       "data_pubblicazione": "2026-11-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "32a2b9b3092981e18b4af1eff9e004452759bc9a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-montorso-vicentino-1-istruttore-amministrativo",
-      "nome": "Comune di Montorso Vicentino, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montorso-vicentino-concorso-istruttore-amministrativo-vicenza-2026",
-      "data_pubblicazione": "2026-11-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a208e85c83a0e590fdb559d06c63bcdfc04b4def",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
