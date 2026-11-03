@@ -1,12 +1,91 @@
 {
-  "generated_at": "2026-11-03T00:43:30.609Z",
+  "generated_at": "2026-11-03T13:50:37.090Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1a7ccfc22f2233d7e400dab578ff13fa93f08402",
+  "catalog_hash": "bfa23e8b19da254ef7476afd928afde2226fa91d",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 42
+    "nuovi": 6,
+    "aggiornati": 44
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-consulente-contabile-e-fiscale-cea-caracciolo-errigo-associati",
+      "nome": "Consulente contabile e fiscale — CEA Caracciolo Errigo & Associati",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-contabile-e-fiscale-at-cea-caracciolo-errigo-associati-4484646296",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "018e38fd89fd2492eba63d3b084c033cb4be2572",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-direttore-finanza-e-amministrazione-cianciolo-group",
+      "nome": "Direttore finanza e amministrazione — CIANCIÒLO GROUP",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-finanza-e-amministrazione-at-cianci%C3%B2lo-group-4484653165",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8f27ea24cd601a9a0c5e022f7522382672e44351",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-executive-pastry-chef-braccialieri-luxury-resort",
+      "nome": "Executive Pastry Chef — Braccialieri Luxury Resort",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/executive-pastry-chef-at-braccialieri-luxury-resort-4484648867",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a7fea9873a879c43cabc82c7ba1d2e6717b7cc58",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-sarta-taglia-e-cuci-di-d-angelo-vittoria",
+      "nome": "Sarta — Taglia e Cuci di D’Angelo Vittoria",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sarta-4481039364",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "47408187fb536a7843b515ccb28495f191a89334",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -108,6 +187,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4486162559",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "84dd57bf949cf848978375ced291a1152c21e4c0",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -373,6 +465,19 @@
       ]
     },
     {
+      "id": "concorsipubblici-sicilia-comune-di-mascalucia-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Mascalucia, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mascalucia-concorso-istruttore-amministrativo-contabile-catania-2026",
+      "data_pubblicazione": "2026-11-02",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "9570443c3c89b591d5593513873dab37c9133ef3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-42-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 22 ottobre 2026. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -555,18 +660,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
