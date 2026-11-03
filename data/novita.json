@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-11-02T15:05:31.479Z",
+  "generated_at": "2026-11-03T00:43:30.609Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2ab0eda9055343d6c41676d14a75ae7ca3bdf3d5",
+  "catalog_hash": "1a7ccfc22f2233d7e400dab578ff13fa93f08402",
   "counts": {
-    "nuovi": 3,
+    "nuovi": 0,
     "aggiornati": 42
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-leggiuno-1-istruttore-amministrativo",
-      "nome": "Comune di Leggiuno, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-leggiuno-concorso-istruttore-amministrativo-varese-2026",
-      "data_pubblicazione": "2026-12-01",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "44508ce606d2a0ee00e62284c2c8eb48b529d3c4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-paitone-1-istruttore-amministrativo",
-      "nome": "Comune di Paitone, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paitone-concorso-istruttore-amministrativo-brescia-2026-0",
-      "data_pubblicazione": "2026-11-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ff89a30c388a5b22a4769106c0adeb5d80a2fa91",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Brescia Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6c867f84e67e7984a3ceadaefed3cf93250053c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
