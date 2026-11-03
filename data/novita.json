@@ -1,88 +1,205 @@
 {
-  "generated_at": "2026-11-03T13:50:37.090Z",
+  "generated_at": "2026-11-03T23:00:14.641Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bfa23e8b19da254ef7476afd928afde2226fa91d",
+  "catalog_hash": "c9176615ba9422774aa1d5537e4d3068577da491",
   "counts": {
-    "nuovi": 6,
-    "aggiornati": 44
+    "nuovi": 15,
+    "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "id": "gazzetta-via-concorsipubblici-comune-di-barisardo-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Barisardo, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-barisardo-concorso-istruttore-amministrativo-contabile-ogliastra-2026",
+      "data_pubblicazione": "2026-11-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9f2dd4136f0a30a70d319e18507c5d7bdc3d42ca",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
-      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "id": "gazzetta-via-concorsipubblici-comune-di-campolongo-maggiore-1-istruttore-con-profilo-amministrativo-contabile",
+      "nome": "Comune di Campolongo Maggiore, 1 Istruttore con profilo amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-campolongo-maggiore-concorso-istruttore-amministrativo-contabile-venezia-2026",
+      "data_pubblicazione": "2026-12-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c3305f19effdeb71630b27b85db505bada4e32f8",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-consulente-contabile-e-fiscale-cea-caracciolo-errigo-associati",
-      "nome": "Consulente contabile e fiscale — CEA Caracciolo Errigo & Associati",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-contabile-e-fiscale-at-cea-caracciolo-errigo-associati-4484646296",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "018e38fd89fd2492eba63d3b084c033cb4be2572",
+      "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-conza-concorso-per-un-istruttore-contabile-a-tempo-pien",
+      "nome": "Comune di Castelnuovo di Conza, concorso per un istruttore contabile a tempo pieno e indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-castelnuovo-di-conza-concorso-istruttore-contabile-salerno-2026",
+      "data_pubblicazione": "2026-12-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a156719ad5e205efd9658836bc98bc61f921c353",
       "notifica_topics": [
-        "offerte_lavoro"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-direttore-finanza-e-amministrazione-cianciolo-group",
-      "nome": "Direttore finanza e amministrazione — CIANCIÒLO GROUP",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/direttore-finanza-e-amministrazione-at-cianci%C3%B2lo-group-4484653165",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8f27ea24cd601a9a0c5e022f7522382672e44351",
+      "id": "gazzetta-via-concorsipubblici-comune-di-chies-d-alpago-1-istruttore-amministrativo",
+      "nome": "Comune di Chies d’Alpago, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-chies-dalpago-concorso-istruttore-amministrativo-belluno-2026",
+      "data_pubblicazione": "2026-12-02",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "495ec6862c49695deaa22fb4036d4055fe752284",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-executive-pastry-chef-braccialieri-luxury-resort",
-      "nome": "Executive Pastry Chef — Braccialieri Luxury Resort",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/executive-pastry-chef-at-braccialieri-luxury-resort-4484648867",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a7fea9873a879c43cabc82c7ba1d2e6717b7cc58",
+      "id": "gazzetta-via-concorsipubblici-comune-di-otricoli-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Otricoli, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-otricoli-concorso-istruttore-amministrativo-contabile-terni-2026",
+      "data_pubblicazione": "2026-11-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b340830966b5ac99bdfeec70e02074b9b15e6a1c",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-sarta-taglia-e-cuci-di-d-angelo-vittoria",
-      "nome": "Sarta — Taglia e Cuci di D’Angelo Vittoria",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sarta-4481039364",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "47408187fb536a7843b515ccb28495f191a89334",
+      "id": "gazzetta-via-concorsipubblici-comune-di-torri-del-benaco-2-istruttore-amministrativo",
+      "nome": "Comune di Torri del Benaco, 2 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-torri-del-benaco-concorso-istruttore-amministrativo-verona-2026",
+      "data_pubblicazione": "2026-12-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e557479f59dd2878e6ed7b230031963785effd2e",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comunita-riviera-friulana-1-istruttore-amministrativo",
+      "nome": "Comunità Riviera Friulana, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comunita-riviera-friulana-di-latisana-concorso-istruttore-amministrativo-udine-2026",
+      "data_pubblicazione": "2026-12-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d311689589b232f20371b91e35d295ebc9a14b88",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0a9bd3d73bbd8711d342c26a7a773fa4d56de074",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-ogliastra-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Ogliastra Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ogliastra",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8f5463993bae829b4c0568c983aa97f720712d50",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Salerno Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/salerno",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "193f11cee8a06915070c520a94de15db1676148c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-esperto-amministrativo-contabile-posti-1",
+      "nome": "Località Sondrio Occupazione esperto amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fa98f34ec781868dc2de42d5aae534e6dfff71ee",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-terni-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Terni Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/terni",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d79bfeb642e8e9368995350736ffc3d51a898c1f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-udine-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Udine Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/udine",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "83aa8b6c3574580dc1fbd7f03f793ea724fe0a5d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-verona-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Verona Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/verona",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "dae18dc7991e9c4792298b12b6099901d0cfc8f9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-sondrio-1-specialista-amministrativo-contabile",
+      "nome": "Provincia di Sondrio, 1 Specialista amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-sondrio-concorso-esperto-amministrativo-contabile-sondrio-2026",
+      "data_pubblicazione": "2026-11-03",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "bfd5609d4cad98ad8931c68a0cf9c3eb4ca52499",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -196,10 +313,10 @@
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4486162559",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4474180450",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "84dd57bf949cf848978375ced291a1152c21e4c0",
+      "hash_contenuto": "efe219ac6956e8227dbf11145f075f8c1c3f0ed2",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -465,19 +582,6 @@
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-mascalucia-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Mascalucia, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mascalucia-concorso-istruttore-amministrativo-contabile-catania-2026",
-      "data_pubblicazione": "2026-11-02",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "9570443c3c89b591d5593513873dab37c9133ef3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-concorso-pubblico-per-titoli-per-l-assunzione-di-42-atleti-nei-gruppi-sportivi-p",
       "nome": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti nei gruppi sportivi “Polizia di Stato–Fiamme Oro”, indetto in data 22 ottobre 2026. — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -660,5 +764,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
