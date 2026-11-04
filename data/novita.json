@@ -1,60 +1,47 @@
 {
-  "generated_at": "2026-11-04T05:27:20.299Z",
+  "generated_at": "2026-11-04T13:58:07.382Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "217b2076cbee0bbc44028b52dcfe025b1cbefa4b",
+  "catalog_hash": "04002c9d13c97987fc33ec5027de8e08e7823171",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 3,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-architectural-technician-charles-virone-concept",
-      "nome": "Architectural Technician — Charles Virone Concept",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/architectural-technician-at-charles-virone-concept-4486046919",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f9ed41f32e518fd06c3567b1034205e2adf75045",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-auxiliar-de-producao-municipio-de-ararica",
-      "nome": "AUXILIAR DE PRODUÇÃO — Município de Araricá",
+      "id": "linkedin-orfani-guerra-messina-responsabile-amministrativo-contabile-goel-gruppo-cooperativo",
+      "nome": "Responsabile amministrativo contabile — GOEL - Gruppo Cooperativo",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/auxiliar-de-produ%C3%A7%C3%A3o-at-munic%C3%ADpio-de-araric%C3%A1-4449643483",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-contabile-at-goel-gruppo-cooperativo-4487250338",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "0bcb344dff0f37a5ec8d25500d258cba42db72df",
+      "hash_contenuto": "65ee547ec187ac11a9399ac28def83fbe6962f66",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-contabile-studio-maw",
-      "nome": "Contabile studio — MAW",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-studio-at-maw-4484677744",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "efa45919280efc4da2abee9acb3aa3732b0d90c7",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-riordinatore-gustibus-alimentari",
-      "nome": "Riordinatore — Gustibus Alimentari",
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-di-negozio-adecco",
+      "nome": "Responsabile di negozio — Adecco",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/riordinatore-at-gustibus-alimentari-4486877711",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-di-negozio-at-adecco-4485072743",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2e8790f5b91619abc854fbdae8806e3a8b9e5e2c",
+      "hash_contenuto": "939686026d90e907edb1e13a3afdd27c197272c3",
       "notifica_topics": [
         "categorie_protette"
       ]
