@@ -1,34 +1,60 @@
 {
-  "generated_at": "2026-11-05T14:17:26.018Z",
+  "generated_at": "2026-11-05T23:25:41.677Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a7b96617e06c845fd82d51b33640bfad808e4255",
+  "catalog_hash": "83c584f460cae90d829c103e93496658ecb2c6f1",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 4,
     "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-braccialieri-luxury-resort",
-      "nome": "Chef de partie — Braccialieri Luxury Resort",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-at-braccialieri-luxury-resort-4485599652",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "77c7f6d60f21cf216e75d1be04e8c149752c5068",
+      "id": "gazzetta-via-concorsipubblici-asst-fatebenefratelli-sacco-2-collaboratore-amministrativo",
+      "nome": "Asst Fatebenefratelli Sacco, 2 collaboratore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-fatebenefratelli-sacco-di-milano-concorso-collaboratore-0",
+      "data_pubblicazione": "2026-12-04",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5dae7648e1186a56be2380a8c8da48b1d5924239",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-conservatorio-di-musica-antonio-scontrino-di-trapani-1-assistente-amministrativo",
-      "nome": "Conservatorio di Musica Antonio Scontrino di Trapani, 1 assistente amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-mantova-1-istruttore-direttivo-delle-attivita-amministrative-e-contabi",
+      "nome": "Comune di Mantova, 1 Istruttore Direttivo delle Attività Amministrative e Contabili",
       "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/conservatorio-di-musica-scontrino-di-trapani-concorso-assistente-amministrativo-trapani-2026-0",
-      "data_pubblicazione": "2026-11-29",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "5a9aa58b972462f1be6aeabd2929e16b79c3513c",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mantova-concorso-istruttore-direttivo-amministrativo-contabile-mantova-2026",
+      "data_pubblicazione": "2026-12-04",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "51308e64a4626c1fe1267b0405a0ef44634813d9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-mantova-occupazione-istruttore-direttivo-amministrativo-contabile-posti",
+      "nome": "Località Mantova Occupazione istruttore direttivo amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/mantova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "002764a3f197b85e8680f11fb8863ff1e1b353ab",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-2",
+      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c7de3cba90c744c07121f734c1fde9120508a961",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -598,6 +624,14 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
