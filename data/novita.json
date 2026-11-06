@@ -1,101 +1,49 @@
 {
-  "generated_at": "2026-11-06T13:56:14.338Z",
+  "generated_at": "2026-11-06T22:51:30.136Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c3a21bfce0a5083cb93b7a09f24e5894a06548d7",
+  "catalog_hash": "a14e2b7ffddd2245c2769ccd1b6b04842bb8d91f",
   "counts": {
-    "nuovi": 7,
+    "nuovi": 3,
     "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-monomandatario-industria-ragusa-golmar",
-      "nome": "Agente di Commercio Monomandatario | Industria - Ragusa — Golmar",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-industria-ragusa-at-golmar-4488134963",
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-azienda-agricola-patea",
+      "nome": "Assistente amministrativo — AZIENDA AGRICOLA PATEA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4486235856",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3a3cd77eba3d655a0109ab9abe5c57893cfda1ae",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "70f54081ae5b96e2d6e56c6408a68af78ea79233",
       "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-monomandatario-industria-trapani-golmar",
-      "nome": "Agente di Commercio Monomandatario | Industria - Trapani — Golmar",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-industria-trapani-at-golmar-4488157026",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d2c18eac5fd8ef1835c5cd94bd4a25f31fb5d5cf",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-assistente-amministrativo-assistente-sanitario-assistente-tecnico",
-      "nome": "assistente amministrativo assistente sanitario assistente tecnico",
+      "id": "gazzetta-via-concorsipubblici-comune-di-jesi-1-istruttore-direttivo-amministrativo-contabile",
+      "nome": "Comune di Jesi, 1 Istruttore Direttivo Amministrativo Contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/assistente-tecnico-690",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c75a80de0253530926acc2513d245d0a104a446c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-bando-ripam-ministero-della-difesa-1100-assistenti-modifica-e-riapertura-concors",
-      "nome": "Bando Ripam - Ministero della Difesa, 1100 assistenti (modifica e riapertura concorso)",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/ministero-della-difesa-concorso-assistente-amministrativo-assistente-sanitario-assistente-tecnico",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-jesi-concorso-istruttore-direttivo-amministrativo-contabile-ancona-2026",
       "data_pubblicazione": "2026-12-05",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "07ff29e0245e93c3254bf154dcb3a8d99d4428f1",
+      "hash_contenuto": "6a35345230013f07bd64f9b1cf1a1a4c2a81129b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cordenons-3-istruttore-amministrativo",
-      "nome": "Comune di Cordenons, 3 Istruttore Amministrativo",
+      "id": "gazzetta-via-concorsipubblici-localita-ancona-occupazione-istruttore-direttivo-amministrativo-contabile-posti-",
+      "nome": "Località Ancona Occupazione istruttore direttivo amministrativo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cordenons-concorso-istruttore-amministrativo-pordenone-2026",
-      "data_pubblicazione": "2026-12-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bde8662574f6be20d1fbe9edfe3820044b3fb0ef",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-pordenone-occupazione-istruttore-amministrativo-posti-3",
-      "nome": "Località Pordenone Occupazione istruttore amministrativo Posti 3",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pordenone",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ancona",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ec542f4fe1636de2b12d92a008afa0182601dfc4",
+      "hash_contenuto": "ffd0b7434c2f1f1171014d2d73cdae0310d2c998",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-specialista-commerciale-difass-international",
-      "nome": "Specialista commerciale — Difass International",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/specialista-commerciale-at-difass-international-4488131317",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "57bdf39a070343091ab5aa810f5277b491010ceb",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -699,5 +647,14 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
