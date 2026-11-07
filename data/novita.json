@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-11-07T12:40:10.561Z",
+  "generated_at": "2026-11-07T21:35:47.384Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "92d6395b9ba379e5ec7b3d2a72e204f3a435015d",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 45
+    "nuovi": 0,
+    "aggiornati": 44
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-sub-agente-allianz-italia",
-      "nome": "Sub-agente — Allianz Italia",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/sub-agente-at-allianz-italia-4486639422",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "779a2b8e045ddcd521a8d59712f1bf1c9ce2ebaf",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -241,19 +227,6 @@
       "hash_contenuto": "aa1dc25b2688060f08cfbba9b0f0bf96814dfd23",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-a-parrucchiere-a-francesca-conte-atelier",
-      "nome": "Assistente/a Parrucchiere/a — Francesca Conte Atelier",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-a-parrucchiere-a-at-francesca-conte-atelier-4486293078",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "beba230640420461a9f08c9871110d9274caed31",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -608,5 +581,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
