@@ -1,47 +1,86 @@
 {
-  "generated_at": "2026-11-06T22:51:30.136Z",
+  "generated_at": "2026-11-07T05:13:40.645Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a14e2b7ffddd2245c2769ccd1b6b04842bb8d91f",
+  "catalog_hash": "3ced9ba9b346cc5cd804caf8dd039f913a92f5a6",
   "counts": {
-    "nuovi": 3,
-    "aggiornati": 46
+    "nuovi": 6,
+    "aggiornati": 45
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-azienda-agricola-patea",
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-azienda-agricola-patea",
       "nome": "Assistente amministrativo — AZIENDA AGRICOLA PATEA",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4486235856",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "70f54081ae5b96e2d6e56c6408a68af78ea79233",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "cc53d85e26192f9025cb754221129570f40ab8f3",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-jesi-1-istruttore-direttivo-amministrativo-contabile",
-      "nome": "Comune di Jesi, 1 Istruttore Direttivo Amministrativo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-jesi-concorso-istruttore-direttivo-amministrativo-contabile-ancona-2026",
-      "data_pubblicazione": "2026-12-05",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6a35345230013f07bd64f9b1cf1a1a4c2a81129b",
+      "id": "linkedin-orfani-guerra-sicilia-assistente-a-parrucchiere-a-francesca-conte-atelier",
+      "nome": "Assistente/a Parrucchiere/a — Francesca Conte ATELIER",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-a-parrucchiere-a-at-francesca-conte-atelier-4486293078",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "25d95a692eef86f74c4025db69c714fcb3eef580",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-ancona-occupazione-istruttore-direttivo-amministrativo-contabile-posti-",
-      "nome": "Località Ancona Occupazione istruttore direttivo amministrativo contabile Posti 1",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-front-office-manager-relais-chateaux",
+      "nome": "Front Office Manager — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-intermediario-assicurativo-consulbrokers-spa",
+      "nome": "Intermediario assicurativo — Consulbrokers Spa",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/intermediario-assicurativo-4485859192",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fd35d838928cf0cb7459b3f69e97b89faad5405e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-istruttore-amministrativo-posti-47",
+      "nome": "Località Roma Occupazione istruttore amministrativo Posti 47",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/ancona",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ffd0b7434c2f1f1171014d2d73cdae0310d2c998",
+      "hash_contenuto": "13d08358f07c0f18d953e42e940f7f886f0ebb64",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -413,6 +452,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-camera-di-commercio-industria-artigianato-e-agricoltura-di-roma-47-istruttori-am",
+      "nome": "Camera di Commercio, Industria, Artigianato e Agricoltura di Roma, 47 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/camera-di-commercio-industria-artigianato-e-agricoltura-di-roma-concorso-istruttore-0",
+      "data_pubblicazione": "2026-11-06",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d921deca80bb404fa90ec08a8af0b9cb53b7c49f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-belmond",
       "nome": "Chef de Partie | season 2027 | Grand Hotel Timeo, a Belmond Hotel — Belmond",
       "tipo": "categoria_protetta",
@@ -619,42 +671,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-3",
-      "data_pubblicazione": "2026-11-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c1d7987b61c98745a9201d0f2f96bebe98361ae7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-2",
-      "data_pubblicazione": "2026-11-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1978566ffd6a480b3233a203b12e88ef4b294aa3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
