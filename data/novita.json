@@ -1,88 +1,23 @@
 {
-  "generated_at": "2026-11-07T05:13:40.645Z",
+  "generated_at": "2026-11-07T12:40:10.561Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3ced9ba9b346cc5cd804caf8dd039f913a92f5a6",
+  "catalog_hash": "92d6395b9ba379e5ec7b3d2a72e204f3a435015d",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 1,
     "aggiornati": 45
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-azienda-agricola-patea",
-      "nome": "Assistente amministrativo — AZIENDA AGRICOLA PATEA",
+      "id": "linkedin-orfani-guerra-messina-sub-agente-allianz-italia",
+      "nome": "Sub-agente — Allianz Italia",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4486235856",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sub-agente-at-allianz-italia-4486639422",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "cc53d85e26192f9025cb754221129570f40ab8f3",
+      "hash_contenuto": "779a2b8e045ddcd521a8d59712f1bf1c9ce2ebaf",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-assistente-a-parrucchiere-a-francesca-conte-atelier",
-      "nome": "Assistente/a Parrucchiere/a — Francesca Conte ATELIER",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-a-parrucchiere-a-at-francesca-conte-atelier-4486293078",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "25d95a692eef86f74c4025db69c714fcb3eef580",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-front-office-manager-relais-chateaux",
-      "nome": "Front Office Manager — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-intermediario-assicurativo-consulbrokers-spa",
-      "nome": "Intermediario assicurativo — Consulbrokers Spa",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/intermediario-assicurativo-4485859192",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "fd35d838928cf0cb7459b3f69e97b89faad5405e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-istruttore-amministrativo-posti-47",
-      "nome": "Località Roma Occupazione istruttore amministrativo Posti 47",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "13d08358f07c0f18d953e42e940f7f886f0ebb64",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     }
   ],
@@ -309,6 +244,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-assistente-a-parrucchiere-a-francesca-conte-atelier",
+      "nome": "Assistente/a Parrucchiere/a — Francesca Conte Atelier",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-a-parrucchiere-a-at-francesca-conte-atelier-4486293078",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "beba230640420461a9f08c9871110d9274caed31",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
       "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA- AZIENDA ZERO- AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -449,19 +397,6 @@
       "hash_contenuto": "c342e66fd2bcf1ec95eaa31b9afac686d20f42c8",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-camera-di-commercio-industria-artigianato-e-agricoltura-di-roma-47-istruttori-am",
-      "nome": "Camera di Commercio, Industria, Artigianato e Agricoltura di Roma, 47 istruttori amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/camera-di-commercio-industria-artigianato-e-agricoltura-di-roma-concorso-istruttore-0",
-      "data_pubblicazione": "2026-11-06",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d921deca80bb404fa90ec08a8af0b9cb53b7c49f",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     },
     {
