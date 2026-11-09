@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-11-08T21:50:11.657Z",
+  "generated_at": "2026-11-09T05:20:38.872Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "73d13d3f38458d3e011b7c7c4a03552a4ca48c93",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 45
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-site-manager-adecco",
-      "nome": "Site Manager — Adecco",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/site-manager-at-adecco-4483468321",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f736234150297f6da7987518a1bbcaf20605d20e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -560,10 +546,10 @@
       "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4488003754",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4471620699",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "0b1e43132ac8d71f6c423a98a7513e2b1db35876",
+      "hash_contenuto": "64824659e2bd188d4cf72672dc1dd4234e748ca0",
       "notifica_topics": [
         "categorie_protette"
       ]
