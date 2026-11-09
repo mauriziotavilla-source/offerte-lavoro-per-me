@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-11-09T05:20:38.872Z",
+  "generated_at": "2026-11-09T15:36:20.374Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "73d13d3f38458d3e011b7c7c4a03552a4ca48c93",
+  "catalog_hash": "2db48389d9eae33f94584451d1461c84767d517d",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 45
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-agenzia-territoriale-per-la-casa-del-piemonte-sud-1-istruttore-amministrativo",
+      "nome": "Agenzia Territoriale per la casa del Piemonte Sud, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-territoriale-la-casa-del-piemonte-sud-concorso-istruttore-amministrativo-alessandria-2026",
+      "data_pubblicazione": "2026-12-07",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3c7ca23b36eb5e7eaf9f93a0afacee842771b7de",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-giuliano-milanese-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di San Giuliano Milanese , 1 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-giuliano-milanese-concorso-istruttore-amministrativo-contabile-milano-2026",
+      "data_pubblicazione": "2026-12-06",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "69df53538c903d7e2c10fd8486a58a9fac99401a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -597,6 +624,14 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
