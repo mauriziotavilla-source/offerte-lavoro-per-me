@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-10T14:32:12.478Z",
+  "generated_at": "2026-11-10T22:58:07.705Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "05e38321bb0747af8384fcdb72fd7411a9424e78",
+  "catalog_hash": "eb92fa80803292370671208aa6bd5d5d1355a73a",
   "counts": {
     "nuovi": 2,
-    "aggiornati": 45
+    "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
+      "id": "gazzetta-via-concorsipubblici-comune-di-vezzano-ligure-1-istruttore-amministrativo",
+      "nome": "Comune di Vezzano Ligure , 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vezzano-ligure-concorso-istruttore-amministrativo-la-spezia-2026",
+      "data_pubblicazione": "2026-12-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ef50e5883059f6ec0adc0263de8a8dfdd6d7e409",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
-      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "id": "gazzetta-via-concorsipubblici-localita-la-spezia-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località La Spezia Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/la_spezia",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4c30404451b65c855898ddf45c301fd80c5a26b1",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -131,10 +131,10 @@
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -404,10 +404,10 @@
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4484594937",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4426197234",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "41888c4539c2bd4c9cbe406f0c52f773a90e4f92",
+      "hash_contenuto": "2402dadad77ede23db90603debc311fe4dedfdea",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -434,6 +434,19 @@
       "data_pubblicazione": "2026-11-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "32a2b9b3092981e18b4af1eff9e004452759bc9a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Vigonza, 1 Istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-istruttore-amministrativo-contabile-padova-2026",
+      "data_pubblicazione": "2026-12-09",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "cd4fc75a4564db809e2225613630d1cc0b74aaba",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -623,7 +636,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
