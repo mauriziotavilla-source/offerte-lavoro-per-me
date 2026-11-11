@@ -1,34 +1,112 @@
 {
-  "generated_at": "2026-11-10T22:58:07.705Z",
+  "generated_at": "2026-11-11T05:19:17.665Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "eb92fa80803292370671208aa6bd5d5d1355a73a",
+  "catalog_hash": "e3e30f2a4b40d8b30882d4763409cf4009fdd382",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 8,
     "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vezzano-ligure-1-istruttore-amministrativo",
-      "nome": "Comune di Vezzano Ligure , 1 Istruttore Amministrativo",
+      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4486162559",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "84dd57bf949cf848978375ced291a1152c21e4c0",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-poggio-nativo-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Poggio Nativo, 1 istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vezzano-ligure-concorso-istruttore-amministrativo-la-spezia-2026",
-      "data_pubblicazione": "2026-12-09",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-poggio-nativo-concorso-istruttore-amministrativo-contabile-rieti-2026",
+      "data_pubblicazione": "2026-11-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ef50e5883059f6ec0adc0263de8a8dfdd6d7e409",
+      "hash_contenuto": "eea0c66713588660d96b3c48ed75dc0869061c9b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-la-spezia-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località La Spezia Occupazione istruttore amministrativo Posti 1",
+      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-front-office-agent-capofaro-resort-relais-chateaux",
+      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-rieti-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Rieti Occupazione istruttore amministrativo contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/la_spezia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/rieti",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4c30404451b65c855898ddf45c301fd80c5a26b1",
+      "hash_contenuto": "998c55bbc02b322e507e49bcddb0f6cde82d1702",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -135,6 +213,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-segreteria-id-110236-afol-milano-agenzia-per-la-formazione-l-orientame",
+      "nome": "ADDETTO/A SEGRETERIA (ID-110236) — AFOL Milano -Agenzia per la formazione, l'orientamento e il lavoro",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-segreteria-id-110236-at-afol-milano-agenzia-per-la-formazione-l-orientamento-e-il-lavoro-4487930160",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "f458d3d0fa0c4cf185cfddf35b220467d5f4a036",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -267,19 +358,6 @@
       "hash_contenuto": "aa1dc25b2688060f08cfbba9b0f0bf96814dfd23",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA- AZIENDA ZERO- AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-pubblico-di-mobilita%E2%80%99-volontaria-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462264249",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "cbffe3cacb6ef4475c2c38c8a3d8bc9712facc71",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -443,10 +521,10 @@
       "nome": "Comune di Vigonza, 1 Istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-istruttore-amministrativo-contabile-padova-2026",
-      "data_pubblicazione": "2026-12-09",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-riservato-istruttore-amministrativo-contabile-padova-2026",
+      "data_pubblicazione": "2026-11-27",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cd4fc75a4564db809e2225613630d1cc0b74aaba",
+      "hash_contenuto": "201580b1864b31623d51e8e406d41ecdce0d3167",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -636,7 +714,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-lavoro-messina",
       "message": "HTTP 429"
     },
     {
