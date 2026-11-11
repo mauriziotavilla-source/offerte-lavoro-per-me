@@ -1,112 +1,112 @@
 {
-  "generated_at": "2026-11-11T05:19:17.665Z",
+  "generated_at": "2026-11-11T13:47:29.451Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e3e30f2a4b40d8b30882d4763409cf4009fdd382",
+  "catalog_hash": "6224083d04db3d209d752458c37bc3bbdfc5dd5c",
   "counts": {
     "nuovi": 8,
-    "aggiornati": 46
+    "aggiornati": 44
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4486162559",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "84dd57bf949cf848978375ced291a1152c21e4c0",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
-      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-poggio-nativo-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Poggio Nativo, 1 istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-2-a",
+      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 2 Assistente Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-poggio-nativo-concorso-istruttore-amministrativo-contabile-rieti-2026",
-      "data_pubblicazione": "2026-11-10",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-23",
+      "data_pubblicazione": "2026-12-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "eea0c66713588660d96b3c48ed75dc0869061c9b",
+      "hash_contenuto": "5bedef0e0c9f10fb3b42ee6333a12488503b8725",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
-      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
+      "nome": "Comune di Partinico, 1 revisore contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "f076ede2d3f122a464e165688069741814b4e72b",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-front-office-agent-capofaro-resort-relais-chateaux",
-      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
+      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
+      "nome": "Comune di Partinico, 1 revisore contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026-0",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "b36b65518bcf93f2d7d1351af5dfa3c9197406ab",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-rieti-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Rieti Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-sanremo-1-istruttore-amministrativo-e-contabile",
+      "nome": "Comune di Sanremo, 1 Istruttore amministrativo e contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/rieti",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sanremo-concorso-istruttore-amministrativo-contabile-imperia-2026-0",
+      "data_pubblicazione": "2026-12-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a8d1414b42521174146c4dc94c68b439087cc234",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-contabile-amministrativo-luxury-private-properties-sicily",
+      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4488218216",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "83f61f904689963e04702ec504b012885c8db153",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-imperia-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Imperia Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/imperia",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "998c55bbc02b322e507e49bcddb0f6cde82d1702",
+      "hash_contenuto": "1efaa1959d163fe7cd2d04e139f192d0fc1fb8a3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-assistente-amministrativo-posti-2",
+      "nome": "Località Milano Occupazione assistente amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "732d146393d2e018189f52274d8c1a2d541d18a6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-revisore-contabile-posti-1",
+      "nome": "Località Palermo Occupazione revisore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "8e7bb743091a29d669d7385373888450a4ddea10",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -222,10 +222,10 @@
       "nome": "ADDETTO/A SEGRETERIA (ID-110236) — AFOL Milano -Agenzia per la formazione, l'orientamento e il lavoro",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-segreteria-id-110236-at-afol-milano-agenzia-per-la-formazione-l-orientamento-e-il-lavoro-4487930160",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-segreteria-id-110236-at-afol-milano-agenzia-per-la-formazione-l-orientamento-e-il-lavoro-4468798888",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f458d3d0fa0c4cf185cfddf35b220467d5f4a036",
+      "hash_contenuto": "9c876397a236a6648ddb0c3111b2cb1ef12fbda4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -239,19 +239,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4474180450",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "efe219ac6956e8227dbf11145f075f8c1c3f0ed2",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -358,19 +345,6 @@
       "hash_contenuto": "aa1dc25b2688060f08cfbba9b0f0bf96814dfd23",
       "notifica_topics": [
         "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA-AZIENDA ZERO-CONCORSO PUBBLICO, PER TITOLI ED ESAMI, DI N. 41 POSTI DI ASSISTENTE AMMINISTRATIVO, DA DESTINARE ALLE AZIENDE DEL SSR — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-pubblico-per-titoli-ed-esami-di-n-41-posti-di-assistente-amministrativo-da-destinare-alle-aziende-del-ssr-at-dipartimento-della-funzione-pubblica-4462255270",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a1bc4f229ff679575de46d840864c7214a935f47",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     },
     {
@@ -713,10 +687,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
