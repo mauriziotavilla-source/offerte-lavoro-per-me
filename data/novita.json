@@ -1,151 +1,34 @@
 {
-  "generated_at": "2026-11-12T00:14:43.948Z",
+  "generated_at": "2026-11-12T14:50:31.260Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3a2a17837deeb3211ad5cb88b096d2e9bffd1631",
+  "catalog_hash": "39bf61e42f1b437b8b1428f7cedf937975fba4df",
   "counts": {
-    "nuovi": 11,
-    "aggiornati": 47
+    "nuovi": 2,
+    "aggiornati": 48
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-1-pediatra-rif-ped-26-ii-td-upmc-in-italia",
-      "nome": "1 Pediatra (Rif. PED/26 II TD) — UPMC in Italia",
+      "id": "linkedin-orfani-guerra-messina-1-responsabile-servizi-immobiliari-di-direzione-regionale-reggio-calabria-agenzi",
+      "nome": "1 Responsabile Servizi Immobiliari di Direzione Regionale _ Reggio Calabria — Agenzia del Demanio",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/1-pediatra-rif-ped-26-ii-td-at-upmc-in-italia-4489958422",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "7d99b58a69e841f83804473e12698713e3400689",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
-      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
-      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-luxury-private-properties-sicily",
-      "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4488218216",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/1-responsabile-servizi-immobiliari-di-direzione-regionale-reggio-calabria-at-agenzia-del-demanio-4490345539",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "783535d700800452862738f8b6f2f90e100a3f8c",
+      "hash_contenuto": "8767111b254f7eb71800c95feafba4e46be99e26",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
-      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "id": "linkedin-orfani-guerra-sicilia-operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-mcc",
+      "nome": "Operaio specializzato tecnico audio luci , allestimenti, bricolage. manutenzione — Mcc service",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-at-mcc-service-4489061788",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
-      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-5",
-      "nome": "Località Varese Occupazione istruttore amministrativo Posti 5",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ba67756cb98e6b64f215fd63a15b0b8eefd93ef4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-material-man-clarinet",
-      "nome": "Material Man — ClarineT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/material-man-at-clarinet-4488327042",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "647c767a05f138d76a08b963350fd4e3682c7fcb",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-varese-5-istruttore-amministrativo",
-      "nome": "Provincia di Varese, 5 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-varese-concorso-istruttore-amministrativo-varese-2026",
-      "data_pubblicazione": "2026-12-09",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bb91ef8696324c5d7221e83ab13db94e4ac4f513",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-stage-ricevimento-relais-chateaux",
-      "nome": "stage ricevimento — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-ricevimento-at-relais-ch%C3%A2teaux-4488226514",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "19d1c4c31967dafcdd5cbf8e8cbb0de956429aa6",
+      "hash_contenuto": "3dc368b121a38aa1efaa18acbdbd49a66d3d514d",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -287,10 +170,10 @@
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4486162559",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4474180450",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "84dd57bf949cf848978375ced291a1152c21e4c0",
+      "hash_contenuto": "efe219ac6956e8227dbf11145f075f8c1c3f0ed2",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -551,6 +434,19 @@
       "data_pubblicazione": "2026-11-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "32a2b9b3092981e18b4af1eff9e004452759bc9a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-comune-di-niscemi-1-istruttore-direttivo-contabile",
+      "nome": "Comune di Niscemi, 1 istruttore direttivo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-niscemi-concorso-istruttore-direttivo-contabile-caltanissetta-2026",
+      "data_pubblicazione": "2026-11-11",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "67b65e10e14310b8b77b193c54a3f34519d18377",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
