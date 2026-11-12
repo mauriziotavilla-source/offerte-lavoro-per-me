@@ -1,114 +1,153 @@
 {
-  "generated_at": "2026-11-11T13:47:29.451Z",
+  "generated_at": "2026-11-12T00:14:43.948Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "6224083d04db3d209d752458c37bc3bbdfc5dd5c",
+  "catalog_hash": "3a2a17837deeb3211ad5cb88b096d2e9bffd1631",
   "counts": {
-    "nuovi": 8,
-    "aggiornati": 44
+    "nuovi": 11,
+    "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-2-a",
-      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 2 Assistente Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-23",
-      "data_pubblicazione": "2026-12-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5bedef0e0c9f10fb3b42ee6333a12488503b8725",
+      "id": "linkedin-orfani-guerra-sicilia-1-pediatra-rif-ped-26-ii-td-upmc-in-italia",
+      "nome": "1 Pediatra (Rif. PED/26 II TD) — UPMC in Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/1-pediatra-rif-ped-26-ii-td-at-upmc-in-italia-4489958422",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "7d99b58a69e841f83804473e12698713e3400689",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
-      "nome": "Comune di Partinico, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "f076ede2d3f122a464e165688069741814b4e72b",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
-      "nome": "Comune di Partinico, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026-0",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "b36b65518bcf93f2d7d1351af5dfa3c9197406ab",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sanremo-1-istruttore-amministrativo-e-contabile",
-      "nome": "Comune di Sanremo, 1 Istruttore amministrativo e contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sanremo-concorso-istruttore-amministrativo-contabile-imperia-2026-0",
-      "data_pubblicazione": "2026-12-10",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a8d1414b42521174146c4dc94c68b439087cc234",
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-contabile-amministrativo-luxury-private-properties-sicily",
+      "id": "linkedin-orfani-guerra-messina-contabile-amministrativo-luxury-private-properties-sicily",
       "nome": "Contabile amministrativo — Luxury Private Properties Sicily",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-amministrativo-at-luxury-private-properties-sicily-4488218216",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "83f61f904689963e04702ec504b012885c8db153",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "783535d700800452862738f8b6f2f90e100a3f8c",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-imperia-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Imperia Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
+      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-varese-occupazione-istruttore-amministrativo-posti-5",
+      "nome": "Località Varese Occupazione istruttore amministrativo Posti 5",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/imperia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/varese",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1efaa1959d163fe7cd2d04e139f192d0fc1fb8a3",
+      "hash_contenuto": "ba67756cb98e6b64f215fd63a15b0b8eefd93ef4",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-assistente-amministrativo-posti-2",
-      "nome": "Località Milano Occupazione assistente amministrativo Posti 2",
+      "id": "linkedin-orfani-guerra-sicilia-material-man-clarinet",
+      "nome": "Material Man — ClarineT",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/material-man-at-clarinet-4488327042",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "647c767a05f138d76a08b963350fd4e3682c7fcb",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-varese-5-istruttore-amministrativo",
+      "nome": "Provincia di Varese, 5 Istruttore Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-varese-concorso-istruttore-amministrativo-varese-2026",
+      "data_pubblicazione": "2026-12-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "732d146393d2e018189f52274d8c1a2d541d18a6",
+      "hash_contenuto": "bb91ef8696324c5d7221e83ab13db94e4ac4f513",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-revisore-contabile-posti-1",
-      "nome": "Località Palermo Occupazione revisore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "id": "linkedin-orfani-guerra-sicilia-stage-ricevimento-relais-chateaux",
+      "nome": "stage ricevimento — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-ricevimento-at-relais-ch%C3%A2teaux-4488226514",
       "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "8e7bb743091a29d669d7385373888450a4ddea10",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "19d1c4c31967dafcdd5cbf8e8cbb0de956429aa6",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -239,6 +278,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
+      "nome": "Agente di commercio - Messina — RECA Italia Srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4486162559",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "84dd57bf949cf848978375ced291a1152c21e4c0",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -387,6 +439,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
@@ -486,6 +551,19 @@
       "data_pubblicazione": "2026-11-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "32a2b9b3092981e18b4af1eff9e004452759bc9a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
+      "nome": "Comune di Partinico, 1 revisore contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "f076ede2d3f122a464e165688069741814b4e72b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -688,7 +766,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-sicilia",
+      "source": "linkedin-lavoro-messina",
       "message": "HTTP 429"
     }
   ]
