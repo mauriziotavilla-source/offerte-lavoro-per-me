@@ -1,36 +1,23 @@
 {
-  "generated_at": "2026-11-12T14:50:31.260Z",
+  "generated_at": "2026-11-12T23:20:00.268Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "39bf61e42f1b437b8b1428f7cedf937975fba4df",
+  "catalog_hash": "f9e1a3566ff897620bcfb6db9b1ad57d4ebaec23",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 48
+    "nuovi": 1,
+    "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-1-responsabile-servizi-immobiliari-di-direzione-regionale-reggio-calabria-agenzi",
-      "nome": "1 Responsabile Servizi Immobiliari di Direzione Regionale _ Reggio Calabria — Agenzia del Demanio",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/1-responsabile-servizi-immobiliari-di-direzione-regionale-reggio-calabria-at-agenzia-del-demanio-4490345539",
+      "id": "linkedin-lavoro-messina-assistente-amministrativo-azienda-agricola-patea",
+      "nome": "Assistente amministrativo — AZIENDA AGRICOLA PATEA",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4487483092",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8767111b254f7eb71800c95feafba4e46be99e26",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "5bf97b056bbbb0cf5503fd010c68a62e3b408592",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-mcc",
-      "nome": "Operaio specializzato tecnico audio luci , allestimenti, bricolage. manutenzione — Mcc service",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-at-mcc-service-4489061788",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3dc368b121a38aa1efaa18acbdbd49a66d3d514d",
-      "notifica_topics": [
-        "categorie_protette"
+        "offerte_lavoro"
       ]
     }
   ],
@@ -439,19 +426,6 @@
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-niscemi-1-istruttore-direttivo-contabile",
-      "nome": "Comune di Niscemi, 1 istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-niscemi-concorso-istruttore-direttivo-contabile-caltanissetta-2026",
-      "data_pubblicazione": "2026-11-11",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "67b65e10e14310b8b77b193c54a3f34519d18377",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
       "nome": "Comune di Partinico, 1 revisore contabile",
       "tipo": "concorso",
@@ -662,7 +636,11 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
