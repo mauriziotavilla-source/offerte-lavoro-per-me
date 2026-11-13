@@ -1,10 +1,10 @@
 {
-  "ultimo_aggiornamento": "2026-11-12",
-  "versione": 497,
+  "ultimo_aggiornamento": "2026-11-13",
+  "versione": 498,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "f9e1a3566ff897620bcfb6db9b1ad57d4ebaec23",
-  "generated_at": "2026-11-12T23:20:00.268Z",
+  "catalog_hash": "1bf275f1981f08aaaeac6656bfa9c9a528042311",
+  "generated_at": "2026-11-13T05:44:02.103Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -306,56 +306,6 @@
         "categorie_protette"
       ],
       "hash_contenuto": "fbbc9636b9e226a2f111bfc84d3872e8ad3b5597"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
-      "nome": "Accademia di Belle Arti di Reggio Calabria - BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO E DEFINITO DI DOCENTI DI PRIMA FASCIA - AFAM095 TEORIE E TECNICHE COMPUTAZIONALI — Dipartimento della Funzione Pubblica",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: San Lorenzo, Calabria, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-11-12",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-indeterminato-e-definito-di-docenti-di-prima-fascia-afam095-teorie-e-tecniche-computazionali-at-dipartimento-della-funzione-pubblica-4462202209",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-28",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "9b0d17d67c7c1520c032336984eff4d88016680a"
     },
     {
       "id": "linkedin-orfani-guerra-messina-accademia-di-belle-arti-di-reggio-calabria-bando-per-il-reclutamento-a-tempo-ind",
@@ -726,7 +676,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -751,7 +701,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -776,7 +726,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -801,7 +751,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1164,7 +1114,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1189,7 +1139,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -1448,57 +1398,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-11-12",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4465086598",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-28",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Sicilia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Bronte, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1523,61 +1423,11 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d"
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-messina-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Messina — GENS AUREA S.p.A.",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "tipo": "categoria_protetta",
-      "aree": [
-        "amministrazione",
-        "contabilita"
-      ],
-      "stato": "aperto",
-      "sede": "Messina",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [
-        {
-          "fase": "Fine validità stimata",
-          "data": "2026-11-12",
-          "note": "Calcolata dal titolo/testo del bando"
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Orfani di guerra equiparati — art. 18 L.68/99"
-      ],
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-messina-at-gens-aurea-s-p-a-4470979945",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "sicilia"
-      ],
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-09-28",
-      "notifica_topics": [
-        "categorie_protette"
-      ],
-      "hash_contenuto": "f1fa816b8bb18a51fb8e3c02f2bd79ab25558d7b"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-messina-gens-aurea-s-p-a",
@@ -1798,7 +1648,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1823,7 +1673,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -2898,7 +2748,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -2923,7 +2773,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -3176,7 +3026,7 @@
       "data_pubblicazione": "2026-12-07",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3767,7 +3617,7 @@
       "data_pubblicazione": "2026-12-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -3974,13 +3824,13 @@
       "hash_contenuto": "cc53d85e26192f9025cb754221129570f40ab8f3"
     },
     {
-      "id": "linkedin-lavoro-messina-assistente-amministrativo-azienda-agricola-patea",
+      "id": "linkedin-orfani-guerra-messina-assistente-amministrativo-azienda-agricola-patea",
       "nome": "Assistente amministrativo — AZIENDA AGRICOLA PATEA",
-      "ente": "LinkedIn",
-      "tipo": "lavoro",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
       "aree": [
-        "contabilita",
-        "amministrazione"
+        "amministrazione",
+        "contabilita"
       ],
       "stato": "aperto",
       "sede": "Messina",
@@ -3989,7 +3839,13 @@
       "retribuzione": "",
       "descrizione_breve": "Sede: Brancaleone Superiore, Calabria, Italy",
       "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
-      "scadenze": [],
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-12-28",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
       "requisiti": [
         "Verificare requisiti sull'annuncio ufficiale"
       ],
@@ -3997,24 +3853,25 @@
         "Curriculum aggiornato"
       ],
       "profili": [
-        "Contabile / Amministrativo"
+        "Orfani di guerra equiparati — art. 18 L.68/99"
       ],
       "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4487483092",
       "checklist": [
-        "Aprire l'annuncio e leggere i requisiti",
-        "Aggiornare il CV per questa posizione",
-        "Inviare la candidatura"
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
       ],
       "regioni_ammesse": [
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ],
-      "hash_contenuto": "5bf97b056bbbb0cf5503fd010c68a62e3b408592"
+      "hash_contenuto": "a31f6996eaa444c9623bfefc18bdd3660bf2afb8"
     },
     {
       "id": "linkedin-lavoro-messina-assistente-amministrativo-domus-bet",
@@ -4645,7 +4502,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4670,11 +4527,61 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "0bcb344dff0f37a5ec8d25500d258cba42db72df"
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-incarico",
+      "nome": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA-AZIENDA ZERO-INCARICO QUINQUENNALE DIRETTORE STRUTTURA COMPLESSA CENTRO SALUTE MENTALE (CSM) - BASSO TIRRENO PRESSO ASP DI REGGIO CALABRIA — Dipartimento della Funzione Pubblica",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: San Lorenzo, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-12-28",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanit%C3%A0-della-regione-calabria-azienda-zero-incarico-quinquennale-direttore-struttura-complessa-centro-salute-mentale-csm-basso-tirreno-presso-asp-di-reggio-calabria-at-dipartimento-della-funzione-pubblica-4488906079",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "c249bd64d2b33abec41478103d4356161660f1d3"
     },
     {
       "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-avviso-p",
@@ -5140,7 +5047,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5165,7 +5072,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5240,7 +5147,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5265,7 +5172,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5290,7 +5197,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5315,7 +5222,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5340,7 +5247,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5365,14 +5272,14 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "a3a71a1b36ed55efb6fbe55412c42a141c8266f3"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
       "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -5386,11 +5293,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5414,8 +5321,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5490,7 +5397,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5515,7 +5422,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5540,7 +5447,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5565,7 +5472,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5691,7 +5598,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-18",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5716,7 +5623,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-03",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5941,7 +5848,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5966,7 +5873,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6273,6 +6180,56 @@
       "hash_contenuto": "f13e9caf6c67c50f9bb151bc888d026191970884"
     },
     {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-ristorante",
+      "nome": "Chef de partie — Ristorante",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "tipo": "categoria_protetta",
+      "aree": [
+        "amministrazione",
+        "contabilita"
+      ],
+      "stato": "aperto",
+      "sede": "Messina",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Scilla, Calabria, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [
+        {
+          "fase": "Fine validità stimata",
+          "data": "2026-12-28",
+          "note": "Calcolata dal titolo/testo del bando"
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Orfani di guerra equiparati — art. 18 L.68/99"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-at-ristorante-4488574585",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
+      "notifica_topics": [
+        "categorie_protette"
+      ],
+      "hash_contenuto": "6c92b4409ab091411f4b975bf652c2b7a770617e"
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-chef-de-partie-season-2027-grand-hotel-timeo-a-belmond-hotel-belmond",
       "nome": "Chef de Partie | season 2027 | Grand Hotel Timeo, a Belmond Hotel — Belmond",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -6341,7 +6298,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-22",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6366,7 +6323,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-07",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6423,7 +6380,7 @@
       "hash_contenuto": "abead1c1f7aab75d5e7061ab88970e79fa5b1675"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
       "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6437,11 +6394,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6465,15 +6422,15 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
       "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6487,11 +6444,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6515,8 +6472,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6591,7 +6548,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6616,14 +6573,14 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
+      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
       "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6637,11 +6594,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6665,8 +6622,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -6936,7 +6893,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7270,7 +7227,7 @@
       "data_pubblicazione": "2026-11-17",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -7736,57 +7693,6 @@
       "hash_contenuto": "c3305f19effdeb71630b27b85db505bada4e32f8"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-caorle-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Caorle, 1 Istruttore amministrativo-contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Caorle, 1 Istruttore amministrativo-contabile Ente Comune di Caorle Scadenza 12/11/2026 Dettagli Località Venezia Occupazione istruttore amministrativo contabile Posti 1 Comune di Caorle concorso pubblico per soli esami per l’assunzione a tempo pieno",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-caorle-concorso-istruttore-amministrativo-contabile-venezia-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "01e895bd72e3a85a91b81175a71faf32ef283e15"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-conza-concorso-per-un-istruttore-contabile-a-tempo-pien",
       "nome": "Comune di Castelnuovo di Conza, concorso per un istruttore contabile a tempo pieno e indeterminato",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -8093,57 +7999,6 @@
       "hash_contenuto": "bde8662574f6be20d1fbe9edfe3820044b3fb0ef"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-gorizia-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Gorizia, 2 istruttore amministrativo contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Gorizia, 2 istruttore amministrativo contabile Ente Comune di Gorizia Scadenza 12/11/2026 Dettagli Località Gorizia Occupazione istruttore amministrativo contabile Posti 2 Concorso pubblico, per esami, per la copertura di due posti di istruttore ammi",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-gorizia-concorso-istruttore-amministrativo-contabile-gorizia-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "3cd556839e364844fcb1b8526e9dce9c03f30024"
-    },
-    {
       "id": "gazzetta-via-concorsipubblici-comune-di-inverigo-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Inverigo, 1 Istruttore Amministrativo Contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -8295,57 +8150,6 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "07fc57fdb026ad38df79159d5573a942f22a4f08"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-lanciano-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Lanciano, 1 istruttore amministrativo contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Lanciano, 1 istruttore amministrativo contabile Ente Comune di Lanciano Scadenza 12/11/2026 Dettagli Località Chieti Occupazione istruttore amministrativo contabile Posti 1 Comune di Lanciano (ch) – concorso pubblico, per esami, volto alla copertura,",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-lanciano-concorso-istruttore-amministrativo-contabile-chieti-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "67455120ad597545d3139abef8f76ba9807a446d"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-leggiuno-1-istruttore-amministrativo",
@@ -8553,108 +8357,6 @@
       "hash_contenuto": "40eb04b7b151a469833292a2a7983042941b2341"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-mogliano-veneto-2-istruttore-amministrativo-contabile",
-      "nome": "Comune di Mogliano Veneto, 2 Istruttore Amministrativo-contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Mogliano Veneto, 2 Istruttore Amministrativo-contabile Ente Comune di Mogliano Veneto Scadenza 12/11/2026 Dettagli Località Treviso Occupazione istruttore amministrativo contabile Posti 1 Comune di Mogliano Veneto È indetta una selezione pubblica per",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mogliano-veneto-concorso-istruttore-amministrativo-contabile-treviso-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "bc4fa4b95b90d03f8aa19e71efd182036ab9a516"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-monfalcone-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Monfalcone, 1 istruttore amministrativo-contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Comune di Monfalcone, 1 istruttore amministrativo-contabile Ente Comune di Monfalcone Scadenza 12/11/2026 Dettagli Località Gorizia Occupazione istruttore amministrativo contabile Posti 1 Concorso pubblico, per esami, per la copertura di un posto di istruttore",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-monfalcone-concorso-istruttore-amministrativo-contabile-gorizia-2026-0",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "05416a9b14dd5ce99f8656624f6eafacc097be07"
-    },
-    {
       "id": "concorsipubblici-sicilia-comune-di-niscemi-1-istruttore-direttivo-contabile",
       "nome": "Comune di Niscemi, 1 istruttore direttivo contabile",
       "ente": "ConcorsiPubblici.com - Sicilia",
@@ -8699,7 +8401,7 @@
       "data_pubblicazione": "2026-11-11",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8803,7 +8505,7 @@
       "data_pubblicazione": "2026-11-20",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -8856,7 +8558,7 @@
       "data_pubblicazione": "2026-11-20",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9418,7 +9120,7 @@
       "data_pubblicazione": "2026-12-10",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -9928,7 +9630,7 @@
       "data_pubblicazione": "2026-12-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10081,7 +9783,7 @@
       "data_pubblicazione": "2026-12-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -10208,7 +9910,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10233,7 +9935,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -10535,7 +10237,7 @@
       "data_pubblicazione": "2026-11-29",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -11829,7 +11531,7 @@
       "hash_contenuto": "efa45919280efc4da2abee9acb3aa3732b0d90c7"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
       "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -11843,11 +11545,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -11871,8 +11573,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -12135,7 +11837,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -12160,7 +11862,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -12304,6 +12006,49 @@
         "offerte_lavoro"
       ],
       "hash_contenuto": "9f0a7fd2f1306bb804d11ae6216a28d14d6a14b6"
+    },
+    {
+      "id": "linkedin-lavoro-messina-etna-wellness-ricerca-un-a-impiegato-a-amministrativo-a-con-esperienza-etna-well",
+      "nome": "Etna Wellness ricerca un/a Impiegato/a Amministrativo/a con esperienza — Etna Wellness",
+      "ente": "LinkedIn",
+      "tipo": "lavoro",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Sicilia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Sede: Aci Sant’Antonio, Sicily, Italy",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Contabile / Amministrativo"
+      ],
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/etna-wellness-ricerca-un-a-impiegato-a-amministrativo-a-con-esperienza-at-etna-wellness-4487806594",
+      "checklist": [
+        "Aprire l'annuncio e leggere i requisiti",
+        "Aggiornare il CV per questa posizione",
+        "Inviare la candidatura"
+      ],
+      "regioni_ammesse": [
+        "sicilia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "rilevato_il": "2026-11-13",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ],
+      "hash_contenuto": "91995d371fca841eae21f89bb9d0cd04576faf9a"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-event-business-development-caporem-srl",
@@ -12502,66 +12247,14 @@
       "data_pubblicazione": "2026-11-26",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
       "hash_contenuto": "a6df1170919dcb363a74265c01684ae1295a5784"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-fondazione-per-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pis",
-      "nome": "Fondazione per la Ricerca Medica e di Sanità Pubblica «Gabriele Monasterio» di Pisa, 6 posti per assistente amministrativo e assistente informatico",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione",
-        "consulenza-informatica"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Fondazione per la Ricerca Medica e di Sanità Pubblica «Gabriele Monasterio» di Pisa, 6 posti per assistente amministrativo e assistente informatico Ente Fondazione per la Ricerca Medica e di Sanità Pubblica «Gabriele Monasterio» di Pisa Scadenza 12/11/2026 Det",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pisa-concorso-riservato",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-17",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "35079b86df3230ac6981777adeb3123ec6218b38"
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-front-office-agent-capofaro-resort-relais-chateaux",
       "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -12575,11 +12268,11 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -12603,8 +12296,8 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "rilevato_il": "2026-11-12",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -12729,7 +12422,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -12754,7 +12447,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -13420,7 +13113,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13600,7 +13293,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14280,7 +13973,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14910,7 +14603,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -14955,7 +14648,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15135,7 +14828,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15225,7 +14918,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15270,7 +14963,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15585,7 +15278,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -15631,7 +15324,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16622,7 +16315,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -16847,7 +16540,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -17498,7 +17191,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17523,7 +17216,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17598,7 +17291,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17623,7 +17316,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -17919,7 +17612,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "concorsipubblici-sicilia",
       "url_origine": "https://www.concorsipubblici.com/concorsi/regione/loc/sicilia",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -18421,7 +18114,7 @@
       "data_pubblicazione": "2026-12-09",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -19137,7 +18830,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19162,7 +18855,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -19337,7 +19030,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -19362,7 +19055,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20273,7 +19966,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20298,7 +19991,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20823,7 +20516,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-27",
+          "data": "2026-12-28",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20848,7 +20541,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-12",
+      "rilevato_il": "2026-11-13",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20998,57 +20691,6 @@
       "hash_contenuto": "0726d4bcd0ab95200ed1802e0cec45134231b908"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-ufficio-d-ambito-della-citta-metropolitana-di-milano-azienda-speciale-1-istrutto",
-      "nome": "Ufficio d’Ambito della Citta’ Metropolitana di Milano – Azienda Speciale, 1 Istruttore Amministrativo Tecnico-Ambientale",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Ufficio d’Ambito della Citta’ Metropolitana di Milano – Azienda Speciale, 1 Istruttore Amministrativo Tecnico-Ambientale Ente Ambito Territoriale Ottimale della Città Metropolitana di Milano Scadenza 12/11/2026 Dettagli Località Milano Occupazione istruttore a",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/ambito-territoriale-ottimale-della-citta-metropolitana-di-milano-concorso-istruttore-5",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "59d833ad600f09932a9ade6f2b699ffabdfe82ea"
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-ufficio-tecnico-aircon",
       "nome": "Ufficio tecnico — AIRCON",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -21148,57 +20790,6 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "dc6c81af9d991ab523f8126df5ea3c2533b8946a"
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-comuni-del-sorbara-1-istruttore-amministrativo",
-      "nome": "Unione Comuni Del Sorbara , 1 Istruttore Amministrativo",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Unione Comuni Del Sorbara , 1 Istruttore Amministrativo Ente Unione Comuni del Sorbara Scadenza 12/11/2026 Dettagli Località Modena Occupazione istruttore amministrativo Posti 1 Unione Comuni Del Sorbara CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA A TEMP",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-del-sorbara-concorso-istruttore-amministrativo-modena-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "d48cdda1bd6ddbf71f03fccb34a3527e31833a9a"
     },
     {
       "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-del-distretto-ceramico-1-istruttore-contabile",
@@ -21507,58 +21098,6 @@
       "hash_contenuto": "530d809cc76216e8abd8fca0c76f0a993506a90b"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-universita-del-salento-1-esperto-amministrativo-contabile",
-      "nome": "Università del Salento, 1 esperto amministrativo contabile",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "tipo": "concorso",
-      "aree": [
-        "contabilita",
-        "amministrazione",
-        "fiscale"
-      ],
-      "stato": "aperto",
-      "sede": "Italia",
-      "modalita": "",
-      "contratto": "",
-      "retribuzione": "",
-      "descrizione_breve": "Università del Salento, 1 esperto amministrativo contabile Ente Università del Salento Scadenza 12/11/2026 Dettagli Località Lecce Occupazione esperto amministrativo contabile Posti 1 Università del Salento: Procedura comparativa, per titoli e colloquio, per i",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
-      "scadenze": [
-        {
-          "fase": "Invio candidatura",
-          "data": "2026-11-12",
-          "note": ""
-        }
-      ],
-      "requisiti": [
-        "Verificare requisiti sull'annuncio ufficiale"
-      ],
-      "documenti": [
-        "Curriculum aggiornato"
-      ],
-      "profili": [
-        "Profilo contabile/amministrativo"
-      ],
-      "link_ufficiale": "https://www.concorsipubblici.com/universita-del-salento-concorso-esperto-amministrativo-contabile-lecce-2026",
-      "checklist": [
-        "Aprire il bando ufficiale e leggere requisiti e riserve",
-        "Verificare titolo di studio e requisiti generali",
-        "Preparare SPID e documentazione",
-        "Presentare domanda (inPA) entro la scadenza"
-      ],
-      "regioni_ammesse": [
-        "tutta_italia"
-      ],
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-19",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ],
-      "hash_contenuto": "264b7bed89ee5c446c6c876f89d8b30444921eef"
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-venditore-azienda",
       "nome": "Venditore — azienda",
       "ente": "LinkedIn — Orfani di guerra equiparati",
@@ -21661,10 +21200,6 @@
   ],
   "changed": true,
   "source_errors": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
