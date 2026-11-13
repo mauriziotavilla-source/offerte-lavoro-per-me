@@ -1,127 +1,231 @@
 {
-  "generated_at": "2026-11-13T05:44:02.104Z",
+  "generated_at": "2026-11-13T14:11:51.484Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1bf275f1981f08aaaeac6656bfa9c9a528042311",
+  "catalog_hash": "bf294ff507ce9c530c5aec74dfd9b4087ffb332a",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 45
+    "nuovi": 17,
+    "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-azienda-per-il-governo-della-sanita-della-regione-calabria-azienda-zero-incarico",
-      "nome": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA-AZIENDA ZERO-INCARICO QUINQUENNALE DIRETTORE STRUTTURA COMPLESSA CENTRO SALUTE MENTALE (CSM) - BASSO TIRRENO PRESSO ASP DI REGGIO CALABRIA — Dipartimento della Funzione Pubblica",
+      "id": "linkedin-orfani-guerra-messina-agente-monomandatario-div-industria-reggio-calabria-golmar",
+      "nome": "Agente Monomandatario | Div. Industria | Reggio Calabria — Golmar",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/azienda-per-il-governo-della-sanit%C3%A0-della-regione-calabria-azienda-zero-incarico-quinquennale-direttore-struttura-complessa-centro-salute-mentale-csm-basso-tirreno-presso-asp-di-reggio-calabria-at-dipartimento-della-funzione-pubblica-4488906079",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-monomandatario-div-industria-reggio-calabria-at-golmar-4490712275",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "c249bd64d2b33abec41478103d4356161660f1d3",
+      "hash_contenuto": "5b3ea588ba56d6e3d583e9d8b3791c621124031b",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
+      "id": "gazzetta-via-concorsipubblici-agenzia-nazionale-per-i-servizi-sanitari-regionali-agenas-2-posti-di-collaborato",
+      "nome": "Agenzia Nazionale per i Servizi Sanitari Regionali – AGENAS, 2 posti di Collaboratore Amministrativo Professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-nazionale-i-servizi-sanitari-regionali-concorso-collaboratore-amministrativo-4",
+      "data_pubblicazione": "2026-12-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "25d4dfb45e8a1437760e66bf4433a1550d81c452",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-ristorante",
-      "nome": "Chef de partie — Ristorante",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-at-ristorante-4488574585",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "6c92b4409ab091411f4b975bf652c2b7a770617e",
+      "id": "gazzetta-via-concorsipubblici-agenzia-nazionale-per-i-servizi-sanitari-regionali-agenas-2-posti-di-collaborato",
+      "nome": "Agenzia Nazionale per i Servizi Sanitari Regionali – AGENAS, 2 posti di Collaboratore Amministrativo Professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-nazionale-i-servizi-sanitari-regionali-concorso-collaboratore-amministrativo-3",
+      "data_pubblicazione": "2026-12-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "337a6e89d61fcefd1ae0dd20d2af536632ac0f04",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
       "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
       "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
       "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "id": "gazzetta-via-concorsipubblici-comune-di-balocco-1-istruttore-amministrativo",
+      "nome": "Comune di Balocco, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-balocco-concorso-istruttore-amministrativo-vercelli-2026",
+      "data_pubblicazione": "2026-12-11",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a881f58e11c23e5ab0869d4984f26b17bcecd3bd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-caorle-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Caorle, 1 Istruttore amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-caorle-concorso-istruttore-amministrativo-contabile-venezia-2026",
+      "data_pubblicazione": "2026-11-12",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "24155fef2de9b9eecaf99ec5f0139f491b510fff",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
       "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-etna-wellness-ricerca-un-a-impiegato-a-amministrativo-a-con-esperienza-etna-well",
-      "nome": "Etna Wellness ricerca un/a Impiegato/a Amministrativo/a con esperienza — Etna Wellness",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/etna-wellness-ricerca-un-a-impiegato-a-amministrativo-a-con-esperienza-at-etna-wellness-4487806594",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "91995d371fca841eae21f89bb9d0cd04576faf9a",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-front-office-agent-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
       "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-campobasso-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Campobasso Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/campobasso",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e36e8c45a265f0eda4ee5baa59291b4dcf725def",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-localita-messina-occupazione-collaboratore-amministrativo-posti-5",
+      "nome": "Località Messina Occupazione collaboratore amministrativo Posti 5",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/messina",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "bc4f73df52250d6f0ccf47020a3585ea74ec4625",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-collaboratore-amministrativo-professionale-posti-2",
+      "nome": "Località Roma Occupazione collaboratore amministrativo professionale Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d575707877f882b60741c33a625346d3144093ba",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-mcc",
+      "nome": "Operaio specializzato tecnico audio luci , allestimenti, bricolage. manutenzione — Mcc service",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-at-mcc-service-4489061788",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "3dc368b121a38aa1efaa18acbdbd49a66d3d514d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-campobasso-2-posti-di-istruttore-amministrativo",
+      "nome": "Provincia di Campobasso, 2 posti di istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-campobasso-concorso-istruttore-amministrativo-campobasso-2026",
+      "data_pubblicazione": "2026-12-10",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0e77727a82a9543b958ce037fe6c42111207ca4b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-ufficio-d-ambito-della-citta-metropolitana-di-milano-azienda-speciale-1-istrutto",
+      "nome": "Ufficio d’Ambito della Citta’ Metropolitana di Milano – Azienda Speciale, 1 Istruttore Amministrativo Tecnico-Ambientale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/ambito-territoriale-ottimale-della-citta-metropolitana-di-milano-concorso-istruttore-5",
+      "data_pubblicazione": "2026-11-12",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6011a8a46ea320a0120f722fa9933f714a8e7656",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-i-fontanili-1-istruttore-amministrativo",
+      "nome": "Unione Dei Comuni I Fontanili, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-i-fontanili-concorso-istruttore-amministrativo-milano-2026-0",
+      "data_pubblicazione": "2026-12-14",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "16a8abb63a620a83bd72eaf3a2fb307b5446d64d",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -339,10 +443,10 @@
       "nome": "Assistente amministrativo — AZIENDA AGRICOLA PATEA",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4487483092",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-amministrativo-at-azienda-agricola-patea-4486235856",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "a31f6996eaa444c9623bfefc18bdd3660bf2afb8",
+      "hash_contenuto": "cc53d85e26192f9025cb754221129570f40ab8f3",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -395,6 +499,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "4d6f85e3d7e02d46b00d44cb4faf5aa313c3e7a1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -488,6 +605,19 @@
       "hash_contenuto": "757652cd9f17feb2fb1e93860dbba9a56e24608f",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-professionale",
+      "nome": "collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-amministrativo-professionale-314",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "2040942e20a5fd5b6ef6edffd492fa8703e1a9dc",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -712,10 +842,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
