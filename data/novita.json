@@ -1,140 +1,75 @@
 {
-  "generated_at": "2026-11-14T05:33:51.728Z",
+  "generated_at": "2026-11-14T13:11:08.772Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "401f32192a9a1be90a61ec39fe5cb9ec8518b4e9",
+  "catalog_hash": "64534414f6530161b2fe3f7f79156a29cc7a751a",
   "counts": {
-    "nuovi": 10,
-    "aggiornati": 46
+    "nuovi": 5,
+    "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
       "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
       "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
       "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cuorgne-1-istruttore-amministrativo",
-      "nome": "Comune di Cuorgne’, 1 Istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cuorgne-concorso-istruttore-amministrativo-torino-2026",
-      "data_pubblicazione": "2026-11-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2658bcec14bff31f3d4206ad08c270bfa0814ee1",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
       "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-front-office-agent-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
       "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istruttore-direttivo-contabile",
-      "nome": "istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-contabile-393",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6edebf46ca80b4c9e2ee241b873b5aa5b4039e59",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-selezione-di-un-revisore-contabile-indipendente-per-il-progetto-sai-sistema-di-a",
-      "nome": "SELEZIONE DI UN REVISORE CONTABILE INDIPENDENTE PER IL PROGETTO \"SAI - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE\" TRIENNIO 2026/2028 — Dipartimento della Funzione Pubblica",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/selezione-di-un-revisore-contabile-indipendente-per-il-progetto-sai-sistema-di-accoglienza-e-integrazione-triennio-2026-2028-at-dipartimento-della-funzione-pubblica-4489313404",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "8ef90210870b8f3acdee8d321b07b6363a6e0950",
-      "notifica_topics": [
-        "offerte_lavoro"
       ]
     }
   ],
@@ -408,6 +343,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "4d6f85e3d7e02d46b00d44cb4faf5aa313c3e7a1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -740,7 +688,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-sicilia",
+      "source": "linkedin-lavoro-messina",
       "message": "HTTP 429"
     }
   ]
