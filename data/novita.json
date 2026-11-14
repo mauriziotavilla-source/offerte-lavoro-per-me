@@ -1,73 +1,60 @@
 {
-  "generated_at": "2026-11-14T13:11:08.772Z",
+  "generated_at": "2026-11-14T22:06:48.286Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "64534414f6530161b2fe3f7f79156a29cc7a751a",
+  "catalog_hash": "caf3a1f5c1c58b7a8b0bca9385cf2fa9304f810e",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 4,
     "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
       "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
-      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "id": "linkedin-lavoro-messina-contabile-martino-moto",
+      "nome": "Contabile — Martino Moto",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-martino-moto-4489323282",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "2886562c7104f81573fa17e8d0eb0579d0ed7fa2",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-cuoco-capo-partita-la-capinera-taormina",
+      "nome": "Cuoco capo partita — La Capinera taormina",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/cuoco-capo-partita-4483488224",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
+      "hash_contenuto": "916261d48521b5158ff6f26e12e15b5e0429afb3",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
-      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "id": "linkedin-orfani-guerra-sicilia-operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-mcc",
+      "nome": "Operaio specializzato tecnico audio luci , allestimenti, bricolage. manutenzione — Mcc service",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-at-mcc-service-4489061788",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
-      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
-      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
+      "hash_contenuto": "3dc368b121a38aa1efaa18acbdbd49a66d3d514d",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -686,10 +673,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
