@@ -1,127 +1,140 @@
 {
-  "generated_at": "2026-11-13T23:22:34.818Z",
+  "generated_at": "2026-11-14T05:33:51.728Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "9e81809f0a85da7cceada7c976162495a52fdb34",
+  "catalog_hash": "401f32192a9a1be90a61ec39fe5cb9ec8518b4e9",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 48
+    "nuovi": 10,
+    "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-pubblica-di-servizi-alla-persona-giorgio-gasparini-1-istruttore-direttiv",
-      "nome": "Azienda Pubblica di Servizi alla Persona Giorgio Gasparini, 1 Istruttore Direttivo Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-pubblica-di-servizi-alla-persona-giorgio-gasparini-di-vignola-concorso-istruttore-direttivo",
-      "data_pubblicazione": "2026-12-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "449325d7c8c625d99e60d21b44d61251f7e8a7b2",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-pollena-trocchia-concorso-per-un-istruttore-direttivo-contabile-part-t",
-      "nome": "Comune di Pollena Trocchia, concorso per un istruttore direttivo contabile part-time",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-pollena-trocchia-concorso-istruttore-contabile-istruttore-direttivo-napoli-2026",
-      "data_pubblicazione": "2026-12-13",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "bfe9069f3849c3801ef4c88599217dd0f9ccefcd",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-firenze-occupazione-coadiutore-amministrativo-posti-7",
-      "nome": "Località Firenze Occupazione coadiutore amministrativo Posti 7",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/firenze",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "279144dc2e0a7f0b82baf4c79040ea2aae1488d3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Modena Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/modena",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "27125cb2cf422930e3caa960b124dc3d05bc0c73",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-istruttore-contabile-istruttore-direttivo-posti-1",
-      "nome": "Località Napoli Occupazione istruttore contabile istruttore direttivo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9e29cbe7f94b9e9095730d5307be84b12c37f6c4",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-marketing-comunicazione-catania-part-full-time-loa-marketing",
-      "nome": "MARKETING/COMUNICAZIONE Catania - Part/Full Time — LOA MARKETING",
+      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/marketing-comunicazione-catania-part-full-time-at-loa-marketing-4490764630",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2748231f7e45164fef40bec04cbff4ed6a483f50",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-scuola-internazionale-superiore-di-studi-avanzati-1-collaboratore-settore-ammini",
-      "nome": "Scuola Internazionale Superiore di Studi Avanzati, 1 Collaboratore – settore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore-1",
-      "data_pubblicazione": "2026-12-14",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e373a258db47b7aed09c6e637ea1b31f3d0a9737",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-talent-acquisition-development-specialist-per-il-gruppo-mediterranean-hospitalit",
-      "nome": "TALENT ACQUISITION & DEVELOPMENT SPECIALIST PER IL GRUPPO MEDITERRANEAN HOSPITALITY MANAGEMENT & CONSULTING — Mediterranean Hospitality Management & Consulting",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/talent-acquisition-development-specialist-per-il-gruppo-mediterranean-hospitality-management-consulting-at-mediterranean-hospitality-management-consulting-4488934503",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f1ded6767978af6c57ae6139df91f9166df82636",
+      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-comuni-modenesi-area-nord-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Comuni Modenesi Area Nord, 1 Istruttore Amministrativo Contabile",
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-cuorgne-1-istruttore-amministrativo",
+      "nome": "Comune di Cuorgne’, 1 Istruttore amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-modenesi-area-nord-concorso-istruttore-amministrativo-contabile-modena-2026",
-      "data_pubblicazione": "2026-12-12",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cuorgne-concorso-istruttore-amministrativo-torino-2026",
+      "data_pubblicazione": "2026-11-13",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6fe4e92797994561eac99df076697f8553234f43",
+      "hash_contenuto": "2658bcec14bff31f3d4206ad08c270bfa0814ee1",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-front-office-agent-capofaro-resort-relais-chateaux",
+      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-istruttore-direttivo-contabile",
+      "nome": "istruttore direttivo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-direttivo-contabile-393",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6edebf46ca80b4c9e2ee241b873b5aa5b4039e59",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Torino Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5b404662ba38a188beddde18138eb0ef6e5c10bd",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-selezione-di-un-revisore-contabile-indipendente-per-il-progetto-sai-sistema-di-a",
+      "nome": "SELEZIONE DI UN REVISORE CONTABILE INDIPENDENTE PER IL PROGETTO \"SAI - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE\" TRIENNIO 2026/2028 — Dipartimento della Funzione Pubblica",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/selezione-di-un-revisore-contabile-indipendente-per-il-progetto-sai-sistema-di-accoglienza-e-integrazione-triennio-2026-2028-at-dipartimento-della-funzione-pubblica-4489313404",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "8ef90210870b8f3acdee8d321b07b6363a6e0950",
+      "notifica_topics": [
+        "offerte_lavoro"
       ]
     }
   ],
@@ -213,19 +226,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "9c876397a236a6648ddb0c3111b2cb1ef12fbda4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
-      "nome": "Agente di commercio - Messina — RECA Italia Srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-messina-at-reca-italia-srl-4462810385",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -408,19 +408,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "4d6f85e3d7e02d46b00d44cb4faf5aa313c3e7a1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
-      "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni-orchestrali-at-dipartimento-della-funzione-pubblica-4483466859",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "2061cdd2053fc5530f2a943d17a3cb813c7e03d3",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -751,5 +738,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
