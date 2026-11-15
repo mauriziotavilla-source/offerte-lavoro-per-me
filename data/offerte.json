@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-11-15",
-  "versione": 505,
+  "versione": 506,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "5a64a350e6d4cfdbb8db2549bec1519b8bfa3f84",
-  "generated_at": "2026-11-15T13:39:43.265Z",
+  "catalog_hash": "247bb0eb9dfbbefe89c6106f0024dcb0470aeec6",
+  "generated_at": "2026-11-15T22:36:41.261Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1398,7 +1398,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -1423,7 +1423,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -4654,7 +4654,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -4679,7 +4679,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5300,7 +5300,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5325,7 +5325,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5432,7 +5432,7 @@
       "hash_contenuto": "a3a71a1b36ed55efb6fbe55412c42a141c8266f3"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
+      "id": "linkedin-orfani-guerra-sicilia-bando-per-il-reclutamento-a-tempo-indeterminato-afam-049-orchestra-esercitazioni",
       "nome": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 049 ORCHESTRA (ESERCITAZIONI ORCHESTRALI) — Dipartimento della Funzione Pubblica",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -5446,7 +5446,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -5474,7 +5474,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
@@ -6583,7 +6583,7 @@
       "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
       "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6597,7 +6597,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -6625,7 +6625,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
@@ -6701,7 +6701,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -6726,14 +6726,14 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
       "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
       "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -6747,7 +6747,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -6775,7 +6775,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
@@ -11626,7 +11626,7 @@
       "hash_contenuto": "efa45919280efc4da2abee9acb3aa3732b0d90c7"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-cuoco-capo-partita-la-capinera-taormina",
+      "id": "linkedin-orfani-guerra-sicilia-cuoco-capo-partita-la-capinera-taormina",
       "nome": "Cuoco capo partita — La Capinera taormina",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -11640,7 +11640,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -11668,7 +11668,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
@@ -11676,7 +11676,7 @@
       "hash_contenuto": "916261d48521b5158ff6f26e12e15b5e0429afb3"
     },
     {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
       "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -11690,7 +11690,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Taormina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -11718,7 +11718,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
@@ -12567,7 +12567,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -12592,7 +12592,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -18819,7 +18819,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18844,7 +18844,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20250,7 +20250,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-29",
+          "data": "2026-12-30",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -20275,7 +20275,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-11-14",
+      "rilevato_il": "2026-11-15",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -21334,10 +21334,5 @@
     }
   ],
   "changed": true,
-  "source_errors": [
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "source_errors": []
 }
