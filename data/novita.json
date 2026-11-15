@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-11-14T22:06:48.286Z",
+  "generated_at": "2026-11-15T05:31:10.957Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "caf3a1f5c1c58b7a8b0bca9385cf2fa9304f810e",
+  "catalog_hash": "247bb0eb9dfbbefe89c6106f0024dcb0470aeec6",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 47
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-lavoro-messina-contabile-martino-moto",
-      "nome": "Contabile — Martino Moto",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-martino-moto-4489323282",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "2886562c7104f81573fa17e8d0eb0579d0ed7fa2",
-      "notifica_topics": [
-        "offerte_lavoro"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-cuoco-capo-partita-la-capinera-taormina",
-      "nome": "Cuoco capo partita — La Capinera taormina",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/cuoco-capo-partita-4483488224",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "916261d48521b5158ff6f26e12e15b5e0429afb3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-mcc",
-      "nome": "Operaio specializzato tecnico audio luci , allestimenti, bricolage. manutenzione — Mcc service",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-at-mcc-service-4489061788",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "3dc368b121a38aa1efaa18acbdbd49a66d3d514d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
