@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-11-16T05:30:58.801Z",
+  "generated_at": "2026-11-16T15:11:43.006Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "2fbc2a0a238803b2afd72a03d0be806566538162",
+  "catalog_hash": "de3544bf555f5ddcb121bded7805d1d04c0ee966",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 3,
     "aggiornati": 47
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "regione-sicilia-l68-enti-pubblici-messina-avviso-di-censimento-per-linserimento-nellelenco-delle-persone-con-disabilita-ps",
+      "nome": "avviso_di_censimento_per_linserimento_nellelenco_delle_persone_con_disabilita_psichica_art._1_co.5_l.r._27_maggio_2026_n._12.pdf (CPI Messina)",
+      "tipo": "categoria_protetta",
+      "ente": "Regione Siciliana — Avviamenti art. 18 (CPI Messina)",
+      "link_ufficiale": "https://www.regione.sicilia.it/system/files/2026-11/avviso_di_censimento_per_linserimento_nellelenco_delle_persone_con_disabilita_psichica_art._1_co.5_l.r._27_maggio_2026_n._12.pdf",
+      "data_pubblicazione": "",
+      "fonte_scraper": "regione-sicilia-l68-enti-pubblici-messina",
+      "hash_contenuto": "8a725a6ffd8bd4c3b12ac6313f146905154a3ca1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5dad7af19ddba64eed9b3706420dad0f342b9bec",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-del-distretto-ceramico-1-istruttore-amministrativo",
+      "nome": "Unione Dei Comuni del Distretto Ceramico, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-del-distretto-ceramico-concorso-istruttore-amministrativo-modena-2026-4",
+      "data_pubblicazione": "2026-12-16",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7cb3325ce891291767d58f5a369059df4f6d3039",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
