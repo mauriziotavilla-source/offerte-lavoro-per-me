@@ -1,36 +1,101 @@
 {
-  "generated_at": "2026-11-17T15:41:04.008Z",
+  "generated_at": "2026-11-18T00:43:28.272Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "aece7dfaaafcebae4c49332eac8aee4bacb840aa",
+  "catalog_hash": "04e203a0d70ba6ccedf5cf13e763dda4c719baef",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 7,
     "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-casa-di-riposo-francesco-fenzi-1-istruttore-amministrativo-contabile",
-      "nome": "Casa di Riposo Francesco Fenzi, 1 Istruttore Amministrativo contabile",
+      "id": "linkedin-orfani-guerra-messina-agente-monomandatario-div-industria-vibo-valentia-golmar",
+      "nome": "Agente Monomandatario | Div. Industria | Vibo Valentia — Golmar",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-monomandatario-div-industria-vibo-valentia-at-golmar-4490708473",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5ee3524c9d5a3fcdb7c21f9cab3329f2c3f20165",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-trepuzzi-2-operatori-amministrativi",
+      "nome": "Comune di Trepuzzi, 2 operatori amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/casa-di-riposo-francesco-fenzi-concorso-istruttore-amministrativo-contabile-treviso-2026-0",
-      "data_pubblicazione": "2026-12-16",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trepuzzi-concorso-riservato-operatore-amministrativo-lecce-2026",
+      "data_pubblicazione": "2026-12-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "36ba56cb2a5deff0b5d5ad951c3a1afba0a53d46",
+      "hash_contenuto": "14cc9f2556e9beb2227834a2aa2085614c8a1d5f",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Modena Occupazione istruttore amministrativo Posti 1",
+      "id": "linkedin-lavoro-messina-consulente-revisore-sostenibilita-cea-audit-compliance-srl",
+      "nome": "Consulente/Revisore sostenibilità — CEA Audit & Compliance Srl",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-revisore-sostenibilit%C3%A0-at-cea-audit-compliance-srl-4491718306",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "086393416d00ad3552639c203d0970c666744a8d",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-instructor-jrotc-po-navy-department-of-war-education-activity-dowea",
+      "nome": "Instructor JROTC PO NAVY. — Department of War Education Activity (DOWEA)",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/instructor-jrotc-po-navy-at-department-of-war-education-activity-dowea-4490436231",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "924b1e67b04830bbeabe02441471af404144b4ec",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-lecce-occupazione-operatore-amministrativo-posti-2",
+      "nome": "Località Lecce Occupazione operatore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/modena",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecce",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b7f49fd6366cd5038abc3efb8ab97cac1eb8896a",
+      "hash_contenuto": "d4c01a6e67fe6525776f0dc0a245a44854bec571",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-del-reparto-tecnico-di-produzione-3esse-vivai-srl",
+      "nome": "Responsabile del reparto tecnico di produzione — 3ESSE VIVAI SRL",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-del-reparto-tecnico-di-produzione-at-3esse-vivai-srl-4490484079",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5bc67e3ae8aea00cfec9b5da6d12e4fbfd4da176",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -352,19 +417,6 @@
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4471087063",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "4aef4f9c8f47e126f6c4d684b4af83468ce1d5bf",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
-      "nome": "Barbieri per i paesi nordici — EUTALENTS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4450925734",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
@@ -608,6 +660,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-talent-acquisition-development-specialist-per-il-gruppo-mediterranean-hospitalit",
+      "nome": "TALENT ACQUISITION & DEVELOPMENT SPECIALIST PER IL GRUPPO MEDITERRANEAN HOSPITALITY MANAGEMENT & CONSULTING — Mediterranean Hospitality Management & Consulting",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/talent-acquisition-development-specialist-per-il-gruppo-mediterranean-hospitality-management-consulting-at-mediterranean-hospitality-management-consulting-4490699687",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "c85069576b3c78cf4d6da6357f5429b670a2b422",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-tecnico-a-di-laboratorio-metalmeccanico-archimede-agenzia-per-il-lavoro-filiale-",
       "nome": "TECNICO/a DI LABORATORIO METALMECCANICO — Archimede - Agenzia per il lavoro -filiale di Udine",
       "tipo": "categoria_protetta",
@@ -647,14 +712,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
