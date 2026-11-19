@@ -1,216 +1,151 @@
 {
-  "generated_at": "2026-11-18T15:20:15.000Z",
+  "generated_at": "2026-11-19T00:01:13.537Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "702cf23d6519de6af51d99dd96d7036d00df4769",
+  "catalog_hash": "38f6dc5e152491deb1ac4332b13257fcf890d068",
   "counts": {
-    "nuovi": 16,
-    "aggiornati": 48
+    "nuovi": 11,
+    "aggiornati": 49
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-capo-d-orlando-1-revisore-contabile",
-      "nome": "Comune di Capo D’Orlando, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-capo-dorlando-concorso-revisore-contabile-messina-2026",
-      "data_pubblicazione": "2026-11-30",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "19db3ba1a0bdcab3a8fa5995979fe5f2bb49723c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-catanzaro-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Catanzaro, 2 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-istruttore-amministrativo-contabile-catanzaro-2026",
-      "data_pubblicazione": "2026-12-15",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b7e8b0300c91f4ca437ac0aac3af84b337fbe205",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-paratico-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Paratico, 1 Istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-paratico-concorso-istruttore-amministrativo-contabile-brescia-2026",
-      "data_pubblicazione": "2026-11-17",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d21046ad1d9dfa466d77a06a54303c6a88afa0ed",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-ragalna-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Ragalna, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ragalna-concorso-istruttore-amministrativo-contabile-catania-2026",
-      "data_pubblicazione": "2026-12-01",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "a51fcecc98f011d056bfd1c7cb428411b6b45a76",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-ragalna-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Ragalna, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ragalna-concorso-istruttore-amministrativo-contabile-catania-2026-0",
-      "data_pubblicazione": "2026-12-01",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "44f6a40d2b9a41a8a05a2564e7dd0ccc455e9840",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sergnano-1-operatore-esperto-amministrativo",
-      "nome": "Comune di Sergnano, 1 Operatore esperto amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sergnano-concorso-operatore-amministrativo-operatore-specializzato-cremona-2026",
-      "data_pubblicazione": "2026-12-16",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a3e2e62e3c14f0f7d66970a4fe90b348da512ca8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-istruttore-amministrativo-contabile",
-      "nome": "istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-amministrativo-contabile-334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "90b54c7b1672b03a4ad2f52af63295e5c63cec1b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-catanzaro-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Catanzaro Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/catanzaro",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "488fcdef96d3f87a5c65f8e0525d73cbcf8d9cc8",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-cremona-occupazione-operatore-amministrativo-operatore-specializzato-po",
-      "nome": "Località Cremona Occupazione operatore amministrativo operatore specializzato Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cremona",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d5f1ebbe154838f740e7caf6030cf42420c3d8de",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-localita-messina-occupazione-revisore-contabile-posti-1",
-      "nome": "Località Messina Occupazione revisore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/messina",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "271342170348ee5ec5b8e2f0a9ee30c25fd3b075",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Napoli Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4144c4748cc6b15b47548f933fdbe968e92d9617",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-contabile-posti-10",
-      "nome": "Località Perugia Occupazione istruttore contabile Posti 10",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d7b5054a48d416c5e796078dd5512b641e52bca1",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-produttore-assicurativo-autonomo",
-      "nome": "Produttore assicurativo — Autonomo",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/produttore-assicurativo-4490853755",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "82870851735a73b856d59807520c869f7ec007da",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-regione-umbria-10-posti-di-istruttore-contabile",
-      "nome": "Regione Umbria, 10 posti di istruttore contabile",
+      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-cinigiano-concorso-per-un-istruttore-amministrativo-contabile-a-tempo-",
+      "nome": "Comune di Cinigiano, concorso per un istruttore amministrativo-contabile a tempo indeterminato",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-umbria-concorso-istruttore-contabile-perugia-2026",
-      "data_pubblicazione": "2026-12-14",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cinigiano-concorso-istruttore-amministrativo-contabile-grosseto-2026",
+      "data_pubblicazione": "2026-12-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "185058eac1aeb5dbfcc59d2357036a9120520ae5",
+      "hash_contenuto": "99dcb7c2ea77f4b3c5bc984315ea84360c3fea28",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-scuola-internazionale-superiore-di-studi-avanzati-1-collaboratori-settore-ammini",
-      "nome": "Scuola Internazionale Superiore di Studi Avanzati, 1 Collaboratori – settore amministrativo",
+      "id": "linkedin-orfani-guerra-messina-comune-di-pietragalla-avviso-di-mobilita-volontaria-per-la-copertura-di-1-uno-po",
+      "nome": "COMUNE DI PIETRAGALLA -AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI 1 (UNO) POSTO DI AGENTE DI POLIZIA LOCALE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-pietragalla-avviso-di-mobilita-volontaria-per-la-copertura-di-1-uno-posto-di-agente-di-polizia-locale-at-dipartimento-della-funzione-pubblica-4488546023",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "28ea75c8051def79e882d72b5ebfb98869a29ad9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-firenze-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Firenze Occupazione istruttore amministrativo Posti 2",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/scuola-internazionale-superiore-di-studi-avanzati-sissadi-trieste-concorso-collaboratore-2",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/firenze",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ff44742312c09f9789abc9d4d0f7ab80fae3773b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-grosseto-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Grosseto Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/grosseto",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "54f13f21931ce64856db0c0ad16e98599819e830",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-contabile-posti-3",
+      "nome": "Località Milano Occupazione istruttore contabile Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "62dd350890beb9bf35e1a8cafe8d76cea436d427",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-istruttore-amministrativo-posti-10",
+      "nome": "Località Salerno Occupazione istruttore amministrativo Posti 10",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/salerno",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "aad9f3ea2e02d15cf4fb9f4c8c427e50bac41c7a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-regione-toscana-concorso-per-2-istruttori-amministrativi-a-tempo-indeterminato",
+      "nome": "Regione Toscana, concorso per 2 istruttori amministrativi a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-toscana-concorso-istruttore-amministrativo-firenze-2026-1",
       "data_pubblicazione": "2026-12-17",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8b228adb52f150473d6e97963ad2c5d44d411cb5",
+      "hash_contenuto": "b9c37072cc0b1213c8646060e033c0e646cf2509",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -274,10 +209,10 @@
       "nome": "Account manager — ALLEANZA ASSICURAZIONI S.P.A.",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-at-alleanza-assicurazioni-s-p-a-4490846610",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-at-alleanza-assicurazioni-s-p-a-4481853259",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "72ef7f37010b9d0119903c14abc4b6cd34e5ef5e",
+      "hash_contenuto": "6d86e0ac84e9a084a00b92000b681844f3c2bae0",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -608,29 +543,16 @@
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-alcamo-1-revisore-contabile",
-      "nome": "Comune di Alcamo, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-alcamo-concorso-revisore-contabile-trapani-2026",
-      "data_pubblicazione": "2026-11-17",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "04b2a5913df390431b9939c49cbb7430c16777db",
+      "id": "linkedin-orfani-guerra-messina-commesso-commessa-in-stage-reggio-di-calabria-clayton-italia",
+      "nome": "Commesso/Commessa in Stage Reggio di Calabria — Clayton Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/commesso-commessa-in-stage-reggio-di-calabria-at-clayton-italia-4491172035",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "818a7524d26967e708e41f6851ac27ee8d02de73",
       "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-bucine-concorso-per-un-istruttore-amministrativo-part-time-a-tempo-ind",
-      "nome": "Comune di Bucine, concorso per un istruttore amministrativo part-time a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bucine-concorso-istruttore-amministrativo-arezzo-2026-0",
-      "data_pubblicazione": "2026-11-18",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "92cf7e4b9fd0c856b3a4a5f06ef2e0211c7b9d9e",
-      "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
@@ -642,6 +564,45 @@
       "data_pubblicazione": "2026-11-20",
       "fonte_scraper": "concorsipubblici-sicilia",
       "hash_contenuto": "f076ede2d3f122a464e165688069741814b4e72b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-comune-di-ragalna-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Ragalna, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-ragalna-concorso-istruttore-amministrativo-contabile-catania-2026",
+      "data_pubblicazione": "2026-12-01",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "a51fcecc98f011d056bfd1c7cb428411b6b45a76",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-salerno-concorso-per-10-istruttori-amministrativi-a-tempo-indeterminat",
+      "nome": "Comune di Salerno, concorso per 10 istruttori amministrativi a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-salerno-concorso-istruttore-amministrativo-salerno-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "18b2b140ca67a5a48d19bcc0867a20238acfa8e9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-trezzano-sul-naviglio-3-istruttore-contabile",
+      "nome": "Comune di Trezzano Sul Naviglio, 3 Istruttore Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trezzano-sul-naviglio-concorso-istruttore-contabile-milano-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e543a8106bca446f5b09517aa5d5d8cd9b4cafc5",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -681,19 +642,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "372e92581b65f525b4c89c336377dd2628efe732",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-consulente-assicurativo-educatore-finanziario-alleanza-assicurazioni-reggio-cala",
-      "nome": "Consulente assicurativo/ educatore finanziario — ALLEANZA ASSICURAZIONI reggio calabria",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-assicurativo-educatore-finanziario-4469872066",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "f3c36e101d2054d2673e0006ebfe5b332c684372",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -848,7 +796,7 @@
       "message": "HTTP 429"
     },
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
