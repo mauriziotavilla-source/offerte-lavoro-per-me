@@ -1,78 +1,12 @@
 {
-  "generated_at": "2026-11-20T15:03:15.375Z",
+  "generated_at": "2026-11-20T23:46:27.062Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "25e89a460b6b0bdbe1c97af4eeb64b1818a744fe",
   "counts": {
-    "nuovi": 5,
+    "nuovi": 0,
     "aggiornati": 47
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-montanaso-lombardo-1-istruttore-amministrativo",
-      "nome": "Comune di Montanaso Lombardo, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montanaso-lombardo-concorso-istruttore-amministrativo-lodi-2026",
-      "data_pubblicazione": "2026-12-19",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "abbdd63bda6f6c40fb2771d4e49b7e2cee55820d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-lodi-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Lodi Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lodi",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f9ee82819f8ebbce292a84e93b8083cdf1578cc3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Napoli Occupazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "9e2b63fe3c22b6dafd25d80e34a6fe43ba21723e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-localita-trapani-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Trapani Occupazione assistente amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/trapani",
-      "data_pubblicazione": "",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "d58fe45fde3735f74defd760243efda71bafc532",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-treviso-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Treviso Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/treviso",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d9bd854cf09f1f267353f31f744fd897a7c0de5a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
