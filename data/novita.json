@@ -1,23 +1,179 @@
 {
-  "generated_at": "2026-11-19T15:26:31.209Z",
+  "generated_at": "2026-11-20T00:24:12.990Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "da8ff95fc3e16ce0d52063bebaf4830b2b340330",
+  "catalog_hash": "8191353c10fe6f22b77f9271812b7869916b45f3",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 13,
     "aggiornati": 47
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vico-equense-concorso-per-2-istruttori-amministrativi-a-tempo-indeterm",
-      "nome": "Comune di Vico Equense, concorso per 2 istruttori amministrativi a tempo indeterminato",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-genova-10-istruttori-amministrativi",
+      "nome": "Comune di Genova, 10 Istruttori Amministrativi",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vico-equense-concorso-istruttore-amministrativo-napoli-2026",
-      "data_pubblicazione": "2026-12-19",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-genova-concorso-riservato-istruttore-amministrativo-genova-2026-0",
+      "data_pubblicazione": "2026-12-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e5faf491533f19779248c680d6b47a8216c7a7a3",
+      "hash_contenuto": "7a40f37252fdd6ac5179752d2ed43ae9cdda1244",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-omegna-1-collaboratore-amministrativo",
+      "nome": "Comune di Omegna, 1 Collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-omegna-concorso-riservato-collaboratore-amministrativo-verbano-cusio-ossola-2026",
+      "data_pubblicazione": "2026-12-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f5649162092f879e703b779bc35b5238f85eb2ee",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-polo-di-piave-1-istruttore-amministrativo",
+      "nome": "Comune di San Polo di Piave, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-polo-di-piave-concorso-istruttore-amministrativo-treviso-2026-1",
+      "data_pubblicazione": "2026-12-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "9aef0af404a7c9ad526c66ddaf6e5c5215ca1a10",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sant-ilario-d-enza-1-istruttore-amministrativo",
+      "nome": "Comune di Sant’Ilario D’Enza, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santilario-denza-concorso-istruttore-amministrativo-reggio-emilia-2026",
+      "data_pubblicazione": "2026-12-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b51be02f7a63cd390089e8b0accc273d6ed45c4a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-10",
+      "nome": "Località Genova Occupazione istruttore amministrativo Posti 10",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/genova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a8c9e840ae01aefa7511b831a6067981813fd7b6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-marescialli-nomina-diretta-mm-2026-dipartimento-della-funzione-pubblica",
+      "nome": "Marescialli nomina diretta MM 2026 — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/marescialli-nomina-diretta-mm-2026-at-dipartimento-della-funzione-pubblica-4483414354",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "3cd10e2955361a73b832c175f082a0ca1e244c51",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-primo-lavoro-e-formazione-direct-marketing-part-full-time-catania-loa-marketing",
+      "nome": "Primo lavoro e Formazione Direct Marketing - Part/Full Time Catania — LOA MARKETING",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/primo-lavoro-e-formazione-direct-marketing-part-full-time-catania-at-loa-marketing-4492229906",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "1a9dc29dd5f8f8dbfb340968ae3b756aed46d163",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-project-manager-senior-settore-edile-infrastrutture-openjobmetis-spa",
+      "nome": "Project Manager Senior Settore edile -infrastrutture — Openjobmetis SpA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/project-manager-senior-settore-edile-infrastrutture-at-openjobmetis-spa-4489590544",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "bcd32ad3fffd4dc1536359685c29d741f4f9a826",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-tecnico-sanitario-di-radiologia-medica-tsrm-radiologia-campanelli-s-r-l",
+      "nome": "Tecnico Sanitario di Radiologia Medica (TSRM) — Radiologia Campanelli S.r.l.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/tecnico-sanitario-di-radiologia-medica-tsrm-4491825276",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a4741763e65c9830ff14a8b29638a6db75017e19",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -641,10 +797,6 @@
     },
     {
       "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
