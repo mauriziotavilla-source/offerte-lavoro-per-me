@@ -1,36 +1,75 @@
 {
-  "generated_at": "2026-11-21T06:11:57.512Z",
+  "generated_at": "2026-11-21T18:51:35.945Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e4c7b8f22ca92eb63e144c4c7eac2139020756a1",
+  "catalog_hash": "2155167ba64cc86e91dda5b9526d2ad6d6e09bc9",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 46
+    "nuovi": 5,
+    "aggiornati": 43
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Belluno Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
+      "id": "linkedin-orfani-guerra-messina-abarc-bando-di-selezione-per-soli-titoli-per-l-inclusione-e-o-l-aggiornamento-de",
+      "nome": "ABARC - BANDO DI SELEZIONE PER SOLI TITOLI PER L’INCLUSIONE E/O L’AGGIORNAMENTO DELLA GRADUATORIA D’ISTITUTO PERMANENTE PER IL PROFILO DI OPERATORE – AREA DEGLI OPERATORI — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/abarc-bando-di-selezione-per-soli-titoli-per-l%E2%80%99inclusione-e-o-l%E2%80%99aggiornamento-della-graduatoria-d%E2%80%99istituto-permanente-per-il-profilo-di-operatore-%E2%80%93-area-degli-operatori-at-dipartimento-della-funzione-pubblica-4492302568",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b06283db284203a2032644f53313529a9e53d27e",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d519f3616c25d37291898af14869b03a26305bc1",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-teramo-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Teramo Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/teramo",
+      "id": "linkedin-orfani-guerra-messina-avviso-pubblico-di-mobilita-volontaria-esterna-dipartimento-della-funzione-pubbl",
+      "nome": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-mobilit%C3%A0-volontaria-esterna-at-dipartimento-della-funzione-pubblica-4491931940",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "984a968d9e74eae05fd875ca4b35cb7c426328f3",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "c8f3f92e5ddb2378d2a601635071aa174a873478",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-comune-di-pietragalla-avviso-di-mobilita-volontaria-per-la-copertura-di-1-uno-po",
+      "nome": "COMUNE DI PIETRAGALLA -AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI 1 (UNO) POSTO DI AGENTE DI POLIZIA LOCALE — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/comune-di-pietragalla-avviso-di-mobilita-volontaria-per-la-copertura-di-1-uno-posto-di-agente-di-polizia-locale-at-dipartimento-della-funzione-pubblica-4488531696",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "97947578d9c5cc54889a280540c3f97106c68fec",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-eventi-catania-inizio-immediato-part-full-time-loa-marketing",
+      "nome": "Eventi Catania - Inizio Immediato Part/Full Time — LOA MARKETING",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/eventi-catania-inizio-immediato-part-full-time-at-loa-marketing-4492912886",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "1464687f0ac09b7d63c081a94c2afb2c13903635",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
+      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4488003754",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "0b1e43132ac8d71f6c423a98a7513e2b1db35876",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -426,19 +465,6 @@
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-baveno-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Baveno, 1 Istruttore Amministrativo- Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-baveno-concorso-istruttore-amministrativo-contabile-verbano-cusio-ossola-2026",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "77e0c1edafc8dcbdea637e9813ecb20784e6dbae",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
       "nome": "Comune di Partinico, 1 revisore contabile",
       "tipo": "concorso",
@@ -447,19 +473,6 @@
       "data_pubblicazione": "2026-11-20",
       "fonte_scraper": "concorsipubblici-sicilia",
       "hash_contenuto": "1c021479f6a438eb203c352a6a06ca8bc093177c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
-      "nome": "Comune di Partinico, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026-0",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "48caf0312be44acdeb4720a572b13811c8cd4441",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -619,32 +632,11 @@
       "notifica_topics": [
         "categorie_protette"
       ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
-      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-4",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "23300e1fd1c5ffa9f349a12feeba015c7df40569",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
     }
   ],
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
