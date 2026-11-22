@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-11-22T05:45:58.136Z",
+  "generated_at": "2026-11-22T14:17:12.278Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "073eeca664676ea40c1fcf647035412004de8832",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 43
+    "nuovi": 0,
+    "aggiornati": 41
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
-      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE AFAM020 “CANTO” — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-di-un-docente-afam020-%E2%80%9Ccanto%E2%80%9D-at-dipartimento-della-funzione-pubblica-4491952894",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "056915b17dd2bec1311b52ff1b4c4f4e7ff39096",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-teramo-occupazione-istruttore-amministrativo-contabile-posti-2",
-      "nome": "Località Teramo Occupazione istruttore amministrativo contabile Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/teramo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ea6d2f0b054feda6d349cfea1acd116a4f915b65",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -426,32 +399,6 @@
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-martinsicuro-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Martinsicuro, 2 posti di istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-martinsicuro-concorso-istruttore-amministrativo-contabile-teramo-2026",
-      "data_pubblicazione": "2026-11-21",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "07194e6fb12de789bc74ed68b353e38d9f198498",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "concorsipubblici-sicilia-comune-di-partinico-1-revisore-contabile",
-      "nome": "Comune di Partinico, 1 revisore contabile",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-partinico-concorso-revisore-contabile-palermo-2026",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "1c021479f6a438eb203c352a6a06ca8bc093177c",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "concorsipubblici-sicilia-comune-di-ragalna-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Ragalna, 1 istruttore amministrativo contabile",
       "tipo": "concorso",
@@ -596,10 +543,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
