@@ -1,12 +1,143 @@
 {
-  "generated_at": "2026-11-23T06:31:37.581Z",
+  "generated_at": "2026-11-23T23:34:48.502Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "60dbb1df8bc69e7f9e2d288163a83f49addcdfb1",
+  "catalog_hash": "ce21393acad49c57aa14da5cafeaa553ca76622e",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 41
+    "nuovi": 10,
+    "aggiornati": 43
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-audioprotesista-otodigital-del-dr-venerando-costa",
+      "nome": "Audioprotesista — OTODIGITAL del Dr. VENERANDO COSTA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/audioprotesista-4492343466",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4b5d0881432e81759d18b52f2b7c457055825dd2",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-season-2027-taormina-san-domenico-palace-taormina-a-four-seasons-ho",
+      "nome": "Chef de Rang - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4488110638",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "024447e5f05447ad46ab73c05b17b9013c87947d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-collaboratore-collaboratore-amministrativo",
+      "nome": "collaboratore collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/collaboratore-707",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "934cc90079f96a50bf3456755d9d5a55f26fbc7c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-stino-di-livenza-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di San Stino di Livenza, 1 Istruttore amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-stino-di-livenza-concorso-istruttore-amministrativo-contabile-venezia-2026",
+      "data_pubblicazione": "2026-12-21",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d394691d016160c78bcca92d34c901b931338e94",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-firenze-occupazione-collaboratore-collaboratore-amministrativo-posti-4",
+      "nome": "Località Firenze Occupazione collaboratore collaboratore amministrativo Posti 4",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/firenze",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1909040680d5240ea8a538c7a38d1a0c6d2a51d8",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-ministero-dell-economia-e-delle-finanze-bando-abilitazione-all-esercizio-della-r",
+      "nome": "Ministero dell'Economia e delle Finanze, bando abilitazione all'esercizio della revisione legale 2026",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/ministero-delleconomia-e-delle-finanze-concorso-revisore-legale-tutta-italia-2026",
+      "data_pubblicazione": "2026-12-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d4a9cf766fd833d616508f234d2ebbb87cf77525",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-produttore-assicurativo-autonomo",
+      "nome": "Produttore assicurativo — Autonomo",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/produttore-assicurativo-4490853755",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "82870851735a73b856d59807520c869f7ec007da",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -240,6 +371,19 @@
       "hash_contenuto": "aa1dc25b2688060f08cfbba9b0f0bf96814dfd23",
       "notifica_topics": [
         "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-avviso-pubblico-di-mobilita-volontaria-esterna-dipartimento-della-funzione-pubbl",
+      "nome": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/avviso-pubblico-di-mobilit%C3%A0-volontaria-esterna-at-dipartimento-della-funzione-pubblica-4491945343",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "911ab427d2d54233929f6fc89bc9de411d626b9e",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     },
     {
@@ -503,6 +647,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-store-manager-tommy-hilfiger-reggio-calabria-gifrab-italia-s-p-a",
+      "nome": "STORE MANAGER - TOMMY HILFIGER REGGIO CALABRIA — Gifrab Italia S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/store-manager-tommy-hilfiger-reggio-calabria-at-gifrab-italia-s-p-a-4494017416",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "b0b7a545bd85fd95c63f389e01ddfc2a2e04c5e4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-talent-acquisition-development-specialist-per-il-gruppo-mediterranean-hospitalit",
       "nome": "TALENT ACQUISITION & DEVELOPMENT SPECIALIST PER IL GRUPPO MEDITERRANEAN HOSPITALITY MANAGEMENT & CONSULTING — Mediterranean Hospitality Management & Consulting",
       "tipo": "categoria_protetta",
@@ -544,7 +701,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-messina",
+      "source": "linkedin-lavoro-messina",
       "message": "HTTP 429"
     },
     {
