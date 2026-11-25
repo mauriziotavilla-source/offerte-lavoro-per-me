@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-11-25",
-  "versione": 525,
+  "versione": 526,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "fe1e77e29fd00b155345a28800e7831c9da81730",
-  "generated_at": "2026-11-25T07:39:04.707Z",
+  "catalog_hash": "69dd7f677fbe9b0925683932c46c9506a29e23ff",
+  "generated_at": "2026-11-25T21:19:57.600Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -7382,6 +7382,57 @@
       "hash_contenuto": "19db3ba1a0bdcab3a8fa5995979fe5f2bb49723c"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-capua-concorso-per-un-istruttore-amministrativo-a-tempo-indeterminato",
+      "nome": "Comune di Capua, concorso per un istruttore amministrativo a tempo indeterminato",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Capua, concorso per un istruttore amministrativo a tempo indeterminato Ente Comune di Capua Scadenza 24/12/2026 Dettagli Località Caserta Occupazione istruttore amministrativo Posti 1 Comune di Capua – Bando di concorso pubblico per soli esami per la",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-12-24",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-capua-concorso-istruttore-amministrativo-caserta-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-12-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-11-25",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "15f1f7fba996c257341bc7e4cecefc949e6f547d"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-castelnuovo-di-conza-concorso-per-un-istruttore-contabile-a-tempo-pien",
       "nome": "Comune di Castelnuovo di Conza, concorso per un istruttore contabile a tempo pieno e indeterminato",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -7790,6 +7841,57 @@
       "hash_contenuto": "7a40f37252fdd6ac5179752d2ed43ae9cdda1244"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-genova-19-istruttori-amministrativi",
+      "nome": "Comune di Genova, 19 Istruttori Amministrativi",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Genova, 19 Istruttori Amministrativi Ente Comune di Genova Scadenza 24/12/2026 Dettagli Località Genova Occupazione istruttore amministrativo Posti 19 Comune di Genova concorso pubblico, per esami, per l’assunzione a tempo pieno e indeterminato di n.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-12-24",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-genova-concorso-istruttore-amministrativo-genova-2026-0",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-12-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-11-25",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "600d9f43e9bcbb2a27d7d5c7dbbf5b71dbf97f25"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-inverigo-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Inverigo, 1 Istruttore Amministrativo Contabile",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -7941,6 +8043,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "44508ce606d2a0ee00e62284c2c8eb48b529d3c4"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-luzzi-1-istruttore-direttivo-contabile",
+      "nome": "Comune di Luzzi, 1 istruttore direttivo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Luzzi, 1 istruttore direttivo contabile Ente Comune di Luzzi Scadenza 24/12/2026 Dettagli Località Cosenza Occupazione istruttore direttivo contabile Posti 1 Concorso pubblico, per soli esami, per l’assunzione a tempo indeterminato e part time 50% di",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-12-24",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-luzzi-concorso-istruttore-direttivo-contabile-cosenza-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-12-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-11-25",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "7a7626dbd8c5801a5cac98be6675932d0492d504"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-mantova-1-istruttore-direttivo-delle-attivita-amministrative-e-contabi",
@@ -8145,6 +8298,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "ff89a30c388a5b22a4769106c0adeb5d80a2fa91"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-palau-1-istruttore-amministrativo",
+      "nome": "Comune di Palau, 1 istruttore amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Palau, 1 istruttore amministrativo Ente Comune di Palau Scadenza 24/12/2026 Dettagli Località Gallura Nord-Est Sardegna Occupazione istruttore amministrativo Posti 1 Bando di concorso pubblico per la copertura a tempo pieno e indeterminato di Un Istr",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-12-24",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-palau-concorso-istruttore-amministrativo-gallura-nord-est-sardegna-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-12-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-11-25",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "2743cb6ca353cd79d64cc2b72684a96f7fa3434f"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-piacenza-1-istruttore-amministrativo-contabile",
@@ -12961,7 +13165,7 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-17",
+      "rilevato_il": "2026-11-25",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
@@ -13653,8 +13857,8 @@
       "hash_contenuto": "e36e8c45a265f0eda4ee5baa59291b4dcf725def"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-caserta-occupazione-istruttore-amministrativo-istruttore-amministrativo",
-      "nome": "Località Caserta Occupazione istruttore amministrativo istruttore amministrativo contabile Posti 5",
+      "id": "gazzetta-via-concorsipubblici-localita-caserta-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Caserta Occupazione istruttore amministrativo Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -13691,11 +13895,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-06",
+      "rilevato_il": "2026-11-25",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "bf0f19c31e29a9b7523efbf93a9c4c58d4bdcc09"
+      "hash_contenuto": "82757efd800701c476e893488d0ab0cd6295f64e"
     },
     {
       "id": "concorsipubblici-sicilia-localita-catania-occupazione-collaboratore-amministrativo-posti-1",
@@ -13878,8 +14082,8 @@
       "hash_contenuto": "5680e4690acabfe2c4f41cca6a0fe308f3be6027"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-contabile-posti-1",
-      "nome": "Località Cosenza Occupazione istruttore contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-direttivo-contabile-posti-1",
+      "nome": "Località Cosenza Occupazione istruttore direttivo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -13916,11 +14120,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-05",
+      "rilevato_il": "2026-11-25",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "e6c909ad002da984e03f4eeaa1589e475d746e9d"
+      "hash_contenuto": "1beb4c385b25939afed2cb0abb0410482ad2cfa6"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-cremona-occupazione-operatore-amministrativo-operatore-specializzato-po",
@@ -14238,8 +14442,8 @@
       "hash_contenuto": "164d178aa4c1d9e3335e1bc156fd50bd40b33977"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-10",
-      "nome": "Località Genova Occupazione istruttore amministrativo Posti 10",
+      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-19",
+      "nome": "Località Genova Occupazione istruttore amministrativo Posti 19",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -14276,11 +14480,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-23",
+      "rilevato_il": "2026-11-25",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "a8c9e840ae01aefa7511b831a6067981813fd7b6"
+      "hash_contenuto": "32c171d62736f9c8e07ada787245a72c6b0817f3"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-gorizia-occupazione-istruttore-amministrativo-contabile-posti-1",
@@ -15230,8 +15434,8 @@
       "hash_contenuto": "2a764514e80d087c19817e2e9563680260c950d1"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-contabile-posti-10",
-      "nome": "Località Perugia Occupazione istruttore contabile Posti 10",
+      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Perugia Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -15268,11 +15472,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-11-18",
+      "rilevato_il": "2026-11-25",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "d7b5054a48d416c5e796078dd5512b641e52bca1"
+      "hash_contenuto": "c406f5041613eef766608b6b2f993f438029de67"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-pescara-occupazione-assistente-amministrativo-posti-5",
@@ -18176,6 +18380,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "1f9cb48af74c271e8ecc36c52b8de9d2b98de0ae"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-provincia-di-perugia-1-istruttore-amministrativo-contabile",
+      "nome": "Provincia di Perugia, 1 istruttore amministrativo contabile",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Provincia di Perugia, 1 istruttore amministrativo contabile Ente Provincia di Perugia Scadenza 23/12/2026 Dettagli Località Perugia Occupazione istruttore amministrativo contabile Posti 1 Avviso di selezione unica per la formazione di un elenco di idonei all’a",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-12-23",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-perugia-concorso-istruttore-amministrativo-contabile-perugia-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-12-23",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-11-25",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "6525bf802198d17b763bf04e6fa5d10951a2005b"
     },
     {
       "id": "gazzetta-via-concorsipubblici-provincia-di-sondrio-1-istruttore-amministrativo",
@@ -21155,6 +21410,10 @@
   "source_errors": [
     {
       "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
