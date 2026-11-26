@@ -1,127 +1,192 @@
 {
-  "generated_at": "2026-11-25T21:19:57.601Z",
+  "generated_at": "2026-11-26T07:28:23.476Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "69dd7f677fbe9b0925683932c46c9506a29e23ff",
+  "catalog_hash": "bc10d3383fc495789f01047be662cee038eea2d3",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 44
+    "nuovi": 14,
+    "aggiornati": 45
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-capua-concorso-per-un-istruttore-amministrativo-a-tempo-indeterminato",
-      "nome": "Comune di Capua, concorso per un istruttore amministrativo a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-capua-concorso-istruttore-amministrativo-caserta-2026",
-      "data_pubblicazione": "2026-12-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "15f1f7fba996c257341bc7e4cecefc949e6f547d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-genova-19-istruttori-amministrativi",
-      "nome": "Comune di Genova, 19 Istruttori Amministrativi",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-genova-concorso-istruttore-amministrativo-genova-2026-0",
-      "data_pubblicazione": "2026-12-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "600d9f43e9bcbb2a27d7d5c7dbbf5b71dbf97f25",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-luzzi-1-istruttore-direttivo-contabile",
-      "nome": "Comune di Luzzi, 1 istruttore direttivo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-luzzi-concorso-istruttore-direttivo-contabile-cosenza-2026",
-      "data_pubblicazione": "2026-12-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7a7626dbd8c5801a5cac98be6675932d0492d504",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-palau-1-istruttore-amministrativo",
-      "nome": "Comune di Palau, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-palau-concorso-istruttore-amministrativo-gallura-nord-est-sardegna-2026",
-      "data_pubblicazione": "2026-12-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "2743cb6ca353cd79d64cc2b72684a96f7fa3434f",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-caserta-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Caserta Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/caserta",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-amministrazione-e-contabilita-part-time-azienda-agricola-porta-del-ven",
+      "nome": "Addetto/a Amministrazione e Contabilità (Part-Time) — Azienda Agricola Porta del Vento",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-amministrazione-e-contabilit%C3%A0-part-time-4494111916",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "82757efd800701c476e893488d0ab0cd6295f64e",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "beeffef26e26fae9594315f2d1e8bcdd022b4558",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-cosenza-occupazione-istruttore-direttivo-contabile-posti-1",
-      "nome": "Località Cosenza Occupazione istruttore direttivo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cosenza",
+      "id": "linkedin-orfani-guerra-sicilia-agente-immobiliare-palermo-mondello-engel-volkers-italia-palermo-mondello",
+      "nome": "Agente Immobiliare - Palermo Mondello — Engel & Volkers Italia - Palermo Mondello",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-immobiliare-palermo-mondello-at-engel-volkers-italia-palermo-mondello-4492904536",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "1beb4c385b25939afed2cb0abb0410482ad2cfa6",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "845bde31e924da1367cdcc3b814215387753aba4",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-19",
-      "nome": "Località Genova Occupazione istruttore amministrativo Posti 19",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/genova",
+      "id": "linkedin-orfani-guerra-sicilia-agente-immobiliare-la-rocca-immobiliare",
+      "nome": "Agente Immobiliare — La Rocca Immobiliare",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-immobiliare-at-la-rocca-immobiliare-4478540495",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "32c171d62736f9c8e07ada787245a72c6b0817f3",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5d1a869be868902d7a1776e2637257097306a6cd",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-perugia-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Perugia Occupazione istruttore amministrativo contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/perugia",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
+      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sant-omero-2-posti-di-istruttore-amministrativo-contabile",
+      "nome": "Comune di Sant’Omero, 2 posti di istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-santomero-concorso-istruttore-amministrativo-contabile-teramo-2026",
+      "data_pubblicazione": "2026-11-25",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c406f5041613eef766608b6b2f993f438029de67",
+      "hash_contenuto": "ba0d0c9751ece7763c0c6274aa9eafbb3fc1cf78",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-perugia-1-istruttore-amministrativo-contabile",
-      "nome": "Provincia di Perugia, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-perugia-concorso-istruttore-amministrativo-contabile-perugia-2026",
-      "data_pubblicazione": "2026-12-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6525bf802198d17b763bf04e6fa5d10951a2005b",
+      "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-definito-ed-indetermina",
+      "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO DEFINITO ED INDETERMINATO DI UN DOCENTE SETTORE ARTISTICO DISCIPLINARE AFAM004 “CONTRABBASSO” — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-definito-ed-indeterminato-di-un-docente-settore-artistico-disciplinare-afam004-%E2%80%9Ccontrabbasso%E2%80%9D-at-dipartimento-della-funzione-pubblica-4491965450",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5c2e522b6091253cc29285a36d6043bea4fb71d9",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-front-office-agent-capofaro-resort-relais-chateaux",
+      "nome": "Front Office Agent — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-agent-at-capofaro-resort-relais-chateaux-4488014458",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ce44d85b7b5e315de87bc479caa74484850ace9e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-onicotecnica-amore-marilisa-bellezza-permanente",
+      "nome": "Onicotecnica — Amore Marilisa Bellezza Permanente",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/onicotecnica-4494156244",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "91b7eed55cdd290f396e4f7e885d51a31cf0b8cc",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-public-relations-social-media-intern-san-domenico-palace-taormina-san-domenico-p",
+      "nome": "Public Relations & Social Media Intern - San Domenico Palace Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/public-relations-social-media-intern-san-domenico-palace-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4494675752",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8eb648c1a8e04e3adf13e1e6ebecbbffe0fba8c1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-amministrativo-e-contabile-settore-culturale-accademia-palermo-clas",
+      "nome": "RESPONSABILE AMMINISTRATIVO E CONTABILE – SETTORE CULTURALE — Accademia Palermo Classica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrativo-e-contabile-%E2%80%93-settore-culturale-at-accademia-palermo-classica-4493669087",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "68b0ba79e698d970b706b8c5f4b86d6f01535065",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-restaurant-manager-capofaro-resort-relais-chateaux",
+      "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/restaurant-manager-at-capofaro-resort-relais-chateaux-4488003754",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "0b1e43132ac8d71f6c423a98a7513e2b1db35876",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-visual-information-specialist-commander-navy-installations-command",
+      "nome": "Visual Information Specialist — Commander, Navy Installations Command",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-information-specialist-4494076656",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "18c7157662cc2f4cb5244c282e37f386b9f20486",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -634,6 +699,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-messina-operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-mcc",
+      "nome": "Operaio specializzato tecnico audio luci , allestimenti, bricolage. manutenzione — Mcc service",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/operaio-specializzato-tecnico-audio-luci-allestimenti-bricolage-manutenzione-at-mcc-service-4494925482",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "1cccc86ce4dd13651109975bb0023a0225435a97",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-messina-restaurant-manager-capofaro-resort-relais-chateaux",
       "nome": "Restaurant manager — Capofaro Resort Relais & Chateaux",
       "tipo": "categoria_protetta",
@@ -702,14 +780,6 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
