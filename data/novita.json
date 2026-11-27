@@ -1,177 +1,99 @@
 {
-  "generated_at": "2026-11-26T21:07:18.858Z",
+  "generated_at": "2026-11-27T07:25:45.466Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e9d4b35599c672e2ce134341cb911391cb44ffd7",
+  "catalog_hash": "f44682437dd3f1b44085b05237749952c594569c",
   "counts": {
-    "nuovi": 13,
-    "aggiornati": 44
+    "nuovi": 7,
+    "aggiornati": 46
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
       "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-client-advisor-taormina-dolce-gabbana",
+      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
       "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-randazzo-2-istruttori-amministrativi",
-      "nome": "Comune di Randazzo, 2 istruttori amministrativi",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-randazzo-concorso-istruttore-amministrativo-catania-2026",
-      "data_pubblicazione": "2026-12-26",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "89f58e1a11386f837073a7c5406154ce0949162b",
+      "id": "linkedin-orfani-guerra-sicilia-designer-grafico-evolve-agency",
+      "nome": "Designer grafico — Evolve Agency",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/designer-grafico-at-evolve-agency-4493845047",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a84b63251b2d363366524faaac31a730e4e25cde",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-comune-di-randazzo-2-istruttori-amministrativi",
-      "nome": "Comune di Randazzo, 2 istruttori amministrativi",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-randazzo-concorso-istruttore-amministrativo-catania-2026-0",
-      "data_pubblicazione": "2026-12-26",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "73aceff99ac0f6ba337cdced0dc31241e12993d9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-marzano-sul-sarno-concorso-per-un-istruttore-amministrativo-part-t",
-      "nome": "Comune di San Marzano sul Sarno, concorso per un istruttore amministrativo part-time e a tempo indeterminato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-marzano-sul-sarno-concorso-istruttore-amministrativo-salerno-2026",
-      "data_pubblicazione": "2026-12-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f2d22f5a0c19467be7056abf31aae77316e68b82",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-vincenzo-concorso-per-un-istruttore-amministrativo-appartenente-al",
-      "nome": "Comune di San Vincenzo, concorso per un istruttore amministrativo appartenente alle categorie protette",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-vincenzo-concorso-istruttore-amministrativo-livorno-2026-0",
-      "data_pubblicazione": "2026-12-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "cfef0ac73731c6fdc926ed591758648bbc983ba9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-concorso-collaboratore-amministrativo-brescia-2026-presso-azienda-socio-sanitari",
-      "nome": "Concorso collaboratore amministrativo Brescia 2026 presso Azienda Socio-Sanitaria Territoriale del Garda di Desenzano del Garda : Bando pubblico per 1 posti",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-del-garda-di-desenzano-del-garda-concorso-collaboratore-0",
-      "data_pubblicazione": "2026-12-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "15405efec0f1a55f05f44caf5bbc4ac449d13188",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
+      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
       "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Brescia Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4d05a251965071739890ee11409476134c8bc6c0",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-livorno-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Livorno Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/livorno",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "322e5924521afd56ec6912431d5da94534bc556d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Salerno Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/salerno",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e44a15af6bb0d626c7f21f2d9736128ce163ce87",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-public-relations-social-media-intern-san-domenico-palace-taormina-san-domenico-p",
-      "nome": "Public Relations & Social Media Intern - San Domenico Palace Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "id": "linkedin-orfani-guerra-sicilia-guide-turistiche-abilitate-in-sicilia-askos-tours",
+      "nome": "Guide Turistiche abilitate in Sicilia — Askos Tours",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/public-relations-social-media-intern-san-domenico-palace-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4494675752",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/guide-turistiche-abilitate-in-sicilia-at-askos-tours-4492690376",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "8eb648c1a8e04e3adf13e1e6ebecbbffe0fba8c1",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "086f2bb88307abfd9444e217a63fd2894a298604",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-servizi-per-strutture-ricettive-metareggio",
-      "nome": "Servizi per strutture ricettive — MetaReggio",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-public-relations-social-media-intern-san-domenico-palace-taormina-san-domenico-p",
+      "nome": "Public Relations & Social Media Intern - San Domenico Palace Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/servizi-per-strutture-ricettive-4494624377",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/public-relations-social-media-intern-san-domenico-palace-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4494675752",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "1e2f4f32aed3308858687bbef60072e1423dc24f",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "8eb648c1a8e04e3adf13e1e6ebecbbffe0fba8c1",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -200,19 +122,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "4279cbcab707e11cbd808715d3bf6dd90c231528",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-account-manager-alleanza-assicurazioni-reggio-calabria",
-      "nome": "Account manager — Alleanza Assicurazioni Reggio Calabria",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/account-manager-4476171086",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "228b7a0c7820672eef1a3236a00748eb44b9263b",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -369,6 +278,19 @@
       "data_pubblicazione": "2026-12-11",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "25d4dfb45e8a1437760e66bf4433a1550d81c452",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-1-c",
+      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 1 collaboratore amministrativo professionale",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-22",
+      "data_pubblicazione": "2026-11-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "06064bf4213ff3d2dfff84d463523c33bf6fcfdc",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -595,6 +517,19 @@
       ]
     },
     {
+      "id": "concorsipubblici-sicilia-comune-di-randazzo-2-istruttori-amministrativi",
+      "nome": "Comune di Randazzo, 2 istruttori amministrativi",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-randazzo-concorso-istruttore-amministrativo-catania-2026",
+      "data_pubblicazione": "2026-12-26",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "89f58e1a11386f837073a7c5406154ce0949162b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-istruttore-amministrativo-contabile",
       "nome": "Comune di Vigonza, 1 Istruttore amministrativo contabile",
       "tipo": "concorso",
@@ -657,6 +592,19 @@
       "hash_contenuto": "1e10c5cb279200f3196be3d2a9a7c03c3cb3f0f7",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-ferrovia-circumetnea-1-collaboratore-amministrativo",
+      "nome": "Ferrovia Circumetnea, 1 collaboratore amministrativo",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/ministero-delle-infrastrutture-e-dei-trasporti-gestione-governativa-ferrovia-circumetnea-concorso-9",
+      "data_pubblicazione": "2026-11-26",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "8db37e11eb3f753f50cf846bdf9b39952b0d1426",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
@@ -753,7 +701,7 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-orfani-guerra-sicilia",
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     }
   ]
