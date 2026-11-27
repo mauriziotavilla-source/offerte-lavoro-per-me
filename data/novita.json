@@ -1,101 +1,88 @@
 {
-  "generated_at": "2026-11-27T07:25:45.466Z",
+  "generated_at": "2026-11-27T20:51:10.149Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f44682437dd3f1b44085b05237749952c594569c",
+  "catalog_hash": "fa02c02d6c12dca04a78bfd93dfc274dd6cb0de3",
   "counts": {
-    "nuovi": 7,
-    "aggiornati": 46
+    "nuovi": 6,
+    "aggiornati": 44
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
-      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4483890711",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "b99372763b86b7333b18f8fb26712a7177ddb45f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-client-advisor-taormina-dolce-gabbana",
-      "nome": "Client Advisor - Taormina — DOLCE&GABBANA",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/client-advisor-taormina-at-dolce-gabbana-4484386201",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "9e8ea14ca1228335474e5388805cfdaa01435a39",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-designer-grafico-evolve-agency",
-      "nome": "Designer grafico — Evolve Agency",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/designer-grafico-at-evolve-agency-4493845047",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a84b63251b2d363366524faaac31a730e4e25cde",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-director-of-food-beverage-taormina-san-domenico-palace-taormina-a-four-seasons-h",
-      "nome": "Director of Food & Beverage - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/director-of-food-beverage-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4484019200",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "07c9f63b02a3b9f770e2b29529ddaa70b11ba743",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-guide-turistiche-abilitate-in-sicilia-askos-tours",
-      "nome": "Guide Turistiche abilitate in Sicilia — Askos Tours",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/guide-turistiche-abilitate-in-sicilia-at-askos-tours-4492690376",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "086f2bb88307abfd9444e217a63fd2894a298604",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Milano Occupazione collaboratore amministrativo Posti 1",
+      "id": "gazzetta-via-concorsipubblici-azienda-speciale-multiservizi-del-comune-di-fossano-1-contabile-amministrativo",
+      "nome": "Azienda Speciale Multiservizi del Comune di Fossano, 1 Contabile Amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/azienda-speciale-multiservizi-del-comune-di-fossano-concorso-amministrativo-contabile-cuneo-2026",
+      "data_pubblicazione": "2026-12-28",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "adda40a7031179238edb4b699b545a07d6c9a80c",
+      "hash_contenuto": "6bf3ec9b9b7de3f792376a6558c15bbc752b2407",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-public-relations-social-media-intern-san-domenico-palace-taormina-san-domenico-p",
-      "nome": "Public Relations & Social Media Intern - San Domenico Palace Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/public-relations-social-media-intern-san-domenico-palace-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4494675752",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "8eb648c1a8e04e3adf13e1e6ebecbbffe0fba8c1",
+      "id": "gazzetta-via-concorsipubblici-comune-di-la-valletta-brianza-1-istruttore-contabile",
+      "nome": "Comune di La Valletta Brianza, 1 Istruttore contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-la-valletta-brianza-concorso-istruttore-contabile-lecco-2026",
+      "data_pubblicazione": "2026-12-26",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b1c72d6dffbd45c343596e10d1178a2785637fd6",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-parabiago-istruttore-amministrativo",
+      "nome": "Comune di Parabiago, Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-parabiago-avviso-istruttore-amministrativo-milano-2026",
+      "data_pubblicazione": "2026-12-30",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c00a5150d448d9000891148f12fa7c710b353c04",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-vimodrone-1-istruttore-amministrativo",
+      "nome": "Comune di Vimodrone, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vimodrone-concorso-riservato-istruttore-amministrativo-milano-2026",
+      "data_pubblicazione": "2026-12-28",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a49c7f1788f61eac1dc914454682f5797fd072db",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-cuneo-occupazione-amministrativo-contabile-posti-1",
+      "nome": "Località Cuneo Occupazione amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cuneo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "16d0dee7a8964a88e3651c92d12c6243e73ee4e6",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-lecco-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Lecco Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecco",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "0a46600593e803432b558a1877281ca1c09d30b1",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -278,19 +265,6 @@
       "data_pubblicazione": "2026-12-11",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "25d4dfb45e8a1437760e66bf4433a1550d81c452",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-asp-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-di-milano-1-c",
-      "nome": "Asp Istituti Milanesi Martinitt e Stelline e Pio Albergo Trivulzio di Milano, 1 collaboratore amministrativo professionale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-di-servizi-alla-persona-istituti-milanesi-martinitt-e-stelline-e-pio-albergo-trivulzio-22",
-      "data_pubblicazione": "2026-11-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "06064bf4213ff3d2dfff84d463523c33bf6fcfdc",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -595,19 +569,6 @@
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-ferrovia-circumetnea-1-collaboratore-amministrativo",
-      "nome": "Ferrovia Circumetnea, 1 collaboratore amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/ministero-delle-infrastrutture-e-dei-trasporti-gestione-governativa-ferrovia-circumetnea-concorso-9",
-      "data_pubblicazione": "2026-11-26",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "8db37e11eb3f753f50cf846bdf9b39952b0d1426",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-mapping-data-collection-driver-tsmg-holding",
       "nome": "Mapping Data Collection Driver — TSMG Holding",
       "tipo": "categoria_protetta",
@@ -701,7 +662,15 @@
   ],
   "errori_fonti": [
     {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
       "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
