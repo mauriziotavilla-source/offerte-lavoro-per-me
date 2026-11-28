@@ -1,88 +1,127 @@
 {
-  "generated_at": "2026-11-27T20:51:10.149Z",
+  "generated_at": "2026-11-28T06:56:10.962Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "fa02c02d6c12dca04a78bfd93dfc274dd6cb0de3",
+  "catalog_hash": "0f54c7d0abc198f0da6b986c892a054d80312f3d",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 9,
     "aggiornati": 44
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-speciale-multiservizi-del-comune-di-fossano-1-contabile-amministrativo",
-      "nome": "Azienda Speciale Multiservizi del Comune di Fossano, 1 Contabile Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-speciale-multiservizi-del-comune-di-fossano-concorso-amministrativo-contabile-cuneo-2026",
-      "data_pubblicazione": "2026-12-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6bf3ec9b9b7de3f792376a6558c15bbc752b2407",
+      "id": "linkedin-orfani-guerra-messina-allieva-o-capo-settore-italia-bricocenter-italia",
+      "nome": "Allieva/o Capo Settore 🎓 - Italia — Bricocenter Italia",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/allieva-o-capo-settore-%F0%9F%8E%93-italia-at-bricocenter-italia-4494747116",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7e1cf3bf99bdf2fcfbcf242eb2a4517a63e9265c",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-la-valletta-brianza-1-istruttore-contabile",
-      "nome": "Comune di La Valletta Brianza, 1 Istruttore contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-la-valletta-brianza-concorso-istruttore-contabile-lecco-2026",
-      "data_pubblicazione": "2026-12-26",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b1c72d6dffbd45c343596e10d1178a2785637fd6",
+      "id": "linkedin-orfani-guerra-messina-bando-di-concorso-pubblico-per-esami-per-l-assunzione-di-1-unita-a-tempo-pieno-e",
+      "nome": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE DI 1 UNITA’ A TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTR. ISTRUTTORE AMMINISTRATIVO RISERVA PRIORITARIA IN FAVORE DEI VOLONTARI DELLE FF.AA. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-di-concorso-pubblico-per-esami-per-l%E2%80%99assunzione-di-1-unita%E2%80%99-a-tempo-pieno-e-indeterminato-area-degli-istr-istruttore-amministrativo-riserva-prioritaria-in-favore-dei-volontari-delle-ff-aa-at-dipartimento-della-funzione-pubblica-4493894964",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "7252d3ec51d45da3f1fdae75fcb1c2d2801c46e4",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-parabiago-istruttore-amministrativo",
-      "nome": "Comune di Parabiago, Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-parabiago-avviso-istruttore-amministrativo-milano-2026",
-      "data_pubblicazione": "2026-12-30",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c00a5150d448d9000891148f12fa7c710b353c04",
+      "id": "linkedin-orfani-guerra-sicilia-chef-agriresort-leano",
+      "nome": "Chef — Agriresort Leano",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-at-agriresort-leano-4495818440",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "2d60f1567cab8c4a03a4104e1646f2ac93ab3e2f",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vimodrone-1-istruttore-amministrativo",
-      "nome": "Comune di Vimodrone, 1 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vimodrone-concorso-riservato-istruttore-amministrativo-milano-2026",
-      "data_pubblicazione": "2026-12-28",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "a49c7f1788f61eac1dc914454682f5797fd072db",
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-for-night-shift-season-2027-taormina-san-domenico-palace-taormina",
+      "nome": "Chef de Partie for Night Shift - Season 2027 - Taormina — San Domenico Palace, Taormina, a Four Seasons Hotel",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-for-night-shift-season-2027-taormina-at-san-domenico-palace-taormina-a-four-seasons-hotel-4496021263",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "3e29dc46df56b727e29b565681db24f214babaee",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-cuneo-occupazione-amministrativo-contabile-posti-1",
-      "nome": "Località Cuneo Occupazione amministrativo contabile Posti 1",
+      "id": "linkedin-lavoro-messina-contabile-studio-associato-perla",
+      "nome": "Contabile — Studio Associato Perla",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-4495592634",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "36b6d92901d0f4fb63e0238feeddde518c06d723",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-esperto-a-contabile-scarano-group",
+      "nome": "Esperto/a contabile — Scarano Group",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/esperto-a-contabile-at-scarano-group-4492424152",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "691d18de014ef2a08aa49bf793ac109bf82a1272",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-food-quality-control-specialist-irca-group",
+      "nome": "Food Quality Control Specialist — IRCA Group",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/food-quality-control-specialist-at-irca-group-4495587743",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "2530918651c0bb13112fd044d584385d7532655e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/cuneo",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "16d0dee7a8964a88e3651c92d12c6243e73ee4e6",
+      "hash_contenuto": "5dad7af19ddba64eed9b3706420dad0f342b9bec",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-lecco-occupazione-istruttore-contabile-posti-1",
-      "nome": "Località Lecco Occupazione istruttore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/lecco",
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-amministrazione-contabilita-finanza-e-controllo-baglio-diar",
+      "nome": "Responsabile amministrazione, contabilità, finanza e controllo — Baglio Diar",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-amministrazione-contabilit%C3%A0-finanza-e-controllo-at-baglio-diar-4491505252",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0a46600593e803432b558a1877281ca1c09d30b1",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "05782980780650bc7fb685b40744e2c0e9c82c39",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -452,6 +491,19 @@
       ]
     },
     {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restaurant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restaurant-season-2027-grand-hotel-timeo-at-belmond-4495317426",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "67f1a2c2c5066c67da430860b92b8c0741ebed5b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-collaboratore-amministrativo-professionale",
       "nome": "collaboratore amministrativo professionale",
       "tipo": "concorso",
@@ -499,19 +551,6 @@
       "data_pubblicazione": "2026-12-26",
       "fonte_scraper": "concorsipubblici-sicilia",
       "hash_contenuto": "89f58e1a11386f837073a7c5406154ce0949162b",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-vigonza-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Vigonza, 1 Istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-vigonza-concorso-riservato-istruttore-amministrativo-contabile-padova-2026",
-      "data_pubblicazione": "2026-11-27",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "201580b1864b31623d51e8e406d41ecdce0d3167",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -660,18 +699,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
